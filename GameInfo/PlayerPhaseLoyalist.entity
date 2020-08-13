@@ -798,19 +798,19 @@ researchScreenData
 	Combat
 		blockCount 3
 		block
-			area [ 50 , 69 , 690 , 240 ]
+			area [ 50 , 45 , 690 , 288 ]
 			backdrop "ResearchScreenBlockBackdropCombat0Phase"
 			tierIndicatorBackdrop "ResearchScreenBlockTierIndicatorCombat0Phase"
 			title "IDSResearchScreenBlockTitleCombat0Phase"
 			picture "ResearchScreenBlockPictureCombat0Phase"
 		block
-			area [ 50 , 319 , 690 , 144 ]
+			area [ 50 , 343 , 690 , 144 ]
 			backdrop "ResearchScreenBlockBackdropCombat1Phase"
 			tierIndicatorBackdrop "ResearchScreenBlockTierIndicatorCombat1Phase"
 			title "IDSResearchScreenBlockTitleCombat1Phase"
 			picture "ResearchScreenBlockPictureCombat1Phase"
 		block
-			area [ 50 , 473 , 690 , 192 ]
+			area [ 50 , 497 , 690 , 192 ]
 			backdrop "ResearchScreenBlockBackdropCombat2Phase"
 			tierIndicatorBackdrop "ResearchScreenBlockTierIndicatorCombat2Phase"
 			title "IDSResearchScreenBlockTitleCombat2Phase"

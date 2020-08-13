@@ -5378,7 +5378,7 @@ StringInfo
 	Value "TEC Rebel"
 StringInfo
 	ID "IDS_PLAYERRACENAME_TECHLOYALIST"
-	Value "TEC Loyalist"
+	Value "TEC"
 StringInfo
 	ID "IDS_PLAYERRACENAME_PSI"
 	Value "Advent"
@@ -5387,7 +5387,7 @@ StringInfo
 	Value "Advent Rebel"
 StringInfo
 	ID "IDS_PLAYERRACENAME_PSILOYALIST"
-	Value "Advent Loyalist"
+	Value "Advent"
 StringInfo
 	ID "IDS_PLAYERRACENAME_PHASE"
 	Value "Vasari"
@@ -5396,7 +5396,7 @@ StringInfo
 	Value "Vasari Rebel"
 StringInfo
 	ID "IDS_PLAYERRACENAME_PHASELOYALIST"
-	Value "Vasari Loyalist"
+	Value "Vasari"
 StringInfo
 	ID "IDS_PLAYERRACENAME_PIRATE"
 	Value "Pirate"

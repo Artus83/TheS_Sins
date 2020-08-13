@@ -1,5 +1,5 @@
 TXT
-entityNameCount 4200
+entityNameCount 4197
 entityName "Ability5thOrderProjector_Capitalship_Norlamins.entity"
 entityName "Ability6thOrderProjector_Capitalship_Norlamins.entity"
 entityName "AbilityAbilityGuidance.entity"
@@ -2529,16 +2529,13 @@ entityName "PlanetWormhole.entity"
 entityName "PlayerNorlaminsLoyalist.entity"
 entityName "PlayerNorlaminsRebel.entity"
 entityName "PlayerPhaseLoyalist.entity"
-entityName "PlayerPhaseRebel.entity"
 entityName "PlayerPirate.entity"
 entityName "PlayerPiratesLoyalist.entity"
 entityName "PlayerPiratesRebel.entity"
 entityName "PlayerPsiLoyalist.entity"
-entityName "PlayerPsiRebel.entity"
 entityName "PlayerReplicatorsLoyalist.entity"
 entityName "PlayerReplicatorsRebel.entity"
 entityName "PlayerTechLoyalist.entity"
-entityName "PlayerTechRebel.entity"
 entityName "PlayerTradeAllianceLoyalist.entity"
 entityName "PlayerTradeAllianceRebel.entity"
 entityName "QuestBombPlanet.entity"

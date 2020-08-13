@@ -793,19 +793,19 @@ researchScreenData
 	Combat
 		blockCount 3
 		block
-			area [ 50 , 69 , 690 , 235 ]
+			area [ 50 , 45 , 690 , 235 ]
 			backdrop "ResearchScreenBlockBackdropCombat0Psi"
 			tierIndicatorBackdrop "ResearchScreenBlockTierIndicatorCombat0Psi"
 			title "IDSResearchScreenBlockTitleCombat0Psi"
 			picture "ResearchScreenBlockPictureCombat0Psi"
 		block
-			area [ 50 , 314 , 690 , 240 ]
+			area [ 50 , 290 , 690 , 288 ]
 			backdrop "ResearchScreenBlockBackdropCombat1Psi"
 			tierIndicatorBackdrop "ResearchScreenBlockTierIndicatorCombat1Psi"
 			title "IDSResearchScreenBlockTitleCombat1Psi"
 			picture "ResearchScreenBlockPictureCombat1Psi"
 		block
-			area [ 50 , 565 , 690 , 100 ]
+			area [ 50 , 589 , 690 , 100 ]
 			backdrop "ResearchScreenBlockBackdropCombat2Psi"
 			tierIndicatorBackdrop "ResearchScreenBlockTierIndicatorCombat2Psi"
 			title "IDSResearchScreenBlockTitleCombat2Psi"
@@ -821,13 +821,13 @@ researchScreenData
 	NonCombat
 		blockCount 3
 		block
-			area [ 50 , 93 , 690 , 192 ]
+			area [ 50 , 45 , 690 , 192 ]
 			backdrop "ResearchScreenBlockBackdropNonCombat0Psi"
 			tierIndicatorBackdrop "ResearchScreenBlockTierIndicatorNonCombat0Psi"
 			title "IDSResearchScreenBlockTitleNonCombat0Psi"
 			picture "ResearchScreenBlockPictureNonCombat0Psi"
 		block
-			area [ 50 , 295 , 690 , 144 ]
+			area [ 50 , 247 , 690 , 192 ]
 			backdrop "ResearchScreenBlockBackdropNonCombat1Psi"
 			tierIndicatorBackdrop "ResearchScreenBlockTierIndicatorNonCombat1Psi"
 			title "IDSResearchScreenBlockTitleNonCombat1Psi"

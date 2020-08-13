@@ -1357,7 +1357,7 @@ orbitBodyType
 	typeName "TerranGiantHabitable"
 	entityDefName "PlanetTerranGiantHabitable"
 	defaultTemplateName "Template:DefaultStart_Terran"
-planetItemTypeCount 269
+planetItemTypeCount 263
 planetItemType
 	designName "Phase:Module:MineExplosive"
 	entityDefName "SpaceMinePhaseExplosive"
@@ -2019,24 +2019,6 @@ planetItemType
 	designName "Pirate:Module:RepairPlatform"
 	entityDefName "PLANETMODULE_ORBITALREPAIRPLATFORM_Pirates"
 planetItemType
-	designName "Psi:Module:DreadnoughtFactory_Loyalist"
-	entityDefName "PLANETMODULE_ORBITALDREADNOUGHTFACTORY_Loyalist_Psi"
-planetItemType
-	designName "Phase:Module:DreadnoughtFactory_Loyalist"
-	entityDefName "PLANETMODULE_ORBITALDREADNOUGHTFACTORY_Loyalist_Phase"
-planetItemType
-	designName "Tech:Module:DreadnoughtFactory_Loyalist"
-	entityDefName "PLANETMODULE_ORBITALDREADNOUGHTFACTORY_Loyalist_Tech"
-planetItemType
-	designName "Psi:Module:DreadnoughtFactory_Rebel"
-	entityDefName "PLANETMODULE_ORBITALDREADNOUGHTFACTORY_Rebel_Psi"
-planetItemType
-	designName "Phase:Module:DreadnoughtFactory_Rebel"
-	entityDefName "PLANETMODULE_ORBITALDREADNOUGHTFACTORY_Rebel_Phase"
-planetItemType
-	designName "Tech:Module:DreadnoughtFactory_Rebel"
-	entityDefName "PLANETMODULE_ORBITALDREADNOUGHTFACTORY_Rebel_Tech"
-planetItemType
 	designName "Norlamins:Module:FrigateFactory"
 	entityDefName "PLANETMODULE_ORBITALFRIGATEFACTORY_Norlamins"
 planetItemType
@@ -2227,8 +2209,7 @@ planetItemsTemplate
 				param "TechLoyalist"
 			owner "PlanetOwner"
 			colonizeChance 1
-			items 5
-				item "Tech:Module:DreadnoughtFactory_Loyalist"
+			items 4
 				item "Tech:Module:FrigateFactory"
 				item "Tech:Module:FrigateFactory"
 				item "Tech:Frigate:Constructor"
@@ -2239,8 +2220,7 @@ planetItemsTemplate
 				param "TechRebel"
 			owner "PlanetOwner"
 			colonizeChance 1
-			items 5
-				item "Tech:Module:DreadnoughtFactory_Rebel"
+			items 4
 				item "Tech:Module:FrigateFactory"
 				item "Tech:Module:FrigateFactory"
 				item "Tech:Frigate:Constructor"
@@ -2251,8 +2231,7 @@ planetItemsTemplate
 				param "PsiLoyalist"
 			owner "PlanetOwner"
 			colonizeChance 1
-			items 5
-				item "Psi:Module:DreadnoughtFactory_Loyalist"
+			items 4
 				item "Psi:Module:FrigateFactory"
 				item "Psi:Module:FrigateFactory"
 				item "Psi:Frigate:Constructor"
@@ -2263,8 +2242,7 @@ planetItemsTemplate
 				param "PsiRebel"
 			owner "PlanetOwner"
 			colonizeChance 1
-			items 5
-				item "Psi:Module:DreadnoughtFactory_Rebel"
+			items 4
 				item "Psi:Module:FrigateFactory"
 				item "Psi:Module:FrigateFactory"
 				item "Psi:Frigate:Constructor"
@@ -2275,8 +2253,7 @@ planetItemsTemplate
 				param "PhaseLoyalist"
 			owner "PlanetOwner"
 			colonizeChance 1
-			items 5
-				item "Phase:Module:DreadnoughtFactory_Loyalist"	
+			items 4
 				item "Phase:Module:FrigateFactory"
 				item "Phase:Module:FrigateFactory"
 				item "Phase:Frigate:Constructor"
@@ -2287,8 +2264,7 @@ planetItemsTemplate
 				param "PhaseRebel"
 			owner "PlanetOwner"
 			colonizeChance 1
-			items 5
-				item "Phase:Module:DreadnoughtFactory_Rebel"	
+			items 4
 				item "Phase:Module:FrigateFactory"
 				item "Phase:Module:FrigateFactory"
 				item "Phase:Frigate:Constructor"

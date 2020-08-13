@@ -789,19 +789,19 @@ researchScreenData
 	Combat
 		blockCount 3
 		block
-			area [ 50 , 69 , 690 , 192 ]
+			area [ 50 , 45 , 690 , 192 ]
 			backdrop "ResearchScreenBlockBackdropCombat0Tech"
 			tierIndicatorBackdrop "ResearchScreenBlockTierIndicatorCombat0Tech"
 			title "IDSResearchScreenBlockTitleCombat0Tech"
 			picture "ResearchScreenBlockPictureCombat0Tech"
 		block
-			area [ 50 , 271 , 690 , 144 ]
+			area [ 50 , 247 , 690 , 144 ]
 			backdrop "ResearchScreenBlockBackdropCombat1Tech"
 			tierIndicatorBackdrop "ResearchScreenBlockTierIndicatorCombat1Tech"
 			title "IDSResearchScreenBlockTitleCombat1Tech"
 			picture "ResearchScreenBlockPictureCombat1Tech"
 		block
-			area [ 50 , 425 , 690 , 288 ]
+			area [ 50 , 401 , 690 , 288 ]
 			backdrop "ResearchScreenBlockBackdropCombat2Tech"
 			tierIndicatorBackdrop "ResearchScreenBlockTierIndicatorCombat2Tech"
 			title "IDSResearchScreenBlockTitleCombat2Tech"

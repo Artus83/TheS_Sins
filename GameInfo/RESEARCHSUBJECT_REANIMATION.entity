@@ -8,7 +8,7 @@ NameStringID "IDS_RESEARCHSUBJECT_REANIMATION_NAME"
 DescriptionStringID "IDS_RESEARCHSUBJECT_REANIMATION_DESCRIPTION"
 researchWindowLocation
 	block 1
-	pos [ 4 , 1 ]
+	pos [ 2 , 3 ]
 ResearchField "NonCombat"
 Prerequisites
 	NumResearchPrerequisites 1

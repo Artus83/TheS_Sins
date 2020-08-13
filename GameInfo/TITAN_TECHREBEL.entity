@@ -84,7 +84,7 @@ Prerequisites
 	ResearchPrerequisite
 		Subject "RESEARCHSUBJECT_TITANACCESS_TECHREBEL_1"
 		Level 1
-	RequiredFactionNameID "IDS_PLAYERFACTIONNAME_REBEL"
+	RequiredFactionNameID ""
 	RequiredCompletedResearchSubjects 0
 statCountType "Titan"
 UpgradeTypeCount 7

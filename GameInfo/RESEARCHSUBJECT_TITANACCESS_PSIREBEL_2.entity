@@ -8,7 +8,7 @@ NameStringID "IDS_RESEARCHSUBJECT_TITANACCESS_PSIREBEL_2_NAME"
 DescriptionStringID "IDS_RESEARCHSUBJECT_TITANACCESS_PSIREBEL_2_DESCRIPTION"
 researchWindowLocation
 	block 1
-	pos [ 5 , 4 ]
+	pos [ 1 , 5 ]
 ResearchField "Combat"
 Prerequisites
 	NumResearchPrerequisites 1
