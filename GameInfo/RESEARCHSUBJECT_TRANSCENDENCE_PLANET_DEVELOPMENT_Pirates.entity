@@ -1,0 +1,57 @@
+﻿TXT2
+SinsArchiveVersion 194
+entityType "ResearchSubject"
+hudIcon "HUDICON_RESEARCHSUBJECT_TRANSCENDENCE_PLANET_DEVELOPMENT_Pirates"
+smallHudIcon "HUDICON_RESEARCHSUBJECT_TRANSCENDENCE_PLANET_DEVELOPMENT_Pirates"
+infoCardIcon ""
+NameStringID "IDS_RESEARCHSUBJECT_TRANSCENDENCE_PLANET_DEVELOPMENT_NAME_Pirates"
+DescriptionStringID "IDS_RESEARCHSUBJECT_TRANSCENDENCE_PLANET_DEVELOPMENT_DESCRIPTION_Pirates"
+researchWindowLocation
+	block 2
+	pos [ 7 , 2 ]
+ResearchField "NonCombat"
+Prerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCHSUBJECT_TRANSCENDENCE_PLANET_GROWTH_Pirates"
+		Level 2
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+MinimumArtifactLevel -1
+BaseUpgradeTime 180.000000
+PerLevelUpgradeTime 600.000000
+BaseCost
+	credits 3000.000000
+	metal 500.000000
+	crystal 600.000000
+PerLevelCostIncrease
+	credits 500.000000
+	metal 100.000000
+	crystal 100.000000
+Tier 7
+onlyWorksIfTierLabsExist FALSE
+MaxNumResearchLevels 2
+priority 0.000000
+researchBoolModifiers 0
+researchFloatModifiers 4
+researchModifier
+	modifierType "PlanetUpgradeCostAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.400000
+	linkedPlanetUpgradeType "Invalid"
+researchModifier
+	modifierType "PlanetUpgradeBuildRateAdjustment"
+	baseValue 0.000000
+	perLevelValue 1.0000000
+	linkedPlanetUpgradeType "Invalid"
+researchModifier
+	modifierType "PlanetSlotsCivilianIncrease"
+	baseValue 0.000000
+	perLevelValue 8.000000
+researchModifier
+	modifierType "PlanetSlotsTacticalIncrease"
+	baseValue 0.000000
+	perLevelValue 10.000000
+artifactPicture ""
+uniqueOverlayBrush "RebellionResearchOverlay"
+dlcId 204880

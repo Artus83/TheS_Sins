@@ -1,0 +1,44 @@
+﻿TXT2
+SinsArchiveVersion 194
+entityType "Buff"
+onReapplyDuplicateType "PrioritizeNewBuffs"
+buffStackingLimitType "ForAllPlayers"
+stackingLimit -1
+buffExclusivityForAIType "ExclusivePerPlayer"
+isInterruptable FALSE
+isChannelling FALSE
+numInstantActions 1
+instantAction
+	buffInstantActionType "DoDamageToPlanet"
+	instantActionTriggerType "OnDelay"
+	delayTime 0.000000
+	damage
+		Level:0 0.000000
+		Level:1 0.000000
+		Level:2 0.000000
+		Level:3 0.000000
+	populationKilled
+		Level:0 150.000000
+		Level:1 0.000000
+		Level:2 0.000000
+		Level:3 0.000000
+numPeriodicActions 0
+numOverTimeActions 0
+numEntityModifiers 1
+entityModifier
+	buffEntityModifierType "CultureSpread"
+	value
+		Level:0 5.000000
+		Level:1 0.000000
+		Level:2 0.000000
+		Level:3 0.000000
+numEntityBoolModifiers 1
+entityBoolModifier "CannotBeColonized"
+numFinishConditions 1
+finishCondition
+	finishConditionType "TimeElapsed"
+	time
+		Level:0 200.000000
+		Level:1 0.000000
+		Level:2 0.000000
+		Level:3 0.000000

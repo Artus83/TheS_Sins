@@ -1,0 +1,50 @@
+﻿TXT2
+SinsArchiveVersion 194
+entityType "Buff"
+onReapplyDuplicateType "PrioritizeNewBuffs"
+buffStackingLimitType "ForAllPlayers"
+stackingLimit -1
+buffExclusivityForAIType "NotExclusive"
+isInterruptable FALSE
+isChannelling FALSE
+numInstantActions 2
+instantAction
+	buffInstantActionType "DoDamage"
+	instantActionTriggerType "OnDelay"
+	delayTime 0.000000
+	damage
+		Level:0 75.000000
+		Level:1 0.000000
+		Level:2 0.000000
+		Level:3 0.000000
+	damageAffectType "AFFECTS_ONLY_HULL"
+	damageType "PHYSICAL"
+	isDamageShared FALSE
+instantAction
+	buffInstantActionType "DoDamage"
+	instantActionTriggerType "OnDelay"
+	delayTime 0.000000
+	damage
+		Level:0 200.000000
+		Level:1 0.000000
+		Level:2 0.000000
+		Level:3 0.000000
+	damageAffectType "AFFECTS_ONLY_SHIELDS"
+	damageType "PHYSICAL"
+	isDamageShared FALSE
+numPeriodicActions 0
+numOverTimeActions 0
+numEntityModifiers 0
+numEntityBoolModifiers 0
+numFinishConditions 3
+finishCondition
+	finishConditionType "ShieldFailure"
+finishCondition
+	finishConditionType "OutOfRange"
+finishCondition
+	finishConditionType "TimeElapsed"
+	time
+		Level:0 5.000000
+		Level:1 0.000000
+		Level:2 0.000000
+		Level:3 0.000000

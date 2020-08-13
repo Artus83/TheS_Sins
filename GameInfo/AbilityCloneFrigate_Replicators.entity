@@ -1,0 +1,65 @@
+﻿TXT2
+SinsArchiveVersion 194
+entityType "Ability"
+buffInstantActionType "ApplyBuffToTarget"
+instantActionTriggerType "AlwaysPerform"
+buffType "BuffCloneFrigate_Replicators"
+targetFilter
+	numOwnerships 1
+	ownership "Player"
+	numObjects 1
+	object "Frigate"
+	numSpaces 1
+	space "Normal"
+	numConstraints 0
+range
+	Level:0 6000.000000
+	Level:1 7000.000000
+	Level:2 8000.000000
+	Level:3 0.000000
+effectInfo
+	effectAttachInfo
+		attachType "Center"
+	smallEffectName "Ability_CloneFrigateActivate_Replicators"
+	mediumEffectName ""
+	largeEffectName "Ability_CloneFrigateActivate_Replicators"
+	soundID ""
+needsToFaceTarget FALSE
+canCollideWithTarget TRUE
+moveThruTarget FALSE
+isUltimateAbility FALSE
+maxNumLevels 3
+levelSourceType "Intrinsic"
+minExperienceLevelRequired
+	Level:0 0.000000
+	Level:1 2.000000
+	Level:2 4.000000
+	Level:3 0.000000
+aiUseTime "OnlyInCombat"
+aiUseTargetCondition "Any"
+isAutoCastAvailable TRUE
+isAutoCastOnByDefault TRUE
+pickRandomPlanetToExploreForAutoCastTarget FALSE
+ignoreNonCombatShipsForAutoCastTarget TRUE
+onlyAutoCastWhenDamageTakenExceedsPerc 0.000000
+useCostType "AntiMatter"
+antiMatterCost
+	Level:0 120.000000
+	Level:1 110.000000
+	Level:2 100.000000
+	Level:3 0.000000
+cooldownTime
+	Level:0 180.000000
+	Level:1 170.000000
+	Level:2 160.000000
+	Level:3 0.000000
+orderAcknowledgementType "ONGENERALORDERISSUED"
+researchPrerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+nameStringID "IDS_ABILITY_CLONEFRIGATE_NAME_Replicators"
+descStringID "IDS_ABILITY_CLONEFRIGATE_DESCRIPTION_Replicators"
+hudIcon "HUDICON_ABILITY_CLONEFRIGATE_Replicators"
+smallHudIcon "HUDICON_ABILITY_CLONEFRIGATE_Replicators"
+infoCardIcon ""

@@ -1,0 +1,38 @@
+﻿TXT2
+SinsArchiveVersion 194
+entityType "Ability"
+buffInstantActionType "ApplyOrRemoveBuffToSelf"
+instantActionTriggerType "AlwaysPerform"
+buffType "BuffDarkStarEventHorizonCaster"
+effectInfo
+	effectAttachInfo
+		attachType "Invalid"
+	smallEffectName ""
+	mediumEffectName ""
+	largeEffectName ""
+	soundID ""
+toggleStateOnNameStringID "IDS_ABILITY_DarkStarGravityEventHorizon_NAME"
+toggleStateOnDescStringID "IDS_ABILITY_DarkStarGravityEventHorizon_DESCRIPTION"
+needsToFaceTarget FALSE
+canCollideWithTarget TRUE
+moveThruTarget FALSE
+isUltimateAbility FALSE
+maxNumLevels 1
+levelSourceType "FixedLevel0"
+aiUseTime "Invalid"
+aiUseTargetCondition "Invalid"
+isAutoCastAvailable FALSE
+isAutoCastOnByDefault FALSE
+pickRandomPlanetToExploreForAutoCastTarget FALSE
+ignoreNonCombatShipsForAutoCastTarget FALSE
+onlyAutoCastWhenDamageTakenExceedsPerc 0.000000
+useCostType "Passive"
+researchPrerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+nameStringID "IDS_ABILITY_DarkStarGravityEventHorizon_NAME"
+descStringID "IDS_ABILITY_DarkStarGravityEventHorizon_DESCRIPTION"
+hudIcon "HUDICON_ABILITY_DarkStarGravityEventHorizon"
+smallHudIcon "HUDICON_ABILITY_DarkStarGravityEventHorizon"
+infoCardIcon ""

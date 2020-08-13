@@ -1,0 +1,81 @@
+﻿TXT2
+SinsArchiveVersion 194
+entityType "TitanUpgrade"
+stageCount 5
+stage
+	nameStringID "IDS_TITANUPGRADE_LOYALIST_WEAPONS_NAME_Replicators"
+	descStringID "IDS_TITANUPGRADE_LOYALIST_WEAPONS_DESCRIPTION_Replicators"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	levelRequirement -1
+	hudIcon "HUDIconTitanLoyalistWeaponUpgrade0_Replicators"
+	smallHudIcon "HUDIconTitanLoyalistWeaponUpgrade0_Replicators"
+	infoCardIcon ""
+	upgradePropertyCount 0
+	upgradeBoolPropertyCount 0
+stage
+	nameStringID "IDS_TITANUPGRADE_LOYALIST_WEAPONS_NAME_Replicators"
+	descStringID "IDS_TITANUPGRADE_LOYALIST_WEAPONS_DESCRIPTION_Replicators"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	levelRequirement 0
+	hudIcon "HUDIconTitanLoyalistWeaponUpgrade0_Replicators"
+	smallHudIcon "HUDIconTitanLoyalistWeaponUpgrade0_Replicators"
+	infoCardIcon ""
+	upgradePropertyCount 1
+	upgradeProperty
+		propertyType "WeaponDamage"
+		value 0.150000
+	upgradeBoolPropertyCount 0
+stage
+	nameStringID "IDS_TITANUPGRADE_LOYALIST_WEAPONS_NAME_Replicators"
+	descStringID "IDS_TITANUPGRADE_LOYALIST_WEAPONS_DESCRIPTION_Replicators"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	levelRequirement 2
+	hudIcon "HUDIconTitanLoyalistWeaponUpgrade1_Replicators"
+	smallHudIcon "HUDIconTitanLoyalistWeaponUpgrade1_Replicators"
+	infoCardIcon ""
+	upgradePropertyCount 1
+	upgradeProperty
+		propertyType "WeaponDamage"
+		value 0.250000
+	upgradeBoolPropertyCount 0
+stage
+	nameStringID "IDS_TITANUPGRADE_LOYALIST_WEAPONS_NAME_Replicators"
+	descStringID "IDS_TITANUPGRADE_LOYALIST_WEAPONS_DESCRIPTION_Replicators"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	levelRequirement 4
+	hudIcon "HUDIconTitanLoyalistWeaponUpgrade2_Replicators"
+	smallHudIcon "HUDIconTitanLoyalistWeaponUpgrade2_Replicators"
+	infoCardIcon ""
+	upgradePropertyCount 1
+	upgradeProperty
+		propertyType "WeaponDamage"
+		value 0.350000
+	upgradeBoolPropertyCount 0
+stage
+	nameStringID "IDS_TITANUPGRADE_LOYALIST_WEAPONS_NAME_Replicators"
+	descStringID "IDS_TITANUPGRADE_LOYALIST_WEAPONS_DESCRIPTION_Replicators"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	levelRequirement 6
+	hudIcon "HUDIconTitanLoyalistWeaponUpgrade3_Replicators"
+	smallHudIcon "HUDIconTitanLoyalistWeaponUpgrade3_Replicators"
+	infoCardIcon ""
+	upgradePropertyCount 1
+	upgradeProperty
+		propertyType "WeaponDamage"
+		value 0.450000
+	upgradeBoolPropertyCount 0

@@ -1,0 +1,40 @@
+﻿TXT2
+SinsArchiveVersion 194
+entityType "Ability"
+buffInstantActionType "ApplyBuffToSelf"
+instantActionTriggerType "AlwaysPerform"
+buffType "BuffStarBaseUpgradePlanetEuphoriaSpawner_Replicators"
+effectInfo
+	effectAttachInfo
+		attachType "Invalid"
+	smallEffectName ""
+	mediumEffectName ""
+	largeEffectName ""
+	soundID ""
+needsToFaceTarget FALSE
+canCollideWithTarget TRUE
+moveThruTarget FALSE
+isUltimateAbility FALSE
+maxNumLevels 2
+levelSourceType "StarBaseUpgradeLevel"
+sourcePropertyType "AbilityBLevel"
+aiUseTime "Invalid"
+aiUseTargetCondition "Invalid"
+isAutoCastAvailable FALSE
+isAutoCastOnByDefault FALSE
+pickRandomPlanetToExploreForAutoCastTarget FALSE
+ignoreNonCombatShipsForAutoCastTarget TRUE
+onlyAutoCastWhenDamageTakenExceedsPerc 0.000000
+useCostType "Passive"
+researchPrerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCHSUBJECT_STARBASEUPGRADEACCESS_PLANETARYCONTROL_Replicators"
+		Level 1
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+nameStringID "IDS_ABILITY_STARBASEPLANETEUPHORIA_NAME_Replicators"
+descStringID "IDS_ABILITY_STARBASEPLANETEUPHORIA_DESCRIPTION_Replicators"
+hudIcon "HUDICON_ABILITY_STARBASEPLANETEUPHORIA_Replicators"
+smallHudIcon "HUDICON_ABILITY_STARBASEPLANETEUPHORIA_Replicators"
+infoCardIcon ""

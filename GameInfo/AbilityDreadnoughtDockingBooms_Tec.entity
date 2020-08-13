@@ -1,0 +1,79 @@
+﻿TXT2
+SinsArchiveVersion 194
+entityType "Ability"
+buffInstantActionType "ApplyBuffToTargetsInRadius"
+instantActionTriggerType "AlwaysPerform"
+buffType "BuffDreadnoughtDockingBoomsAction_Tec"
+targetFilter
+	numOwnerships 1
+	ownership "Friendly"
+	numObjects 4
+	object "CapitalShip"
+	object "Frigate"
+	object "PlanetModule"
+	object "Fighter"
+	numSpaces 1
+	space "Normal"
+	numConstraints 1
+	constraint "NotSelf"
+range
+	Level:0 3000.000000
+	Level:1 5000.000000
+	Level:2 7000.000000
+	Level:3 0.000000
+maxTargetCount
+	Level:0 5.000000
+	Level:1 10.000000
+	Level:2 15.000000
+	Level:3 0.000000
+effectInfo
+	effectAttachInfo
+		attachType "Center"
+	smallEffectName "CapitalAbility_NanoHullRepairActivate"
+	mediumEffectName ""
+	largeEffectName "CapitalAbility_NanoHullRepairActivate"
+	soundID ""
+needsToFaceTarget FALSE
+canCollideWithTarget TRUE
+moveThruTarget FALSE
+isUltimateAbility FALSE
+maxNumLevels 3
+levelSourceType "Intrinsic"
+minExperienceLevelRequired
+	Level:0 0.000000
+	Level:1 2.000000
+	Level:2 4.000000
+	Level:3 0.000000
+aiUseTime "OnlyWhenManyTargetsHaveHullDamage"
+onlyAutoCastWhenTotalHullDamageExceedsAmount
+	Level:0 800.000000
+	Level:1 950.000000
+	Level:2 1100.000000
+	Level:3 0.000000
+aiUseTargetCondition "Any"
+isAutoCastAvailable TRUE
+isAutoCastOnByDefault TRUE
+pickRandomPlanetToExploreForAutoCastTarget FALSE
+ignoreNonCombatShipsForAutoCastTarget TRUE
+onlyAutoCastWhenDamageTakenExceedsPerc 0.000000
+useCostType "AntiMatter"
+antiMatterCost
+	Level:0 100.000000
+	Level:1 90.000000
+	Level:2 80.000000
+	Level:3 0.000000
+cooldownTime
+	Level:0 60.000000
+	Level:1 45.000000
+	Level:2 30.000000
+	Level:3 0.000000
+orderAcknowledgementType "ONGENERALORDERISSUED"
+researchPrerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+nameStringID "IDS_ABILITY_DREADNOUGHTDOCKINGBOOMS_NAME_Tec"
+descStringID "IDS_ABILITY_DREADNOUGHTDOCKINGBOOMS_DESCRIPTION_Tec"
+hudIcon "HUDICON_ABILITY_DREADNOUGHTDOCKINGBOOMS_Tec"
+smallHudIcon "HUDICON_ABILITY_DREADNOUGHTDOCKINGBOOMS_Tec"
+infoCardIcon ""

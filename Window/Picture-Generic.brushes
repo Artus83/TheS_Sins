@@ -1,0 +1,244 @@
+TXT2
+SinsArchiveVersion 194
+onlyLoadOnDemand FALSE
+brushCount 48
+brush
+	name "RandomEventProjectileCoronalMassEjection"
+	content "Simple"
+	fileName "Icons_planets.dds"
+	pixelBox [ 172 , 1361 , 167 , 75 ]
+brush
+	name "RandomEventProjectileGammaRayBurst"
+	content "Simple"
+	fileName "Icons_planets.dds"
+	pixelBox [ 4 , 1363 , 167 , 75 ]
+brush
+	name "PictureCannonShellTech"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 1702 , 2 , 167 , 75 ]
+brush
+	name "PictureCannonShellPsi"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 1702 , 158 , 167 , 75 ]
+brush
+	name "PictureCannonShellPhase"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 1702 , 314 , 167 , 75 ]
+brush
+	name "STARPICTURE_YELLOW"
+	content "Simple"
+	fileName "Icons_planets.dds"
+	pixelBox [ 2 , 392 , 167 , 75 ]
+brush
+	name "STARPICTURE_BLUE"
+	content "Simple"
+	fileName "Icons_planets.dds"
+	pixelBox [ 512 , 392 , 167 , 75 ]
+brush
+	name "STARPICTURE_PULSAR"
+	content "Simple"
+	fileName "Icons_planets.dds"
+	pixelBox [ 3 , 1204 , 167 , 75 ]
+brush
+	name "STARPICTURE_BLACK_HOLE"
+	content "Simple"
+	fileName "Icons_planets.dds"
+	pixelBox [ 173 , 1204 , 167 , 75 ]
+brush
+	name "STARPICTURE_NEUTRON"
+	content "Simple"
+	fileName "Icons_planets.dds"
+	pixelBox [ 343 , 1288 , 167 , 75 ]
+brush
+	name "STARPICTURE_GREEN"
+	content "Simple"
+	fileName "Icons_planets.dds"
+	pixelBox [ 172 , 392 , 167 , 75 ]
+brush
+	name "STARPICTURE_RED"
+	content "Simple"
+	fileName "Icons_planets.dds"
+	pixelBox [ 342 , 392 , 167 , 75 ]
+brush
+	name "PICTURE_STARBASETECH"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 1362 , 80 , 167 , 75 ]
+brush
+	name "PICTURE_STARBASEPSI"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 1362 , 236 , 167 , 75 ]
+brush
+	name "PICTURE_STARBASEPHASE"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 1362 , 392 , 167 , 75 ]
+brush
+	name "PictureSpaceMineTech"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 2 , 80 , 167 , 75 ]
+brush
+	name "PictureSpaceMinePsi"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 2 , 236 , 167 , 75 ]
+brush
+	name "PictureSpaceMinePhaseExplosive"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 2 , 392 , 167 , 75 ]
+brush
+	name "PictureSpaceMinePhaseGravity"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 1022 , 392 , 167 , 75 ]
+brush
+	name "STARPICTURE_DARK"
+	content "Simple"
+	fileName "Icons_planets_maelstrom.dds"
+	pixelBox [ 512 , 392 , 167 , 75 ]
+brush
+	name "STARPICTURE_WHITE"
+	content "Simple"
+	fileName "Icons_planets_maelstrom.dds"
+	pixelBox [ 342 , 392 , 167 , 75 ]
+brush
+	name "STARPICTURE_MAGNETAR"
+	content "Simple"
+	fileName "Icons_planets_maelstrom.dds"
+	pixelBox [ 852 , 392 , 167 , 75 ]
+brush
+	name "STARPICTURE_VOLATILE"
+	content "Simple"
+	fileName "Icons_planets_maelstrom.dds"
+	pixelBox [ 682 , 392 , 167 , 75 ]
+brush
+	name "STARPICTURE_QUASAR"
+	content "Simple"
+	fileName "Icons_planets_maelstrom.dds"
+	pixelBox [ 853 , 236 , 167 , 75 ]
+brush
+	name "PictureCannonShell_Norlamins"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 1702 , 2 , 167 , 75 ]
+brush
+	name "PICTURE_STARBASE_Norlamins"
+	content "Simple"
+	fileName "Unit_Picture_Norlamins.dds"
+	pixelBox [ 1192 , 236 , 167 , 75 ]
+brush
+	name "PictureSpaceMine_Norlamins"
+	content "Simple"
+	fileName "Unit_Picture_Norlamins.dds"
+	pixelBox [ 1192 , 236 , 167 , 75 ]
+brush
+	name "PictureCannonShell_TradeAlliance"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 1702 , 2 , 167 , 75 ]
+brush
+	name "PICTURE_STARBASE_TradeAlliance"
+	content "Simple"
+	fileName "Unit_Picture_TradeAlliance.dds"
+	pixelBox [ 1022 , 236 , 167 , 75 ]
+brush
+	name "PictureSpaceMine_TradeAlliance"
+	content "Simple"
+	fileName "Unit_Picture_TradeAlliance.dds"
+	pixelBox [ 1192 , 236 , 167 , 75 ]
+brush
+	name "PICTURE_STARBASE_Replicators"
+	content "Simple"
+	fileName "Unit_Picture_Replicators.dds"
+	pixelBox [ 1532 , 2 , 167 , 75 ]
+brush
+	name "PictureSpaceMine_Replicators"
+	content "Simple"
+	fileName "Unit_Picture_Replicators.dds"
+	pixelBox [ 1872 , 158 , 167 , 75 ]
+brush
+	name "PictureCannonShell_Replicators"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 1702 , 2 , 167 , 75 ]
+brush
+	name "PictureCannonShell_Pirates"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 1702 , 2 , 167 , 75 ]
+brush
+	name "PICTURE_STARBASE_Pirates"
+	content "Simple"
+	fileName "Unit_Picture_Pirates.dds"
+	pixelBox [ 1192 , 236 , 167 , 75 ]
+brush
+	name "PictureSpaceMine_Pirates"
+	content "Simple"
+	fileName "Unit_Picture_Pirates.dds"
+	pixelBox [ 1192 , 236 , 167 , 75 ]
+brush
+	name "PICTURE_STARBASE_COMBAT_Replicators"
+	content "Simple"
+	fileName "Unit_Picture_Replicators.dds"
+	pixelBox [ 1532 , 2 , 167 , 75 ]
+brush
+	name "PICTURE_STARBASE_COMMERCE_Replicators"
+	content "Simple"
+	fileName "Unit_Picture_Replicators.dds"
+	pixelBox [ 1532 , 2 , 167 , 75 ]
+brush
+	name "PICTURE_STARBASE_CULTURE_Replicators"
+	content "Simple"
+	fileName "Unit_Picture_Replicators.dds"
+	pixelBox [ 1532 , 2 , 167 , 75 ]
+brush
+	name "PICTURE_STARBASE_COMBAT_Pirates"
+	content "Simple"
+	fileName "Unit_Picture_Pirates.dds"
+	pixelBox [ 1532 , 2 , 167 , 75 ]
+brush
+	name "PICTURE_STARBASE_COMMERCE_Pirates"
+	content "Simple"
+	fileName "Unit_Picture_Pirates.dds"
+	pixelBox [ 1532 , 2 , 167 , 75 ]
+brush
+	name "PICTURE_STARBASE_CULTURE_Pirates"
+	content "Simple"
+	fileName "Unit_Picture_Pirates.dds"
+	pixelBox [ 1532 , 2 , 167 , 75 ]
+brush
+	name "PICTURE_STARBASE_COMBAT_TradeAlliance"
+	content "Simple"
+	fileName "Unit_Picture_TradeAlliance.dds"
+	pixelBox [ 1532 , 2 , 167 , 75 ]
+brush
+	name "PICTURE_STARBASE_COMMERCE_TradeAlliance"
+	content "Simple"
+	fileName "Unit_Picture_TradeAlliance.dds"
+	pixelBox [ 1532 , 2 , 167 , 75 ]
+brush
+	name "PICTURE_STARBASE_CULTURE_TradeAlliance"
+	content "Simple"
+	fileName "Unit_Picture_TradeAlliance.dds"
+	pixelBox [ 1532 , 2 , 167 , 75 ]
+brush
+	name "PICTURE_STARBASE_COMBAT_Norlamins"
+	content "Simple"
+	fileName "Unit_Picture_Norlamins.dds"
+	pixelBox [ 1532 , 2 , 167 , 75 ]
+brush
+	name "PICTURE_STARBASE_COMMERCE_Norlamins"
+	content "Simple"
+	fileName "Unit_Picture_Norlamins.dds"
+	pixelBox [ 1532 , 2 , 167 , 75 ]
+brush
+	name "PICTURE_STARBASE_CULTURE_Norlamins"
+	content "Simple"
+	fileName "Unit_Picture_Norlamins.dds"
+	pixelBox [ 1532 , 2 , 167 , 75 ]

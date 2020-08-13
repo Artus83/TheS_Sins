@@ -1,0 +1,47 @@
+﻿TXT2
+SinsArchiveVersion 194
+entityType "ResearchSubject"
+hudIcon "HUDICON_RESEARCHSUBJECT_SHIELDS2_Pirates"
+smallHudIcon "HUDICON_RESEARCHSUBJECT_SHIELDS2_Pirates"
+infoCardIcon ""
+NameStringID "IDS_RESEARCHSUBJECT_SHIELDS2_NAME_Pirates"
+DescriptionStringID "IDS_RESEARCHSUBJECT_SHIELDS2_DESCRIPTION_Pirates"
+researchWindowLocation
+	block 2
+	pos [ 2 , 2 ]
+ResearchField "Combat"
+Prerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCHSUBJECT_SHIELDS1_Pirates"
+		Level 1
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+MinimumArtifactLevel -1
+BaseUpgradeTime 80.000000
+PerLevelUpgradeTime 10.000000
+BaseCost
+	credits 1200.000000
+	metal 200.000000
+	crystal 400.000000
+PerLevelCostIncrease
+	credits 100.000000
+	metal 25.000000
+	crystal 25.000000
+Tier 2
+onlyWorksIfTierLabsExist FALSE
+MaxNumResearchLevels 2
+priority 1.000000
+researchBoolModifiers 0
+researchFloatModifiers 2
+researchModifier
+	modifierType "ShieldPointsMaxAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.050000
+researchModifier
+	modifierType "ShieldPointsRegenAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.050000
+artifactPicture ""
+uniqueOverlayBrush ""
+dlcId 204880

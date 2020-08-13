@@ -1,0 +1,33 @@
+﻿TXT2
+SinsArchiveVersion 194
+entityType "Buff"
+onReapplyDuplicateType "PrioritizeOldBuffs"
+buffStackingLimitType "ForAllPlayers"
+stackingLimit 1
+allowFirstSpawnerToStack FALSE
+buffExclusivityForAIType "NotExclusive"
+isInterruptable FALSE
+isChannelling FALSE
+numInstantActions 1
+instantAction
+	buffInstantActionType "ApplyForceFromSpawner"
+	instantActionTriggerType "OnDelay"
+	delayTime 0.000000
+	force -4000000.000000
+numPeriodicActions 0
+numOverTimeActions 0
+numEntityModifiers 0
+numEntityBoolModifiers 1
+entityBoolModifier "DisableLinearEngines"
+numFinishConditions 3
+finishCondition
+	finishConditionType "OwnerChanged"
+finishCondition
+	finishConditionType "TimeElapsed"
+	time
+		Level:0 2.000000
+		Level:1 0.000000
+		Level:2 0.000000
+		Level:3 0.000000
+finishCondition
+	finishConditionType "OutOfRange"

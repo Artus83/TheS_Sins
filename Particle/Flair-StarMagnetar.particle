@@ -1,0 +1,527 @@
+﻿TXT2
+SinsArchiveVersion 193
+ParticleSimulation
+	HasInfiniteLifeTime TRUE
+	TotalLifeTime 10.000000
+	NumEmitters 10
+	EmitterType "Point"
+	EmitterContents
+		Name "magloop_outer_1"
+		Enabled TRUE
+		EmitRate 1.000000
+		HasInfiniteEmitCount FALSE
+		MaxEmitCount 1
+		hasEmitIntervals FALSE
+		emitIntervalRunDuration 0.000000
+		emitIntervalWaitDuration 0.000000
+		ParticleLifeTime 9999.000000
+		ParticleMinStartLinearSpeed 0.000000
+		ParticleMaxStartLinearSpeed 0.000000
+		ParticleMinStartAngularSpeed 0.0500000
+		ParticleMaxStartAngularSpeed 0.0500000
+		ParticleMinStartRotation 0.0500000
+		ParticleMaxStartRotation 0.0500000
+		ParticleStartMass 1.000000
+		ParticleStartColor ffffffff
+		ParticleWidth 0.000000
+		ParticleHeight 0.000000
+		MeshName "swirl_inner.mesh"
+		Position [ 34000.000000 -34000.000000 0.000000 ]
+		Orientation
+			 [ -1.000000 1.000000 0.000000 ]
+			 [ 0.000000 -1.000000 0.000000 ]
+			 [ 0.000000 0.000000 -1.000000 ]
+		RotateAboutForward 0.000000
+		RotateAboutUp 0.000000
+		RotateAboutCross 0.000000
+		StartTime 0.000000
+		HasInfiniteLifeTime TRUE
+		TotalLifeTime 0.000000
+		BillboardAnchor 0
+		ParticleFacing 2
+		PipelineEffectID "GS_Skybox.fx"
+		AreParticlesAttached TRUE
+		numTextures 2
+		textureName ""
+		textureName ""
+		textureAnimationName ""
+		textureAnimationSpawnType "RandomFrames"
+		textureAnimationOnParticleFPS 0.000000
+		ParticlesRotate TRUE
+		MeshParticleRotationAxisType 1
+		MeshParticleRotationAxis [ 0.000000 1.000000 0.000000 ]
+		RotationDirectionType 1
+		AngleVariance 0.000000
+	EmitterType "Point"
+	EmitterContents
+		Name "magloop_outer_2"
+		Enabled TRUE
+		EmitRate 1.000000
+		HasInfiniteEmitCount FALSE
+		MaxEmitCount 1
+		hasEmitIntervals FALSE
+		emitIntervalRunDuration 0.000000
+		emitIntervalWaitDuration 0.000000
+		ParticleLifeTime 9999.000000
+		ParticleMinStartLinearSpeed 0.000000
+		ParticleMaxStartLinearSpeed 0.000000
+		ParticleMinStartAngularSpeed 0.0500000
+		ParticleMaxStartAngularSpeed 0.0500000
+		ParticleMinStartRotation 0.0500000
+		ParticleMaxStartRotation 0.0500000
+		ParticleStartMass 1.000000
+		ParticleStartColor ffffffff
+		ParticleWidth 0.000000
+		ParticleHeight 0.000000
+		MeshName "swirl_inner.mesh"
+		Position [ -34000.000000 34000.000000 0.000000 ]
+		Orientation
+			 [ -1.000000 1.000000 0.000000 ]
+			 [ 0.000000 -1.000000 0.000000 ]
+			 [ 0.000000 0.000000 -1.000000 ]
+		RotateAboutForward 0.000000
+		RotateAboutUp 0.000000
+		RotateAboutCross 0.000000
+		StartTime 0.000000
+		HasInfiniteLifeTime TRUE
+		TotalLifeTime 0.000000
+		BillboardAnchor 0
+		ParticleFacing 2
+		PipelineEffectID "GS_Skybox.fx"
+		AreParticlesAttached TRUE
+		numTextures 2
+		textureName ""
+		textureName ""
+		textureAnimationName ""
+		textureAnimationSpawnType "RandomFrames"
+		textureAnimationOnParticleFPS 0.000000
+		ParticlesRotate TRUE
+		MeshParticleRotationAxisType 1
+		MeshParticleRotationAxis [ 0.000000 -1.000000 0.000000 ]
+		RotationDirectionType 1
+		AngleVariance 0.000000
+	EmitterType "Point"
+	EmitterContents
+		Name "magloop_outer_3"
+		Enabled TRUE
+		EmitRate 1.000000
+		HasInfiniteEmitCount FALSE
+		MaxEmitCount 1
+		hasEmitIntervals FALSE
+		emitIntervalRunDuration 0.000000
+		emitIntervalWaitDuration 0.000000
+		ParticleLifeTime 9999.000000
+		ParticleMinStartLinearSpeed 0.000000
+		ParticleMaxStartLinearSpeed 0.000000
+		ParticleMinStartAngularSpeed 0.0500000
+		ParticleMaxStartAngularSpeed 0.0500000
+		ParticleMinStartRotation 0.0500000
+		ParticleMaxStartRotation 0.0500000
+		ParticleStartMass 1.000000
+		ParticleStartColor ffffffff
+		ParticleWidth 0.000000
+		ParticleHeight 0.000000
+		MeshName "swirl_inner.mesh"
+		Position [ 34000.000000 34000.000000 0.000000 ]
+		Orientation
+			 [ -1.000000 -1.000000 0.000000 ]
+			 [ 0.000000 -1.000000 0.000000 ]
+			 [ 0.000000 0.000000 -1.000000 ]
+		RotateAboutForward 0.000000
+		RotateAboutUp 0.000000
+		RotateAboutCross 0.000000
+		StartTime 0.000000
+		HasInfiniteLifeTime TRUE
+		TotalLifeTime 0.000000
+		BillboardAnchor 0
+		ParticleFacing 2
+		PipelineEffectID "GS_Skybox.fx"
+		AreParticlesAttached TRUE
+		numTextures 2
+		textureName ""
+		textureName ""
+		textureAnimationName ""
+		textureAnimationSpawnType "RandomFrames"
+		textureAnimationOnParticleFPS 0.000000
+		ParticlesRotate TRUE
+		MeshParticleRotationAxisType 1
+		MeshParticleRotationAxis [ 0.000000 1.000000 0.000000 ]
+		RotationDirectionType 1
+		AngleVariance 0.000000
+	EmitterType "Point"
+	EmitterContents
+		Name "magloop_outer_4"
+		Enabled TRUE
+		EmitRate 1.000000
+		HasInfiniteEmitCount FALSE
+		MaxEmitCount 1
+		hasEmitIntervals FALSE
+		emitIntervalRunDuration 0.000000
+		emitIntervalWaitDuration 0.000000
+		ParticleLifeTime 9999.000000
+		ParticleMinStartLinearSpeed 0.000000
+		ParticleMaxStartLinearSpeed 0.000000
+		ParticleMinStartAngularSpeed 0.0500000
+		ParticleMaxStartAngularSpeed 0.0500000
+		ParticleMinStartRotation 0.0500000
+		ParticleMaxStartRotation 0.0500000
+		ParticleStartMass 1.000000
+		ParticleStartColor ffffffff
+		ParticleWidth 0.000000
+		ParticleHeight 0.000000
+		MeshName "swirl_inner.mesh"
+		Position [ -34000.000000 -34000.000000 0.000000 ]
+		Orientation
+			 [ -1.000000 -1.000000 0.000000 ]
+			 [ 0.000000 -1.000000 0.000000 ]
+			 [ 0.000000 0.000000 -1.000000 ]
+		RotateAboutForward 0.000000
+		RotateAboutUp 0.000000
+		RotateAboutCross 0.000000
+		StartTime 0.000000
+		HasInfiniteLifeTime TRUE
+		TotalLifeTime 0.000000
+		BillboardAnchor 0
+		ParticleFacing 2
+		PipelineEffectID "GS_Skybox.fx"
+		AreParticlesAttached TRUE
+		numTextures 2
+		textureName ""
+		textureName ""
+		textureAnimationName ""
+		textureAnimationSpawnType "RandomFrames"
+		textureAnimationOnParticleFPS 0.000000
+		ParticlesRotate TRUE
+		MeshParticleRotationAxisType 1
+		MeshParticleRotationAxis [ 0.000000 1.000000 0.000000 ]
+		RotationDirectionType 1
+		AngleVariance 0.000000
+	EmitterType "Point"
+	EmitterContents
+		Name "magloop_outer_5"
+		Enabled TRUE
+		EmitRate 1.000000
+		HasInfiniteEmitCount FALSE
+		MaxEmitCount 1
+		hasEmitIntervals FALSE
+		emitIntervalRunDuration 0.000000
+		emitIntervalWaitDuration 0.000000
+		ParticleLifeTime 9999.000000
+		ParticleMinStartLinearSpeed 0.000000
+		ParticleMaxStartLinearSpeed 0.000000
+		ParticleMinStartAngularSpeed 0.0500000
+		ParticleMaxStartAngularSpeed 0.0500000
+		ParticleMinStartRotation 0.0500000
+		ParticleMaxStartRotation 0.0500000
+		ParticleStartMass 1.000000
+		ParticleStartColor ffffffff
+		ParticleWidth 0.000000
+		ParticleHeight 0.000000
+		MeshName "swirl_outer.mesh"
+		Position [ 28000.000000 0.000000 0.000000 ]
+		Orientation
+			 [ 1.000000 0.000000 0.000000 ]
+			 [ 0.000000 1.000000 0.000000 ]
+			 [ 0.000000 0.000000 -1.000000 ]
+		RotateAboutForward 0.000000
+		RotateAboutUp 0.000000
+		RotateAboutCross 0.000000
+		StartTime 0.000000
+		HasInfiniteLifeTime TRUE
+		TotalLifeTime 0.000000
+		BillboardAnchor 0
+		ParticleFacing 2
+		PipelineEffectID "GS_Skybox.fx"
+		AreParticlesAttached TRUE
+		numTextures 2
+		textureName ""
+		textureName ""
+		textureAnimationName ""
+		textureAnimationSpawnType "RandomFrames"
+		textureAnimationOnParticleFPS 0.000000
+		ParticlesRotate TRUE
+		MeshParticleRotationAxisType 1
+		MeshParticleRotationAxis [ 0.000000 1.000000 0.000000 ]
+		RotationDirectionType 1
+		AngleVariance 0.000000
+	EmitterType "Point"
+	EmitterContents
+		Name "magloop_outer_6"
+		Enabled TRUE
+		EmitRate 1.000000
+		HasInfiniteEmitCount FALSE
+		MaxEmitCount 1
+		hasEmitIntervals FALSE
+		emitIntervalRunDuration 0.000000
+		emitIntervalWaitDuration 0.000000
+		ParticleLifeTime 9999.000000
+		ParticleMinStartLinearSpeed 0.000000
+		ParticleMaxStartLinearSpeed 0.000000
+		ParticleMinStartAngularSpeed 0.0500000
+		ParticleMaxStartAngularSpeed 0.0500000
+		ParticleMinStartRotation 0.0500000
+		ParticleMaxStartRotation 0.0500000
+		ParticleStartMass 1.000000
+		ParticleStartColor ffffffff
+		ParticleWidth 0.000000
+		ParticleHeight 0.000000
+		MeshName "swirl_outer.mesh"
+		Position [ -28000.000000 0.000000 0.000000 ]
+		Orientation
+			 [ 1.000000 0.000000 0.000000 ]
+			 [ 0.000000 1.000000 0.000000 ]
+			 [ 0.000000 0.000000 -1.000000 ]
+		RotateAboutForward 0.000000
+		RotateAboutUp 0.000000
+		RotateAboutCross 0.000000
+		StartTime 0.000000
+		HasInfiniteLifeTime TRUE
+		TotalLifeTime 0.000000
+		BillboardAnchor 0
+		ParticleFacing 2
+		PipelineEffectID "GS_Skybox.fx"
+		AreParticlesAttached TRUE
+		numTextures 2
+		textureName ""
+		textureName ""
+		textureAnimationName ""
+		textureAnimationSpawnType "RandomFrames"
+		textureAnimationOnParticleFPS 0.000000
+		ParticlesRotate TRUE
+		MeshParticleRotationAxisType 1
+		MeshParticleRotationAxis [ 0.000000 1.000000 0.000000 ]
+		RotationDirectionType 1
+		AngleVariance 0.000000
+	EmitterType "Point"
+	EmitterContents
+		Name "magloop_outer_7"
+		Enabled TRUE
+		EmitRate 1.000000
+		HasInfiniteEmitCount FALSE
+		MaxEmitCount 1
+		hasEmitIntervals FALSE
+		emitIntervalRunDuration 0.000000
+		emitIntervalWaitDuration 0.000000
+		ParticleLifeTime 9999.000000
+		ParticleMinStartLinearSpeed 0.000000
+		ParticleMaxStartLinearSpeed 0.000000
+		ParticleMinStartAngularSpeed 0.0500000
+		ParticleMaxStartAngularSpeed 0.0500000
+		ParticleMinStartRotation 0.0500000
+		ParticleMaxStartRotation 0.0500000
+		ParticleStartMass 1.000000
+		ParticleStartColor ffffffff
+		ParticleWidth 0.000000
+		ParticleHeight 0.000000
+		MeshName "swirl_outer.mesh"
+		Position [ 0.000000 28000.000000 0.000000 ]
+		Orientation
+			 [ -1.000000 -90.000000 0.000000 ]
+			 [ 0.000000 -1.000000 0.000000 ]
+			 [ 0.000000 0.000000 -1.000000 ]
+		RotateAboutForward 0.000000
+		RotateAboutUp 0.000000
+		RotateAboutCross 0.000000
+		StartTime 0.000000
+		HasInfiniteLifeTime TRUE
+		TotalLifeTime 0.000000
+		BillboardAnchor 0
+		ParticleFacing 2
+		PipelineEffectID "GS_Skybox.fx"
+		AreParticlesAttached TRUE
+		numTextures 2
+		textureName ""
+		textureName ""
+		textureAnimationName ""
+		textureAnimationSpawnType "RandomFrames"
+		textureAnimationOnParticleFPS 0.000000
+		ParticlesRotate TRUE
+		MeshParticleRotationAxisType 1
+		MeshParticleRotationAxis [ 0.000000 1.000000 0.000000 ]
+		RotationDirectionType 1
+		AngleVariance 0.000000
+	EmitterType "Point"
+	EmitterContents
+		Name "magloop_outer_8"
+		Enabled TRUE
+		EmitRate 1.000000
+		HasInfiniteEmitCount FALSE
+		MaxEmitCount 1
+		hasEmitIntervals FALSE
+		emitIntervalRunDuration 0.000000
+		emitIntervalWaitDuration 0.000000
+		ParticleLifeTime 9999.000000
+		ParticleMinStartLinearSpeed 0.000000
+		ParticleMaxStartLinearSpeed 0.000000
+		ParticleMinStartAngularSpeed 0.0500000
+		ParticleMaxStartAngularSpeed 0.0500000
+		ParticleMinStartRotation 0.0500000
+		ParticleMaxStartRotation 0.0500000
+		ParticleStartMass 1.000000
+		ParticleStartColor ffffffff
+		ParticleWidth 0.000000
+		ParticleHeight 0.000000
+		MeshName "swirl_outer.mesh"
+		Position [ 0.000000 -28000.000000 0.000000 ]
+		Orientation
+			 [ -1.000000 -90.000000 0.000000 ]
+			 [ 0.000000 -1.000000 0.000000 ]
+			 [ 0.000000 0.000000 -1.000000 ]
+		RotateAboutForward 0.000000
+		RotateAboutUp 0.000000
+		RotateAboutCross 0.000000
+		StartTime 0.000000
+		HasInfiniteLifeTime TRUE
+		TotalLifeTime 0.000000
+		BillboardAnchor 0
+		ParticleFacing 2
+		PipelineEffectID "GS_Skybox.fx"
+		AreParticlesAttached TRUE
+		numTextures 2
+		textureName ""
+		textureName ""
+		textureAnimationName ""
+		textureAnimationSpawnType "RandomFrames"
+		textureAnimationOnParticleFPS 0.000000
+		ParticlesRotate TRUE
+		MeshParticleRotationAxisType 1
+		MeshParticleRotationAxis [ 0.000000 1.000000 0.000000 ]
+		RotationDirectionType 1
+		AngleVariance 0.000000
+	EmitterType "Point"
+	EmitterContents
+		Name "PoleN"
+		Enabled TRUE
+		EmitRate 10.000000
+		HasInfiniteEmitCount TRUE
+		MaxEmitCount 0
+		hasEmitIntervals FALSE
+		emitIntervalRunDuration 0.000000
+		emitIntervalWaitDuration 0.000000
+		ParticleLifeTime 2.000000
+		ParticleMinStartLinearSpeed 15.000000
+		ParticleMaxStartLinearSpeed 30.000000
+		ParticleMinStartAngularSpeed 0.000000
+		ParticleMaxStartAngularSpeed 0.000000
+		ParticleMinStartRotation 0.000000
+		ParticleMaxStartRotation 6.283185
+		ParticleStartMass 1.000000
+		ParticleStartColor ffc0ffff
+		ParticleWidth 1000.000000
+		ParticleHeight 1000.000000
+		MeshName ""
+		Position [ 0.000000 0.000000 -13000.000000 ]
+		Orientation
+			 [ 1.000000 0.000000 0.000000 ]
+			 [ 0.000000 1.000000 0.000000 ]
+			 [ 0.000000 0.000000 1.000000 ]
+		RotateAboutForward 0.000000
+		RotateAboutUp 0.000000
+		RotateAboutCross 0.000000
+		StartTime 0.000000
+		HasInfiniteLifeTime TRUE
+		TotalLifeTime 0.000000
+		BillboardAnchor 0
+		ParticleFacing 0
+		PipelineEffectID "GS_Exhaust.fx"
+		AreParticlesAttached TRUE
+		numTextures 2
+		textureName "phaseswirl.dds"
+		textureName "cloud.dds"
+		textureAnimationName ""
+		textureAnimationSpawnType "RandomFrames"
+		textureAnimationOnParticleFPS 0.000000
+		ParticlesRotate TRUE
+		MeshParticleRotationAxisType 0
+		MeshParticleRotationAxis [ 0.000000 0.100000 0.000000 ]
+		RotationDirectionType 2
+		AngleVariance 0.000000
+	EmitterType "Point"
+	EmitterContents
+		Name "PoleS"
+		Enabled TRUE
+		EmitRate 10.000000
+		HasInfiniteEmitCount TRUE
+		MaxEmitCount 0
+		hasEmitIntervals FALSE
+		emitIntervalRunDuration 0.000000
+		emitIntervalWaitDuration 0.000000
+		ParticleLifeTime 2.000000
+		ParticleMinStartLinearSpeed 15.000000
+		ParticleMaxStartLinearSpeed 30.000000
+		ParticleMinStartAngularSpeed 0.000000
+		ParticleMaxStartAngularSpeed 0.000000
+		ParticleMinStartRotation 0.000000
+		ParticleMaxStartRotation 6.283185
+		ParticleStartMass 1.000000
+		ParticleStartColor ffc0ffff
+		ParticleWidth 1000.000000
+		ParticleHeight 1000.000000
+		MeshName ""
+		Position [ 0.000000 0.000000 13000.000000 ]
+		Orientation
+			 [ 1.000000 0.000000 0.000000 ]
+			 [ 0.000000 1.000000 0.000000 ]
+			 [ 0.000000 0.000000 1.000000 ]
+		RotateAboutForward 0.000000
+		RotateAboutUp 0.000000
+		RotateAboutCross 0.000000
+		StartTime 0.000000
+		HasInfiniteLifeTime TRUE
+		TotalLifeTime 0.000000
+		BillboardAnchor 0
+		ParticleFacing 0
+		PipelineEffectID "GS_Exhaust.fx"
+		AreParticlesAttached TRUE
+		numTextures 2
+		textureName "phaseswirl.dds"
+		textureName "cloud.dds"
+		textureAnimationName ""
+		textureAnimationSpawnType "RandomFrames"
+		textureAnimationOnParticleFPS 0.000000
+		ParticlesRotate TRUE
+		MeshParticleRotationAxisType 0
+		MeshParticleRotationAxis [ 0.000000 0.100000 0.000000 ]
+		RotationDirectionType 2
+		AngleVariance 0.000000
+	NumAffectors 2
+	AffectorType "Fade"
+	AffectorContents
+		Name "(new) Fade-1"
+		Enabled TRUE
+		StartTime 0.000000
+		HasInfiniteLifeTime TRUE
+		TotalLifeTime 0.000000
+		UseYoungParticleAffectThreshold FALSE
+		YoungParticleAffectThreshold 0.000000
+		UseOldParticleAffectThreshold FALSE
+		OldParticleAffectThreshold 0.000000
+		AffectAttachedParticles TRUE
+		numAttachedEmitters 2
+		attachedEmitterName "PoleN"
+		attachedEmitterName "PoleS"
+		DoFadeOut TRUE
+		FadeOutTime 0.500000
+		DoFadeIn TRUE
+		FadeInTime 2.000000
+	AffectorType "SizeOscillator"
+	AffectorContents
+		Name "(new) SizeOscillator-1"
+		Enabled TRUE
+		StartTime 0.000000
+		HasInfiniteLifeTime TRUE
+		TotalLifeTime 0.000000
+		UseYoungParticleAffectThreshold FALSE
+		YoungParticleAffectThreshold 0.000000
+		UseOldParticleAffectThreshold FALSE
+		OldParticleAffectThreshold 0.000000
+		AffectAttachedParticles TRUE
+		numAttachedEmitters 2
+		attachedEmitterName "PoleN"
+		attachedEmitterName "PoleS"
+		TransitionPeriod 10.000000
+		BeginSizeX 5000.000000
+		BeginSizeY 5000.000000
+		EndSizeX 10000.000000
+		EndSizeY 10000.000000
+	length 0.000000

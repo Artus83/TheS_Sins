@@ -1,0 +1,63 @@
+﻿TXT2
+SinsArchiveVersion 194
+entityType "Ability"
+buffInstantActionType "ApplyBuffToTargetNoRange"
+instantActionTriggerType "AlwaysPerform"
+buffType "BuffFarSight_Capitalship_Norlamins"
+targetFilter
+	numOwnerships 3
+	ownership "Friendly"
+	ownership "Enemy"
+	ownership "NoOwner"
+	numObjects 1
+	object "Planet"
+	numSpaces 1
+	space "Normal"
+	numConstraints 0
+effectInfo
+	effectAttachInfo
+		attachType "Ability"
+		abilityIndex 2
+	smallEffectName "CapitalAbility_FarSightActivate"
+	mediumEffectName ""
+	largeEffectName "CapitalAbility_FarSightActivate"
+	soundID "EFFECT_FARSIGHT"
+needsToFaceTarget FALSE
+canCollideWithTarget TRUE
+moveThruTarget FALSE
+isUltimateAbility FALSE
+maxNumLevels 3
+levelSourceType "Intrinsic"
+minExperienceLevelRequired
+	Level:0 0.000000
+	Level:1 2.000000
+	Level:2 4.000000
+	Level:3 6.000000
+aiUseTime "NotInCombat"
+aiUseTargetCondition "Any"
+isAutoCastAvailable TRUE
+isAutoCastOnByDefault TRUE
+pickRandomPlanetToExploreForAutoCastTarget TRUE
+ignoreNonCombatShipsForAutoCastTarget TRUE
+onlyAutoCastWhenDamageTakenExceedsPerc 0.000000
+useCostType "AntiMatter"
+antiMatterCost
+	Level:0 75.000000
+	Level:1 50.000000
+	Level:2 25.000000
+	Level:3 20.000000
+cooldownTime
+	Level:0 300.000000
+	Level:1 180.000000
+	Level:2 90.000000
+	Level:3 60.000000
+orderAcknowledgementType "ONGENERALORDERISSUED"
+researchPrerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+nameStringID "IDS_ABILITY_FARSIGHT_Capitalship_NAME_Norlamins"
+descStringID "IDS_ABILITY_FARSIGHT_Capitalship_DESCRIPTION_Norlamins"
+hudIcon "HUDICON_ABILITY_FARSIGHT_Capitalship_Norlamins"
+smallHudIcon "HUDICON_ABILITY_FARSIGHT_Capitalship_Norlamins"
+infoCardIcon ""

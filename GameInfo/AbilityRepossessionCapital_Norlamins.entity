@@ -1,0 +1,67 @@
+﻿TXT2
+SinsArchiveVersion 194
+entityType "Ability"
+buffInstantActionType "ApplyBuffToTarget"
+instantActionTriggerType "AlwaysPerform"
+buffType "BuffRepossessionCapitalTarget_Norlamins"
+targetFilter
+	numOwnerships 1
+	ownership "Enemy"
+	numObjects 1
+	object "Planet"
+	numSpaces 1
+	space "Normal"
+	numConstraints 2
+	constraint "NotIsHomeworld"
+	constraint "NotIsOccupationPlanet"
+range
+	Level:0 4000.000000
+	Level:1 4000.000000
+	Level:2 4000.000000
+	Level:3 4000.000000
+effectInfo
+	effectAttachInfo
+		attachType "Invalid"
+	smallEffectName ""
+	mediumEffectName ""
+	largeEffectName ""
+	soundID ""
+needsToFaceTarget TRUE
+canCollideWithTarget FALSE
+moveThruTarget FALSE
+isUltimateAbility TRUE
+maxNumLevels 2
+levelSourceType "Intrinsic"
+minExperienceLevelRequired
+	Level:0 5.000000
+	Level:1 7.000000
+	Level:2 4.000000
+	Level:3 6.000000
+aiUseTime "OnlyWhenBombing"
+aiUseTargetCondition "Any"
+isAutoCastAvailable TRUE
+isAutoCastOnByDefault TRUE
+pickRandomPlanetToExploreForAutoCastTarget FALSE
+ignoreNonCombatShipsForAutoCastTarget TRUE
+onlyAutoCastWhenDamageTakenExceedsPerc 0.000000
+useCostType "AntiMatter"
+antiMatterCost
+	Level:0 350.000000
+	Level:1 300.000000
+	Level:2 0.000000
+	Level:3 0.000000
+cooldownTime
+	Level:0 900.000000
+	Level:1 600.000000
+	Level:2 600.000000
+	Level:3 600.000000
+orderAcknowledgementType "ONATTACKORDERISSUED"
+researchPrerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+nameStringID "IDS_ABILITY_REPOSSESSIONCAPITAL_NAME_Norlamins"
+descStringID "IDS_ABILITY_REPOSSESSIONCAPITAL_DESCRIPTION_Norlamins"
+hudIcon "HUDICON_ABILITY_REPOSSESSIONCAPITAL_Norlamins"
+smallHudIcon "HUDICON_ABILITY_REPOSSESSIONCAPITAL_Norlamins"
+infoCardIcon ""

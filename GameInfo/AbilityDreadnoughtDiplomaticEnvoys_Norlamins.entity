@@ -1,0 +1,62 @@
+﻿TXT2
+SinsArchiveVersion 194
+entityType "Ability"
+buffInstantActionType "ApplyBuffToSelf"
+instantActionTriggerType "AlwaysPerform"
+buffType "BuffDreadnoughtDiplomaticEnvoysSpawner_Norlamins"
+effectInfo
+	effectAttachInfo
+		attachType "Invalid"
+	smallEffectName ""
+	mediumEffectName ""
+	largeEffectName ""
+	soundID ""
+needsToFaceTarget FALSE
+canCollideWithTarget TRUE
+moveThruTarget FALSE
+isUltimateAbility FALSE
+maxNumLevels 3
+levelSourceType "Intrinsic"
+minExperienceLevelRequired
+	Level:0 0.000000
+	Level:1 2.000000
+	Level:2 4.000000
+	Level:3 6.000000
+aiUseTime "NotInCombat"
+aiUseTargetCondition "Any"
+isAutoCastAvailable TRUE
+isAutoCastOnByDefault TRUE
+pickRandomPlanetToExploreForAutoCastTarget FALSE
+ignoreNonCombatShipsForAutoCastTarget TRUE
+onlyAutoCastWhenDamageTakenExceedsPerc 0.000000
+useCostType "Resources"
+creditCost
+	Level:0 500.000000
+	Level:1 500.000000
+	Level:2 500.000000
+	Level:3 500.000000
+metalCost
+	Level:0 100.000000
+	Level:1 100.000000
+	Level:2 100.000000
+	Level:3 100.000000
+crystalCost
+	Level:0 100.000000
+	Level:1 100.000000
+	Level:2 100.000000
+	Level:3 100.000000
+cooldownTime
+	Level:0 240.000000
+	Level:1 180.000000
+	Level:2 120.000000
+	Level:3 90.000000
+orderAcknowledgementType "ONGENERALORDERISSUED"
+researchPrerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+nameStringID "IDS_ABILITY_DREADNOUGHTDIPLOMATICENVOYS_NAME_Norlamins"
+descStringID "IDS_ABILITY_DREADNOUGHTDIPLOMATICENVOYS_DESC_Norlamins"
+hudIcon "HUDICON_ABILITY_DREADNOUGHTDIPLOMATICENVOYS_Norlamins"
+smallHudIcon "HUDICON_ABILITY_DREADNOUGHTDIPLOMATICENVOYS_Norlamins"
+infoCardIcon ""

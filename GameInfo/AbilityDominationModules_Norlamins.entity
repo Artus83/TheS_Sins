@@ -1,0 +1,67 @@
+﻿TXT2
+SinsArchiveVersion 194
+entityType "Ability"
+buffInstantActionType "ApplyBuffToTarget"
+instantActionTriggerType "AlwaysPerform"
+buffType "BuffCaptureNeutralEntity_Norlamins"
+targetFilter
+	numOwnerships 2
+	ownership "Enemy"
+	ownership "NoOwner"
+	numObjects 1
+	object "PlanetModule"
+	numSpaces 1
+	space "Normal"
+	numConstraints 1
+	constraint "CanHaveShields"
+range
+	Level:0 6000.000000
+	Level:1 0.000000
+	Level:2 0.000000
+	Level:3 0.000000
+effectInfo
+	effectAttachInfo
+		attachType "Invalid"
+	smallEffectName ""
+	mediumEffectName ""
+	largeEffectName ""
+	soundID ""
+needsToFaceTarget TRUE
+canCollideWithTarget TRUE
+moveThruTarget FALSE
+isUltimateAbility FALSE
+maxNumLevels 1
+levelSourceType "ResearchWithBase"
+baseSourceResearchSubject "RESEARCHSUBJECT_ABILITYACCESS_DominationModules_Norlamins"
+improveSourceResearchSubject "RESEARCHSUBJECT_ABILITYACCESS_DominationModules_Norlamins"
+aiUseTime "Anytime"
+aiUseTargetCondition "Any"
+isAutoCastAvailable TRUE
+isAutoCastOnByDefault TRUE
+pickRandomPlanetToExploreForAutoCastTarget FALSE
+ignoreNonCombatShipsForAutoCastTarget TRUE
+onlyAutoCastWhenDamageTakenExceedsPerc 0.000000
+useCostType "AntiMatter"
+antiMatterCost
+	Level:0 150.000000
+	Level:1 0.000000
+	Level:2 0.000000
+	Level:3 0.000000
+cooldownTime
+	Level:0 360.000000
+	Level:1 0.000000
+	Level:2 0.000000
+	Level:3 0.000000
+orderAcknowledgementType "ONATTACKORDERISSUED"
+researchPrerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCHSUBJECT_ABILITYACCESS_DominationModules_Norlamins"
+		Level 1
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+nameStringID "IDS_ABILITY_DominationModules_NAME_Norlamins"
+descStringID "IDS_ABILITY_DominationModules_DESCRIPTION_Norlamins"
+hudIcon "HUDICON_ABILITY_DominationModules_Norlamins"
+smallHudIcon "HUDICON_ABILITY_DominationModules_Norlamins"
+infoCardIcon ""

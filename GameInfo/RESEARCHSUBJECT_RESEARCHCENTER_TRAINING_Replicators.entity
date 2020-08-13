@@ -1,0 +1,55 @@
+﻿TXT2
+SinsArchiveVersion 194
+entityType "ResearchSubject"
+hudIcon "HUDICON_RESEARCHSUBJECT_RESEARCHCENTER_TRAINING_Replicators"
+smallHudIcon "HUDICON_RESEARCHSUBJECT_RESEARCHCENTER_TRAINING_Replicators"
+infoCardIcon ""
+NameStringID "IDS_RESEARCHSUBJECT_RESEARCHCENTER_TRAINING_NAME_Replicators"
+DescriptionStringID "IDS_RESEARCHSUBJECT_RESEARCHCENTER_TRAINING_DESCRIPTION_Replicators"
+researchWindowLocation
+	block 0
+	pos [ 6 , 3 ]
+ResearchField "Combat"
+Prerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCHSUBJECT_CAPITALSHIP_MAXBUYLEVEL0_Replicators"
+		Level 1
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+MinimumArtifactLevel -1
+BaseUpgradeTime 160.000000
+PerLevelUpgradeTime 30.000000
+BaseCost
+	credits 1800.000000
+	metal 350.000000
+	crystal 550.000000
+PerLevelCostIncrease
+	credits 100.000000
+	metal 25.000000
+	crystal 25.000000
+Tier 6
+onlyWorksIfTierLabsExist FALSE
+MaxNumResearchLevels 1
+priority 1.000000
+researchBoolModifiers 0
+researchFloatModifiers 4
+researchModifier
+	modifierType "ResearchBuildRateAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.040000
+researchModifier
+	modifierType "ResearchCostAdjustment"
+	baseValue 0.000000
+	perLevelValue -0.020000
+researchModifier
+	modifierType "CapitalShipAngularThrustAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.250000
+researchModifier
+	modifierType "CapitalShipCultureProtectRateAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.100000
+artifactPicture ""
+uniqueOverlayBrush ""
+dlcId 204880

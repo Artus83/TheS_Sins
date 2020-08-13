@@ -1,0 +1,40 @@
+﻿TXT2
+SinsArchiveVersion 194
+entityType "ResearchSubject"
+hudIcon "HUDICON_RESEARCHSUBJECT_PLANETBOMBING_DAMAGE_Pirates"
+smallHudIcon "HUDICON_RESEARCHSUBJECT_PLANETBOMBING_DAMAGE_Pirates"
+infoCardIcon ""
+NameStringID "IDS_RESEARCHSUBJECT_PLANETBOMBING_DAMAGE_NAME_Pirates"
+DescriptionStringID "IDS_RESEARCHSUBJECT_PLANETBOMBING_DAMAGE_DESCRIPTION_Pirates"
+researchWindowLocation
+	block 0
+	pos [ 5 , 1 ]
+ResearchField "Combat"
+Prerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+MinimumArtifactLevel -1
+BaseUpgradeTime 60.000000
+PerLevelUpgradeTime 10.000000
+BaseCost
+	credits 1000.000000
+	metal 100.000000
+	crystal 175.000000
+PerLevelCostIncrease
+	credits 100.000000
+	metal 25.000000
+	crystal 25.000000
+Tier 5
+onlyWorksIfTierLabsExist FALSE
+MaxNumResearchLevels 4
+priority 1.000000
+researchBoolModifiers 0
+researchFloatModifiers 1
+researchModifier
+	modifierType "BombingDamageAsDamageDealerAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.100000
+artifactPicture ""
+uniqueOverlayBrush ""
+dlcId 204880

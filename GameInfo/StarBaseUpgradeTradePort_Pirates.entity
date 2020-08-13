@@ -1,0 +1,48 @@
+﻿TXT2
+SinsArchiveVersion 194
+entityType "StarBaseUpgrade"
+stageCount 2
+stage
+	price
+		credits 0.000000
+		metal 0.000000
+		crystal 0.000000
+	upgradeTime 0.000000
+	nameStringID "IDS_STARBASEUPGRADETRADEPORT_NAME_Pirates"
+	descStringID "IDS_STARBASEUPGRADETRADEPORT_DESC_Pirates"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+	hudIcon "HUDIconStarBaseUpgradeTradePort0_Pirates"
+	smallHudIcon "HUDIconStarBaseUpgradeTradePort0_Pirates"
+	infoCardIcon ""
+	upgradePropertyCount 0
+	upgradeBoolPropertyCount 0
+stage
+	price
+		credits 1000.000000
+		metal 150.000000
+		crystal 75.000000
+	upgradeTime 60.000000
+	nameStringID "IDS_STARBASEUPGRADETRADEPORT_NAME_Pirates"
+	descStringID "IDS_STARBASEUPGRADETRADEPORT_DESC_Pirates"
+	researchPrerequisites
+		NumResearchPrerequisites 1
+		ResearchPrerequisite
+			Subject "RESEARCHSUBJECT_STARBASEUPGRADEACCESS_TRADEPORT_Pirates"
+			Level 1
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	hudIcon "HUDIconStarBaseUpgradeTradePort0_Pirates"
+	smallHudIcon "HUDIconStarBaseUpgradeTradePort0_Pirates"
+	infoCardIcon ""
+	upgradePropertyCount 2
+	upgradeProperty
+		propertyType "BaseTradeIncomeRate"
+		value 1.250000
+	upgradeProperty
+		propertyType "TradePortMeshLevel"
+		value 1.000000
+	upgradeBoolPropertyCount 0
+xpModifier 50.000000

@@ -1,0 +1,101 @@
+﻿TXT2
+SinsArchiveVersion 194
+entityType "Frigate"
+defaultAutoAttackRange "GravityWell"
+defaultAutoAttackOn FALSE
+prefersToFocusFire FALSE
+usesFighterAttack FALSE
+autoJoinFleetDefault FALSE
+canBomb FALSE
+typeCount 1
+frigateRoleType "Heavy"
+statCountType "FrigateHeavy"
+mainViewIcon "MAINVIEWICON_PLANETMODULE_ORBITALCAPITALSHIPFACTORY_Pirates"
+picture "PLANETMODULEPICTURE_ORBITALCAPITALSHIPFACTORY_Pirates"
+NameStringID "IDS_PLANETMODULE_PIRATEORBITALCAPITALSHIPFACTORY_NAME"
+DescriptionStringID "IDS_PLANETMODULE_PIRATEORBITALCAPITALSHIPFACTORY_DESCRIPTION"
+counterDescriptionStringID "IDS_PLANETMODULE_PIRATEORBITALCAPITALSHIPFACTORY_DESCRIPTION"
+basePrice
+	credits 1200.000000
+	metal 0.000000
+	crystal 0.000000
+slotCount 1.000000
+BuildTime 30.000000
+hasLevels FALSE
+ExperiencePointsForDestroying 25.000000
+MaxHullPoints 4500.000000
+MaxShieldPoints 0.000000
+HullPointRestoreRate 2.000000
+ShieldPointRestoreRate 0.000000
+BaseArmorPoints 6.000000
+maxMitigation 0.000000
+relationshipChangeRate 0.000000
+Prerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+numRandomDebrisLarge 4
+numRandomDebrisSmall 9
+numSpecificDebris 0
+armorType "VeryHeavy"
+hudIcon "HUDICON_PLANETMODULE_ORBITALCAPITALSHIPFACTORY_Pirates"
+smallHudIcon "HUDICONSMALL_PLANETMODULE_ORBITALCAPITALSHIPFACTORY_Pirates"
+infoCardIcon "INFOCARDICON_PLANETMODULE_ORBITALCAPITALSHIPFACTORY_Pirates"
+minZoomDistanceMult 4.500000
+NumWeapons 0
+m_weaponIndexForRange 0
+firingAlignmentType "Default"
+TargetCountPerBank:FRONT 0
+TargetCountPerBank:BACK 0
+TargetCountPerBank:LEFT 0
+TargetCountPerBank:RIGHT 0
+canOnlyTargetStructures FALSE
+hasWeaponLevels FALSE
+mass 10000.000000
+ShieldMeshName ""
+renderShield TRUE
+maxAccelerationLinear 100.000000
+maxAccelerationStrafe 10.000000
+maxDecelerationLinear 500.000000
+maxAccelerationAngular 1.000000
+maxDecelerationAngular 10.000000
+maxSpeedLinear 5.000000
+maxRollRate 2.000000
+maxRollAngle 35.000000
+useCustomHyperspaceEffects FALSE
+squadTypeEntityDef:0 ""
+squadAntiMatterCost:0 0.000000
+squadTypeEntityDef:1 ""
+squadAntiMatterCost:1 0.000000
+squadTypeEntityDef:2 ""
+squadAntiMatterCost:2 0.000000
+squadTypeEntityDef:3 ""
+squadAntiMatterCost:3 0.000000
+maxNumCommandPoints 0
+NumSoundsFor:ONATTACKORDERISSUED 0
+NumSoundsFor:ONCREATION 0
+NumSoundsFor:ONGENERALORDERISSUED 0
+NumSoundsFor:ONSELECTED 0
+NumSoundsFor:ONSTARTPHASEJUMP 0
+MeshNameInfoCount 1
+MeshNameInfo
+	meshName "PlanetModule_OrbitalCapitalShipFactory_Pirates"
+	criteriaType "None"
+meshNameIncreasedEffectName ""
+meshNameDecreasedEffectName ""
+ExhaustParticleSystemName ""
+ExplosionName "PlanetModuleLarge"
+EngineSoundID ""
+ability:0 ""
+ability:1 ""
+ability:2 ""
+ability:3 ""
+ability:4 ""
+MaxAntiMatter 0.000000
+AntiMatterRestoreRate 0.000000
+cargoType "Invalid"
+maxCargoCapacity 0.000000
+formationRank 0
+minShadow 0.000000
+maxShadow 0.600000
+allegianceDecreasePerRoundtrip 0.000000

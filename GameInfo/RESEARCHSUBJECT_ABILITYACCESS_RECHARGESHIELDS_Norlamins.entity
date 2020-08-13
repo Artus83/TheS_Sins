@@ -1,0 +1,36 @@
+﻿TXT2
+SinsArchiveVersion 194
+entityType "ResearchSubject"
+hudIcon "HUDICON_RESEARCHSUBJECT_RECHARGESHIELDS_Norlamins"
+smallHudIcon "HUDICON_RESEARCHSUBJECT_RECHARGESHIELDS_Norlamins"
+infoCardIcon ""
+NameStringID "IDS_RESEARCHSUBJECT_ABILITYACCESS_RECHARGESHIELDS_NAME_Norlamins"
+DescriptionStringID "IDS_RESEARCHSUBJECT_ABILITYACCESS_RECHARGESHIELDS_DESCRIPTION_Norlamins"
+researchWindowLocation
+	block 2
+	pos [ 7 , 1 ]
+ResearchField "Combat"
+Prerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+MinimumArtifactLevel -1
+BaseUpgradeTime 90.000000
+PerLevelUpgradeTime 10.000000
+BaseCost
+	credits 1800.000000
+	metal 350.000000
+	crystal 400.000000
+PerLevelCostIncrease
+	credits 100.000000
+	metal 25.000000
+	crystal 25.000000
+Tier 7
+onlyWorksIfTierLabsExist FALSE
+MaxNumResearchLevels 1
+priority 1.000000
+researchBoolModifiers 0
+researchFloatModifiers 0
+artifactPicture ""
+uniqueOverlayBrush "RebellionResearchOverlay"
+dlcId 204880

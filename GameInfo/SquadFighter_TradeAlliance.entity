@@ -1,0 +1,47 @@
+﻿TXT2
+SinsArchiveVersion 194
+entityType "Squad"
+defaultAutoAttackRange "GravityWell"
+defaultAutoAttackOn TRUE
+prefersToFocusFire TRUE
+usesFighterAttack FALSE
+hudIcon "HUDICON_SQUADFIGHTER_TradeAlliance"
+smallHudIcon "HUDICONSMALL_SQUADFIGHTER_TradeAlliance"
+infoCardIcon "INFOCARDICON_SQUADFIGHTER_TradeAlliance"
+fighterEntityDef "Fighter_TradeAlliance"
+fighterIllusionEntityDef "Fighter_TradeAlliance"
+scuttleTime 8.000000
+fighterConstructionTime 10.000000
+decayWithoutOwnerRate 0.040000
+baseMaxNumFighters 5
+role "Combat"
+statCountType "SquadCombat"
+mainViewIcon "MAINVIEWICON_SQUADFIGHTER_TradeAlliance"
+picture "PICTURE_SQUADFIGHTER_TradeAlliance"
+launchIcon "HUDICONLAUNCH_SQUADFIGHTER_TradeAlliance"
+dockIcon "HUDICONDOCK_SQUADFIGHTER_TradeAlliance"
+nameStringID "IDS_SQUADFIGHTER_NAME_TradeAlliance"
+descriptionStringID "IDS_SQUADFIGHTER_DESCRIPTION_TradeAlliance"
+researchPrerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+NumSoundsFor:ONATTACKORDERISSUED 2
+SoundID "SQUAD_FIGHTER_ONATTACKORDERISSUED_0_TradeAlliance"
+SoundID "SQUAD_FIGHTER_ONATTACKORDERISSUED_1_TradeAlliance"
+NumSoundsFor:ONCREATION 1
+SoundID "SQUAD_FIGHTER_ONCREATION_TradeAlliance"
+NumSoundsFor:ONGENERALORDERISSUED 2
+SoundID "SQUAD_FIGHTER_ONGENERALORDERISSUED_0_TradeAlliance"
+SoundID "SQUAD_FIGHTER_ONGENERALORDERISSUED_1_TradeAlliance"
+NumSoundsFor:ONSELECTED 2
+SoundID "SQUAD_FIGHTER_ONSELECTED_0_TradeAlliance"
+SoundID "SQUAD_FIGHTER_ONSELECTED_1_TradeAlliance"
+NumSoundsFor:ONSTARTPHASEJUMP 0
+minShadow 0.000000
+maxShadow 0.000000
+ability:0 ""
+ability:1 ""
+ability:2 ""
+ability:3 ""
+ability:4 ""

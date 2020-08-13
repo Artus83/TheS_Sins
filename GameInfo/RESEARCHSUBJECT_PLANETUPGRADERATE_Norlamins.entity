@@ -1,0 +1,49 @@
+﻿TXT2
+SinsArchiveVersion 194
+entityType "ResearchSubject"
+hudIcon "HUDICON_RESEARCHSUBJECT_PLANETUPGRADERATE_Norlamins"
+smallHudIcon "HUDICON_RESEARCHSUBJECT_PLANETUPGRADERATE_Norlamins"
+infoCardIcon ""
+NameStringID "IDS_RESEARCHSUBJECT_PLANETUPGRADERATE_NAME_Norlamins"
+DescriptionStringID "IDS_RESEARCHSUBJECT_PLANETUPGRADERATE_DESCRIPTION_Norlamins"
+researchWindowLocation
+	block 0
+	pos [ 3 , 1 ]
+ResearchField "NonCombat"
+Prerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCHSUBJECT_STRUCTUREPRICEDECREASE1_Norlamins"
+		Level 2
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+MinimumArtifactLevel -1
+BaseUpgradeTime 70.000000
+PerLevelUpgradeTime 10.000000
+BaseCost
+	credits 1000.000000
+	metal 150.000000
+	crystal 250.000000
+PerLevelCostIncrease
+	credits 100.000000
+	metal 25.000000
+	crystal 25.000000
+Tier 3
+onlyWorksIfTierLabsExist FALSE
+MaxNumResearchLevels 2
+priority 1.000000
+researchBoolModifiers 0
+researchFloatModifiers 2
+researchModifier
+	modifierType "PlanetUpgradeBuildRateAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.250000
+	linkedPlanetUpgradeType "Invalid"
+researchModifier
+	modifierType "PlanetUpgradeCostAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.100000
+	linkedPlanetUpgradeType "CivilianModules"
+artifactPicture ""
+uniqueOverlayBrush ""
+dlcId 204880

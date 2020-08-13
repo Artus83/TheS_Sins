@@ -1,0 +1,7 @@
+TXT
+textureFileName "el_0005_46.dds"
+numFrames 4
+numFramesPerRow 5
+startTopLeft [0, 0]
+frameSize [250, 250]
+frameStride [250, 0]

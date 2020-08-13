@@ -1,0 +1,105 @@
+﻿TXT2
+SinsArchiveVersion 194
+entityType "TitanUpgrade"
+stageCount 5
+stage
+	nameStringID "IDS_TITANUPGRADE_LOYALIST_ABILITIES_NAME_Replicators"
+	descStringID "IDS_TITANUPGRADE_LOYALIST_ABILITIES_DESCRIPTION_Replicators"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	levelRequirement -1
+	hudIcon "HUDIconTitanLoyalistAbilityUpgrade0_Replicators"
+	smallHudIcon "HUDIconTitanLoyalistAbilityUpgrade0_Replicators"
+	infoCardIcon ""
+	upgradePropertyCount 0
+	upgradeBoolPropertyCount 0
+stage
+	nameStringID "IDS_TITANUPGRADE_LOYALIST_ABILITIES_NAME_Replicators"
+	descStringID "IDS_TITANUPGRADE_LOYALIST_ABILITIES_DESCRIPTION_Replicators"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	levelRequirement 0
+	hudIcon "HUDIconTitanLoyalistAbilityUpgrade0_Replicators"
+	smallHudIcon "HUDIconTitanLoyalistAbilityUpgrade0_Replicators"
+	infoCardIcon ""
+	upgradePropertyCount 3
+	upgradeProperty
+		propertyType "MaxAntiMatterPoints"
+		value 64.000000
+	upgradeProperty
+		propertyType "AntiMatterRestoreRate"
+		value 0.180000
+	upgradeProperty
+		propertyType "AbilityCooldownRate"
+		value 0.100000
+	upgradeBoolPropertyCount 0
+stage
+	nameStringID "IDS_TITANUPGRADE_LOYALIST_ABILITIES_NAME_Replicators"
+	descStringID "IDS_TITANUPGRADE_LOYALIST_ABILITIES_DESCRIPTION_Replicators"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	levelRequirement 2
+	hudIcon "HUDIconTitanLoyalistAbilityUpgrade1_Replicators"
+	smallHudIcon "HUDIconTitanLoyalistAbilityUpgrade1_Replicators"
+	infoCardIcon ""
+	upgradePropertyCount 3
+	upgradeProperty
+		propertyType "MaxAntiMatterPoints"
+		value 96.000000
+	upgradeProperty
+		propertyType "AntiMatterRestoreRate"
+		value 0.270000
+	upgradeProperty
+		propertyType "AbilityCooldownRate"
+		value 0.150000
+	upgradeBoolPropertyCount 0
+stage
+	nameStringID "IDS_TITANUPGRADE_LOYALIST_ABILITIES_NAME_Replicators"
+	descStringID "IDS_TITANUPGRADE_LOYALIST_ABILITIES_DESCRIPTION_Replicators"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	levelRequirement 4
+	hudIcon "HUDIconTitanLoyalistAbilityUpgrade2_Replicators"
+	smallHudIcon "HUDIconTitanLoyalistAbilityUpgrade2_Replicators"
+	infoCardIcon ""
+	upgradePropertyCount 3
+	upgradeProperty
+		propertyType "MaxAntiMatterPoints"
+		value 128.000000
+	upgradeProperty
+		propertyType "AntiMatterRestoreRate"
+		value 0.360000
+	upgradeProperty
+		propertyType "AbilityCooldownRate"
+		value 0.200000
+	upgradeBoolPropertyCount 0
+stage
+	nameStringID "IDS_TITANUPGRADE_LOYALIST_ABILITIES_NAME_Replicators"
+	descStringID "IDS_TITANUPGRADE_LOYALIST_ABILITIES_DESCRIPTION_Replicators"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	levelRequirement 6
+	hudIcon "HUDIconTitanLoyalistAbilityUpgrade3_Replicators"
+	smallHudIcon "HUDIconTitanLoyalistAbilityUpgrade3_Replicators"
+	infoCardIcon ""
+	upgradePropertyCount 3
+	upgradeProperty
+		propertyType "MaxAntiMatterPoints"
+		value 160.000000
+	upgradeProperty
+		propertyType "AntiMatterRestoreRate"
+		value 1.450000
+	upgradeProperty
+		propertyType "AbilityCooldownRate"
+		value 0.250000
+	upgradeBoolPropertyCount 0

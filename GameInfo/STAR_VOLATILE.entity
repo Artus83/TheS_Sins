@@ -1,0 +1,50 @@
+﻿TXT2
+SinsArchiveVersion 194
+entityType "Star"
+coronaStartColor ffffffff
+coronaEndColor ff008bff
+coronaStartColorDistance 0.000000
+coronaEndColorDistance 1.000000
+farIcon "HUDICON_SOLARSYSTEM_VOLATILE"
+coloredSkyboxMeshInfoCount 5
+meshInfo
+meshName "SkyboxBackdrop2"
+	shouldPrefer TRUE
+meshInfo
+meshName "SkyboxBackdrop4"
+	shouldPrefer FALSE
+meshInfo
+meshName "SkyboxBackdrop5"
+	shouldPrefer TRUE
+meshInfo
+meshName "SkyboxBackdrop6"
+	shouldPrefer TRUE
+meshInfo
+	meshName "SkyboxBackdrop8"
+	shouldPrefer FALSE
+deepSpaceSkyboxMeshInfoCount 1
+meshInfo
+meshName "SkyboxBackdrop7"
+	shouldPrefer FALSE
+iconTextureName "starcore-dark"
+dlcID 204880
+ability:0 "AbilityVolatileStarMassiveSolarFlares"
+ability:1 "AbilityVolatileStarSolarRegeneration"
+ability:2 ""
+ability:3 ""
+ability:4 ""
+hudIcon "HUDICON_STAR_VOLATILE"
+smallHudIcon "HUDICONSMALL_STAR_VOLATILE"
+infoCardIcon "INFOCARDICON_STAR_VOLATILE"
+minZoomDistanceMult 2.000000
+moveAreaRadius 60000.000000
+hyperspaceExitRadius 50000.000000
+isWormhole FALSE
+maxStarBaseCountPerPlayer 4
+maxSpaceMineCountPerPlayer 150
+mainViewIcon "MAINVIEWICON_STAR_VOLATILE"
+picture "STARPICTURE_VOLATILE"
+MeshName "Star_Volatile"
+MaxMeshVisibilityDistanceToCamera -1.000000
+minShadow 0.000000
+maxShadow 0.000000

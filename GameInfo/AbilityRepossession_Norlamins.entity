@@ -1,0 +1,64 @@
+﻿TXT2
+SinsArchiveVersion 194
+entityType "Ability"
+buffInstantActionType "ApplyBuffToTarget"
+instantActionTriggerType "AlwaysPerform"
+buffType "BuffRepossessionTarget_Norlamins"
+targetFilter
+	numOwnerships 1
+	ownership "Enemy"
+	numObjects 1
+	object "Planet"
+	numSpaces 1
+	space "Normal"
+	numConstraints 2
+	constraint "NotIsHomeworld"
+	constraint "NotIsOccupationPlanet"
+range
+	Level:0 4000.000000
+	Level:1 4000.000000
+	Level:2 4000.000000
+	Level:3 4000.000000
+effectInfo
+	effectAttachInfo
+		attachType "Ability"
+		abilityIndex 0
+	smallEffectName "TitanAbility_Repossession_Self_Norlamins"
+	mediumEffectName "TitanAbility_Repossession_Self_Norlamins"
+	largeEffectName "TitanAbility_Repossession_Self_Norlamins"
+	soundID "EFFECT_REPOSSESSION"
+needsToFaceTarget FALSE
+canCollideWithTarget TRUE
+moveThruTarget FALSE
+isUltimateAbility FALSE
+maxNumLevels 2
+levelSourceType "TitanUpgradeLevel"
+sourcePropertyType "AbilityDLevel"
+aiUseTime "OnlyWhenBombing"
+aiUseTargetCondition "Any"
+isAutoCastAvailable TRUE
+isAutoCastOnByDefault TRUE
+pickRandomPlanetToExploreForAutoCastTarget FALSE
+ignoreNonCombatShipsForAutoCastTarget TRUE
+onlyAutoCastWhenDamageTakenExceedsPerc 0.000000
+useCostType "AntiMatter"
+antiMatterCost
+	Level:0 200.000000
+	Level:1 175.000000
+	Level:2 0.000000
+	Level:3 0.000000
+cooldownTime
+	Level:0 300.000000
+	Level:1 300.000000
+	Level:2 0.000000
+	Level:3 0.000000
+orderAcknowledgementType "ONATTACKORDERISSUED"
+researchPrerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+nameStringID "IDS_ABILITY_REPOSSESSION_NAME_Norlamins"
+descStringID "IDS_ABILITY_REPOSSESSION_DESCRIPTION_Norlamins"
+hudIcon "HUDICON_ABILITY_REPOSSESSION_Norlamins"
+smallHudIcon "HUDICON_ABILITY_REPOSSESSION_Norlamins"
+infoCardIcon ""

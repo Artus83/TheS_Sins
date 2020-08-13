@@ -1,0 +1,43 @@
+﻿TXT2
+SinsArchiveVersion 194
+entityType "ResearchSubject"
+hudIcon "HUDICON_RESEARCHSUBJECT_ADVANCED_RELATIONS_Pirates"
+smallHudIcon "HUDICON_RESEARCHSUBJECT_ADVANCED_RELATIONS_Pirates"
+infoCardIcon ""
+NameStringID "IDS_RESEARCHSUBJECT_ADVANCED_RELATIONS_NAME_Pirates"
+DescriptionStringID "IDS_RESEARCHSUBJECT_ADVANCED_RELATIONS_DESCRIPTION_Pirates"
+researchWindowLocation
+	block 0
+	pos [ 2 , 3 ]
+ResearchField "Diplomacy"
+Prerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCHSUBJECT_RELATIONS_IMPROVED_Pirates"
+		Level 1
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+MinimumArtifactLevel -1
+BaseUpgradeTime 75.000000
+PerLevelUpgradeTime 15.000000
+BaseCost
+	credits 1200.000000
+	metal 250.000000
+	crystal 250.000000
+PerLevelCostIncrease
+	credits 300.000000
+	metal 100.000000
+	crystal 100.000000
+Tier 2
+onlyWorksIfTierLabsExist FALSE
+MaxNumResearchLevels 1
+priority 0.000000
+researchBoolModifiers 0
+researchFloatModifiers 1
+researchModifier
+	modifierType "RelationshipBonus"
+	baseValue 0.000000
+	perLevelValue 1.000000
+artifactPicture ""
+uniqueOverlayBrush ""
+dlcId 204880

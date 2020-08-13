@@ -1,0 +1,1174 @@
+TXT2
+SinsArchiveVersion 194
+onlyLoadOnDemand FALSE
+brushCount 234
+brush
+	name "CORVETTEPICTURE_PHASE_LOYALIST"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 1872 , 938 , 167 , 75 ]
+brush
+	name "CORVETTEPICTURE_PSI_LOYALIST"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 1702 , 938 , 167 , 75 ]
+brush
+	name "CORVETTEPICTURE_TECH_LOYALIST"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 1022 , 82 , 167 , 75 ]
+brush
+	name "FRIGATEPICTURE_PHASE_NANITE_SWARM"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 1872 , 860 , 167 , 75 ]
+brush
+	name "FRIGATEPICTURE_PHASEFLAGSHIP"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 1532 , 392 , 167 , 75 ]
+brush
+	name "FRIGATEPICTURE_PSIFLAGSHIP"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 1872 , 314 , 167 , 75 ]
+brush
+	name "FRIGATEPICTURE_TECHFLAGSHIP"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 1872 , 704 , 167 , 75 ]
+brush
+	name "CAPITALSHIPPICTURE_TECHTRANSPORT"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 1532 , 80 , 167 , 75 ]
+brush
+	name "CAPITALSHIPPICTURE_PSIBATTLESHIP2"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 1362 , 626 , 167 , 75 ]
+brush
+	name "CAPITALSHIPPICTURE_PHASEBATTLESHIP2"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 1022 , 938 , 167 , 75 ]
+brush
+	name "TITANPICTURE_TECHLOYALIST"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 1872 , 2 , 167 , 75 ]
+brush
+	name "TITANPICTURE_TECHREBEL"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 1872 , 548 , 167 , 75 ]
+brush
+	name "TITANPICTURE_PSILOYALIST"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 1022 , 238 , 167 , 75 ]
+brush
+	name "TITANPICTURE_PSIREBEL"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 1532 , 236 , 167 , 75 ]
+brush
+	name "TITANPICTURE_PHASELOYALIST"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 1872 , 782 , 167 , 75 ]
+brush
+	name "TITANPICTURE_PHASEREBEL"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 1192 , 938 , 167 , 75 ]
+brush
+	name "CAPITALSHIPPICTURE_TECHCOLONY"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 2 , 470 , 167 , 75 ]
+brush
+	name "CAPITALSHIPPICTURE_TECHCARRIER"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 342 , 470 , 167 , 75 ]
+brush
+	name "CAPITALSHIPPICTURE_TECHBATTLESHIP"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 172 , 470 , 167 , 75 ]
+brush
+	name "CAPITALSHIPPICTURE_TECHSUPPORT"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 682 , 470 , 167 , 75 ]
+brush
+	name "CAPITALSHIPPICTURE_TECHSIEGE"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 512 , 470 , 167 , 75 ]
+brush
+	name "CAPITALSHIPPICTURE_PSICOLONY"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 2 , 626 , 167 , 75 ]
+brush
+	name "CAPITALSHIPPICTURE_PSICARRIER"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 342 , 626 , 167 , 75 ]
+brush
+	name "CAPITALSHIPPICTURE_PSIBATTLESHIP"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 172 , 626 , 167 , 75 ]
+brush
+	name "CAPITALSHIPPICTURE_PSIBATTLEPSIONIC"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 512 , 626 , 167 , 75 ]
+brush
+	name "CAPITALSHIPPICTURE_PSIPLANETPSIONIC"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 682 , 626 , 167 , 75 ]
+brush
+	name "CAPITALSHIPPICTURE_PHASECOLONY"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 2 , 782 , 167 , 75 ]
+brush
+	name "CAPITALSHIPPICTURE_PHASECARRIER"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 342 , 782 , 167 , 75 ]
+brush
+	name "CAPITALSHIPPICTURE_PHASEBATTLESHIP"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 172 , 782 , 167 , 75 ]
+brush
+	name "CAPITALSHIPPICTURE_PHASESCOUT"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 682 , 782 , 167 , 75 ]
+brush
+	name "CAPITALSHIPPICTURE_PHASESIEGE"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 512 , 782 , 167 , 75 ]
+brush
+	name "PICTURE_TRADESHIP_TECH"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 852 , 548 , 167 , 75 ]
+brush
+	name "PICTURE_TRADESHIP_PSI"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 852 , 704 , 167 , 75 ]
+brush
+	name "PICTURE_TRADESHIP_PHASE"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 852 , 860 , 167 , 75 ]
+brush
+	name "PICTURE_REFINERYSHIP_TECH"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 1702 , 548 , 167 , 75 ]
+brush
+	name "PICTURE_REFINERYSHIP_PSI"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 1702 , 704 , 167 , 75 ]
+brush
+	name "PICTURE_REFINERYSHIP_PHASE"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 1702 , 860 , 167 , 75 ]
+brush
+	name "PICTURE_SQUADTECHCOMBAT"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 1022 , 470 , 167 , 75 ]
+brush
+	name "PICTURE_SQUADTECHBOMBER"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 852 , 470 , 167 , 75 ]
+brush
+	name "PICTURE_SQUADPSICOMBAT"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 1022 , 626 , 167 , 75 ]
+brush
+	name "PICTURE_SQUADPSIBOMBER"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 852 , 626 , 167 , 75 ]
+brush
+	name "PICTURE_SQUADPSIMINELAYER"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 852 , 236 , 167 , 75 ]
+brush
+	name "PICTURE_SQUADPHASECOMBAT"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 1022 , 782 , 167 , 75 ]
+brush
+	name "PICTURE_SQUADPHASEBOMBER"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 852 , 782 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_TECHANTIFIGHTER"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 512 , 548 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_TECHCARRIER"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 1192 , 548 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_TECHCOLONY"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 2 , 548 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_TECHHEAVY"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 172 , 548 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_TECHLIGHT"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 1362 , 548 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_TECHLONGRANGE"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 1532 , 548 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_TECHSCOUT"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 682 , 548 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_TECHSIEGE"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 342 , 548 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_TECHUTILITY0"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 1702 , 80 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_TECHUTILITY1"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 1872 , 80 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_TECHMODULECONSTRUCTOR"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 1022 , 548 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_TECHSTARBASECONSTRUCTOR"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 1532 , 470 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_TECHENVOY"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 1872 , 470 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_TECHANTIMODULE"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 1702 , 470 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_PSIANTIFIGHTER"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 512 , 704 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_PSICARRIER"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 1192 , 704 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_PSICOLONY"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 2 , 704 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_PSIHEAVY"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 172 , 704 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_PSILIGHT"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 1362 , 704 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_PSILONGRANGE"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 1532 , 704 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_PSISCOUT"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 682 , 704 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_PSISIEGE"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 342 , 704 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_PSISTARBASECONSTRUCTOR"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 1532 , 626 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_PSIUTILITY0"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 1702 , 236 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_PSIUTILITY1"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 1872 , 236 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_PSIMODULECONSTRUCTOR"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 1022 , 704 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_PSIANTIMODULE"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 1702 , 626 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_PSIENVOY"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 1192 , 626 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_PHASEANTIFIGHTER"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 512 , 860 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_PHASECARRIER"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 1192 , 860 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_PHASECOLONY"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 2 , 860 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_PHASEHEAVY"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 172 , 860 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_PHASELIGHT"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 1362 , 860 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_PHASELONGRANGE"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 1532 , 860 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_PHASESCOUT"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 682 , 860 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_PHASESIEGE"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 342 , 860 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_PHASEUTILITY0"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 1702 , 392 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_PHASEUTILITY1"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 1872 , 392 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_PHASEMINELAYER"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 1702 , 782 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_PHASEMODULECONSTRUCTOR"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 1022 , 860 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_PHASEENVOY"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 1192 , 782 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_PIRATEMEDIUM"
+	content "Simple"
+	fileName "Unit_Picture_Pirates.dds"
+	pixelBox [ 1872 , 80 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_PIRATEHEAVY"
+	content "Simple"
+	fileName "Unit_Picture_Pirates.dds"
+	pixelBox [ 1532 , 80 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_PIRATEANTIFIGHTER"
+	content "Simple"
+	fileName "Unit_Picture_Pirates.dds"
+	pixelBox [ 682 , 80 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_PIRATESIEGE"
+	content "Simple"
+	fileName "Unit_Picture_Pirates.dds"
+	pixelBox [ 172 , 158 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_PIRATELIGHT"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 2 , 938 , 167 , 75 ]	
+brush
+	name "PICTURE_FRIGATE_PIRATESCOUT"
+	content "Simple"
+	fileName "Unit_Picture_Pirates.dds"
+	pixelBox [ 2 , 158 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_PIRATESHIPCONSTRUCTOR"
+	content "Simple"
+	fileName "Unit_Picture_Pirates.dds"
+	pixelBox [ 1532 , 2 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_PIRATEDEFENSECONSTRUCTOR"
+	content "Simple"
+	fileName "Unit_Picture_Pirates.dds"
+	pixelBox [ 1532 , 2 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_PIRATEMODULECONSTRUCTOR"
+	content "Simple"
+	fileName "Unit_Picture_Pirates.dds"
+	pixelBox [ 1532 , 2 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_TURRETCOMBAT"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 1362 , 470 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_TURRETSIEGE"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 1362 , 782 , 167 , 75 ]
+brush
+	name "PICTURE_CAPITALSHIP_DREADNOUGHT_Tech"
+	content "Simple"
+	fileName "Unit_Picture_Maelstrom.dds"
+	pixelBox [ 1872 , 548 , 167 , 75 ]
+brush
+	name "PICTURE_CAPITALSHIP_DREADNOUGHT_Psi"
+	content "Simple"
+	fileName "Unit_Picture_Maelstrom.dds"
+	pixelBox [ 1872 , 636 , 167 , 75 ]
+brush
+	name "PICTURE_CAPITALSHIP_DREADNOUGHT_Phase"
+	content "Simple"
+	fileName "Unit_Picture_Maelstrom.dds"
+	pixelBox [ 1872 , 782 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_ASTEROID"
+	content "Simple"
+	fileName "Unit_Picture_Maelstrom.dds"
+	pixelBox [ 1872 , 2 , 167 , 75 ]
+brush
+	name "CAPITALSHIPPICTURE_PIRATECOLONY"
+	content "Simple"
+	fileName "Unit_Picture_Pirates.dds"
+	pixelBox [ 852 , 2 , 167 , 75 ]
+brush
+	name "PICTURE_SQUADPIRATEBOMBER"
+	content "Simple"
+	fileName "Unit_Picture_Pirates.dds"
+	pixelBox [ 512 , 80 , 167 , 75 ]
+brush
+	name "PICTURE_SQUADPIRATECOMBAT"
+	content "Simple"
+	fileName "Unit_Picture_Pirates.dds"
+	pixelBox [ 342 , 80 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_PIRATECARRIER"
+	content "Simple"
+	fileName "Unit_Picture_Pirates.dds"
+	pixelBox [ 1022 , 80 , 167 , 75 ]
+brush
+	name "CAPITALSHIPPICTURE_COLONY_Norlamins"
+	content "Simple"
+	fileName "Unit_Picture_Norlamins.dds"
+	pixelBox [ 682 , 2 , 167 , 75 ]
+brush
+	name "CAPITALSHIPPICTURE_CARRIER_Norlamins"
+	content "Simple"
+	fileName "Unit_Picture_Norlamins.dds"
+	pixelBox [ 342 , 2 , 167 , 75 ]
+brush
+	name "CAPITALSHIPPICTURE_BATTLESHIP_Norlamins"
+	content "Simple"
+	fileName "Unit_Picture_Norlamins.dds"
+	pixelBox [ 2 , 2 , 167 , 75 ]
+brush
+	name "CAPITALSHIPPICTURE_SUPPORT_Norlamins"
+	content "Simple"
+	fileName "Unit_Picture_Norlamins.dds"
+	pixelBox [ 512 , 2 , 167 , 75 ]
+brush
+	name "CAPITALSHIPPICTURE_SIEGE_Norlamins"
+	content "Simple"
+	fileName "Unit_Picture_Norlamins.dds"
+	pixelBox [ 172 , 2 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_ANTIFIGHTER_Norlamins"
+	content "Simple"
+	fileName "Unit_Picture_Norlamins.dds"
+	pixelBox [ 2 , 80 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_CARRIER_Norlamins"
+	content "Simple"
+	fileName "Unit_Picture_Norlamins.dds"
+	pixelBox [ 1532 , 80 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_COLONY_Norlamins"
+	content "Simple"
+	fileName "Unit_Picture_Norlamins.dds"
+	pixelBox [ 172 , 80 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_HEAVY_Norlamins"
+	content "Simple"
+	fileName "Unit_Picture_Norlamins.dds"
+	pixelBox [ 1362 , 80 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_LIGHT_Norlamins"
+	content "Simple"
+	fileName "Unit_Picture_Norlamins.dds"
+	pixelBox [ 342 , 80 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_LONGRANGE_Norlamins"
+	content "Simple"
+	fileName "Unit_Picture_Norlamins.dds"
+	pixelBox [ 852 , 80 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_SCOUT_Norlamins"
+	content "Simple"
+	fileName "Unit_Picture_Norlamins.dds"
+	pixelBox [ 682 , 80 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_MINERALEXPLORER_Norlamins"
+	content "Simple"
+	fileName "Unit_Picture_Norlamins.dds"
+	pixelBox [ 512 , 80 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_UTILITY0_Norlamins"
+	content "Simple"
+	fileName "Unit_Picture_Norlamins.dds"
+	pixelBox [ 1022 , 80 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_UTILITY1_Norlamins"
+	content "Simple"
+	fileName "Unit_Picture_Norlamins.dds"
+	pixelBox [ 1192 , 80 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_MODULECONSTRUCTOR_Norlamins"
+	content "Simple"
+	fileName "Unit_Picture_Norlamins.dds"
+	pixelBox [ 1702 , 80 , 167 , 75 ]
+brush
+	name "PICTURE_SQUADFIGHTER_Norlamins"
+	content "Simple"
+	fileName "Unit_Picture_Norlamins.dds"
+	pixelBox [ 852 , 2 , 167 , 75 ]
+brush
+	name "PICTURE_SQUADBOMBER_Norlamins"
+	content "Simple"
+	fileName "Unit_Picture_Norlamins.dds"
+	pixelBox [ 1022 , 2 , 167 , 75 ]
+brush
+	name "PICTURE_TRADESHIP_Norlamins"
+	content "Simple"
+	fileName "Unit_Picture_Norlamins.dds"
+	pixelBox [ 1362 , 2 , 167 , 75 ]
+brush
+	name "PICTURE_REFINERYSHIP_Norlamins"
+	content "Simple"
+	fileName "Unit_Picture_Norlamins.dds"
+	pixelBox [ 1192 , 2 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_STARBASECONSTRUCTOR_Norlamins"
+	content "Simple"
+	fileName "Unit_Picture_Norlamins.dds"
+	pixelBox [ 1192 , 158 , 167 , 75 ]
+brush
+	name "PICTURE_SQUADMINELAYER_Norlamins"
+	content "Simple"
+	fileName "Unit_Picture_Norlamins.dds"
+	pixelBox [ 1192 , 236 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_ENVOY_Norlamins"
+	content "Simple"
+	fileName "Unit_Picture_Norlamins.dds"
+	pixelBox [ 1362 , 236 , 167 , 75 ]
+brush
+	name "PICTURE_CAPITALSHIP_DREADNOUGHT_Norlamins"
+	content "Simple"
+	fileName "Unit_Picture_Norlamins.dds"
+	pixelBox [ 1702 , 2 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_ANTIMODULE_Norlamins"
+	content "Simple"
+	fileName "Unit_Picture_Norlamins.dds"
+	pixelBox [ 1532 , 236 , 167 , 75 ]
+brush
+	name "CORVETTEPICTURE_LOYALIST_Norlamins"
+	content "Simple"
+	fileName "Unit_Picture_Norlamins.dds"
+	pixelBox [ 512 , 314 , 167 , 75 ]
+brush
+	name "CORVETTEPICTURE_REBEL_Norlamins"
+	content "Simple"
+	fileName "Unit_Picture_Norlamins.dds"
+	pixelBox [ 682 , 314 , 167 , 75 ]
+brush
+	name "CAPITALSHIPPICTURE_BATTLESHIP2_Norlamins"
+	content "Simple"
+	fileName "Unit_Picture_Norlamins.dds"
+	pixelBox [ 342 , 314 , 167 , 75 ]
+brush
+	name "TITANPICTURE_LOYALIST_Norlamins"
+	content "Simple"
+	fileName "Unit_Picture_Norlamins.dds"
+	pixelBox [ 852 , 314 , 167 , 75 ]
+brush
+	name "TITANPICTURE_REBEL_Norlamins"
+	content "Simple"
+	fileName "Unit_Picture_Norlamins.dds"
+	pixelBox [ 172 , 314 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_SIEGE_Norlamins"
+	content "Simple"
+	fileName "Unit_Picture_Norlamins.dds"
+	pixelBox [ 342 , 236 , 167 , 75 ]
+brush
+	name "FRIGATEPICTURE_FLAGSHIP_Norlamins"
+	content "Simple"
+	fileName "Unit_Picture_Norlamins.dds"
+	pixelBox [ 1022 , 314 , 167 , 75 ]
+brush
+	name "CAPITALSHIPPICTURE_COLONY_TradeAlliance"
+	content "Simple"
+	fileName "Unit_Picture_TradeAlliance.dds"
+	pixelBox [ 682 , 2 , 167 , 75 ]
+brush
+	name "CAPITALSHIPPICTURE_CARRIER_TradeAlliance"
+	content "Simple"
+	fileName "Unit_Picture_TradeAlliance.dds"
+	pixelBox [ 172 , 2 , 167 , 75 ]
+brush
+	name "CAPITALSHIPPICTURE_BATTLESHIP_TradeAlliance"
+	content "Simple"
+	fileName "Unit_Picture_TradeAlliance.dds"
+	pixelBox [ 2 , 2 , 167 , 75 ]
+brush
+	name "CAPITALSHIPPICTURE_SUPPORT_TradeAlliance"
+	content "Simple"
+	fileName "Unit_Picture_TradeAlliance.dds"
+	pixelBox [ 512 , 2 , 167 , 75 ]
+brush
+	name "CAPITALSHIPPICTURE_SIEGE_TradeAlliance"
+	content "Simple"
+	fileName "Unit_Picture_TradeAlliance.dds"
+	pixelBox [ 342 , 2 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_ANTIFIGHTER_TradeAlliance"
+	content "Simple"
+	fileName "Unit_Picture_TradeAlliance.dds"
+	pixelBox [ 2 , 80 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_CARRIER_TradeAlliance"
+	content "Simple"
+	fileName "Unit_Picture_TradeAlliance.dds"
+	pixelBox [ 1532 , 80 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_COLONY_TradeAlliance"
+	content "Simple"
+	fileName "Unit_Picture_TradeAlliance.dds"
+	pixelBox [ 172 , 80 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_HEAVY_TradeAlliance"
+	content "Simple"
+	fileName "Unit_Picture_TradeAlliance.dds"
+	pixelBox [ 1362 , 80 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_LIGHT_TradeAlliance"
+	content "Simple"
+	fileName "Unit_Picture_TradeAlliance.dds"
+	pixelBox [ 342 , 80 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_LONGRANGE_TradeAlliance"
+	content "Simple"
+	fileName "Unit_Picture_TradeAlliance.dds"
+	pixelBox [ 852 , 80 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_SCOUT_TradeAlliance"
+	content "Simple"
+	fileName "Unit_Picture_TradeAlliance.dds"
+	pixelBox [ 682 , 80 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_SIEGE_TradeAlliance"
+	content "Simple"
+	fileName "Unit_Picture_TradeAlliance.dds"
+	pixelBox [ 512 , 80 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_UTILITY0_TradeAlliance"
+	content "Simple"
+	fileName "Unit_Picture_TradeAlliance.dds"
+	pixelBox [ 1022 , 80 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_UTILITY1_TradeAlliance"
+	content "Simple"
+	fileName "Unit_Picture_TradeAlliance.dds"
+	pixelBox [ 1192 , 80 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_MODULECONSTRUCTOR_TradeAlliance"
+	content "Simple"
+	fileName "Unit_Picture_TradeAlliance.dds"
+	pixelBox [ 1702 , 80 , 167 , 75 ]
+brush
+	name "PICTURE_SQUADFIGHTER_TradeAlliance"
+	content "Simple"
+	fileName "Unit_Picture_TradeAlliance.dds"
+	pixelBox [ 852 , 2 , 167 , 75 ]
+brush
+	name "PICTURE_SQUADBOMBER_TradeAlliance"
+	content "Simple"
+	fileName "Unit_Picture_TradeAlliance.dds"
+	pixelBox [ 1022 , 2 , 167 , 75 ]
+brush
+	name "PICTURE_TRADESHIP_TradeAlliance"
+	content "Simple"
+	fileName "Unit_Picture_TradeAlliance.dds"
+	pixelBox [ 1362 , 2 , 167 , 75 ]
+brush
+	name "PICTURE_REFINERYSHIP_TradeAlliance"
+	content "Simple"
+	fileName "Unit_Picture_TradeAlliance.dds"
+	pixelBox [ 1192 , 2 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_STARBASECONSTRUCTOR_TradeAlliance"
+	content "Simple"
+	fileName "Unit_Picture_TradeAlliance.dds"
+	pixelBox [ 1702 , 2 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_ANTIMODULE_TradeAlliance"
+	content "Simple"
+	fileName "Unit_Picture_TradeAlliance.dds"
+	pixelBox [ 1872 , 80 , 167 , 75 ]
+brush
+	name "PICTURE_SQUADMINELAYER_TradeAlliance"
+	content "Simple"
+	fileName "Unit_Picture_TradeAlliance.dds"
+	pixelBox [ 1192 , 236 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_ENVOY_TradeAlliance"
+	content "Simple"
+	fileName "Unit_Picture_TradeAlliance.dds"
+	pixelBox [ 1532 , 158 , 167 , 75 ]
+brush
+	name "PICTURE_CAPITALSHIP_DREADNOUGHT_TradeAlliance"
+	content "Simple"
+	fileName "Unit_Picture_TradeAlliance.dds"
+	pixelBox [ 1532 , 2 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_TURRETCOMBAT_TradeAlliance"
+	content "Simple"
+	fileName "Unit_Picture_TradeAlliance.dds"
+	pixelBox [ 1702 , 236 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_TURRETSIEGE_TradeAlliance"
+	content "Simple"
+	fileName "Unit_Picture_TradeAlliance.dds"
+	pixelBox [ 1532 , 236 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_SUBVERSIONSHIP_TradeAlliance"
+	content "Simple"
+	fileName "Unit_Picture_TradeAlliance.dds"
+	pixelBox [ 1872 , 2 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_SUBVERSIONSHIP_TradeAlliance"
+	content "Simple"
+	fileName "Unit_Picture_TradeAlliance.dds"
+	pixelBox [ 1532 , 314 , 167 , 75 ]
+brush
+	name "CORVETTEPICTURE_LOYALIST_TradeAlliance"
+	content "Simple"
+	fileName "Unit_Picture_TradeAlliance.dds"
+	pixelBox [ 1532 , 314 , 167 , 75 ]
+brush
+	name "CORVETTEPICTURE_REBEL_TradeAlliance"
+	content "Simple"
+	fileName "Unit_Picture_TradeAlliance.dds"
+	pixelBox [ 1362 , 314 , 167 , 75 ]
+brush
+	name "CAPITALSHIPPICTURE_BATTLESHIP2_TradeAlliance"
+	content "Simple"
+	fileName "Unit_Picture_TradeAlliance.dds"
+	pixelBox [ 1702 , 314 , 167 , 75 ]
+brush
+	name "TITANPICTURE_LOYALIST_TradeAlliance"
+	content "Simple"
+	fileName "Unit_Picture_TradeAlliance.dds"
+	pixelBox [ 682 , 314 , 167 , 75 ]
+brush
+	name "TITANPICTURE_REBEL_TradeAlliance"
+	content "Simple"
+	fileName "Unit_Picture_TradeAlliance.dds"
+	pixelBox [ 852 , 314 , 167 , 75 ]
+brush
+	name "FRIGATEPICTURE_FLAGSHIP_TradeAlliance"
+	content "Simple"
+	fileName "Unit_Picture_TradeAlliance.dds"
+	pixelBox [ 1872 , 314 , 167 , 75 ]
+brush
+	name "CAPITALSHIPPICTURE_COLONY_Replicators"
+	content "Simple"
+	fileName "Unit_Picture_Replicators.dds"
+	pixelBox [ 682 , 2 , 167 , 75 ]
+brush
+	name "CAPITALSHIPPICTURE_CARRIER_Replicators"
+	content "Simple"
+	fileName "Unit_Picture_Replicators.dds"
+	pixelBox [ 172 , 2 , 167 , 75 ]
+brush
+	name "CAPITALSHIPPICTURE_BATTLESHIP_Replicators"
+	content "Simple"
+	fileName "Unit_Picture_Replicators.dds"
+	pixelBox [ 2 , 2 , 167 , 75 ]
+brush
+	name "CAPITALSHIPPICTURE_SUPPORT_Replicators"
+	content "Simple"
+	fileName "Unit_Picture_Replicators.dds"
+	pixelBox [ 512 , 2 , 167 , 75 ]
+brush
+	name "CAPITALSHIPPICTURE_SIEGE_Replicators"
+	content "Simple"
+	fileName "Unit_Picture_Replicators.dds"
+	pixelBox [ 342 , 2 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_ANTIFIGHTER_Replicators"
+	content "Simple"
+	fileName "Unit_Picture_Replicators.dds"
+	pixelBox [ 2 , 80 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_CARRIER_Replicators"
+	content "Simple"
+	fileName "Unit_Picture_Replicators.dds"
+	pixelBox [ 1532 , 80 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_COLONY_Replicators"
+	content "Simple"
+	fileName "Unit_Picture_Replicators.dds"
+	pixelBox [ 172 , 80 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_HEAVY_Replicators"
+	content "Simple"
+	fileName "Unit_Picture_Replicators.dds"
+	pixelBox [ 1362 , 80 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_LIGHT_Replicators"
+	content "Simple"
+	fileName "Unit_Picture_Replicators.dds"
+	pixelBox [ 342 , 80 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_LONGRANGE_Replicators"
+	content "Simple"
+	fileName "Unit_Picture_Replicators.dds"
+	pixelBox [ 852 , 80 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_SCOUT_Replicators"
+	content "Simple"
+	fileName "Unit_Picture_Replicators.dds"
+	pixelBox [ 682 , 80 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_SIEGE_Replicators"
+	content "Simple"
+	fileName "Unit_Picture_Replicators.dds"
+	pixelBox [ 512 , 80 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_UTILITY0_Replicators"
+	content "Simple"
+	fileName "Unit_Picture_Replicators.dds"
+	pixelBox [ 1022 , 80 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_UTILITY1_Replicators"
+	content "Simple"
+	fileName "Unit_Picture_Replicators.dds"
+	pixelBox [ 1192 , 80 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_MODULECONSTRUCTOR_Replicators"
+	content "Simple"
+	fileName "Unit_Picture_Replicators.dds"
+	pixelBox [ 1702 , 80 , 167 , 75 ]
+brush
+	name "PICTURE_SQUADFIGHTER_Replicators"
+	content "Simple"
+	fileName "Unit_Picture_Replicators.dds"
+	pixelBox [ 852 , 2 , 167 , 75 ]
+brush
+	name "PICTURE_SQUADBOMBER_Replicators"
+	content "Simple"
+	fileName "Unit_Picture_Replicators.dds"
+	pixelBox [ 1022 , 2 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_HORD_Replicators"
+	content "Simple"
+	fileName "Unit_Picture_Replicators.dds"
+	pixelBox [ 1702 , 2 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_STARBASECONSTRUCTOR_Replicators"
+	content "Simple"
+	fileName "Unit_Picture_Replicators.dds"
+	pixelBox [ 1702 , 2 , 167 , 75 ]
+brush
+	name "PICTURE_SQUADMINELAYER_Replicators"
+	content "Simple"
+	fileName "Unit_Picture_Replicators.dds"
+	pixelBox [ 1872 , 158 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_ENVOY_Replicators"
+	content "Simple"
+	fileName "Unit_Picture_Replicators.dds"
+	pixelBox [ 1872 , 2 , 167 , 75 ]
+brush
+	name "PICTURE_CAPITALSHIP_DREADNOUGHT_Replicators"
+	content "Simple"
+	fileName "Unit_Picture_Replicators.dds"
+	pixelBox [ 1532 , 2 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_ANTIMODULE_Replicators"
+	content "Simple"
+	fileName "Unit_Picture_Replicators.dds"
+	pixelBox [ 2 , 236 , 167 , 75 ]
+brush
+	name "PICTURE_TRADESHIP_Replicators"
+	content "Simple"
+	fileName "Unit_Picture_Replicators.dds"
+	pixelBox [ 1362 , 2 , 167 , 75 ]
+brush
+	name "PICTURE_REFINERYSHIP_Replicators"
+	content "Simple"
+	fileName "Unit_Picture_Replicators.dds"
+	pixelBox [ 1192 , 2 , 167 , 75 ]
+brush
+	name "CAPITALSHIPPICTURE_BATTLESHIP2_Replicators"
+	content "Simple"
+	fileName "Unit_Picture_Replicators.dds"
+	pixelBox [ 1362 , 236 , 167 , 75 ]
+brush
+	name "CORVETTEPICTURE_LOYALIST_Replicators"
+	content "Simple"
+	fileName "Unit_Picture_Replicators.dds"
+	pixelBox [ 342 , 236 , 167 , 75 ]
+brush
+	name "CORVETTEPICTURE_REBEL_Replicators"
+	content "Simple"
+	fileName "Unit_Picture_Replicators.dds"
+	pixelBox [ 512 , 236 , 167 , 75 ]
+brush
+	name "TITANPICTURE_LOYALIST_Replicators"
+	content "Simple"
+	fileName "Unit_Picture_Replicators.dds"
+	pixelBox [ 342 , 236 , 167 , 75 ]
+brush
+	name "TITANPICTURE_REBEL_Replicators"
+	content "Simple"
+	fileName "Unit_Picture_Replicators.dds"
+	pixelBox [ 512 , 236 , 167 , 75 ]
+brush
+	name "FRIGATEPICTURE_FLAGSHIP_Replicators"
+	content "Simple"
+	fileName "Unit_Picture_Replicators.dds"
+	pixelBox [ 682 , 314 , 167 , 75 ]
+brush
+	name "CAPITALSHIPPICTURE_COLONY_Pirates"
+	content "Simple"
+	fileName "Unit_Picture_Pirates.dds"
+	pixelBox [ 682 , 2 , 167 , 75 ]
+brush
+	name "CAPITALSHIPPICTURE_CARRIER_Pirates"
+	content "Simple"
+	fileName "Unit_Picture_Pirates.dds"
+	pixelBox [ 342 , 2 , 167 , 75 ]
+brush
+	name "CAPITALSHIPPICTURE_BATTLESHIP_Pirates"
+	content "Simple"
+	fileName "Unit_Picture_Pirates.dds"
+	pixelBox [ 2 , 2 , 167 , 75 ]
+brush
+	name "CAPITALSHIPPICTURE_SUPPORT_Pirates"
+	content "Simple"
+	fileName "Unit_Picture_Pirates.dds"
+	pixelBox [ 512 , 2 , 167 , 75 ]
+brush
+	name "CAPITALSHIPPICTURE_SIEGE_Pirates"
+	content "Simple"
+	fileName "Unit_Picture_Pirates.dds"
+	pixelBox [ 172 , 2 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_ANTIFIGHTER_Pirates"
+	content "Simple"
+	fileName "Unit_Picture_Pirates.dds"
+	pixelBox [ 2 , 80 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_CARRIER_Pirates"
+	content "Simple"
+	fileName "Unit_Picture_Pirates.dds"
+	pixelBox [ 1532 , 80 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_COLONY_Pirates"
+	content "Simple"
+	fileName "Unit_Picture_Pirates.dds"
+	pixelBox [ 172 , 80 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_HEAVY_Pirates"
+	content "Simple"
+	fileName "Unit_Picture_Pirates.dds"
+	pixelBox [ 1362 , 80 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_LIGHT_Pirates"
+	content "Simple"
+	fileName "Unit_Picture_Pirates.dds"
+	pixelBox [ 342 , 80 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_LONGRANGE_Pirates"
+	content "Simple"
+	fileName "Unit_Picture_Pirates.dds"
+	pixelBox [ 852 , 80 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_SCOUT_Pirates"
+	content "Simple"
+	fileName "Unit_Picture_Pirates.dds"
+	pixelBox [ 682 , 80 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_UTILITY0_Pirates"
+	content "Simple"
+	fileName "Unit_Picture_Pirates.dds"
+	pixelBox [ 1022 , 80 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_UTILITY1_Pirates"
+	content "Simple"
+	fileName "Unit_Picture_Pirates.dds"
+	pixelBox [ 1192 , 80 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_MODULECONSTRUCTOR_Pirates"
+	content "Simple"
+	fileName "Unit_Picture_Pirates.dds"
+	pixelBox [ 1702 , 80 , 167 , 75 ]
+brush
+	name "PICTURE_SQUADFIGHTER_Pirates"
+	content "Simple"
+	fileName "Unit_Picture_Pirates.dds"
+	pixelBox [ 852 , 2 , 167 , 75 ]
+brush
+	name "PICTURE_SQUADBOMBER_Pirates"
+	content "Simple"
+	fileName "Unit_Picture_Pirates.dds"
+	pixelBox [ 1022 , 2 , 167 , 75 ]
+brush
+	name "PICTURE_TRADESHIP_Pirates"
+	content "Simple"
+	fileName "Unit_Picture_Pirates.dds"
+	pixelBox [ 1362 , 2 , 167 , 75 ]
+brush
+	name "PICTURE_REFINERYSHIP_Pirates"
+	content "Simple"
+	fileName "Unit_Picture_Pirates.dds"
+	pixelBox [ 1192 , 2 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_STARBASECONSTRUCTOR_Pirates"
+	content "Simple"
+	fileName "Unit_Picture_Pirates.dds"
+	pixelBox [ 1192 , 158 , 167 , 75 ]
+brush
+	name "PICTURE_SQUADMINELAYER_Pirates"
+	content "Simple"
+	fileName "Unit_Picture_Pirates.dds"
+	pixelBox [ 1192 , 236 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_ENVOY_Pirates"
+	content "Simple"
+	fileName "Unit_Picture_Pirates.dds"
+	pixelBox [ 1362 , 236 , 167 , 75 ]
+brush
+	name "PICTURE_CAPITALSHIP_DREADNOUGHT_Pirates"
+	content "Simple"
+	fileName "Unit_Picture_Pirates.dds"
+	pixelBox [ 1702 , 2 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_ANTIMODULE_Pirates"
+	content "Simple"
+	fileName "Unit_Picture_Pirates.dds"
+	pixelBox [ 1532 , 236 , 167 , 75 ]
+brush
+	name "CORVETTEPICTURE_LOYALIST_Pirates"
+	content "Simple"
+	fileName "Unit_Picture_Pirates.dds"
+	pixelBox [ 512 , 314 , 167 , 75 ]
+brush
+	name "CORVETTEPICTURE_REBEL_Pirates"
+	content "Simple"
+	fileName "Unit_Picture_Pirates.dds"
+	pixelBox [ 682 , 314 , 167 , 75 ]
+brush
+	name "CAPITALSHIPPICTURE_BATTLESHIP2_Pirates"
+	content "Simple"
+	fileName "Unit_Picture_Pirates.dds"
+	pixelBox [ 342 , 314 , 167 , 75 ]
+brush
+	name "TITANPICTURE_LOYALIST_Pirates"
+	content "Simple"
+	fileName "Unit_Picture_Pirates.dds"
+	pixelBox [ 852 , 314 , 167 , 75 ]
+brush
+	name "TITANPICTURE_REBEL_Pirates"
+	content "Simple"
+	fileName "Unit_Picture_Pirates.dds"
+	pixelBox [ 172 , 314 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_SIEGE_Pirates"
+	content "Simple"
+	fileName "Unit_Picture_Pirates.dds"
+	pixelBox [ 342 , 236 , 167 , 75 ]
+brush
+	name "FRIGATEPICTURE_FLAGSHIP_Pirates"
+	content "Simple"
+	fileName "Unit_Picture_Pirates.dds"
+	pixelBox [ 1022 , 314 , 167 , 75 ]

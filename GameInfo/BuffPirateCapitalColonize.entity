@@ -1,0 +1,85 @@
+﻿TXT2
+SinsArchiveVersion 194
+entityType "Buff"
+onReapplyDuplicateType "PrioritizeNewBuffs"
+buffStackingLimitType "ForAllPlayers"
+stackingLimit 1
+allowFirstSpawnerToStack FALSE
+buffExclusivityForAIType "ExclusiveForAllPlayers"
+isInterruptable FALSE
+isChannelling FALSE
+numInstantActions 4
+instantAction
+	buffInstantActionType "SpawnResourceExtractors"
+	instantActionTriggerType "OnDelay"
+	delayTime 0.000000
+	numExtractors
+		Level:0 3.000000
+		Level:1 3.000000
+		Level:2 3.000000
+		Level:3 0.000000
+instantAction
+	buffInstantActionType "CreateFrigate"
+	instantActionTriggerType "OnDelay"
+	delayTime 7.000000
+	frigateType "Frigate_ModuleConstructor2_Pirates"
+	numFrigates
+		Level:0 1.000000
+		Level:1 1.000000
+		Level:2 1.000000
+		Level:3 0.000000
+	matchOwnerDamageState FALSE
+	impulse 100.000000
+	expiryTime
+		Level:0 9999.000000
+		Level:1 9999.000000
+		Level:2 9999.000000
+		Level:3 0.000000
+	spawnFrigateSoundID ""
+	postSpawnBuff ""
+instantAction
+	buffInstantActionType "CreateFrigate"
+	instantActionTriggerType "OnDelay"
+	delayTime 7.000000
+	frigateType "Frigate_ShipConstructor_Pirates"
+	numFrigates
+		Level:0 1.000000
+		Level:1 1.000000
+		Level:2 1.000000
+		Level:3 0.000000
+	matchOwnerDamageState FALSE
+	impulse 500.000000
+	expiryTime
+		Level:0 9999.000000
+		Level:1 9999.000000
+		Level:2 9999.000000
+		Level:3 0.000000
+	spawnFrigateSoundID ""
+	postSpawnBuff ""
+instantAction
+	buffInstantActionType "CreateFrigate"
+	instantActionTriggerType "OnDelay"
+	delayTime 7.000000
+	frigateType "Frigate_ShipDefenseConstructor_Pirates"
+	numFrigates
+		Level:0 1.000000
+		Level:1 1.000000
+		Level:2 1.000000
+		Level:3 0.000000
+	matchOwnerDamageState FALSE
+	impulse 1000.000000
+	expiryTime
+		Level:0 9999.000000
+		Level:1 9999.000000
+		Level:2 9999.000000
+		Level:3 0.000000
+	spawnFrigateSoundID ""
+	postSpawnBuff ""
+numPeriodicActions 0
+numOverTimeActions 0
+numEntityModifiers 0
+numEntityBoolModifiers 1
+entityBoolModifier "DisablePhaseJump"
+numFinishConditions 1
+finishCondition
+	finishConditionType "AllOnDelayInstantActionsDone"

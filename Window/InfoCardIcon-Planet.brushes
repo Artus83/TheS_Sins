@@ -1,0 +1,649 @@
+TXT2
+SinsArchiveVersion 194
+onlyLoadOnDemand FALSE
+brushCount 129
+brush
+	name "INFOCARDICON_PLANET_GREENHOUSE"
+	content "Simple"
+	fileName "Icons_planets.dds"
+	pixelBox [ 122 , 1159 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANET_OCEANIC"
+	content "Simple"
+	fileName "Icons_planets.dds"
+	pixelBox [ 168 , 1159 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANET_FERRUS"
+	content "Simple"
+	fileName "Icons_planets.dds"
+	pixelBox [ 192 , 1159 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANET_BARREN"
+	content "Simple"
+	fileName "Icons_planets.dds"
+	pixelBox [ 145 , 1159 , 22 , 22 ]
+brush
+	name "INFOCARDICON_RESOURCEASTEROIDMETAL"
+	content "Simple"
+	fileName "Icons_planets.dds"
+	pixelBox [ 231 , 649 , 22 , 22 ]
+brush
+	name "INFOCARDICON_RESOURCEASTEROIDCRYSTAL"
+	content "Simple"
+	fileName "Icons_planets.dds"
+	pixelBox [ 231 , 626 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANET_UNKNOWN"
+	content "Simple"
+	fileName "Icons_planets.dds"
+	pixelBox [ 139 , 626 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANET_PLASMASTORM"
+	content "Simple"
+	fileName "Icons_planets.dds"
+	pixelBox [ 208 , 626 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANET_MAGNETICCLOUD"
+	content "Simple"
+	fileName "Icons_planets.dds"
+	pixelBox [ 208 , 649 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANET_WORMHOLE"
+	content "Simple"
+	fileName "Icons_planets.dds"
+	pixelBox [ 185 , 626 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANET_OCCUPATION"
+	content "Simple"
+	fileName "Icons_planets.dds"
+	pixelBox [ 254 , 672 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANET_TERRAN0"
+	content "Simple"
+	fileName "Icons_planets.dds"
+	pixelBox [ 1 , 626 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANET_TERRAN1"
+	content "Simple"
+	fileName "Icons_planets.dds"
+	pixelBox [ 1 , 649 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANET_TERRAN2"
+	content "Simple"
+	fileName "Icons_planets.dds"
+	pixelBox [ 1 , 672 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANET_ICE0"
+	content "Simple"
+	fileName "Icons_planets.dds"
+	pixelBox [ 24 , 626 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANET_ICE1"
+	content "Simple"
+	fileName "Icons_planets.dds"
+	pixelBox [ 24 , 649 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANET_ICE2"
+	content "Simple"
+	fileName "Icons_planets.dds"
+	pixelBox [ 24 , 672 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANET_ICE3"
+	content "Simple"
+	fileName "Icons_planets.dds"
+	pixelBox [ 24 , 672 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANET_VOLCANIC0"
+	content "Simple"
+	fileName "Icons_planets.dds"
+	pixelBox [ 47 , 626 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANET_VOLCANIC1"
+	content "Simple"
+	fileName "Icons_planets.dds"
+	pixelBox [ 47 , 649 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANET_VOLCANIC2"
+	content "Simple"
+	fileName "Icons_planets.dds"
+	pixelBox [ 47 , 672 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANET_DESERT0"
+	content "Simple"
+	fileName "Icons_planets.dds"
+	pixelBox [ 70 , 626 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANET_DESERT1"
+	content "Simple"
+	fileName "Icons_planets.dds"
+	pixelBox [ 70 , 649 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANET_DESERT2"
+	content "Simple"
+	fileName "Icons_planets.dds"
+	pixelBox [ 70 , 672 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANET_GASGIANT0"
+	content "Simple"
+	fileName "Icons_planets.dds"
+	pixelBox [ 185 , 672 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANET_GASGIANT1"
+	content "Simple"
+	fileName "Icons_planets.dds"
+	pixelBox [ 185 , 649 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANET_MOON0"
+	content "Simple"
+	fileName "Icons_planets.dds"
+	pixelBox [ 231 , 673 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANET_SHATTERED_MOON"
+	content "Simple"
+	fileName "Icons_planets.dds"
+	pixelBox [ 790 , 1006 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANET_SHIP_GRAVEYARD"
+	content "Simple"
+	fileName "Icons_planets.dds"
+	pixelBox [ 813 , 1006 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANET_ASTEROID0"
+	content "Simple"
+	fileName "Icons_planets.dds"
+	pixelBox [ 93 , 626 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANET_ASTEROID1"
+	content "Simple"
+	fileName "Icons_planets.dds"
+	pixelBox [ 93 , 649 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANET_ASTEROID2"
+	content "Simple"
+	fileName "Icons_planets.dds"
+	pixelBox [ 93 , 672 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANET_ASTEROID3"
+	content "Simple"
+	fileName "Icons_planets.dds"
+	pixelBox [ 116 , 626 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANET_ASTEROID4"
+	content "Simple"
+	fileName "Icons_planets.dds"
+	pixelBox [ 116 , 649 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANET_ASTEROIDBELT"
+	content "Simple"
+	fileName "Icons_planets.dds"
+	pixelBox [ 139 , 649 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANET_ASTEROIDCRESCENT"
+	content "Simple"
+	fileName "Icons_planets.dds"
+	pixelBox [ 126 , 672 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANET_ASTEROIDFIELD"
+	content "Simple"
+	fileName "Icons_planets.dds"
+	pixelBox [ 139 , 672 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANET_ASTEROIDLINE"
+	content "Simple"
+	fileName "Icons_planets.dds"
+	pixelBox [ 162 , 672 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANET_ASTEROIDSPACEJUNK0"
+	content "Simple"
+	fileName "Icons_planets.dds"
+	pixelBox [ 208 , 672 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANET_ASTEROIDSPACEJUNK1"
+	content "Simple"
+	fileName "Icons_planets.dds"
+	pixelBox [ 208 , 672 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANET_ASTEROIDSPACEJUNK2"
+	content "Simple"
+	fileName "Icons_planets.dds"
+	pixelBox [ 208 , 672 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANET_PIRATEBASE"
+	content "Simple"
+	fileName "Icons_planets.dds"
+	pixelBox [ 162 , 626 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANET_DEADASTEROID0"
+	content "Simple"
+	fileName "Icons_planets.dds"
+	pixelBox [ 116 , 672 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANET_DEADASTEROID1"
+	content "Simple"
+	fileName "Icons_planets.dds"
+	pixelBox [ 116 , 672 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANET_DEADASTEROID2"
+	content "Simple"
+	fileName "Icons_planets.dds"
+	pixelBox [ 116 , 672 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANET_DEADASTEROID3"
+	content "Simple"
+	fileName "Icons_planets.dds"
+	pixelBox [ 116 , 672 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANET_DEADASTEROID4"
+	content "Simple"
+	fileName "Icons_planets.dds"
+	pixelBox [ 116 , 672 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANET_ARTIFACT_GALAXYTRAVEL"
+	content "Simple"
+	fileName "PlanetBonuses.dds"
+	pixelBox [ 0 , 0 , 0 , 0 ]
+brush
+	name "INFOCARDICON_PLANET_ARTIFACT_HULLREPAIROVERTIMEINCREASE"
+	content "Simple"
+	fileName "PlanetBonuses.dds"
+	pixelBox [ 0 , 0 , 0 , 0 ]
+brush
+	name "INFOCARDICON_PLANET_ARTIFACT_HYPERSPACESPEED"
+	content "Simple"
+	fileName "PlanetBonuses.dds"
+	pixelBox [ 0 , 0 , 0 , 0 ]
+brush
+	name "INFOCARDICON_PLANET_ARTIFACT_MODULEBUILDTIMEREDUCTION"
+	content "Simple"
+	fileName "PlanetBonuses.dds"
+	pixelBox [ 0 , 0 , 0 , 0 ]
+brush
+	name "INFOCARDICON_PLANET_ARTIFACT_PASSIVEREGENANTIMATTER"
+	content "Simple"
+	fileName "PlanetBonuses.dds"
+	pixelBox [ 0 , 0 , 0 , 0 ]
+brush
+	name "INFOCARDICON_PLANET_ARTIFACT_RESEARCHARCHIVE"
+	content "Simple"
+	fileName "PlanetBonuses.dds"
+	pixelBox [ 0 , 0 , 0 , 0 ]
+brush
+	name "INFOCARDICON_PLANET_ARTIFACT_SHIPBUILDTIMEREDUCTION"
+	content "Simple"
+	fileName "PlanetBonuses.dds"
+	pixelBox [ 0 , 0 , 0 , 0 ]
+brush
+	name "INFOCARDICON_PLANET_ARTIFACT_WEAPONBOOST"
+	content "Simple"
+	fileName "PlanetBonuses.dds"
+	pixelBox [ 0 , 0 , 0 , 0 ]
+brush
+	name "HUDICON_PLANETBONUS_CAVERNSYSTEM"
+	content "Simple"
+	fileName "PlanetBonuses.dds"
+	pixelBox [ 2 , 123 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_CRYSTALMINERS"
+	content "Simple"
+	fileName "PlanetBonuses.dds"
+	pixelBox [ 27 , 123 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_DUSTSTORMS"
+	content "Simple"
+	fileName "PlanetBonuses.dds"
+	pixelBox [ 127 , 3 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_HIGHGRAVITY"
+	content "Simple"
+	fileName "PlanetBonuses.dds"
+	pixelBox [ 52 , 123 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_HUGEGLACIERS"
+	content "Simple"
+	fileName "PlanetBonuses.dds"
+	pixelBox [ 77 , 123 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_LOWGRAVITY"
+	content "Simple"
+	fileName "PlanetBonuses.dds"
+	pixelBox [ 102 , 123 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_MEDICINALPLANTS"
+	content "Simple"
+	fileName "PlanetBonuses.dds"
+	pixelBox [ 127 , 123 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_MEGAFAUNA"
+	content "Simple"
+	fileName "PlanetBonuses.dds"
+	pixelBox [ 102 , 51 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_METALMINERS"
+	content "Simple"
+	fileName "PlanetBonuses.dds"
+	pixelBox [ 27 , 147 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_PENALCOLONY"
+	content "Simple"
+	fileName "PlanetBonuses.dds"
+	pixelBox [ 2 , 99 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_PIRATETREASURE"
+	content "Simple"
+	fileName "PlanetBonuses.dds"
+	pixelBox [ 27 , 99 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_RAREMETALDEPOSITS0"
+	content "Simple"
+	fileName "PlanetBonuses.dds"
+	pixelBox [ 52 , 147 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_SALVAGEROUTPOST"
+	content "Simple"
+	fileName "PlanetBonuses.dds"
+	pixelBox [ 102 , 75 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_SPICETRADE"
+	content "Simple"
+	fileName "PlanetBonuses.dds"
+	pixelBox [ 27 , 27 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_SURPLUSFOODSTUFFS"
+	content "Simple"
+	fileName "PlanetBonuses.dds"
+	pixelBox [ 77 , 147 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_THERMALLIFT"
+	content "Simple"
+	fileName "PlanetBonuses.dds"
+	pixelBox [ 2 , 27 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_VACATIONCENTER"
+	content "Simple"
+	fileName "PlanetBonuses.dds"
+	pixelBox [ 127 , 147 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_WEAPONSTESTGROUNDS"
+	content "Simple"
+	fileName "PlanetBonuses.dds"
+	pixelBox [ 27 , 75 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANET_ANCIENTS"
+	content "Simple"
+	fileName "Icons_planets_maelstrom.dds"
+	pixelBox [ 1 , 626 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANET_BINARY"
+	content "Simple"
+	fileName "Icons_planets_maelstrom.dds"
+	pixelBox [ 1 , 649 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANET_FORTIFIED"
+	content "Simple"
+	fileName "Icons_planets_maelstrom.dds"
+	pixelBox [ 1 , 672 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANET_GAS"
+	content "Simple"
+	fileName "Icons_planets_maelstrom.dds"
+	pixelBox [ 24 , 626 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANET_INDUSTRIAL"
+	content "Simple"
+	fileName "Icons_planets_maelstrom.dds"
+	pixelBox [ 24 , 649 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANET_METROPOLIS"
+	content "Simple"
+	fileName "Icons_planets_maelstrom.dds"
+	pixelBox [ 24 , 672 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANET_MINERAL"
+	content "Simple"
+	fileName "Icons_planets_maelstrom.dds"
+	pixelBox [ 47 , 626 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANET_WATER"
+	content "Simple"
+	fileName "Icons_planets_maelstrom.dds"
+	pixelBox [ 47 , 649 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_ANCIENTSTAX"
+	content "Simple"
+	fileName "PlanetBonuses_maelstrom.dds"
+	pixelBox [ 1 , 3 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_ANCIENTSPLANETHEALTH"
+	content "Simple"
+	fileName "PlanetBonuses_maelstrom.dds"
+	pixelBox [ 27 , 147 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_ANCIENTSBASIC"
+	content "Simple"
+	fileName "PlanetBonuses_maelstrom.dds"
+	pixelBox [ 102 , 123 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_BINARYPOP"
+	content "Simple"
+	fileName "PlanetBonuses_maelstrom.dds"
+	pixelBox [ 2 , 147 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_BINARYORBITALSLOT"
+	content "Simple"
+	fileName "PlanetBonuses_maelstrom.dds"
+	pixelBox [ 52 , 75 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_BINARYBASIC"
+	content "Simple"
+	fileName "PlanetBonuses_maelstrom.dds"
+	pixelBox [ 52 , 3 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_FORTIFIEDTACTICAL"
+	content "Simple"
+	fileName "PlanetBonuses_maelstrom.dds"
+	pixelBox [ 27 , 51 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_FORTIFIEDHEALTH"
+	content "Simple"
+	fileName "PlanetBonuses_maelstrom.dds"
+	pixelBox [ 27 , 147 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_FORTIFIEDBASIC"
+	content "Simple"
+	fileName "PlanetBonuses_maelstrom.dds"
+	pixelBox [ 127 , 99 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_GASTACTICAL"
+	content "Simple"
+	fileName "PlanetBonuses_maelstrom.dds"
+	pixelBox [ 127 , 27 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_GASMETAL"
+	content "Simple"
+	fileName "PlanetBonuses_maelstrom.dds"
+	pixelBox [ 77 , 102 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_GASBASIC"
+	content "Simple"
+	fileName "PlanetBonuses_maelstrom.dds"
+	pixelBox [ 102 , 3 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_INDUSTRIALBUILDRATE"
+	content "Simple"
+	fileName "PlanetBonuses_maelstrom.dds"
+	pixelBox [ 2 , 171 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_INDUSTRIALBUILDCOST"
+	content "Simple"
+	fileName "PlanetBonuses_maelstrom.dds"
+	pixelBox [ 2 , 51 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_INDUSTRIALBASIC"
+	content "Simple"
+	fileName "PlanetBonuses_maelstrom.dds"
+	pixelBox [ 77 , 123 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_METROPOLISPLANETHEALTH"
+	content "Simple"
+	fileName "PlanetBonuses_maelstrom.dds"
+	pixelBox [ 102 , 147 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_METROPOLISCULTURE"
+	content "Simple"
+	fileName "PlanetBonuses_maelstrom.dds"
+	pixelBox [ 27 , 171 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_METROPOLISBASIC"
+	content "Simple"
+	fileName "PlanetBonuses_maelstrom.dds"
+	pixelBox [ 102 , 171 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_MINERALMETAL"
+	content "Simple"
+	fileName "PlanetBonuses_maelstrom.dds"
+	pixelBox [ 77 , 99 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_MINERALCRYSTAL"
+	content "Simple"
+	fileName "PlanetBonuses_maelstrom.dds"
+	pixelBox [ 102 , 99 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_MINERALBASIC"
+	content "Simple"
+	fileName "PlanetBonuses_maelstrom.dds"
+	pixelBox [ 77 , 51 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_WATERCRYSTAL"
+	content "Simple"
+	fileName "PlanetBonuses_maelstrom.dds"
+	pixelBox [ 127 , 171 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_WATERORBITALSLOT"
+	content "Simple"
+	fileName "PlanetBonuses_maelstrom.dds"
+	pixelBox [ 52 , 75 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_WATERBASIC"
+	content "Simple"
+	fileName "PlanetBonuses_maelstrom.dds"
+	pixelBox [ 52 , 147 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANET_ARTIFICAL"
+	content "Simple"
+	fileName "Icons_planets_maelstrom.dds"
+	pixelBox [ 70 , 626 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANET_AURA"
+	content "Simple"
+	fileName "Icons_planets_maelstrom.dds"
+	pixelBox [ 47 , 672 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANET_EXTINCT"
+	content "Simple"
+	fileName "Icons_planets_maelstrom.dds"
+	pixelBox [ 70 , 649 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANET_AURORA"
+	content "Simple"
+	fileName "Icons_planets_maelstrom.dds"
+	pixelBox [ 93 , 626 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANET_CHTHONIAN"
+	content "Simple"
+	fileName "Icons_planets_maelstrom.dds"
+	pixelBox [ 93 , 649 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANET_DIASPORIAN"
+	content "Simple"
+	fileName "Icons_planets_maelstrom.dds"
+	pixelBox [ 93 , 672 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANET_DYSONSPHERE"
+	content "Simple"
+	fileName "Icons_planets_maelstrom.dds"
+	pixelBox [ 116 , 626 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANET_ENIGMA"
+	content "Simple"
+	fileName "Icons_planets_maelstrom.dds"
+	pixelBox [ 116 , 649 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANET_FRIGIAN"
+	content "Simple"
+	fileName "Icons_planets_maelstrom.dds"
+	pixelBox [ 116 , 674 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANET_HYPERION"
+	content "Simple"
+	fileName "Icons_planets_maelstrom.dds"
+	pixelBox [ 139 , 626 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANET_LEGENDARY"
+	content "Simple"
+	fileName "Icons_planets_maelstrom.dds"
+	pixelBox [ 70 , 674 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANET_MINING"
+	content "Simple"
+	fileName "Icons_planets_maelstrom.dds"
+	pixelBox [ 139 , 649 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANET_NEOLUNA"
+	content "Simple"
+	fileName "Icons_planets_maelstrom.dds"
+	pixelBox [ 139 , 674 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANET_NOVATERRAN"
+	content "Simple"
+	fileName "Icons_planets_maelstrom.dds"
+	pixelBox [ 162 , 626 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANET_PARADISE"
+	content "Simple"
+	fileName "Icons_planets_maelstrom.dds"
+	pixelBox [ 162 , 649 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANET_RING"
+	content "Simple"
+	fileName "Icons_planets_maelstrom.dds"
+	pixelBox [ 162 , 674 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANET_TEMPEST"
+	content "Simple"
+	fileName "Icons_planets_maelstrom.dds"
+	pixelBox [ 185 , 626 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANET_TOXIC"
+	content "Simple"
+	fileName "Icons_planets_maelstrom.dds"
+	pixelBox [ 185 , 649 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANET_UTOPIAN"
+	content "Simple"
+	fileName "Icons_planets_maelstrom.dds"
+	pixelBox [ 185 , 674 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANET_ICEGIANT"
+	content "Simple"
+	fileName "Icons_planets_maelstrom.dds"
+	pixelBox [ 208 , 626 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANET_ROCKGIANT"
+	content "Simple"
+	fileName "Icons_planets_maelstrom.dds"
+	pixelBox [ 208 , 649 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANET_TERRANGIANT"
+	content "Simple"
+	fileName "Icons_planets_maelstrom.dds"
+	pixelBox [ 208 , 674 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANET_JUNGLE"
+	content "Simple"
+	fileName "Icons_planets_maelstrom.dds"
+	pixelBox [ 231 , 626 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANET_FRACTURED"
+	content "Simple"
+	fileName "Icons_planets_maelstrom.dds"
+	pixelBox [ 231 , 674 , 22 , 22 ]

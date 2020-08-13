@@ -1,0 +1,42 @@
+﻿TXT2
+SinsArchiveVersion 194
+entityType "Buff"
+onReapplyDuplicateType "PrioritizeNewBuffs"
+buffStackingLimitType "ForAllPlayers"
+stackingLimit -1
+buffExclusivityForAIType "NotExclusive"
+isInterruptable FALSE
+isChannelling FALSE
+numInstantActions 2
+instantAction
+	buffInstantActionType "RestoreHullPoints"
+	instantActionTriggerType "OnDelay"
+	delayTime 0.00000
+	hull
+		Level:0 250.000000
+		Level:1 500.000000
+		Level:2 750.000000
+		Level:3 0.000000
+instantAction
+	buffInstantActionType "RestoreShieldPoints"
+	instantActionTriggerType "OnDelay"
+	delayTime 0.00000
+	shields
+		Level:0 250.000000
+		Level:1 500.000000
+		Level:2 750.000000
+		Level:3 0.000000
+numPeriodicActions 0
+numOverTimeActions 0
+numEntityModifiers 0
+numEntityBoolModifiers 0
+numFinishConditions 2
+finishCondition
+	finishConditionType "OwnerChanged"
+finishCondition
+	finishConditionType "TimeElapsed"
+	time
+		Level:0 30.000000
+		Level:1 30.000000
+		Level:2 30.000000
+		Level:3 0.000000

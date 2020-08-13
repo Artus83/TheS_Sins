@@ -1,0 +1,634 @@
+TXT2
+SinsArchiveVersion 194
+onlyLoadOnDemand FALSE
+brushCount 126
+brush
+	name "PLANETMODULEPICTURE_TECHORBITALTITANFACTORY"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 1872 , 158 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_PSIORBITALTITANFACTORY"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 1872 , 618 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_PHASEORBITALTITANFACTORY"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 1362 , 938 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_TECHORBITALFRIGATEFACTORY"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 512 , 2 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_TECHORBITALCAPITALSHIPFACTORY"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 682 , 2 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_TECHORBITALCULTURECENTER"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 1022 , 2 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_TECHORBITALHANGARDEFENSE"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 172 , 2 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_TECHORBITALGAUSSDEFENSE"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 2 , 2 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_TECHORBITALSHIELDGENERATOR"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 682 , 80 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_TECHORBITALREPAIRPLATFORM"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 852 , 2 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_TECHORBITALCOMBATLABORATORY"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 1192 , 2 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_TECHORBITALNONCOMBATLABORATORY"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 1192 , 80 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_TECHORBITALTRADEPORT"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 1362 , 2 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_TECHORBITALREFINERY"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 172 , 85 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_TECHORBITALMETALEXTRACTOR"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 342 , 80 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_TECHORBITALCRYSTALEXTRACTOR"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 512 , 80 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_TECHORBITALJUMPBLOCKER"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 342 , 2 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_TECHORBITALCANNON"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 1532 , 2 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_PIRATEORBITALGAUSSDEFENSE"
+	content "Simple"
+	fileName "Unit_Picture_Pirates.dds"
+	pixelBox [ 1362 , 236 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_PSIORBITALFRIGATEFACTORY"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 512 , 158 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_PSIORBITALCAPITALSHIPFACTORY"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 682 , 158 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_PSIORBITALCULTURECENTER"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 1022 , 158 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_PSIORBITALHANGARDEFENSE"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 172 , 158 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_PSIORBITALBEAMDEFENSE"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 2 , 158 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_PSIORBITALREPAIRPLATFORM"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 852 , 158 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_PSIORBITALCOMBATLABORATORY"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 1192 , 236 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_PSIORBITALNONCOMBATLABORATORY"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 1192 , 158 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_PSIORBITALANTIMATTERRECHARGER"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 682 , 236 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_PSIORBITALTRADEPORT"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 1362 , 158 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_PSIORBITALREFINERY"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 172 , 236 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_PSIORBITALMETALEXTRACTOR"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 342 , 236 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_PSIORBITALCRYSTALEXTRACTOR"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 512 , 236 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_PSIORBITALJUMPBLOCKER"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 342 , 158 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_PSIORBITALCANNON"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 1532 , 158 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_PHASEORBITALFRIGATEFACTORY"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 512 , 314 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_PHASEORBITALCAPITALSHIPFACTORY"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 682 , 314 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_PHASEORBITALCULTURECENTER"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 1022 , 314 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_PHASEORBITALHANGARDEFENSE"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 172 , 314 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_PHASEORBITALMISSILEDEFENSE"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 2 , 314 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_PHASEORBITALREPAIRPLATFORM"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 852 , 314 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_PHASEORBITALCOMBATLABORATORY"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 1192 , 392 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_PHASEORBITALNONCOMBATLABORATORY"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 1192 , 314 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_PHASEORBITALPHASEGATE"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 682 , 392 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_PHASEORBITALNANOWEAPONJAMMER"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 852 , 392 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_PHASEORBITALTRADEPORT"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 1362 , 314 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_PHASEORBITALREFINERY"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 172 , 392 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_PHASEORBITALMETALEXTRACTOR"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 342 , 392 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_PHASEORBITALCRYSTALEXTRACTOR"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 512 , 392 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_PHASEORBITALJUMPBLOCKER"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 342 , 314 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_PHASEORBITALCANNON"
+	content "Simple"
+	fileName "Unit_Picture.dds"
+	pixelBox [ 1532 , 314 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_ORBITALDREADNOUGHTFACTORY_Phase"
+	content "Simple"
+	fileName "Unit_Picture_Maelstrom.dds"
+	pixelBox [ 1532 , 392 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_ORBITALDREADNOUGHTFACTORY_Psi"
+	content "Simple"
+	fileName "Unit_Picture_Maelstrom.dds"
+	pixelBox [ 1532 , 236 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_ORBITALDREADNOUGHTFACTORY_Tech"
+	content "Simple"
+	fileName "Unit_Picture_Maelstrom.dds"
+	pixelBox [ 1532 , 80 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_PIRATEORBITALCAPITALSHIPFACTORY"
+	content "Simple"
+	fileName "Unit_Picture_Pirates.dds"
+	pixelBox [ 1872 , 236 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_PIRATEORBITALCOMBATLABORATORY"
+	content "Simple"
+	fileName "Unit_Picture_Pirates.dds"
+	pixelBox [ 1702 , 236 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_PIRATEORBITALCULTURECENTER"
+	content "Simple"
+	fileName "Unit_Picture_Pirates.dds"
+	pixelBox [ 1532 , 236 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_PIRATEORBITALFRIGATEFACTORY"
+	content "Simple"
+	fileName "Unit_Picture_Pirates.dds"
+	pixelBox [ 1022 , 236 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_PIRATEORBITALNONCOMBATLABORATORY"
+	content "Simple"
+	fileName "Unit_Picture_Pirates.dds"
+	pixelBox [ 682 , 236 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_PIRATEORBITALTRADEPORT"
+	content "Simple"
+	fileName "Unit_Picture_Pirates.dds"
+	pixelBox [ 172 , 236 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_ORBITALFRIGATEFACTORY_Norlamins"
+	content "Simple"
+	fileName "Unit_Picture_Norlamins.dds"
+	pixelBox [ 2 , 158 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_ORBITALCAPITALSHIPFACTORY_Norlamins"
+	content "Simple"
+	fileName "Unit_Picture_Norlamins.dds"
+	pixelBox [ 172 , 158 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_ORBITALCULTURECENTER_Norlamins"
+	content "Simple"
+	fileName "Unit_Picture_Norlamins.dds"
+	pixelBox [ 682 , 158 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_ORBITALHANGARDEFENSE_Norlamins"
+	content "Simple"
+	fileName "Unit_Picture_Norlamins.dds"
+	pixelBox [ 1362 , 158 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_ORBITALBEAMDEFENSE_Norlamins"
+	content "Simple"
+	fileName "Unit_Picture_Norlamins.dds"
+	pixelBox [ 1192 , 158 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_ORBITALCOMBATLABORATORY_Norlamins"
+	content "Simple"
+	fileName "Unit_Picture_Norlamins.dds"
+	pixelBox [ 1022 , 158 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_ORBITALNONCOMBATLABORATORY_Norlamins"
+	content "Simple"
+	fileName "Unit_Picture_Norlamins.dds"
+	pixelBox [ 852 , 158 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_ORBITALMETALEXTRACTOR_Norlamins"
+	content "Simple"
+	fileName "Unit_Picture_Norlamins.dds"
+	pixelBox [ 342 , 158 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_ORBITALCRYSTALEXTRACTOR_Norlamins"
+	content "Simple"
+	fileName "Unit_Picture_Norlamins.dds"
+	pixelBox [ 512 , 158 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_ORBITALREFINERY_Norlamins"
+	content "Simple"
+	fileName "Unit_Picture_Norlamins.dds"
+	pixelBox [ 2 , 236 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_ORBITALTRADEPORT_Norlamins"
+	content "Simple"
+	fileName "Unit_Picture_Norlamins.dds"
+	pixelBox [ 172 , 236 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_ORBITALREPAIRPLATFORM_Norlamins"
+	content "Simple"
+	fileName "Unit_Picture_Norlamins.dds"
+	pixelBox [ 512 , 236 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_ORBITALJUMPBLOCKER_Norlamins"
+	content "Simple"
+	fileName "Unit_Picture_Norlamins.dds"
+	pixelBox [ 682 , 236 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_ORBITALCANNON_Norlamins"
+	content "Simple"
+	fileName "Unit_Picture_Norlamins.dds"
+	pixelBox [ 852 , 236 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_COSMICRAYCOLLECTOR_Norlamins"
+	content "Simple"
+	fileName "Unit_Picture_Norlamins.dds"
+	pixelBox [ 1022 , 236 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_ORBITALDREADNOUGHTFACTORY_Norlamins"
+	content "Simple"
+	fileName "Unit_Picture_Norlamins.dds"
+	pixelBox [ 1532 , 158 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_ORBITALTITAN_Norlamins"
+	content "Simple"
+	fileName "Unit_Picture_Norlamins.dds"
+	pixelBox [ 2 , 314 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_ORBITALFRIGATEFACTORY_TradeAlliance"
+	content "Simple"
+	fileName "Unit_Picture_TradeAlliance.dds"
+	pixelBox [ 2 , 158 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_ORBITALCAPITALSHIPFACTORY_TradeAlliance"
+	content "Simple"
+	fileName "Unit_Picture_TradeAlliance.dds"
+	pixelBox [ 172 , 158 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_ORBITALCULTURECENTER_TradeAlliance"
+	content "Simple"
+	fileName "Unit_Picture_TradeAlliance.dds"
+	pixelBox [ 682 , 158 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_ORBITALHANGARDEFENSE_TradeAlliance"
+	content "Simple"
+	fileName "Unit_Picture_TradeAlliance.dds"
+	pixelBox [ 1362 , 158 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_ORBITALBEAMDEFENSE_TradeAlliance"
+	content "Simple"
+	fileName "Unit_Picture_TradeAlliance.dds"
+	pixelBox [ 1192 , 158 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_ORBITALCOMBATLABORATORY_TradeAlliance"
+	content "Simple"
+	fileName "Unit_Picture_TradeAlliance.dds"
+	pixelBox [ 1022 , 158 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_ORBITALNONCOMBATLABORATORY_TradeAlliance"
+	content "Simple"
+	fileName "Unit_Picture_TradeAlliance.dds"
+	pixelBox [ 852 , 158 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_ORBITALMETALEXTRACTOR_TradeAlliance"
+	content "Simple"
+	fileName "Unit_Picture_TradeAlliance.dds"
+	pixelBox [ 342 , 158 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_ORBITALCRYSTALEXTRACTOR_TradeAlliance"
+	content "Simple"
+	fileName "Unit_Picture_TradeAlliance.dds"
+	pixelBox [ 512 , 158 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_ORBITALREFINERY_TradeAlliance"
+	content "Simple"
+	fileName "Unit_Picture_TradeAlliance.dds"
+	pixelBox [ 2 , 236 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_ORBITALTRADEPORT_TradeAlliance"
+	content "Simple"
+	fileName "Unit_Picture_TradeAlliance.dds"
+	pixelBox [ 172 , 236 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_ORBITALSHIELDGENERATOR_TradeAlliance"
+	content "Simple"
+	fileName "Unit_Picture_TradeAlliance.dds"
+	pixelBox [ 342 , 236 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_ORBITALREPAIRPLATFORM_TradeAlliance"
+	content "Simple"
+	fileName "Unit_Picture_TradeAlliance.dds"
+	pixelBox [ 512 , 236 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_ORBITALJUMPBLOCKER_TradeAlliance"
+	content "Simple"
+	fileName "Unit_Picture_TradeAlliance.dds"
+	pixelBox [ 682 , 236 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_ORBITALCANNON_TradeAlliance"
+	content "Simple"
+	fileName "Unit_Picture_TradeAlliance.dds"
+	pixelBox [ 852 , 236 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_ORBITALDREADNOUGHTFACTORY_TradeAlliance"
+	content "Simple"
+	fileName "Unit_Picture_TradeAlliance.dds"
+	pixelBox [ 1192 , 314 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_ORBITALTITAN_TradeAlliance"
+	content "Simple"
+	fileName "Unit_Picture_TradeAlliance.dds"
+	pixelBox [ 1022 , 314 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_ORBITALFRIGATEFACTORY_Replicators"
+	content "Simple"
+	fileName "Unit_Picture_Replicators.dds"
+	pixelBox [ 2 , 158 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_ORBITALCAPITALSHIPFACTORY_Replicators"
+	content "Simple"
+	fileName "Unit_Picture_Replicators.dds"
+	pixelBox [ 172 , 158 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_ORBITALCULTURECENTER_Replicators"
+	content "Simple"
+	fileName "Unit_Picture_Replicators.dds"
+	pixelBox [ 682 , 158 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_ORBITALHANGARDEFENSE_Replicators"
+	content "Simple"
+	fileName "Unit_Picture_Replicators.dds"
+	pixelBox [ 1362 , 158 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_ORBITALBEAMDEFENSE_Replicators"
+	content "Simple"
+	fileName "Unit_Picture_Replicators.dds"
+	pixelBox [ 1192 , 158 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_ORBITALCOMBATLABORATORY_Replicators"
+	content "Simple"
+	fileName "Unit_Picture_Replicators.dds"
+	pixelBox [ 1022 , 158 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_ORBITALNONCOMBATLABORATORY_Replicators"
+	content "Simple"
+	fileName "Unit_Picture_Replicators.dds"
+	pixelBox [ 852 , 158 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_ORBITALMETALEXTRACTOR_Replicators"
+	content "Simple"
+	fileName "Unit_Picture_Replicators.dds"
+	pixelBox [ 342 , 158 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_ORBITALCRYSTALEXTRACTOR_Replicators"
+	content "Simple"
+	fileName "Unit_Picture_Replicators.dds"
+	pixelBox [ 512 , 158 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_ORBITALBEAMDEFENSETHUMPER_Replicators"
+	content "Simple"
+	fileName "Unit_Picture_Replicators.dds"
+	pixelBox [ 1192 , 2 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_ORBITALBEAMDEFENSETRACTOR_Replicators"
+	content "Simple"
+	fileName "Unit_Picture_Replicators.dds"
+	pixelBox [ 1362 , 2 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_ORBITALDREADNOUGHTFACTORY_Replicators"
+	content "Simple"
+	fileName "Unit_Picture_Replicators.dds"
+	pixelBox [ 172 , 314 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_ORBITALANTIMATTERRECHARGER_Replicators"
+	content "Simple"
+	fileName "Unit_Picture_Replicators.dds"
+	pixelBox [ 512 , 314 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_ORBITALCANNON_Replicators"
+	content "Simple"
+	fileName "Unit_Picture_Replicators.dds"
+	pixelBox [ 342 , 314 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_ORBITALCYBERNETICSFACTORY_Replicators"
+	content "Simple"
+	fileName "Unit_Picture_Replicators.dds"
+	pixelBox [ 1532 , 158 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_ORBITALNANITEPLANT_Replicators"
+	content "Simple"
+	fileName "Unit_Picture_Replicators.dds"
+	pixelBox [ 2 , 314 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_ORBITALTITAN_Replicators"
+	content "Simple"
+	fileName "Unit_Picture_Replicators.dds"
+	pixelBox [ 682 , 236 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_ORBITALFRIGATEFACTORY_Pirates"
+	content "Simple"
+	fileName "Unit_Picture_Pirates.dds"
+	pixelBox [ 2 , 158 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_ORBITALCAPITALSHIPFACTORY_Pirates"
+	content "Simple"
+	fileName "Unit_Picture_Pirates.dds"
+	pixelBox [ 172 , 158 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_ORBITALCULTURECENTER_Pirates"
+	content "Simple"
+	fileName "Unit_Picture_Pirates.dds"
+	pixelBox [ 682 , 158 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_ORBITALHANGARDEFENSE_Pirates"
+	content "Simple"
+	fileName "Unit_Picture_Pirates.dds"
+	pixelBox [ 1362 , 158 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_ORBITALBEAMDEFENSE_Pirates"
+	content "Simple"
+	fileName "Unit_Picture_Pirates.dds"
+	pixelBox [ 1192 , 158 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_ORBITALCOMBATLABORATORY_Pirates"
+	content "Simple"
+	fileName "Unit_Picture_Pirates.dds"
+	pixelBox [ 1022 , 158 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_ORBITALNONCOMBATLABORATORY_Pirates"
+	content "Simple"
+	fileName "Unit_Picture_Pirates.dds"
+	pixelBox [ 852 , 158 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_ORBITALMETALEXTRACTOR_Pirates"
+	content "Simple"
+	fileName "Unit_Picture_Pirates.dds"
+	pixelBox [ 342 , 158 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_ORBITALCRYSTALEXTRACTOR_Pirates"
+	content "Simple"
+	fileName "Unit_Picture_Pirates.dds"
+	pixelBox [ 512 , 158 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_ORBITALREFINERY_Pirates"
+	content "Simple"
+	fileName "Unit_Picture_Pirates.dds"
+	pixelBox [ 2 , 236 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_ORBITALTRADEPORT_Pirates"
+	content "Simple"
+	fileName "Unit_Picture_Pirates.dds"
+	pixelBox [ 172 , 236 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_ORBITALREPAIRPLATFORM_Pirates"
+	content "Simple"
+	fileName "Unit_Picture_Pirates.dds"
+	pixelBox [ 512 , 236 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_ORBITALJUMPBLOCKER_Pirates"
+	content "Simple"
+	fileName "Unit_Picture_Pirates.dds"
+	pixelBox [ 682 , 236 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_ORBITALCANNON_Pirates"
+	content "Simple"
+	fileName "Unit_Picture_Pirates.dds"
+	pixelBox [ 852 , 236 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_ORBITALDREADNOUGHTFACTORY_Pirates"
+	content "Simple"
+	fileName "Unit_Picture_Pirates.dds"
+	pixelBox [ 1532 , 158 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_ORBITALTITAN_Pirates"
+	content "Simple"
+	fileName "Unit_Picture_Pirates.dds"
+	pixelBox [ 2 , 314 , 167 , 75 ]

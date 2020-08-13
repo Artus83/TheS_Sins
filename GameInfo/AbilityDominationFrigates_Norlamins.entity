@@ -1,0 +1,66 @@
+﻿TXT2
+SinsArchiveVersion 194
+entityType "Ability"
+buffInstantActionType "ApplyBuffToTarget"
+instantActionTriggerType "AlwaysPerform"
+buffType "BuffDomination_Norlamins"
+targetFilter
+	numOwnerships 1
+	ownership "Enemy"
+	numObjects 1
+	object "Frigate"
+	numSpaces 1
+	space "Normal"
+	numConstraints 1
+	constraint "CanHaveShields"
+range
+	Level:0 5000.000000
+	Level:1 0.000000
+	Level:2 0.000000
+	Level:3 0.000000
+effectInfo
+	effectAttachInfo
+		attachType "Center"
+	smallEffectName "Ability_DominationActivate"
+	mediumEffectName ""
+	largeEffectName "Ability_DominationActivate"
+	soundID "EFFECT_DOMINATION"
+needsToFaceTarget FALSE
+canCollideWithTarget TRUE
+moveThruTarget FALSE
+isUltimateAbility FALSE
+maxNumLevels 1
+levelSourceType "ResearchWithBase"
+baseSourceResearchSubject "RESEARCHSUBJECT_ABILITYACCESS_DominationFrigate_Norlamins"
+improveSourceResearchSubject "RESEARCHSUBJECT_ABILITYACCESS_DominationFrigate_Norlamins"
+aiUseTime "OnlyInCombat"
+aiUseTargetCondition "Any"
+isAutoCastAvailable TRUE
+isAutoCastOnByDefault TRUE
+pickRandomPlanetToExploreForAutoCastTarget FALSE
+ignoreNonCombatShipsForAutoCastTarget TRUE
+onlyAutoCastWhenDamageTakenExceedsPerc 0.000000
+useCostType "AntiMatter"
+antiMatterCost
+	Level:0 200.000000
+	Level:1 0.000000
+	Level:2 0.000000
+	Level:3 0.000000
+cooldownTime
+	Level:0 360.000000
+	Level:1 0.000000
+	Level:2 0.000000
+	Level:3 0.000000
+orderAcknowledgementType "ONATTACKORDERISSUED"
+researchPrerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCHSUBJECT_ABILITYACCESS_DominationFrigate_Norlamins"
+		Level 1
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+nameStringID "IDS_ABILITY_DominationFrigates_NAME_Norlamins"
+descStringID "IDS_ABILITY_DominationFrigates_DESCRIPTION_Norlamins"
+hudIcon "HUDICON_ABILITY_DominationFrigates_Norlamins"
+smallHudIcon "HUDICON_ABILITY_DominationFrigates_Norlamins"
+infoCardIcon ""

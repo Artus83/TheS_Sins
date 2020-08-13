@@ -1,0 +1,57 @@
+﻿TXT2
+SinsArchiveVersion 194
+entityType "Ability"
+buffInstantActionType "SpawnShipsAtPlanet"
+instantActionTriggerType "AlwaysPerform"
+spawnShipsLevelCount 1
+spawnShips
+	minFleetPoints 21.000000
+	maxFleetPoints 22.000000
+	requiredShipCount 0
+	randomShipCount 1
+	randomShip
+		type "Frigate_Heavy_Replicators"
+		weight 1
+spawnShipsArrivalDelayTime 1.000000
+spawnShipsHyperspaceSpawnType "FleetBeacon"
+shouldAdoptFirstSpawnersMinorFactionState TRUE
+spawnShipsMinStartingHullPerc 1.000000
+spawnShipsMaxStartingHullPerc 1.000000
+needsToFaceTarget FALSE
+canCollideWithTarget TRUE
+moveThruTarget FALSE
+isUltimateAbility FALSE
+maxNumLevels 1
+levelSourceType "ResearchWithoutBase"
+improveSourceResearchSubject "RESEARCHSUBJECT_ABILITYACCESS_DEPLOYFRIGATE_HEAVY_Replicators"
+aiUseTime "OnlyWhenTakingDamage"
+aiUseTargetCondition "Invalid"
+isAutoCastAvailable TRUE
+isAutoCastOnByDefault TRUE
+pickRandomPlanetToExploreForAutoCastTarget FALSE
+ignoreNonCombatShipsForAutoCastTarget TRUE
+onlyAutoCastWhenDamageTakenExceedsPerc 0.000000
+useCostType "AntiMatter"
+antiMatterCost
+	Level:0 100.000000
+	Level:1 0.000000
+	Level:2 0.000000
+	Level:3 0.000000
+cooldownTime
+	Level:0 900.000000
+	Level:1 0.000000
+	Level:2 0.000000
+	Level:3 0.000000
+orderAcknowledgementType "ONGENERALORDERISSUED"
+researchPrerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCHSUBJECT_ABILITYACCESS_DEPLOYFRIGATE_HEAVY_Replicators"
+		Level 1
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+nameStringID "IDS_ABILITY_DeployFrigate_Heavy_NAME_Replicators"
+descStringID "IDS_ABILITY_DeployFrigate_Heavy_DESCRIPTION_Replicators"
+hudIcon "HUDICON_ABILITY_DeployFrigate_Heavy_Replicators"
+smallHudIcon "HUDICON_ABILITY_DeployFrigate_Heavy_Replicators"
+infoCardIcon ""

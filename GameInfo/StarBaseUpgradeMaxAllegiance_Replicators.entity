@@ -1,0 +1,65 @@
+﻿TXT2
+SinsArchiveVersion 194
+entityType "StarBaseUpgrade"
+stageCount 3
+stage
+	price
+		credits 0.000000
+		metal 0.000000
+		crystal 0.000000
+	upgradeTime 0.000000
+	nameStringID "IDS_STARBASEUPGRADEMAXALLEGIANCE_NAME_Replicators"
+	descStringID "IDS_STARBASEUPGRADEMAXALLEGIANCE_DESC_Replicators"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+	hudIcon "HUDIconStarBaseUpgradeMaxAllegiance0_Replicators"
+	smallHudIcon "HUDIconStarBaseUpgradeMaxAllegiance0_Replicators"
+	infoCardIcon ""
+	upgradePropertyCount 0
+	upgradeBoolPropertyCount 0
+stage
+	price
+		credits 1800.000000
+		metal 275.000000
+		crystal 150.000000
+	upgradeTime 60.000000
+	nameStringID "IDS_STARBASEUPGRADEMAXALLEGIANCE_NAME_Replicators"
+	descStringID "IDS_STARBASEUPGRADEMAXALLEGIANCE_DESC_Replicators"
+	researchPrerequisites
+		NumResearchPrerequisites 1
+		ResearchPrerequisite
+			Subject "RESEARCHSUBJECT_STARBASEUPGRADEACCESS_MAXALLEGIANCE_Replicators"
+			Level 1
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	hudIcon "HUDIconStarBaseUpgradeMaxAllegiance0_Replicators"
+	smallHudIcon "HUDIconStarBaseUpgradeMaxAllegiance0_Replicators"
+	infoCardIcon ""
+	upgradePropertyCount 1
+	upgradeProperty
+		propertyType "MaxAllegianceBonus"
+		value 0.150000
+	upgradeBoolPropertyCount 0
+stage
+	price
+		credits 1800.000000
+		metal 275.000000
+		crystal 150.000000
+	upgradeTime 60.000000
+	nameStringID "IDS_STARBASEUPGRADEMAXALLEGIANCE_NAME_Replicators"
+	descStringID "IDS_STARBASEUPGRADEMAXALLEGIANCE_DESC_Replicators"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+	hudIcon "HUDIconStarBaseUpgradeMaxAllegiance1_Replicators"
+	smallHudIcon "HUDIconStarBaseUpgradeMaxAllegiance1_Replicators"
+	infoCardIcon ""
+	upgradePropertyCount 1
+	upgradeProperty
+		propertyType "MaxAllegianceBonus"
+		value 0.300000
+	upgradeBoolPropertyCount 0
+xpModifier 50.000000

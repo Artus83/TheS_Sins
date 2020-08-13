@@ -1,0 +1,145 @@
+﻿TXT2
+SinsArchiveVersion 194
+entityType "Frigate"
+defaultAutoAttackRange "None"
+defaultAutoAttackOn FALSE
+prefersToFocusFire FALSE
+usesFighterAttack FALSE
+autoJoinFleetDefault FALSE
+canBomb FALSE
+typeCount 1
+frigateRoleType "Lrm"
+statCountType "FrigateSpawnedByAbility"
+mainViewIcon "MAINVIEWICON_FRIGATE_REMOTEREFINERY_NAME_Norlamins"
+picture "PICTURE_FRIGATE_TURRETCOMBAT"
+NameStringID "IDS_FRIGATE_REMOTEREFINERY_NAME_Norlamins"
+DescriptionStringID "IDS_FRIGATE_REMOTEREFINERY_DESCRIPTION_Norlamins"
+counterDescriptionStringID "IDS_FRIGATE_TURRETCOMBAT_COUNTERDESC"
+basePrice
+	credits 0.000000
+	metal 0.000000
+	crystal 0.000000
+slotCount 0.000000
+BuildTime 5.000000
+hasLevels TRUE
+ExperiencePointsForDestroying
+	Level:0 40.000000
+	Level:1 60.000000
+	Level:2 80.000000
+	Level:3 0.000000
+MaxHullPoints
+	Level:0 750.000000
+	Level:1 1000.000000
+	Level:2 1250.000000
+	Level:3 0.000000
+MaxShieldPoints
+	Level:0 120.000000
+	Level:1 140.000000
+	Level:2 160.000000
+	Level:3 0.000000
+HullPointRestoreRate
+	Level:0 1.000000
+	Level:1 1.000000
+	Level:2 1.000000
+	Level:3 0.000000
+ShieldPointRestoreRate
+	Level:0 1.000000
+	Level:1 1.000000
+	Level:2 1.000000
+	Level:3 0.000000
+BaseArmorPoints
+	Level:0 3.000000
+	Level:1 4.000000
+	Level:2 5.000000
+	Level:3 0.000000
+maxMitigation
+	Level:0 0.600000
+	Level:1 0.600000
+	Level:2 0.600000
+	Level:3 0.000000
+relationshipChangeRate
+	Level:0 0.000000
+	Level:1 0.000000
+	Level:2 0.000000
+	Level:3 0.000000
+Prerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+numRandomDebrisLarge 0
+numRandomDebrisSmall 7
+numSpecificDebris 0
+armorType "Light"
+hudIcon "HUDICON_FRIGATE_REMOTEREFINERY_Norlamins"
+smallHudIcon "HUDICONSMALL_FRIGATE_REMOTEREFINERY_Norlamins"
+infoCardIcon "INFOCARDICON_FRIGATE_TURRETCOMBAT"
+minZoomDistanceMult 1.500000
+NumWeapons 0
+m_weaponIndexForRange 0
+firingAlignmentType "Default"
+TargetCountPerBank:FRONT 1
+TargetCountPerBank:BACK 0
+TargetCountPerBank:LEFT 0
+TargetCountPerBank:RIGHT 0
+canOnlyTargetStructures FALSE
+hasWeaponLevels TRUE
+weaponDamageMult
+	Level:0 1.000000
+	Level:1 1.200000
+	Level:2 1.400000
+	Level:3 0.000000
+weaponCooldownMult
+	Level:0 1.000000
+	Level:1 0.900000
+	Level:2 0.800000
+	Level:3 0.000000
+mass 2000.000000
+ShieldMeshName "Frigate_RemoteRefinery_Norlamins"
+renderShield TRUE
+maxAccelerationLinear 0.000000
+maxAccelerationStrafe 0.000000
+maxDecelerationLinear 500.000000
+maxAccelerationAngular 3.000000
+maxDecelerationAngular 9.999996
+maxSpeedLinear -1.000000
+maxRollRate 2.000000
+maxRollAngle 35.000000
+useCustomHyperspaceEffects FALSE
+squadTypeEntityDef:0 ""
+squadAntiMatterCost:0 0.000000
+squadTypeEntityDef:1 ""
+squadAntiMatterCost:1 0.000000
+squadTypeEntityDef:2 ""
+squadAntiMatterCost:2 0.000000
+squadTypeEntityDef:3 ""
+squadAntiMatterCost:3 0.000000
+maxNumCommandPoints 0
+NumSoundsFor:ONATTACKORDERISSUED 1
+SoundID "FRIGATE_MINERALEXPLORER_ONGENERALORDERISSUED_0_Norlamins"
+NumSoundsFor:ONCREATION 0
+NumSoundsFor:ONGENERALORDERISSUED 0
+NumSoundsFor:ONSELECTED 1
+SoundID "FRIGATE_MINERALEXPLORER_ONSELECTED_0_Norlamins"
+NumSoundsFor:ONSTARTPHASEJUMP 0
+MeshNameInfoCount 1
+MeshNameInfo
+	meshName "Frigate_RemoteRefinery_Norlamins"
+	criteriaType "None"
+meshNameIncreasedEffectName ""
+meshNameDecreasedEffectName ""
+ExhaustParticleSystemName "Exhaust_Support"
+ExplosionName "TradeShip"
+EngineSoundID ""
+ability:0 "AbilityRemoteRefinery_Norlamins"
+ability:1 ""
+ability:2 ""
+ability:3 ""
+ability:4 ""
+MaxAntiMatter 100.000000
+AntiMatterRestoreRate 1.000000
+cargoType "Invalid"
+maxCargoCapacity 0.000000
+formationRank 0
+minShadow 0.000000
+maxShadow 0.500000
+allegianceDecreasePerRoundtrip 0.000000

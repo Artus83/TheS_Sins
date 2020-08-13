@@ -1,0 +1,150 @@
+﻿TXT2
+SinsArchiveVersion 194
+entityType "Frigate"
+defaultAutoAttackRange "GravityWell"
+defaultAutoAttackOn FALSE
+prefersToFocusFire TRUE
+usesFighterAttack FALSE
+autoJoinFleetDefault FALSE
+canBomb FALSE
+typeCount 2
+frigateRoleType "Colony"
+frigateRoleType "ResourceCapturer"
+statCountType "FrigateColony"
+mainViewIcon "MAINVIEWICON_FRIGATE_COLONY_TradeAlliance"
+picture "PICTURE_FRIGATE_COLONY_TradeAlliance"
+NameStringID "IDS_FRIGATE_COLONY_NAME_TradeAlliance"
+DescriptionStringID "IDS_FRIGATE_COLONY_DESCRIPTION_TradeAlliance"
+counterDescriptionStringID "IDS_COUNTERDESC_FRIGATE_NONCOMBAT"
+basePrice
+	credits 500.000000
+	metal 100.000000
+	crystal 50.000000
+slotCount 6.000000
+BuildTime 40.000000
+hasLevels FALSE
+ExperiencePointsForDestroying 20.000000
+MaxHullPoints 1200.000000
+MaxShieldPoints 100.000000
+HullPointRestoreRate 1.000000
+ShieldPointRestoreRate 0.500000
+BaseArmorPoints 0.000000
+maxMitigation 0.600000
+relationshipChangeRate 0.000000
+Prerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+numRandomDebrisLarge 1
+numRandomDebrisSmall 9
+numSpecificDebris 0
+armorType "Light"
+hudIcon "HUDICON_FRIGATE_COLONY_TradeAlliance"
+smallHudIcon "HUDICONSMALL_FRIGATE_COLONY_TradeAlliance"
+infoCardIcon "INFOCARDICON_FRIGATE_COLONY_TradeAlliance"
+minZoomDistanceMult 1.500000
+NumWeapons 1
+Weapon
+	WeaponType "Projectile"
+	damageEnums
+		AttackType "ANTILIGHT"
+		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
+		DamageApplyType "BACKLOADED"
+		DamageType "ENERGY"
+		WeaponClassType "LASERPSI"
+	DamagePerBank:FRONT 40.000000
+	DamagePerBank:BACK 0.000000
+	DamagePerBank:LEFT 0.000000
+	DamagePerBank:RIGHT 0.000000
+	Range 2500.000000
+	PreBuffCooldownTime 8.000000
+	CanFireAtFighter FALSE
+	SynchronizedTargeting FALSE
+	PointStaggerDelay 0.300000
+	TravelSpeed 4000.000000
+	Duration 0.000000
+	fireConstraintType "CanAlwaysFire"
+	WeaponEffects
+		weaponType "Projectile"
+		burstCount 6
+		burstDelay 0.200000
+		fireDelay 0.000000
+		muzzleEffectName "Weapon_CapitalLaserLight_Muzzle_TradeAlliance"
+		muzzleSoundMinRespawnTime 0.100000
+		muzzleSounds
+			soundCount 1
+			sound "WEAPON_CAPITALLASERLIGHT_MUZZLE_TradeAlliance"
+		hitEffectName "Weapon_CapitalLaserLight_Hit_TradeAlliance"
+		hitHullEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_ENERGYLIGHT_HITHULL_TradeAlliance"
+		hitShieldsEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_GENERICLIGHT_HITSHIELDS_TradeAlliance"
+		projectileTravelEffectName "Weapon_CapitalLaserLight_Travel_TradeAlliance"
+m_weaponIndexForRange 0
+firingAlignmentType "Default"
+TargetCountPerBank:FRONT 1
+TargetCountPerBank:BACK 0
+TargetCountPerBank:LEFT 0
+TargetCountPerBank:RIGHT 0
+canOnlyTargetStructures FALSE
+hasWeaponLevels FALSE
+mass 2000.000000
+ShieldMeshName "Shield_Frigate_Droplet"
+renderShield TRUE
+maxAccelerationLinear 100.000000
+maxAccelerationStrafe 10.000000
+maxDecelerationLinear 500.000000
+maxAccelerationAngular 1.650000
+maxDecelerationAngular 9.999996
+maxSpeedLinear 500.000000
+maxRollRate 2.000000
+maxRollAngle 35.000000
+useCustomHyperspaceEffects FALSE
+squadTypeEntityDef:0 ""
+squadAntiMatterCost:0 0.000000
+squadTypeEntityDef:1 ""
+squadAntiMatterCost:1 0.000000
+squadTypeEntityDef:2 ""
+squadAntiMatterCost:2 0.000000
+squadTypeEntityDef:3 ""
+squadAntiMatterCost:3 0.000000
+maxNumCommandPoints 0
+NumSoundsFor:ONATTACKORDERISSUED 2
+SoundID "FRIGATE_COLONY_ONATTACKORDERISSUED_0_TradeAlliance"
+SoundID "FRIGATE_COLONY_ONATTACKORDERISSUED_1_TradeAlliance"
+NumSoundsFor:ONCREATION 1
+SoundID "FRIGATE_COLONY_ONCREATION_TradeAlliance"
+NumSoundsFor:ONGENERALORDERISSUED 2
+SoundID "FRIGATE_COLONY_ONGENERALORDERISSUED_0_TradeAlliance"
+SoundID "FRIGATE_COLONY_ONGENERALORDERISSUED_1_TradeAlliance"
+NumSoundsFor:ONSELECTED 2
+SoundID "FRIGATE_COLONY_ONSELECTED_0_TradeAlliance"
+SoundID "FRIGATE_COLONY_ONSELECTED_1_TradeAlliance"
+NumSoundsFor:ONSTARTPHASEJUMP 3
+SoundID "FRIGATE_ONSTARTPHASEJUMP_0_TradeAlliance"
+SoundID "FRIGATE_ONSTARTPHASEJUMP_1_TradeAlliance"
+SoundID "FRIGATE_ONSTARTPHASEJUMP_2_TradeAlliance"
+MeshNameInfoCount 1
+MeshNameInfo
+	meshName "Frigate_Colony_TradeAlliance"
+	criteriaType "None"
+meshNameIncreasedEffectName ""
+meshNameDecreasedEffectName ""
+ExhaustParticleSystemName "Exhaust_Frigate"
+ExplosionName "Frigate3"
+EngineSoundID "ENGINE_CAPITALSHIP_TradeAlliance"
+ability:0 "AbilityPsiFrigateColonize"
+ability:1 "AbilityCaptureNeutralEntity"
+ability:2 ""
+ability:3 ""
+ability:4 ""
+MaxAntiMatter 225.000000
+AntiMatterRestoreRate 0.50000
+cargoType "Invalid"
+maxCargoCapacity 0.000000
+formationRank 2
+minShadow 0.000000
+maxShadow 0.400000
+allegianceDecreasePerRoundtrip 0.000000

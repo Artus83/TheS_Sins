@@ -1,0 +1,51 @@
+﻿TXT2
+SinsArchiveVersion 194
+entityType "ResearchSubject"
+hudIcon "HUDICON_RESEARCHSUBJECT_TRANSCENDENCE_STARBASE_DEVELOPMENT_Replicators"
+smallHudIcon "HUDICON_RESEARCHSUBJECT_TRANSCENDENCE_STARBASE_DEVELOPMENT_Replicators"
+infoCardIcon ""
+NameStringID "IDS_RESEARCHSUBJECT_TRANSCENDENCE_STARBASE_DEVELOPMENT_NAME_Replicators"
+DescriptionStringID "IDS_RESEARCHSUBJECT_TRANSCENDENCE_STARBASE_DEVELOPMENT_DESCRIPTION_Replicators"
+researchWindowLocation
+	block 0
+	pos [ 7 , 3 ]
+ResearchField "Defense"
+Prerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCHSUBJECT_TRANSCENDENCE_STARBASE_DEFENSES_Replicators"
+		Level 2
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+MinimumArtifactLevel -1
+BaseUpgradeTime 180.000000
+PerLevelUpgradeTime 600.000000
+BaseCost
+	credits 3000.000000
+	metal 500.000000
+	crystal 600.000000
+PerLevelCostIncrease
+	credits 500.000000
+	metal 100.000000
+	crystal 100.000000
+Tier 7
+onlyWorksIfTierLabsExist FALSE
+MaxNumResearchLevels 1
+priority 0.000000
+researchBoolModifiers 0
+researchFloatModifiers 3
+researchModifier
+	modifierType "StarBasesPerGravityWellAdjustment"
+	baseValue 0.000000
+	perLevelValue 1.000000
+researchModifier
+	modifierType "StarBaseUpgradeCostAdjustment"
+	baseValue 0.000000
+	perLevelValue -0.500000
+researchModifier
+	modifierType "StarBaseBuildRateAtEnemyOrbitBodyAdjustment"
+	baseValue 0.000000
+	perLevelValue 2.00000
+artifactPicture ""
+uniqueOverlayBrush "RebellionResearchOverlay"
+dlcId 204880

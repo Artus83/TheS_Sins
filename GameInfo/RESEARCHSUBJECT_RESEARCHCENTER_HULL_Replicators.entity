@@ -1,0 +1,58 @@
+﻿TXT2
+SinsArchiveVersion 194
+entityType "ResearchSubject"
+hudIcon "HUDICON_RESEARCHSUBJECT_RESEARCHCENTER_HULL_Replicators"
+smallHudIcon "HUDICON_RESEARCHSUBJECT_RESEARCHCENTER_HULL_Replicators"
+infoCardIcon ""
+NameStringID "IDS_RESEARCHSUBJECT_RESEARCHCENTER_HULL_NAME_Replicators"
+DescriptionStringID "IDS_RESEARCHSUBJECT_RESEARCHCENTER_HULL_DESCRIPTION_Replicators"
+researchWindowLocation
+	block 2
+	pos [ 4 , 1 ]
+ResearchField "Combat"
+Prerequisites
+	NumResearchPrerequisites 2
+	ResearchPrerequisite
+		Subject "RESEARCHSUBJECT_HULL1_Replicators"
+		Level 2
+	ResearchPrerequisite
+		Subject "RESEARCHSUBJECT_SHIELDS1_Replicators"
+		Level 2
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+MinimumArtifactLevel -1
+BaseUpgradeTime 120.000000
+PerLevelUpgradeTime 30.000000
+BaseCost
+	credits 1400.000000
+	metal 250.000000
+	crystal 400.000000
+PerLevelCostIncrease
+	credits 100.000000
+	metal 25.000000
+	crystal 25.000000
+Tier 4
+onlyWorksIfTierLabsExist FALSE
+MaxNumResearchLevels 1
+priority 1.000000
+researchBoolModifiers 0
+researchFloatModifiers 4
+researchModifier
+	modifierType "ResearchBuildRateAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.040000
+researchModifier
+	modifierType "ResearchCostAdjustment"
+	baseValue 0.000000
+	perLevelValue -0.020000
+researchModifier
+	modifierType "HullPointsMaxAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.100000
+researchModifier
+	modifierType "HullPointsRegenAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.1000000
+artifactPicture ""
+uniqueOverlayBrush ""
+dlcId 204880

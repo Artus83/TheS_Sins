@@ -1,0 +1,54 @@
+﻿TXT2
+SinsArchiveVersion 194
+entityType "ResearchSubject"
+hudIcon "HUDICON_RESEARCHSUBJECT_RESEARCHCOMPLEX_ARMOR_Replicators"
+smallHudIcon "HUDICON_RESEARCHSUBJECT_RESEARCHCOMPLEX_ARMOR_Replicators"
+infoCardIcon ""
+NameStringID "IDS_RESEARCHSUBJECT_RESEARCHCOMPLEX_ARMOR_NAME_Replicators"
+DescriptionStringID "IDS_RESEARCHSUBJECT_RESEARCHCOMPLEX_ARMOR_DESCRIPTION_Replicators"
+researchWindowLocation
+	block 2
+	pos [ 6 , 1 ]
+ResearchField "Combat"
+Prerequisites
+	NumResearchPrerequisites 2
+	ResearchPrerequisite
+		Subject "RESEARCHSUBJECT_HULL2_Replicators"
+		Level 2
+	ResearchPrerequisite
+		Subject "RESEARCHSUBJECT_SHIELDS2_Replicators"
+		Level 2
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+MinimumArtifactLevel -1
+BaseUpgradeTime 160.000000
+PerLevelUpgradeTime 30.000000
+BaseCost
+	credits 1800.000000
+	metal 350.000000
+	crystal 550.000000
+PerLevelCostIncrease
+	credits 100.000000
+	metal 25.000000
+	crystal 25.000000
+Tier 6
+onlyWorksIfTierLabsExist FALSE
+MaxNumResearchLevels 1
+priority 1.000000
+researchBoolModifiers 0
+researchFloatModifiers 3
+researchModifier
+	modifierType "ResearchBuildRateAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.100000
+researchModifier
+	modifierType "ResearchCostAdjustment"
+	baseValue 0.000000
+	perLevelValue -0.040000
+researchModifier
+	modifierType "ArmorBaseAdjustment"
+	baseValue 0.000000
+	perLevelValue 1.000000
+artifactPicture ""
+uniqueOverlayBrush ""
+dlcId 204880

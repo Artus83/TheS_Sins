@@ -1,0 +1,4491 @@
+TXT2
+SinsArchiveVersion 194
+onlyLoadOnDemand FALSE
+brushCount 263
+brush
+	name "HUDICON_STARBASE_TECH"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled.dds"
+		pixelBox [ 349 , 224 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed.dds"
+		pixelBox [ 349 , 224 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver.dds"
+		pixelBox [ 349 , 224 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 349 , 224 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 349 , 224 , 47 , 33 ]
+brush
+	name "HUDICON_STARBASE_PSI"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled.dds"
+		pixelBox [ 349 , 259 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed.dds"
+		pixelBox [ 349 , 259 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver.dds"
+		pixelBox [ 349 , 259 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 349 , 259 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 349 , 259 , 47 , 33 ]
+brush
+	name "HUDICON_STARBASE_PHASE"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled.dds"
+		pixelBox [ 349 , 294 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed.dds"
+		pixelBox [ 349 , 294 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver.dds"
+		pixelBox [ 349 , 294 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 349 , 294 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 349 , 294 , 47 , 33 ]
+brush
+	name "HUDICONSMALL_STARBASE_TECH"
+	content "Simple"
+	fileName "Unit_Main.dds"
+	pixelBox [ 271 , 91 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_STARBASE_PSI"
+	content "Simple"
+	fileName "Unit_Main.dds"
+	pixelBox [ 271 , 121 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_STARBASE_PHASE"
+	content "Simple"
+	fileName "Unit_Main.dds"
+	pixelBox [ 271 , 151 , 28 , 28 ]
+brush
+	name "HUDIconStarBaseUpgradeTechBlockColonize0"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled.dds"
+		pixelBox [ 668 , 105 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed.dds"
+		pixelBox [ 668 , 105 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver.dds"
+		pixelBox [ 668 , 105 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal.dds"
+		pixelBox [ 668 , 105 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal.dds"
+		pixelBox [ 668 , 105 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeTechFactory0"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled.dds"
+		pixelBox [ 566 , 216 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed.dds"
+		pixelBox [ 566 , 216 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver.dds"
+		pixelBox [ 566 , 216 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal.dds"
+		pixelBox [ 566 , 216 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal.dds"
+		pixelBox [ 566 , 216 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeTechFactory1"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled.dds"
+		pixelBox [ 566 , 253 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed.dds"
+		pixelBox [ 566 , 253 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver.dds"
+		pixelBox [ 566 , 253 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal.dds"
+		pixelBox [ 566 , 253 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal.dds"
+		pixelBox [ 566 , 253 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeTechHangar0"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled.dds"
+		pixelBox [ 566 , 105 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed.dds"
+		pixelBox [ 566 , 105 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver.dds"
+		pixelBox [ 566 , 105 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal.dds"
+		pixelBox [ 566 , 105 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal.dds"
+		pixelBox [ 566 , 105 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeTechHangar1"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled.dds"
+		pixelBox [ 566 , 142 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed.dds"
+		pixelBox [ 566 , 142 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver.dds"
+		pixelBox [ 566 , 142 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal.dds"
+		pixelBox [ 566 , 142 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal.dds"
+		pixelBox [ 566 , 142 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeTechHangar2"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled.dds"
+		pixelBox [ 566 , 179 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed.dds"
+		pixelBox [ 566 , 179 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver.dds"
+		pixelBox [ 566 , 179 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal.dds"
+		pixelBox [ 566 , 179 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal.dds"
+		pixelBox [ 566 , 179 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeTechResupply0"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled.dds"
+		pixelBox [ 668 , 142 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed.dds"
+		pixelBox [ 668 , 142 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver.dds"
+		pixelBox [ 668 , 142 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal.dds"
+		pixelBox [ 668 , 142 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal.dds"
+		pixelBox [ 668 , 142 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeTechResupply1"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled.dds"
+		pixelBox [ 668 , 179 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed.dds"
+		pixelBox [ 668 , 179 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver.dds"
+		pixelBox [ 668 , 179 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal.dds"
+		pixelBox [ 668 , 179 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal.dds"
+		pixelBox [ 668 , 179 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeTechSelfDestruct0"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled.dds"
+		pixelBox [ 668 , 216 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed.dds"
+		pixelBox [ 668 , 216 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver.dds"
+		pixelBox [ 668 , 216 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal.dds"
+		pixelBox [ 668 , 216 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal.dds"
+		pixelBox [ 668 , 216 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeTechSelfDestruct1"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled.dds"
+		pixelBox [ 668 , 253 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed.dds"
+		pixelBox [ 668 , 253 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver.dds"
+		pixelBox [ 668 , 253 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal.dds"
+		pixelBox [ 668 , 253 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal.dds"
+		pixelBox [ 668 , 253 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeTechToughness0"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled.dds"
+		pixelBox [ 617 , 68 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed.dds"
+		pixelBox [ 617 , 68 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver.dds"
+		pixelBox [ 617 , 68 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal.dds"
+		pixelBox [ 617 , 68 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal.dds"
+		pixelBox [ 617 , 68 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeTechToughness1"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled.dds"
+		pixelBox [ 617 , 105 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed.dds"
+		pixelBox [ 617 , 105 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver.dds"
+		pixelBox [ 617 , 105 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal.dds"
+		pixelBox [ 617 , 105 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal.dds"
+		pixelBox [ 617 , 105 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeTechToughness2"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled.dds"
+		pixelBox [ 617 , 142 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed.dds"
+		pixelBox [ 617 , 142 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver.dds"
+		pixelBox [ 617 , 142 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal.dds"
+		pixelBox [ 617 , 142 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal.dds"
+		pixelBox [ 617 , 142 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeTechTradePort0"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled.dds"
+		pixelBox [ 566 , 290 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed.dds"
+		pixelBox [ 566 , 290 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver.dds"
+		pixelBox [ 566 , 290 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal.dds"
+		pixelBox [ 566 , 290 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal.dds"
+		pixelBox [ 566 , 290 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeTechTradePort1"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled.dds"
+		pixelBox [ 617 , 31 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed.dds"
+		pixelBox [ 617 , 31 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver.dds"
+		pixelBox [ 617 , 31 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal.dds"
+		pixelBox [ 617 , 31 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal.dds"
+		pixelBox [ 617 , 31 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeTechWeapons0"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled.dds"
+		pixelBox [ 566 , 31 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed.dds"
+		pixelBox [ 566 , 31 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver.dds"
+		pixelBox [ 566 , 31 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal.dds"
+		pixelBox [ 566 , 31 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal.dds"
+		pixelBox [ 566 , 31 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeTechWeapons1"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled.dds"
+		pixelBox [ 566 , 68 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed.dds"
+		pixelBox [ 566 , 68 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver.dds"
+		pixelBox [ 566 , 68 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal.dds"
+		pixelBox [ 566 , 68 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal.dds"
+		pixelBox [ 566 , 68 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradePsiBlockColonize0"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled.dds"
+		pixelBox [ 821 , 105 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed.dds"
+		pixelBox [ 821 , 105 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver.dds"
+		pixelBox [ 821 , 105 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal.dds"
+		pixelBox [ 821 , 105 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal.dds"
+		pixelBox [ 821 , 105 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradePsiControlMeteoroids0"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled.dds"
+		pixelBox [ 770 , 253 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed.dds"
+		pixelBox [ 770 , 253 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver.dds"
+		pixelBox [ 770 , 253 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal.dds"
+		pixelBox [ 770 , 253 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal.dds"
+		pixelBox [ 770 , 253 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradePsiControlMeteoroids1"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled.dds"
+		pixelBox [ 770 , 290 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed.dds"
+		pixelBox [ 770 , 290 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver.dds"
+		pixelBox [ 770 , 290 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal.dds"
+		pixelBox [ 770 , 290 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal.dds"
+		pixelBox [ 770 , 290 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradePsiCulture0"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled.dds"
+		pixelBox [ 770 , 142 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed.dds"
+		pixelBox [ 770 , 142 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver.dds"
+		pixelBox [ 770 , 142 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal.dds"
+		pixelBox [ 770 , 142 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal.dds"
+		pixelBox [ 770 , 142 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradePsiCulture1"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled.dds"
+		pixelBox [ 770 , 179 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed.dds"
+		pixelBox [ 770 , 179 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver.dds"
+		pixelBox [ 770 , 179 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal.dds"
+		pixelBox [ 770 , 179 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal.dds"
+		pixelBox [ 770 , 179 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradePsiCulture2"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled.dds"
+		pixelBox [ 770 , 216 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed.dds"
+		pixelBox [ 770 , 216 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver.dds"
+		pixelBox [ 770 , 216 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal.dds"
+		pixelBox [ 770 , 216 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal.dds"
+		pixelBox [ 770 , 216 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradePsiHangar0"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled.dds"
+		pixelBox [ 719 , 216 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed.dds"
+		pixelBox [ 719 , 216 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver.dds"
+		pixelBox [ 719 , 216 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal.dds"
+		pixelBox [ 719 , 216 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal.dds"
+		pixelBox [ 719 , 216 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradePsiHangar1"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled.dds"
+		pixelBox [ 719 , 253 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed.dds"
+		pixelBox [ 719 , 253 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver.dds"
+		pixelBox [ 719 , 253 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal.dds"
+		pixelBox [ 719 , 253 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal.dds"
+		pixelBox [ 719 , 253 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradePsiHangar2"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled.dds"
+		pixelBox [ 719 , 290 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed.dds"
+		pixelBox [ 719 , 290 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver.dds"
+		pixelBox [ 719 , 290 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal.dds"
+		pixelBox [ 719 , 290 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal.dds"
+		pixelBox [ 719 , 290 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradePsiHangar3"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled.dds"
+		pixelBox [ 770 , 31 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed.dds"
+		pixelBox [ 770 , 31 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver.dds"
+		pixelBox [ 770 , 31 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal.dds"
+		pixelBox [ 770 , 31 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal.dds"
+		pixelBox [ 770 , 31 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradePsiMassDisorientation0"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled.dds"
+		pixelBox [ 821 , 31 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed.dds"
+		pixelBox [ 821 , 31 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver.dds"
+		pixelBox [ 821 , 31 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal.dds"
+		pixelBox [ 821 , 31 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal.dds"
+		pixelBox [ 821 , 31 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradePsiMassDisorientation1"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled.dds"
+		pixelBox [ 821 , 68 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed.dds"
+		pixelBox [ 821 , 68 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver.dds"
+		pixelBox [ 821 , 68 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal.dds"
+		pixelBox [ 821 , 68 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal.dds"
+		pixelBox [ 821 , 68 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradePsiMaxAllegiance0"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled.dds"
+		pixelBox [ 821 , 142 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed.dds"
+		pixelBox [ 821 , 142 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver.dds"
+		pixelBox [ 821 , 142 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal.dds"
+		pixelBox [ 821 , 142 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal.dds"
+		pixelBox [ 821 , 142 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradePsiMaxAllegiance1"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled.dds"
+		pixelBox [ 821 , 179 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed.dds"
+		pixelBox [ 821 , 179 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver.dds"
+		pixelBox [ 821 , 179 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal.dds"
+		pixelBox [ 821 , 179 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal.dds"
+		pixelBox [ 821 , 179 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradePsiToughness0"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled.dds"
+		pixelBox [ 719 , 105 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed.dds"
+		pixelBox [ 719 , 105 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver.dds"
+		pixelBox [ 719 , 105 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal.dds"
+		pixelBox [ 719 , 105 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal.dds"
+		pixelBox [ 719 , 105 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradePsiToughness1"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled.dds"
+		pixelBox [ 719 , 142 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed.dds"
+		pixelBox [ 719 , 142 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver.dds"
+		pixelBox [ 719 , 142 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal.dds"
+		pixelBox [ 719 , 142 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal.dds"
+		pixelBox [ 719 , 142 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradePsiToughness2"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled.dds"
+		pixelBox [ 719 , 179 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed.dds"
+		pixelBox [ 719 , 179 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver.dds"
+		pixelBox [ 719 , 179 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal.dds"
+		pixelBox [ 719 , 179 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal.dds"
+		pixelBox [ 719 , 179 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradePsiTradePort0"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled.dds"
+		pixelBox [ 770 , 68 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed.dds"
+		pixelBox [ 770 , 68 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver.dds"
+		pixelBox [ 770 , 68 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal.dds"
+		pixelBox [ 770 , 68 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal.dds"
+		pixelBox [ 770 , 68 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradePsiTradePort1"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled.dds"
+		pixelBox [ 770 , 105 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed.dds"
+		pixelBox [ 770 , 105 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver.dds"
+		pixelBox [ 770 , 105 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal.dds"
+		pixelBox [ 770 , 105 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal.dds"
+		pixelBox [ 770 , 105 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradePsiWeapons0"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled.dds"
+		pixelBox [ 719 , 31 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed.dds"
+		pixelBox [ 719 , 31 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver.dds"
+		pixelBox [ 719 , 31 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal.dds"
+		pixelBox [ 719 , 31 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal.dds"
+		pixelBox [ 719 , 31 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradePsiWeapons1"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled.dds"
+		pixelBox [ 719 , 68 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed.dds"
+		pixelBox [ 719 , 68 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver.dds"
+		pixelBox [ 719 , 68 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal.dds"
+		pixelBox [ 719 , 68 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal.dds"
+		pixelBox [ 719 , 68 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradePhaseBlockColonize0"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled.dds"
+		pixelBox [ 923 , 216 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed.dds"
+		pixelBox [ 923 , 216 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver.dds"
+		pixelBox [ 923 , 216 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal.dds"
+		pixelBox [ 923 , 216 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal.dds"
+		pixelBox [ 923 , 216 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradePhaseCityPopulation0"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled.dds"
+		pixelBox [ 923 , 105 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed.dds"
+		pixelBox [ 923 , 105 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver.dds"
+		pixelBox [ 923 , 105 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal.dds"
+		pixelBox [ 923 , 105 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal.dds"
+		pixelBox [ 923 , 105 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradePhaseCityPopulation1"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled.dds"
+		pixelBox [ 923 , 142 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed.dds"
+		pixelBox [ 923 , 142 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver.dds"
+		pixelBox [ 923 , 142 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal.dds"
+		pixelBox [ 923 , 142 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal.dds"
+		pixelBox [ 923 , 142 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradePhaseDebrisVacuum0"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled.dds"
+		pixelBox [ 923 , 253 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed.dds"
+		pixelBox [ 923 , 253 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver.dds"
+		pixelBox [ 923 , 253 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal.dds"
+		pixelBox [ 923 , 253 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal.dds"
+		pixelBox [ 923 , 253 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradePhaseDebrisVacuum1"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled.dds"
+		pixelBox [ 923 , 290 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed.dds"
+		pixelBox [ 923 , 290 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver.dds"
+		pixelBox [ 923 , 290 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal.dds"
+		pixelBox [ 923 , 290 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal.dds"
+		pixelBox [ 923 , 290 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradePhaseDirectionalShield0"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled.dds"
+		pixelBox [ 974 , 31 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed.dds"
+		pixelBox [ 974 , 31 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver.dds"
+		pixelBox [ 974 , 31 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal.dds"
+		pixelBox [ 974 , 31 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal.dds"
+		pixelBox [ 974 , 31 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradePhaseDirectionalShield1"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled.dds"
+		pixelBox [ 974 , 68 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed.dds"
+		pixelBox [ 974 , 68 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver.dds"
+		pixelBox [ 974 , 68 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal.dds"
+		pixelBox [ 974 , 68 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal.dds"
+		pixelBox [ 974 , 68 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradePhaseHangar0"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled.dds"
+		pixelBox [ 872 , 253 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed.dds"
+		pixelBox [ 872 , 253 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver.dds"
+		pixelBox [ 872 , 253 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal.dds"
+		pixelBox [ 872 , 253 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal.dds"
+		pixelBox [ 872 , 253 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradePhaseHangar1"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled.dds"
+		pixelBox [ 872 , 290 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed.dds"
+		pixelBox [ 872 , 290 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver.dds"
+		pixelBox [ 872 , 290 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal.dds"
+		pixelBox [ 872 , 290 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal.dds"
+		pixelBox [ 872 , 290 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradePhaseHangar2"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled.dds"
+		pixelBox [ 923 , 31 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed.dds"
+		pixelBox [ 923 , 31 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver.dds"
+		pixelBox [ 923 , 31 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal.dds"
+		pixelBox [ 923 , 31 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal.dds"
+		pixelBox [ 923 , 31 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradePhasePhaseGate0"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled.dds"
+		pixelBox [ 464 , 808 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed.dds"
+		pixelBox [ 464 , 808 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver.dds"
+		pixelBox [ 464 , 808 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal.dds"
+		pixelBox [ 464 , 808 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal.dds"
+		pixelBox [ 464 , 808 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradePhaseToughness0"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled.dds"
+		pixelBox [ 872 , 105 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed.dds"
+		pixelBox [ 872 , 105 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver.dds"
+		pixelBox [ 872 , 105 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal.dds"
+		pixelBox [ 872 , 105 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal.dds"
+		pixelBox [ 872 , 105 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradePhaseToughness1"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled.dds"
+		pixelBox [ 872 , 142 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed.dds"
+		pixelBox [ 872 , 142 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver.dds"
+		pixelBox [ 872 , 142 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal.dds"
+		pixelBox [ 872 , 142 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal.dds"
+		pixelBox [ 872 , 142 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradePhaseToughness2"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled.dds"
+		pixelBox [ 872 , 179 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed.dds"
+		pixelBox [ 872 , 179 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver.dds"
+		pixelBox [ 872 , 179 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal.dds"
+		pixelBox [ 872 , 179 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal.dds"
+		pixelBox [ 872 , 179 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradePhaseToughness3"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled.dds"
+		pixelBox [ 872 , 216 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed.dds"
+		pixelBox [ 872 , 216 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver.dds"
+		pixelBox [ 872 , 216 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal.dds"
+		pixelBox [ 872 , 216 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal.dds"
+		pixelBox [ 872 , 216 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradePhaseTradePort0"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled.dds"
+		pixelBox [ 923 , 68 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed.dds"
+		pixelBox [ 923 , 68 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver.dds"
+		pixelBox [ 923 , 68 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal.dds"
+		pixelBox [ 923 , 68 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal.dds"
+		pixelBox [ 923 , 68 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradePhaseWeapons0"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled.dds"
+		pixelBox [ 872 , 31 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed.dds"
+		pixelBox [ 872 , 31 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver.dds"
+		pixelBox [ 872 , 31 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal.dds"
+		pixelBox [ 872 , 31 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal.dds"
+		pixelBox [ 872 , 31 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradePhaseWeapons1"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled.dds"
+		pixelBox [ 872 , 68 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed.dds"
+		pixelBox [ 872 , 68 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver.dds"
+		pixelBox [ 872 , 68 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal.dds"
+		pixelBox [ 872 , 68 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal.dds"
+		pixelBox [ 872 , 68 , 47 , 33 ]
+brush
+	name "HUDICON_STARBASE_Norlamins"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Norlamins.dds"
+		pixelBox [ 447 , 119 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Norlamins.dds"
+		pixelBox [ 447 , 119 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Norlamins.dds"
+		pixelBox [ 447 , 119 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Norlamins.dds"
+		pixelBox [ 447 , 119 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Norlamins.dds"
+		pixelBox [ 447 , 119 , 47 , 33 ]
+brush
+	name "HUDICONSMALL_STARBASE_Norlamins"
+	content "Simple"
+	fileName "Unit_Main_Norlamins.dds"
+	pixelBox [ 301 , 1 , 28 , 28 ]
+brush
+	name "HUDIconStarBaseUpgradeBlockColonize0_Norlamins"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 158 , 364 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 158 , 364 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 158 , 364 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 158 , 364 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 158 , 364 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeHangar0_Norlamins"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 158 , 401 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 158 , 401 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 158 , 401 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 158 , 401 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 158 , 401 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeHangar1_Norlamins"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 158 , 438 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 158 , 438 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 158 , 438 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 158 , 438 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 158 , 438 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeHangar2_Norlamins"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 158 , 475 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 158 , 475 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 158 , 475 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 158 , 475 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 158 , 475 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeHangar3_Norlamins"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 158 , 512 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 158 , 512 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 158 , 512 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 158 , 512 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 158 , 512 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeMaxAllegiance0_Norlamins"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 311 , 68 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 311 , 68 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 311 , 68 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 311 , 68 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 311 , 68 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeMaxAllegiance1_Norlamins"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 311 , 31 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 311 , 31 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 311 , 31 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 311 , 31 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 311 , 31 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeTradePort0_Norlamins"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 158 , 660 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 158 , 660 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 158 , 660 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 158 , 660 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 158 , 660 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeToughness0_Norlamins"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 158 , 549 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 158 , 549 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 158 , 549 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 158 , 549 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 158 , 549 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeToughness1_Norlamins"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 158 , 586 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 158 , 586 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 158 , 586 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 158 , 586 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 158 , 586 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeToughness2_Norlamins"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 158 , 623 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 158 , 623 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 158 , 623 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 158 , 623 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 158 , 623 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeWeapons0_Norlamins"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 311 , 660 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 311 , 660 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 311 , 660 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 311 , 660 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 311 , 660 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeWeapons1_Norlamins"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 311 , 623 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 311 , 623 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 311 , 623 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 311 , 623 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 311 , 623 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeCulture1_Norlamins"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 311 , 142 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 311 , 142 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 311 , 142 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 311 , 142 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 311 , 142 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeCulture2_Norlamins"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 311 , 105 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 311 , 105 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 311 , 105 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 311 , 105 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 311 , 105 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeRepair0_Norlamins"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 5 , 253 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 5 , 253 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 5 , 253 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 5 , 253 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 5 , 253 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeRepair1_Norlamins"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 5 , 290 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 5 , 290 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 5 , 290 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 5 , 290 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 5 , 290 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeSelfRepair0_Norlamins"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 5 , 327 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 5 , 327 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 5 , 327 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 5 , 327 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 5 , 327 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeSelfRepair1_Norlamins"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 5 , 364 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 5 , 364 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 5 , 364 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 5 , 364 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 5 , 364 , 47 , 33 ]
+brush
+	name "HUDICON_STARBASE_TradeAlliance"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_TradeAlliance.dds"
+		pixelBox [ 447 , 119 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_TradeAlliance.dds"
+		pixelBox [ 447 , 119 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_TradeAlliance.dds"
+		pixelBox [ 447 , 119 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_TradeAlliance.dds"
+		pixelBox [ 447 , 119 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_TradeAlliance.dds"
+		pixelBox [ 447 , 119 , 47 , 33 ]
+brush
+	name "HUDICONSMALL_STARBASE_TradeAlliance"
+	content "Simple"
+	fileName "Unit_Main_TradeAlliance.dds"
+	pixelBox [ 301 , 1 , 28 , 28 ]
+brush
+	name "HUDIconStarBaseUpgradeBlockColonize0_TradeAlliance"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeHangar0_TradeAlliance"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 260 , 401 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 260 , 401 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 260 , 401 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 260 , 401 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 260 , 401 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeHangar1_TradeAlliance"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 260 , 438 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 260 , 438 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 260 , 438 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 260 , 438 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 260 , 438 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeHangar2_TradeAlliance"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 260 , 475 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 260 , 475 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 260 , 475 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 260 , 475 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 260 , 475 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeHangar3_TradeAlliance"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 260 , 512 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 260 , 512 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 260 , 512 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 260 , 512 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 260 , 512 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeMaxAllegiance0_TradeAlliance"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 413 , 68 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 413 , 68 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 413 , 68 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 413 , 68 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 413 , 68 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeMaxAllegiance1_TradeAlliance"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 413 , 31 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 413 , 31 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 413 , 31 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 413 , 31 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 413 , 31 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeTradePort0_TradeAlliance"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 260 , 660 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 260 , 660 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 260 , 660 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 260 , 660 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 260 , 660 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeToughness0_TradeAlliance"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 260 , 549 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 260 , 549 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 260 , 549 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 260 , 549 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 260 , 549 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeToughness1_TradeAlliance"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 260 , 586 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 260 , 586 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 260 , 586 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 260 , 586 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 260 , 586 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeToughness2_TradeAlliance"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 260 , 623 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 260 , 623 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 260 , 623 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 260 , 623 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 260 , 623 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeWeapons0_TradeAlliance"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 413 , 660 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 413 , 660 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 413 , 660 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 413 , 660 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 413 , 660 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeWeapons1_TradeAlliance"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 413 , 623 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 413 , 623 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 413 , 623 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 413 , 623 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 413 , 623 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeDebrisBombardment0_TradeAlliance"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 413 , 179 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 413 , 179 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 413 , 179 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 413 , 179 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 413 , 179 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeDebrisBombardment1_TradeAlliance"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 413 , 142 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 413 , 142 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 413 , 142 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 413 , 142 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 413 , 142 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeStunBurst0_TradeAlliance"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 107 , 475 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 107 , 475 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 107 , 475 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 107 , 475 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 107 , 475 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeStunBurst1_TradeAlliance"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 107 , 512 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 107 , 512 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 107 , 512 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 107 , 512 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 107 , 512 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeTribute0_TradeAlliance"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 107 , 364 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 107 , 364 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 107 , 364 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 107 , 364 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 107 , 364 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeTribute1_TradeAlliance"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 107 , 438 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 107 , 438 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 107 , 438 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 107 , 438 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 107 , 438 , 47 , 33 ]
+brush
+	name "HUDICON_STARBASE_Replicators"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Replicators.dds"
+		pixelBox [ 202 , 119 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Replicators.dds"
+		pixelBox [ 202 , 119 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Replicators.dds"
+		pixelBox [ 202 , 119 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Replicators.dds"
+		pixelBox [ 202 , 119 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Replicators.dds"
+		pixelBox [ 202 , 119 , 47 , 33 ]
+brush
+	name "HUDICONSMALL_STARBASE_Replicators"
+	content "Simple"
+	fileName "Unit_Main_Replicators.dds"
+	pixelBox [ 361 , 61 , 28 , 28 ]
+brush
+	name "HUDIconStarBaseUpgradeBlockColonize0_Replicators"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 209 , 364 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 209 , 364 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 209 , 364 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 209 , 364 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 209 , 364 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeHangar0_Replicators"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 209 , 401 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 209 , 401 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 209 , 401 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 209 , 401 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 209 , 401 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeHangar1_Replicators"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 209 , 438 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 209 , 438 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 209 , 438 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 209 , 438 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 209 , 438 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeHangar2_Replicators"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 209 , 475 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 209 , 475 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 209 , 475 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 209 , 475 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 209 , 475 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeHangar3_Replicators"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 209 , 512 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 209 , 512 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 209 , 512 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 209 , 512 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 209 , 512 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeMaxAllegiance0_Replicators"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 362 , 142 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 362 , 142 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 362 , 142 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 362 , 142 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 362 , 142 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeMaxAllegiance1_Replicators"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 56 , 253 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 56 , 253 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 56 , 253 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 56 , 253 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 56 , 253 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradePopulation0_Replicators"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 209 , 660 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 209 , 660 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 209 , 660 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 209 , 660 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 209 , 660 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeToughness0_Replicators"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 209 , 549 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 209 , 549 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 209 , 549 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 209 , 549 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 209 , 549 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeToughness1_Replicators"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeToughness2_Replicators"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 209 , 623 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 209 , 623 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 209 , 623 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 209 , 623 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 209 , 623 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeWeapons0_Replicators"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 362 , 660 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 362 , 660 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 362 , 660 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 362 , 660 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 362 , 660 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeWeapons1_Replicators"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 362 , 623 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 362 , 623 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 362 , 623 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 362 , 623 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 362 , 623 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeEnergyAbsorb0_Replicators"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 56 , 327 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 56 , 327 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 56 , 327 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 56 , 327 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 56 , 327 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeEnergyAbsorb1_Replicators"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 362 , 179 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 362 , 179 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 362 , 179 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 362 , 179 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 362 , 179 , 47 , 33 ]
+brush
+	name "HUDICON_STARBASE_Pirates"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Pirates.dds"
+		pixelBox [ 447 , 119 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Pirates.dds"
+		pixelBox [ 447 , 119 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Pirates.dds"
+		pixelBox [ 447 , 119 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Pirates.dds"
+		pixelBox [ 447 , 119 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Pirates.dds"
+		pixelBox [ 447 , 119 , 47 , 33 ]
+brush
+	name "HUDICONSMALL_STARBASE_Pirates"
+	content "Simple"
+	fileName "Unit_Main_Pirates.dds"
+	pixelBox [ 301 , 1 , 28 , 28 ]
+brush
+	name "HUDIconStarBaseUpgradeBlockColonize0_Pirates"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeHangar0_Pirates"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 668 , 475 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 668 , 475 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 668 , 475 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 668 , 475 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 668 , 475 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeHangar1_Pirates"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 668 , 512 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 668 , 512 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 668 , 512 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 668 , 512 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 668 , 512 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeHangar2_Pirates"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 158 , 401 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 158 , 401 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 158 , 401 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 158 , 401 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 158 , 401 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeHangar3_Pirates"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 158 , 438 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 158 , 438 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 158 , 438 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 158 , 438 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 158 , 438 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeMaxAllegiance0_Pirates"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 617 , 845 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 617 , 845 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 617 , 845 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 617 , 845 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 617 , 845 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeMaxAllegiance1_Pirates"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 617 , 882 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 617 , 882 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 617 , 882 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 617 , 882 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 617 , 882 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeTradePort0_Pirates"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 668 , 808 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 668 , 808 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 668 , 808 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 668 , 808 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 668 , 808 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeToughness0_Pirates"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 719 , 660 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 719 , 660 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 719 , 660 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 719 , 660 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 719 , 660 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeToughness1_Pirates"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 719 , 697 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 719 , 697 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 719 , 697 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 719 , 697 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 719 , 697 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeToughness2_Pirates"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 719 , 734 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 719 , 734 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 719 , 734 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 719 , 734 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 719 , 734 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeWeapons0_Pirates"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 617 , 401 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 617 , 401 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 617 , 401 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 617 , 401 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 617 , 401 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeWeapons1_Pirates"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 311 , 623 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 311 , 623 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 311 , 623 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 311 , 623 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 311 , 623 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeCulture0_Pirates"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 311 , 179 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 311 , 179 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 311 , 179 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 311 , 179 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 311 , 179 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeCulture1_Pirates"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 311 , 142 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 311 , 142 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 311 , 142 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 311 , 142 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 311 , 142 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeCulture2_Pirates"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 311 , 105 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 311 , 105 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 311 , 105 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 311 , 105 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 311 , 105 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeRepair0_Pirates"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 515 , 512 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 515 , 512 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 515 , 512 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 515 , 512 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 515 , 512 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeRepair1_Pirates"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 515 , 549 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 515 , 549 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 515 , 549 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 515 , 549 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 515 , 549 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeSelfRepair0_Pirates"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 719 , 512 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 719 , 512 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 719 , 512 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 719 , 512 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 719 , 512 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeSelfRepair1_Pirates"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 719 , 623 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 719 , 623 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 719 , 623 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 719 , 623 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 719 , 623 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeTribute0_Pirates"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Pirates.dds"
+		pixelBox [ 107 , 68 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Pirates.dds"
+		pixelBox [ 107 , 68 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Pirates.dds"
+		pixelBox [ 107 , 68 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Pirates.dds"
+		pixelBox [ 107 , 68 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Pirates.dds"
+		pixelBox [ 107 , 68 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeTribute1_Pirates"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Pirates.dds"
+		pixelBox [ 107 , 105 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Pirates.dds"
+		pixelBox [ 107 , 105 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Pirates.dds"
+		pixelBox [ 107 , 105 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Pirates.dds"
+		pixelBox [ 107 , 105 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Pirates.dds"
+		pixelBox [ 107 , 105 , 47 , 33 ]
+brush
+	name "HUDICON_STARBASE_COMBAT_Replicators"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Replicators.dds"
+		pixelBox [ 202 , 119 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Replicators.dds"
+		pixelBox [ 202 , 119 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Replicators.dds"
+		pixelBox [ 202 , 119 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Replicators.dds"
+		pixelBox [ 202 , 119 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Replicators.dds"
+		pixelBox [ 202 , 119 , 47 , 33 ]
+brush
+	name "HUDICONSMALL_STARBASE_COMBAT_Replicators"
+	content "Simple"
+	fileName "Unit_Main_Replicators.dds"
+	pixelBox [ 361 , 61 , 28 , 28 ]
+brush
+	name "HUDICON_STARBASE_COMMERCE_Replicators"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Replicators.dds"
+		pixelBox [ 202 , 119 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Replicators.dds"
+		pixelBox [ 202 , 119 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Replicators.dds"
+		pixelBox [ 202 , 119 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Replicators.dds"
+		pixelBox [ 202 , 119 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Replicators.dds"
+		pixelBox [ 202 , 119 , 47 , 33 ]
+brush
+	name "HUDICONSMALL_STARBASE_COMMERCE_Replicators"
+	content "Simple"
+	fileName "Unit_Main_Replicators.dds"
+	pixelBox [ 361 , 61 , 28 , 28 ]
+brush
+	name "HUDICON_STARBASE_CULTURE_Replicators"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Replicators.dds"
+		pixelBox [ 202 , 119 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Replicators.dds"
+		pixelBox [ 202 , 119 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Replicators.dds"
+		pixelBox [ 202 , 119 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Replicators.dds"
+		pixelBox [ 202 , 119 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Replicators.dds"
+		pixelBox [ 202 , 119 , 47 , 33 ]
+brush
+	name "HUDICONSMALL_STARBASE_CULTURE_Replicators"
+	content "Simple"
+	fileName "Unit_Main_Replicators.dds"
+	pixelBox [ 361 , 61 , 28 , 28 ]
+brush
+	name "HUDICON_STARBASE_COMBAT_Pirates"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Pirates.dds"
+		pixelBox [ 202 , 119 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Pirates.dds"
+		pixelBox [ 202 , 119 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Pirates.dds"
+		pixelBox [ 202 , 119 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Pirates.dds"
+		pixelBox [ 202 , 119 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Pirates.dds"
+		pixelBox [ 202 , 119 , 47 , 33 ]
+brush
+	name "HUDICONSMALL_STARBASE_COMBAT_Pirates"
+	content "Simple"
+	fileName "Unit_Main_Pirates.dds"
+	pixelBox [ 361 , 61 , 28 , 28 ]
+brush
+	name "HUDICON_STARBASE_COMMERCE_Pirates"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Pirates.dds"
+		pixelBox [ 202 , 119 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Pirates.dds"
+		pixelBox [ 202 , 119 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Pirates.dds"
+		pixelBox [ 202 , 119 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Pirates.dds"
+		pixelBox [ 202 , 119 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Pirates.dds"
+		pixelBox [ 202 , 119 , 47 , 33 ]
+brush
+	name "HUDICONSMALL_STARBASE_COMMERCE_Pirates"
+	content "Simple"
+	fileName "Unit_Main_Pirates.dds"
+	pixelBox [ 361 , 61 , 28 , 28 ]
+brush
+	name "HUDICON_STARBASE_CULTURE_Pirates"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Pirates.dds"
+		pixelBox [ 202 , 119 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Pirates.dds"
+		pixelBox [ 202 , 119 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Pirates.dds"
+		pixelBox [ 202 , 119 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Pirates.dds"
+		pixelBox [ 202 , 119 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Pirates.dds"
+		pixelBox [ 202 , 119 , 47 , 33 ]
+brush
+	name "HUDICONSMALL_STARBASE_CULTURE_Pirates"
+	content "Simple"
+	fileName "Unit_Main_Pirates.dds"
+	pixelBox [ 361 , 61 , 28 , 28 ]
+brush
+	name "HUDICON_STARBASE_COMBAT_TradeAlliance"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_TradeAlliance.dds"
+		pixelBox [ 202 , 119 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_TradeAlliance.dds"
+		pixelBox [ 202 , 119 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_TradeAlliance.dds"
+		pixelBox [ 202 , 119 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_TradeAlliance.dds"
+		pixelBox [ 202 , 119 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_TradeAlliance.dds"
+		pixelBox [ 202 , 119 , 47 , 33 ]
+brush
+	name "HUDICONSMALL_STARBASE_COMBAT_TradeAlliance"
+	content "Simple"
+	fileName "Unit_Main_TradeAlliance.dds"
+	pixelBox [ 361 , 61 , 28 , 28 ]
+brush
+	name "HUDICON_STARBASE_COMMERCE_TradeAlliance"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_TradeAlliance.dds"
+		pixelBox [ 202 , 119 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_TradeAlliance.dds"
+		pixelBox [ 202 , 119 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_TradeAlliance.dds"
+		pixelBox [ 202 , 119 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_TradeAlliance.dds"
+		pixelBox [ 202 , 119 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_TradeAlliance.dds"
+		pixelBox [ 202 , 119 , 47 , 33 ]
+brush
+	name "HUDICONSMALL_STARBASE_COMMERCE_TradeAlliance"
+	content "Simple"
+	fileName "Unit_Main_TradeAlliance.dds"
+	pixelBox [ 361 , 61 , 28 , 28 ]
+brush
+	name "HUDICON_STARBASE_CULTURE_TradeAlliance"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_TradeAlliance.dds"
+		pixelBox [ 202 , 119 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_TradeAlliance.dds"
+		pixelBox [ 202 , 119 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_TradeAlliance.dds"
+		pixelBox [ 202 , 119 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_TradeAlliance.dds"
+		pixelBox [ 202 , 119 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_TradeAlliance.dds"
+		pixelBox [ 202 , 119 , 47 , 33 ]
+brush
+	name "HUDICONSMALL_STARBASE_CULTURE_TradeAlliance"
+	content "Simple"
+	fileName "Unit_Main_TradeAlliance.dds"
+	pixelBox [ 361 , 61 , 28 , 28 ]
+brush
+	name "HUDICON_STARBASE_COMBAT_Norlamins"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Norlamins.dds"
+		pixelBox [ 202 , 119 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Norlamins.dds"
+		pixelBox [ 202 , 119 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Norlamins.dds"
+		pixelBox [ 202 , 119 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Norlamins.dds"
+		pixelBox [ 202 , 119 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Norlamins.dds"
+		pixelBox [ 202 , 119 , 47 , 33 ]
+brush
+	name "HUDICONSMALL_STARBASE_COMBAT_Norlamins"
+	content "Simple"
+	fileName "Unit_Main_Norlamins.dds"
+	pixelBox [ 361 , 61 , 28 , 28 ]
+brush
+	name "HUDICON_STARBASE_COMMERCE_Norlamins"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Norlamins.dds"
+		pixelBox [ 202 , 119 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Norlamins.dds"
+		pixelBox [ 202 , 119 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Norlamins.dds"
+		pixelBox [ 202 , 119 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Norlamins.dds"
+		pixelBox [ 202 , 119 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Norlamins.dds"
+		pixelBox [ 202 , 119 , 47 , 33 ]
+brush
+	name "HUDICONSMALL_STARBASE_COMMERCE_Norlamins"
+	content "Simple"
+	fileName "Unit_Main_Norlamins.dds"
+	pixelBox [ 361 , 61 , 28 , 28 ]
+brush
+	name "HUDICON_STARBASE_CULTURE_Norlamins"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Norlamins.dds"
+		pixelBox [ 202 , 119 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Norlamins.dds"
+		pixelBox [ 202 , 119 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Norlamins.dds"
+		pixelBox [ 202 , 119 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Norlamins.dds"
+		pixelBox [ 202 , 119 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Norlamins.dds"
+		pixelBox [ 202 , 119 , 47 , 33 ]
+brush
+	name "HUDICONSMALL_STARBASE_CULTURE_Norlamins"
+	content "Simple"
+	fileName "Unit_Main_Norlamins.dds"
+	pixelBox [ 361 , 61 , 28 , 28 ]
+brush
+	name "HUDIconStarBaseUpgradeCreateHord0_Replicators"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeCreateHord1_Replicators"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeCultureCentre0_Replicators"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeCultureCentre1_Replicators"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradehull0_Replicators"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradehull1_Replicators"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradehull2_Replicators"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradePlanetEuphoria0_Replicators"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradePlanetEuphoria1_Replicators"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradePlanetShield0_Replicators"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradePlanetShield1_Replicators"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeReinforcedArmor0_Replicators"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeReinforcedArmor1_Replicators"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeResourceCentres0_Replicators"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeResourceCentres1_Replicators"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeshields0_Replicators"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeshields1_Replicators"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeshields2_Replicators"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeTradeCenters0_Replicators"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeTradeCenters1_Replicators"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeTradePort0_Replicators"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeVengeance0_Replicators"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeVengeance1_Replicators"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeCulture0_Replicators"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeCulture1_Replicators"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeCulture2_Replicators"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 209 , 586 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeCultureCentre0_Pirates"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeCultureCentre1_Pirates"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeExpandedSquadrons0_Pirates"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeExpandedSquadrons1_Pirates"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeHull0_Pirates"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeHull1_Pirates"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeHull2_Pirates"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeMagnetize0_Pirates"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeMagnetize1_Pirates"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeMaxSquadrons0_Pirates"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeMaxSquadrons1_Pirates"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradePlanetShield0_Pirates"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradePlanetShield1_Pirates"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradePopulation0_Pirates"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeQuellUnrest0_Pirates"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeQuellUnrest1_Pirates"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeResourceCentres0_Pirates"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeResourceCentres1_Pirates"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeShields0_Pirates"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeShields1_Pirates"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeShields2_Pirates"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeTradeCenters0_Pirates"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeTradeCenters1_Pirates"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 668 , 660 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeAbilitiesCooldown0_TradeAlliance"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeAbilitiesCooldown1_TradeAlliance"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeCulture0_TradeAlliance"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeCulture1_TradeAlliance"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeCulture2_TradeAlliance"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeDebrisBombardment1_TradeAlliance"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeDefeatShields0_TradeAlliance"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeDefeatShields1_TradeAlliance"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeHull0_TradeAlliance"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeHull1_TradeAlliance"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeHull2_TradeAlliance"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradePlanetGrowthRate0_TradeAlliance"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradePlanetGrowthRate1_TradeAlliance"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradePlanetPopulation0_TradeAlliance"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradePlanetPopulation1_TradeAlliance"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradePopulation0_TradeAlliance"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeResourceCentres0_TradeAlliance"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeResourceCentres1_TradeAlliance"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeShields0_TradeAlliance"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeShields1_TradeAlliance"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeShields2_TradeAlliance"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeTradeCenters0_TradeAlliance"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeTradeCenters1_TradeAlliance"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 260 , 364 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeBoostWeapons0_Norlamins"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 158 , 364 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 158 , 364 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 158 , 364 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 158 , 364 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 158 , 364 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeBoostWeapons1_Norlamins"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 158 , 364 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 158 , 364 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 158 , 364 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 158 , 364 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 158 , 364 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeCulture0_Norlamins"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 158 , 364 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 158 , 364 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 158 , 364 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 158 , 364 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 158 , 364 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeHull0_Norlamins"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 158 , 364 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 158 , 364 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 158 , 364 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 158 , 364 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 158 , 364 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeHull1_Norlamins"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 158 , 364 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 158 , 364 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 158 , 364 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 158 , 364 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 158 , 364 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeHull2_Norlamins"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 158 , 364 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 158 , 364 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 158 , 364 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 158 , 364 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 158 , 364 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradePlanetGrowthRate0_Norlamins"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 158 , 364 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 158 , 364 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 158 , 364 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 158 , 364 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 158 , 364 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradePlanetGrowthRate1_Norlamins"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 158 , 364 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 158 , 364 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 158 , 364 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 158 , 364 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 158 , 364 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradePlanetHealth0_Norlamins"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 158 , 364 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 158 , 364 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 158 , 364 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 158 , 364 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 158 , 364 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradePlanetHealth1_Norlamins"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 158 , 364 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 158 , 364 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 158 , 364 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 158 , 364 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 158 , 364 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradePlanetPopulation0_Norlamins"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 158 , 364 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 158 , 364 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 158 , 364 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 158 , 364 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 158 , 364 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradePlanetPopulation1_Norlamins"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 158 , 364 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 158 , 364 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 158 , 364 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 158 , 364 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 158 , 364 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradePopulation0_Norlamins"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 158 , 364 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 158 , 364 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 158 , 364 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 158 , 364 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 158 , 364 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeResourceCentres0_Norlamins"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 158 , 364 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 158 , 364 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 158 , 364 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 158 , 364 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 158 , 364 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeResourceCentres1_Norlamins"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 158 , 364 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 158 , 364 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 158 , 364 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 158 , 364 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 158 , 364 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeShields0_Norlamins"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 158 , 364 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 158 , 364 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 158 , 364 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 158 , 364 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 158 , 364 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeShields1_Norlamins"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 158 , 364 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 158 , 364 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 158 , 364 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 158 , 364 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 158 , 364 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeShields2_Norlamins"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 158 , 364 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 158 , 364 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 158 , 364 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 158 , 364 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 158 , 364 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeTradeCenters0_Norlamins"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 158 , 364 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 158 , 364 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 158 , 364 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 158 , 364 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 158 , 364 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeTradeCenters1_Norlamins"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 158 , 364 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 158 , 364 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 158 , 364 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 158 , 364 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 158 , 364 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeWWeaponsUpgrade0_Norlamins"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 158 , 364 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 158 , 364 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 158 , 364 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 158 , 364 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 158 , 364 , 47 , 33 ]
+brush
+	name "HUDIconStarBaseUpgradeWWeaponsUpgrade1_Norlamins"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled_Maelstrom.dds"
+		pixelBox [ 158 , 364 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed_Maelstrom.dds"
+		pixelBox [ 158 , 364 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver_Maelstrom.dds"
+		pixelBox [ 158 , 364 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 158 , 364 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal_Maelstrom.dds"
+		pixelBox [ 158 , 364 , 47 , 33 ]

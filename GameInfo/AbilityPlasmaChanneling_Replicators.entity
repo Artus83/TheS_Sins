@@ -1,0 +1,59 @@
+﻿TXT2
+SinsArchiveVersion 194
+entityType "Ability"
+buffInstantActionType "ApplyBuffToLocalOrbitBody"
+instantActionTriggerType "AlwaysPerform"
+buffType "BuffPlasmaChannelingPlanet_Replicators"
+targetFilter
+	numOwnerships 4
+	ownership "Friendly"
+	ownership "AlliedOrEnemy"
+	ownership "Player"
+	ownership "NoOwner"
+	numObjects 1
+	object "Planet"
+	numSpaces 1
+	space "Normal"
+	numConstraints 0
+effectInfo
+	effectAttachInfo
+		attachType "Invalid"
+	smallEffectName "TitanAbility_InspireImpair_Activate_Replicators"
+	mediumEffectName "TitanAbility_InspireImpair_Activate_Replicators"
+	largeEffectName "TitanAbility_InspireImpair_Activate_Replicators"
+	soundID "EFFECT_INSPIREANDIMPAIR"
+needsToFaceTarget FALSE
+canCollideWithTarget TRUE
+moveThruTarget FALSE
+isUltimateAbility TRUE
+maxNumLevels 2
+levelSourceType "TitanUpgradeLevel"
+sourcePropertyType "AbilityDLevel"
+aiUseTime "OnlyWhenEnemyFleetWillPrevail"
+aiUseTargetCondition "Any"
+isAutoCastAvailable TRUE
+isAutoCastOnByDefault TRUE
+pickRandomPlanetToExploreForAutoCastTarget FALSE
+ignoreNonCombatShipsForAutoCastTarget TRUE
+onlyAutoCastWhenDamageTakenExceedsPerc 0.000000
+useCostType "AntiMatter"
+antiMatterCost
+	Level:0 150.000000
+	Level:1 120.000000
+	Level:2 0.000000
+	Level:3 0.000000
+cooldownTime
+	Level:0 150.000000
+	Level:1 120.000000
+	Level:2 0.000000
+	Level:3 0.000000
+orderAcknowledgementType "ONGENERALORDERISSUED"
+researchPrerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+nameStringID "IDS_ABILITY_PLASMACHANNELING_NAME_Replicators"
+descStringID "IDS_ABILITY_PLASMACHANNELING_DESCRIPTION_Replicators"
+hudIcon "HUDICON_ABILITY_PLASMACHANNELING_Replicators"
+smallHudIcon "HUDICON_ABILITY_PLASMACHANNELING_Replicators"
+infoCardIcon ""

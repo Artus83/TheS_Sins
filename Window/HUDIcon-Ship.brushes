@@ -1,0 +1,5754 @@
+TXT2
+SinsArchiveVersion 194
+onlyLoadOnDemand FALSE
+brushCount 474
+brush
+	name "HUDICON_CORVETTE_PHASE"
+	content "States"
+	Disabled
+		fileName "Unit_Hud2_Disabled.dds"
+		pixelBox [ 202 , 76 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud2_Pressed.dds"
+		pixelBox [ 202 , 76 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud2_CursorOver.dds"
+		pixelBox [ 202 , 76 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud2_Normal.dds"
+		pixelBox [ 202 , 76 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud2_Normal.dds"
+		pixelBox [ 202 , 76 , 47 , 33 ]
+brush
+	name "HUDICON_CORVETTE_PSI"
+	content "States"
+	Disabled
+		fileName "Unit_Hud2_Disabled.dds"
+		pixelBox [ 202 , 42 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud2_Pressed.dds"
+		pixelBox [ 202 , 42 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud2_CursorOver.dds"
+		pixelBox [ 202 , 42 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud2_Normal.dds"
+		pixelBox [ 202 , 42 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud2_Normal.dds"
+		pixelBox [ 202 , 42 , 47 , 33 ]
+brush
+	name "HUDICON_CORVETTE_TECH"
+	content "States"
+	Disabled
+		fileName "Unit_Hud2_Disabled.dds"
+		pixelBox [ 202 , 6 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud2_Pressed.dds"
+		pixelBox [ 202 , 6 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud2_CursorOver.dds"
+		pixelBox [ 202 , 6 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud2_Normal.dds"
+		pixelBox [ 202 , 6 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud2_Normal.dds"
+		pixelBox [ 202 , 6 , 47 , 33 ]
+brush
+	name "HUDICON_PHASE_TITAN_FOUNDRY"
+	content "States"
+	Disabled
+		fileName "Unit_Hud2_Disabled.dds"
+		pixelBox [ 104 , 76 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud2_Pressed.dds"
+		pixelBox [ 104 , 76 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud2_CursorOver.dds"
+		pixelBox [ 104 , 76 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud2_Normal.dds"
+		pixelBox [ 104 , 76 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud2_Normal.dds"
+		pixelBox [ 104 , 76 , 47 , 33 ]
+brush
+	name "HUDICON_PSI_TITAN_FOUNDRY"
+	content "States"
+	Disabled
+		fileName "Unit_Hud2_Disabled.dds"
+		pixelBox [ 153 , 41 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud2_Pressed.dds"
+		pixelBox [ 153 , 41 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud2_CursorOver.dds"
+		pixelBox [ 153 , 41 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud2_Normal.dds"
+		pixelBox [ 153 , 41 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud2_Normal.dds"
+		pixelBox [ 153 , 41 , 47 , 33 ]
+brush
+	name "HUDICON_TECH_TITAN_FOUNDRY"
+	content "States"
+	Disabled
+		fileName "Unit_Hud2_Disabled.dds"
+		pixelBox [ 153 , 6 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud2_Pressed.dds"
+		pixelBox [ 153 , 6 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud2_CursorOver.dds"
+		pixelBox [ 153 , 6 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud2_Normal.dds"
+		pixelBox [ 153 , 6 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud2_Normal.dds"
+		pixelBox [ 153 , 6 , 47 , 33 ]
+brush
+	name "HUDICON_CAPITALSHIP_PHASEBATTLESHIP2"
+	content "States"
+	Disabled
+		fileName "Unit_Hud2_Disabled.dds"
+		pixelBox [ 6 , 76 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud2_Pressed.dds"
+		pixelBox [ 6 , 76 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud2_CursorOver.dds"
+		pixelBox [ 6 , 76 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud2_Normal.dds"
+		pixelBox [ 6 , 76 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud2_Normal.dds"
+		pixelBox [ 6 , 76 , 47 , 33 ]
+brush
+	name "HUDICON_CAPITALSHIP_PSIBATTLESHIP2"
+	content "States"
+	Disabled
+		fileName "Unit_Hud2_Disabled.dds"
+		pixelBox [ 55 , 41 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud2_Pressed.dds"
+		pixelBox [ 55 , 41 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud2_CursorOver.dds"
+		pixelBox [ 55 , 41 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud2_Normal.dds"
+		pixelBox [ 55 , 41 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud2_Normal.dds"
+		pixelBox [ 55 , 41 , 47 , 33 ]
+brush
+	name "HUDICON_CAPITALSHIP_TECHTRANSPORT"
+	content "States"
+	Disabled
+		fileName "Unit_Hud2_Disabled.dds"
+		pixelBox [ 55 , 6 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud2_Pressed.dds"
+		pixelBox [ 55 , 6 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud2_CursorOver.dds"
+		pixelBox [ 55 , 6 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud2_Normal.dds"
+		pixelBox [ 55 , 6 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud2_Normal.dds"
+		pixelBox [ 55 , 6 , 47 , 33 ]
+brush
+	name "HUDICON_CAPITALSHIP_TECHCOLONY"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled.dds"
+		pixelBox [ 6 , 224 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed.dds"
+		pixelBox [ 6 , 224 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver.dds"
+		pixelBox [ 6 , 224 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 6 , 224 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 6 , 224 , 47 , 33 ]
+brush
+	name "HUDICON_CAPITALSHIP_TECHCARRIER"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled.dds"
+		pixelBox [ 104 , 224 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed.dds"
+		pixelBox [ 104 , 224 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver.dds"
+		pixelBox [ 104 , 224 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 104 , 224 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 104 , 224 , 47 , 33 ]
+brush
+	name "HUDICON_CAPITALSHIP_TECHBATTLESHIP"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled.dds"
+		pixelBox [ 55 , 224 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed.dds"
+		pixelBox [ 55 , 224 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver.dds"
+		pixelBox [ 55 , 224 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 55 , 224 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 55 , 224 , 47 , 33 ]
+brush
+	name "HUDICON_CAPITALSHIP_TECHSUPPORT"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled.dds"
+		pixelBox [ 202 , 224 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed.dds"
+		pixelBox [ 202 , 224 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver.dds"
+		pixelBox [ 202 , 224 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 202 , 224 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 202 , 224 , 47 , 33 ]
+brush
+	name "HUDICON_CAPITALSHIP_TECHSIEGE"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled.dds"
+		pixelBox [ 153 , 224 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed.dds"
+		pixelBox [ 153 , 224 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver.dds"
+		pixelBox [ 153 , 224 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 153 , 224 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 153 , 224 , 47 , 33 ]
+brush
+	name "HUDICON_CAPITALSHIP_PSICOLONY"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled.dds"
+		pixelBox [ 6 , 259 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed.dds"
+		pixelBox [ 6 , 259 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver.dds"
+		pixelBox [ 6 , 259 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 6 , 259 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 6 , 259 , 47 , 33 ]
+brush
+	name "HUDICON_CAPITALSHIP_PSICARRIER"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled.dds"
+		pixelBox [ 104 , 259 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed.dds"
+		pixelBox [ 104 , 259 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver.dds"
+		pixelBox [ 104 , 259 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 104 , 259 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 104 , 259 , 47 , 33 ]
+brush
+	name "HUDICON_CAPITALSHIP_PSIBATTLESHIP"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled.dds"
+		pixelBox [ 55 , 259 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed.dds"
+		pixelBox [ 55 , 259 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver.dds"
+		pixelBox [ 55 , 259 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 55 , 259 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 55 , 259 , 47 , 33 ]
+brush
+	name "HUDICON_CAPITALSHIP_PSIBATTLEPSIONIC"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled.dds"
+		pixelBox [ 153 , 259 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed.dds"
+		pixelBox [ 153 , 259 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver.dds"
+		pixelBox [ 153 , 259 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 153 , 259 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 153 , 259 , 47 , 33 ]
+brush
+	name "HUDICON_CAPITALSHIP_PSIPLANETPSIONIC"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled.dds"
+		pixelBox [ 202 , 259 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed.dds"
+		pixelBox [ 202 , 259 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver.dds"
+		pixelBox [ 202 , 259 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 202 , 259 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 202 , 259 , 47 , 33 ]
+brush
+	name "HUDICON_CAPITALSHIP_PHASECOLONY"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled.dds"
+		pixelBox [ 6 , 294 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed.dds"
+		pixelBox [ 6 , 294 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver.dds"
+		pixelBox [ 6 , 294 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 6 , 294 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 6 , 294 , 47 , 33 ]
+brush
+	name "HUDICON_CAPITALSHIP_PHASECARRIER"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled.dds"
+		pixelBox [ 104 , 294 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed.dds"
+		pixelBox [ 104 , 294 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver.dds"
+		pixelBox [ 104 , 294 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 104 , 294 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 104 , 294 , 47 , 33 ]
+brush
+	name "HUDICON_CAPITALSHIP_PHASEBATTLESHIP"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled.dds"
+		pixelBox [ 55 , 294 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed.dds"
+		pixelBox [ 55 , 294 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver.dds"
+		pixelBox [ 55 , 294 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 55 , 294 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 55 , 294 , 47 , 33 ]
+brush
+	name "HUDICON_CAPITALSHIP_PHASESCOUT"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled.dds"
+		pixelBox [ 202 , 294 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed.dds"
+		pixelBox [ 202 , 294 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver.dds"
+		pixelBox [ 202 , 294 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 202 , 294 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 202 , 294 , 47 , 33 ]
+brush
+	name "HUDICON_CAPITALSHIP_PHASESIEGE"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled.dds"
+		pixelBox [ 153 , 294 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed.dds"
+		pixelBox [ 153 , 294 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver.dds"
+		pixelBox [ 153 , 294 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 153 , 294 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 153 , 294 , 47 , 33 ]
+brush
+	name "HUDICONSMALL_CAPITALSHIP_TECHCOLONY"
+	content "Simple"
+	fileName "Unit_Main.dds"
+	pixelBox [ 1 , 91 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_CAPITALSHIP_TECHCARRIER"
+	content "Simple"
+	fileName "Unit_Main.dds"
+	pixelBox [ 61 , 91 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_TITAN_TECHLOYALIST"
+	content "Simple"
+	fileName "Unit_Main.dds"
+	pixelBox [ 476 , 806 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_TITAN_TECHREBEL"
+	content "Simple"
+	fileName "Unit_Main.dds"
+	pixelBox [ 445 , 806 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_TITAN_PSILOYALIST"
+	content "Simple"
+	fileName "Unit_Main.dds"
+	pixelBox [ 445 , 740 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_TITAN_PSIREBEL"
+	content "Simple"
+	fileName "Unit_Main.dds"
+	pixelBox [ 477 , 773 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_TITAN_PHASELOYALIST"
+	content "Simple"
+	fileName "Unit_Main.dds"
+	pixelBox [ 476 , 740 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_TITAN_PHASEREBEL"
+	content "Simple"
+	fileName "Unit_Main.dds"
+	pixelBox [ 445 , 773 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_CAPITALSHIP_TECHBATTLESHIP"
+	content "Simple"
+	fileName "Unit_Main.dds"
+	pixelBox [ 31 , 91 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_CAPITALSHIP_TECHSUPPORT"
+	content "Simple"
+	fileName "Unit_Main.dds"
+	pixelBox [ 121 , 91 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_CAPITALSHIP_TECHSIEGE"
+	content "Simple"
+	fileName "Unit_Main.dds"
+	pixelBox [ 91 , 91 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_CAPITALSHIP_PSICOLONY"
+	content "Simple"
+	fileName "Unit_Main.dds"
+	pixelBox [ 1 , 121 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_CAPITALSHIP_PSICARRIER"
+	content "Simple"
+	fileName "Unit_Main.dds"
+	pixelBox [ 61 , 121 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_CAPITALSHIP_PSIBATTLESHIP"
+	content "Simple"
+	fileName "Unit_Main.dds"
+	pixelBox [ 31 , 121 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_CAPITALSHIP_PSIBATTLEPSIONIC"
+	content "Simple"
+	fileName "Unit_Main.dds"
+	pixelBox [ 91 , 121 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_CAPITALSHIP_PSIPLANETPSIONIC"
+	content "Simple"
+	fileName "Unit_Main.dds"
+	pixelBox [ 121 , 121 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_CAPITALSHIP_PHASECOLONY"
+	content "Simple"
+	fileName "Unit_Main.dds"
+	pixelBox [ 1 , 151 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_CAPITALSHIP_PHASECARRIER"
+	content "Simple"
+	fileName "Unit_Main.dds"
+	pixelBox [ 61 , 151 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_CAPITALSHIP_PHASEBATTLESHIP"
+	content "Simple"
+	fileName "Unit_Main.dds"
+	pixelBox [ 31 , 151 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_CAPITALSHIP_PHASESCOUT"
+	content "Simple"
+	fileName "Unit_Main.dds"
+	pixelBox [ 121 , 151 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_CAPITALSHIP_PHASESIEGE"
+	content "Simple"
+	fileName "Unit_Main.dds"
+	pixelBox [ 91 , 151 , 28 , 28 ]
+brush
+	name "HUDICON_FRIGATE_TECHANTIFIGHTER"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled.dds"
+		pixelBox [ 153 , 329 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed.dds"
+		pixelBox [ 153 , 329 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver.dds"
+		pixelBox [ 153 , 329 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 153 , 329 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 153 , 329 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_TECHANTIMODULE"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled.dds"
+		pixelBox [ 153 , 469 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed.dds"
+		pixelBox [ 153 , 469 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver.dds"
+		pixelBox [ 153 , 469 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 153 , 469 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 153 , 469 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_TECHCARRIER"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled.dds"
+		pixelBox [ 349 , 329 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed.dds"
+		pixelBox [ 349 , 329 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver.dds"
+		pixelBox [ 349 , 329 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 349 , 329 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 349 , 329 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_TECHCOLONY"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled.dds"
+		pixelBox [ 6 , 329 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed.dds"
+		pixelBox [ 6 , 329 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver.dds"
+		pixelBox [ 6 , 329 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 6 , 329 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 6 , 329 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_TECHHEAVY"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled.dds"
+		pixelBox [ 55 , 329 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed.dds"
+		pixelBox [ 55 , 329 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver.dds"
+		pixelBox [ 55 , 329 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 55 , 329 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 55 , 329 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_TECHLIGHT"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled.dds"
+		pixelBox [ 398 , 329 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed.dds"
+		pixelBox [ 398 , 329 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver.dds"
+		pixelBox [ 398 , 329 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 398 , 329 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 398 , 329 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_TECHLONGRANGE"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled.dds"
+		pixelBox [ 447 , 329 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed.dds"
+		pixelBox [ 447 , 329 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver.dds"
+		pixelBox [ 447 , 329 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 447 , 329 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 447 , 329 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_TECHSCOUT"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled.dds"
+		pixelBox [ 202 , 329 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed.dds"
+		pixelBox [ 202 , 329 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver.dds"
+		pixelBox [ 202 , 329 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 202 , 329 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 202 , 329 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_TECHSIEGE"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled.dds"
+		pixelBox [ 104 , 329 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed.dds"
+		pixelBox [ 104 , 329 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver.dds"
+		pixelBox [ 104 , 329 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 104 , 329 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 104 , 329 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_TECHUTILITY0"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled.dds"
+		pixelBox [ 55 , 14 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed.dds"
+		pixelBox [ 55 , 14 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver.dds"
+		pixelBox [ 55 , 14 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 55 , 14 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 55 , 14 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_TECHUTILITY1"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled.dds"
+		pixelBox [ 104 , 14 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed.dds"
+		pixelBox [ 104 , 14 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver.dds"
+		pixelBox [ 104 , 14 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 104 , 14 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 104 , 14 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_TECHMODULECONSTRUCTOR"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled.dds"
+		pixelBox [ 300 , 329 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed.dds"
+		pixelBox [ 300 , 329 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver.dds"
+		pixelBox [ 300 , 329 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 300 , 329 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 300 , 329 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_TECHSTARBASECONSTRUCTOR"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled.dds"
+		pixelBox [ 6 , 469 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed.dds"
+		pixelBox [ 6 , 469 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver.dds"
+		pixelBox [ 6 , 469 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 6 , 469 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 6 , 469 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_TECHENVOY"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled.dds"
+		pixelBox [ 300 , 469 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed.dds"
+		pixelBox [ 300 , 469 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver.dds"
+		pixelBox [ 300 , 469 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 300 , 469 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 300 , 469 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_PSIANTIFIGHTER"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled.dds"
+		pixelBox [ 153 , 364 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed.dds"
+		pixelBox [ 153 , 364 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver.dds"
+		pixelBox [ 153 , 364 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 153 , 364 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 153 , 364 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_PSIANTIMODULE"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled.dds"
+		pixelBox [ 202 , 469 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed.dds"
+		pixelBox [ 202 , 469 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver.dds"
+		pixelBox [ 202 , 469 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 202 , 469 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 202 , 469 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_PSICARRIER"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled.dds"
+		pixelBox [ 349 , 364 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed.dds"
+		pixelBox [ 349 , 364 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver.dds"
+		pixelBox [ 349 , 364 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 349 , 364 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 349 , 364 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_PSICOLONY"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled.dds"
+		pixelBox [ 6 , 364 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed.dds"
+		pixelBox [ 6 , 364 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver.dds"
+		pixelBox [ 6 , 364 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 6 , 364 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 6 , 364 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_PSIHEAVY"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled.dds"
+		pixelBox [ 55 , 364 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed.dds"
+		pixelBox [ 55 , 364 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver.dds"
+		pixelBox [ 55 , 364 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 55 , 364 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 55 , 364 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_PSILIGHT"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled.dds"
+		pixelBox [ 398 , 364 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed.dds"
+		pixelBox [ 398 , 364 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver.dds"
+		pixelBox [ 398 , 364 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 398 , 364 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 398 , 364 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_PSILONGRANGE"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled.dds"
+		pixelBox [ 447 , 364 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed.dds"
+		pixelBox [ 447 , 364 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver.dds"
+		pixelBox [ 447 , 364 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 447 , 364 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 447 , 364 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_PSISCOUT"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled.dds"
+		pixelBox [ 202 , 364 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed.dds"
+		pixelBox [ 202 , 364 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver.dds"
+		pixelBox [ 202 , 364 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 202 , 364 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 202 , 364 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_PSISIEGE"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled.dds"
+		pixelBox [ 104 , 364 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed.dds"
+		pixelBox [ 104 , 364 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver.dds"
+		pixelBox [ 104 , 364 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 104 , 364 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 104 , 364 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_PSISTARBASECONSTRUCTOR"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled.dds"
+		pixelBox [ 55 , 469 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed.dds"
+		pixelBox [ 55 , 469 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver.dds"
+		pixelBox [ 55 , 469 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 55 , 469 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 55 , 469 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_PSIUTILITY0"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled.dds"
+		pixelBox [ 55 , 49 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed.dds"
+		pixelBox [ 55 , 49 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver.dds"
+		pixelBox [ 55 , 49 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 55 , 49 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 55 , 49 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_PSIUTILITY1"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled.dds"
+		pixelBox [ 104 , 49 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed.dds"
+		pixelBox [ 104 , 49 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver.dds"
+		pixelBox [ 104 , 49 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 104 , 49 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 104 , 49 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_PSIMODULECONSTRUCTOR"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled.dds"
+		pixelBox [ 300 , 364 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed.dds"
+		pixelBox [ 300 , 364 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver.dds"
+		pixelBox [ 300 , 364 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 300 , 364 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 300 , 364 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_PSIENVOY"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled.dds"
+		pixelBox [ 349 , 469 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed.dds"
+		pixelBox [ 349 , 469 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver.dds"
+		pixelBox [ 349 , 469 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 349 , 469 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 349 , 469 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_PHASEANTIFIGHTER"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled.dds"
+		pixelBox [ 153 , 399 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed.dds"
+		pixelBox [ 153 , 399 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver.dds"
+		pixelBox [ 153 , 399 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 153 , 399 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 153 , 399 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_PHASECARRIER"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled.dds"
+		pixelBox [ 349 , 399 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed.dds"
+		pixelBox [ 349 , 399 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver.dds"
+		pixelBox [ 349 , 399 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 349 , 399 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 349 , 399 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_PHASECOLONY"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled.dds"
+		pixelBox [ 6 , 399 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed.dds"
+		pixelBox [ 6 , 399 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver.dds"
+		pixelBox [ 6 , 399 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 6 , 399 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 6 , 399 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_PHASEHEAVY"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled.dds"
+		pixelBox [ 55 , 399 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed.dds"
+		pixelBox [ 55 , 399 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver.dds"
+		pixelBox [ 55 , 399 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 55 , 399 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 55 , 399 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_PHASELIGHT"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled.dds"
+		pixelBox [ 398 , 399 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed.dds"
+		pixelBox [ 398 , 399 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver.dds"
+		pixelBox [ 398 , 399 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 398 , 399 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 398 , 399 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_PHASELONGRANGE"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled.dds"
+		pixelBox [ 447 , 399 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed.dds"
+		pixelBox [ 447 , 399 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver.dds"
+		pixelBox [ 447 , 399 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 447 , 399 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 447 , 399 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_PHASESCOUT"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled.dds"
+		pixelBox [ 202 , 399 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed.dds"
+		pixelBox [ 202 , 399 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver.dds"
+		pixelBox [ 202 , 399 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 202 , 399 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 202 , 399 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_PHASESIEGE"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled.dds"
+		pixelBox [ 104 , 399 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed.dds"
+		pixelBox [ 104 , 399 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver.dds"
+		pixelBox [ 104 , 399 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 104 , 399 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 104 , 399 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_PHASEUTILITY0"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled.dds"
+		pixelBox [ 55 , 84 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed.dds"
+		pixelBox [ 55 , 84 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver.dds"
+		pixelBox [ 55 , 84 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 55 , 84 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 55 , 84 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_PHASEUTILITY1"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled.dds"
+		pixelBox [ 104 , 84 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed.dds"
+		pixelBox [ 104 , 84 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver.dds"
+		pixelBox [ 104 , 84 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 104 , 84 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 104 , 84 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_PHASEMINELAYER"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled.dds"
+		pixelBox [ 251 , 469 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed.dds"
+		pixelBox [ 251 , 469 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver.dds"
+		pixelBox [ 251 , 469 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 251 , 469 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 251 , 469 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_PHASEMODULECONSTRUCTOR"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled.dds"
+		pixelBox [ 300 , 399 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed.dds"
+		pixelBox [ 300 , 399 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver.dds"
+		pixelBox [ 300 , 399 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 300 , 399 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 300 , 399 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_PHASEENVOY"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled.dds"
+		pixelBox [ 447 , 469 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed.dds"
+		pixelBox [ 447 , 469 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver.dds"
+		pixelBox [ 447 , 469 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 447 , 469 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 447 , 469 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_PIRATEMEDIUM"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Pirates.dds"
+		pixelBox [ 6 , 84 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Pirates.dds"
+		pixelBox [ 6 , 84 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Pirates.dds"
+		pixelBox [ 6 , 84 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Pirates.dds"
+		pixelBox [ 6 , 84 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Pirates.dds"
+		pixelBox [ 6 , 84 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_PIRATEHEAVY"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Pirates.dds"
+		pixelBox [ 55 , 49 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Pirates.dds"
+		pixelBox [ 55 , 49 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Pirates.dds"
+		pixelBox [ 55 , 49 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Pirates.dds"
+		pixelBox [ 55 , 49 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Pirates.dds"
+		pixelBox [ 55 , 49 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_PIRATEANTIFIGHTER"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Pirates.dds"
+		pixelBox [ 153 , 49 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Pirates.dds"
+		pixelBox [ 153 , 49 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Pirates.dds"
+		pixelBox [ 153 , 49 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Pirates.dds"
+		pixelBox [ 153 , 49 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Pirates.dds"
+		pixelBox [ 153 , 49 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_PIRATESIEGE"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Pirates.dds"
+		pixelBox [ 55 , 119 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Pirates.dds"
+		pixelBox [ 55 , 119 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Pirates.dds"
+		pixelBox [ 55 , 119 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Pirates.dds"
+		pixelBox [ 55 , 119 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Pirates.dds"
+		pixelBox [ 55 , 119 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_PIRATELIGHT"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled.dds"
+		pixelBox [ 6 , 434 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed.dds"
+		pixelBox [ 6 , 434 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver.dds"
+		pixelBox [ 6 , 434 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 6 , 434 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 6 , 434 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_TURRETCOMBAT"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled.dds"
+		pixelBox [ 398 , 224 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed.dds"
+		pixelBox [ 398 , 224 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver.dds"
+		pixelBox [ 398 , 224 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 398 , 224 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 398 , 224 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_TURRETSIEGE"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled.dds"
+		pixelBox [ 398 , 294 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed.dds"
+		pixelBox [ 398 , 294 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver.dds"
+		pixelBox [ 398 , 294 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 398 , 294 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 398 , 294 , 47 , 33 ]
+brush
+	name "HUDICONSMALL_FRIGATE_TECHANTIFIGHTER"
+	content "Simple"
+	fileName "Unit_Main.dds"
+	pixelBox [ 91 , 181 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_TECHANTIMODULE"
+	content "Simple"
+	fileName "Unit_Main.dds"
+	pixelBox [ 421 , 181 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_TECHCARRIER"
+	content "Simple"
+	fileName "Unit_Main.dds"
+	pixelBox [ 211 , 181 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_TECHCOLONY"
+	content "Simple"
+	fileName "Unit_Main.dds"
+	pixelBox [ 1 , 181 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_TECHHEAVY"
+	content "Simple"
+	fileName "Unit_Main.dds"
+	pixelBox [ 31 , 181 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_TECHLIGHT"
+	content "Simple"
+	fileName "Unit_Main.dds"
+	pixelBox [ 241 , 181 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_TECHLONGRANGE"
+	content "Simple"
+	fileName "Unit_Main.dds"
+	pixelBox [ 271 , 181 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_TECHSCOUT"
+	content "Simple"
+	fileName "Unit_Main.dds"
+	pixelBox [ 121 , 181 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_TECHSIEGE"
+	content "Simple"
+	fileName "Unit_Main.dds"
+	pixelBox [ 61 , 181 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_TECHUTILITY0"
+	content "Simple"
+	fileName "Unit_Main.dds"
+	pixelBox [ 331 , 181 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_TECHUTILITY1"
+	content "Simple"
+	fileName "Unit_Main.dds"
+	pixelBox [ 361 , 181 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_TECHMODULECONSTRUCTOR"
+	content "Simple"
+	fileName "Unit_Main.dds"
+	pixelBox [ 181 , 181 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_TECHSTARBASECONSTRUCTOR"
+	content "Simple"
+	fileName "Unit_Main.dds"
+	pixelBox [ 391 , 181 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_TECHENVOY"
+	content "Simple"
+	fileName "Unit_Main.dds"
+	pixelBox [ 361 , 91 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_PSIANTIFIGHTER"
+	content "Simple"
+	fileName "Unit_Main.dds"
+	pixelBox [ 91 , 211 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_PSIANTIMODULE"
+	content "Simple"
+	fileName "Unit_Main.dds"
+	pixelBox [ 421 , 211 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_PSICARRIER"
+	content "Simple"
+	fileName "Unit_Main.dds"
+	pixelBox [ 211 , 211 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_PSICOLONY"
+	content "Simple"
+	fileName "Unit_Main.dds"
+	pixelBox [ 1 , 211 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_PSIHEAVY"
+	content "Simple"
+	fileName "Unit_Main.dds"
+	pixelBox [ 31 , 211 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_PSILIGHT"
+	content "Simple"
+	fileName "Unit_Main.dds"
+	pixelBox [ 241 , 211 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_PSILONGRANGE"
+	content "Simple"
+	fileName "Unit_Main.dds"
+	pixelBox [ 271 , 211 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_PSISCOUT"
+	content "Simple"
+	fileName "Unit_Main.dds"
+	pixelBox [ 121 , 211 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_PSISIEGE"
+	content "Simple"
+	fileName "Unit_Main.dds"
+	pixelBox [ 61 , 211 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_PSISTARBASECONSTRUCTOR"
+	content "Simple"
+	fileName "Unit_Main.dds"
+	pixelBox [ 391 , 211 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_PSIUTILITY0"
+	content "Simple"
+	fileName "Unit_Main.dds"
+	pixelBox [ 331 , 211 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_PSIUTILITY1"
+	content "Simple"
+	fileName "Unit_Main.dds"
+	pixelBox [ 361 , 211 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_PSIMODULECONSTRUCTOR"
+	content "Simple"
+	fileName "Unit_Main.dds"
+	pixelBox [ 181 , 211 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_PSIENVOY"
+	content "Simple"
+	fileName "Unit_Main.dds"
+	pixelBox [ 331 , 91 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_PHASEANTIFIGHTER"
+	content "Simple"
+	fileName "Unit_Main.dds"
+	pixelBox [ 91 , 241 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_PHASECARRIER"
+	content "Simple"
+	fileName "Unit_Main.dds"
+	pixelBox [ 211 , 241 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_PHASECOLONY"
+	content "Simple"
+	fileName "Unit_Main.dds"
+	pixelBox [ 1 , 241 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_PHASEHEAVY"
+	content "Simple"
+	fileName "Unit_Main.dds"
+	pixelBox [ 31 , 241 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_PHASELIGHT"
+	content "Simple"
+	fileName "Unit_Main.dds"
+	pixelBox [ 241 , 241 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_PHASELONGRANGE"
+	content "Simple"
+	fileName "Unit_Main.dds"
+	pixelBox [ 271 , 241 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_PHASESCOUT"
+	content "Simple"
+	fileName "Unit_Main.dds"
+	pixelBox [ 121 , 241 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_PHASESIEGE"
+	content "Simple"
+	fileName "Unit_Main.dds"
+	pixelBox [ 61 , 241 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_PHASEUTILITY0"
+	content "Simple"
+	fileName "Unit_Main.dds"
+	pixelBox [ 331 , 241 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_PHASEUTILITY1"
+	content "Simple"
+	fileName "Unit_Main.dds"
+	pixelBox [ 361 , 241 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_PHASEMINELAYER"
+	content "Simple"
+	fileName "Unit_Main.dds"
+	pixelBox [ 421 , 241 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_PHASEMODULECONSTRUCTOR"
+	content "Simple"
+	fileName "Unit_Main.dds"
+	pixelBox [ 181 , 241 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_PHASEENVOY"
+	content "Simple"
+	fileName "Unit_Main.dds"
+	pixelBox [ 301 , 91 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_PIRATEMEDIUM"
+	content "Simple"
+	fileName "Unit_Main.dds"
+	pixelBox [ 121 , 301 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_PIRATEHEAVY"
+	content "Simple"
+	fileName "Unit_Main.dds"
+	pixelBox [ 31 , 301 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_PIRATEANTIFIGHTER"
+	content "Simple"
+	fileName "Unit_Main.dds"
+	pixelBox [ 91 , 301 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_PIRATESIEGE"
+	content "Simple"
+	fileName "Unit_Main.dds"
+	pixelBox [ 61 , 301 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_PIRATELIGHT"
+	content "Simple"
+	fileName "Unit_Main.dds"
+	pixelBox [ 1 , 301 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_TURRETCOMBAT"
+	content "Simple"
+	fileName "Unit_Main.dds"
+	pixelBox [ 241 , 91 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_TURRETSIEGE"
+	content "Simple"
+	fileName "Unit_Main.dds"
+	pixelBox [ 241 , 151 , 28 , 28 ]
+brush
+	name "HUDICON_SQUADTECHCOMBAT"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled.dds"
+		pixelBox [ 300 , 224 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed.dds"
+		pixelBox [ 300 , 224 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver.dds"
+		pixelBox [ 300 , 224 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 300 , 224 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 300 , 224 , 47 , 33 ]
+brush
+	name "HUDICON_SQUADTECHBOMBER"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled.dds"
+		pixelBox [ 251 , 224 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed.dds"
+		pixelBox [ 251 , 224 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver.dds"
+		pixelBox [ 251 , 224 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 251 , 224 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 251 , 224 , 47 , 33 ]
+brush
+	name "HUDICON_SQUADPSICOMBAT"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled.dds"
+		pixelBox [ 300 , 259 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed.dds"
+		pixelBox [ 300 , 259 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver.dds"
+		pixelBox [ 300 , 259 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 300 , 259 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 300 , 259 , 47 , 33 ]
+brush
+	name "HUDICON_SQUADPSIBOMBER"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled.dds"
+		pixelBox [ 251 , 259 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed.dds"
+		pixelBox [ 251 , 259 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver.dds"
+		pixelBox [ 251 , 259 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 251 , 259 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 251 , 259 , 47 , 33 ]
+brush
+	name "HUDICON_SQUADPSIMINELAYER"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled.dds"
+		pixelBox [ 300 , 49 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed.dds"
+		pixelBox [ 300 , 49 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver.dds"
+		pixelBox [ 300 , 49 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 300 , 49 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 300 , 49 , 47 , 33 ]
+brush
+	name "HUDICON_SQUADPHASECOMBAT"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled.dds"
+		pixelBox [ 300 , 294 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed.dds"
+		pixelBox [ 300 , 294 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver.dds"
+		pixelBox [ 300 , 294 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 300 , 294 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 300 , 294 , 47 , 33 ]
+brush
+	name "HUDICON_SQUADPHASEBOMBER"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled.dds"
+		pixelBox [ 251 , 294 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed.dds"
+		pixelBox [ 251 , 294 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver.dds"
+		pixelBox [ 251 , 294 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 251 , 294 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 251 , 294 , 47 , 33 ]
+brush
+	name "HUDICONLAUNCH_SQUADTECHCOMBAT"
+	content "States"
+	Disabled
+		fileName "Buttons_Main_Disabled.dds"
+		pixelBox [ 260 , 31 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Main_Pressed.dds"
+		pixelBox [ 260 , 31 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Main_CursorOver.dds"
+		pixelBox [ 260 , 31 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Main_Normal.dds"
+		pixelBox [ 260 , 31 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Main_Normal.dds"
+		pixelBox [ 260 , 31 , 47 , 33 ]
+brush
+	name "HUDICONLAUNCH_SQUADTECHBOMBER"
+	content "States"
+	Disabled
+		fileName "Buttons_Main_Disabled.dds"
+		pixelBox [ 260 , 68 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Main_Pressed.dds"
+		pixelBox [ 260 , 68 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Main_CursorOver.dds"
+		pixelBox [ 260 , 68 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Main_Normal.dds"
+		pixelBox [ 260 , 68 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Main_Normal.dds"
+		pixelBox [ 260 , 68 , 47 , 33 ]
+brush
+	name "HUDICONLAUNCH_SQUADPSICOMBAT"
+	content "States"
+	Disabled
+		fileName "Buttons_Main_Disabled.dds"
+		pixelBox [ 260 , 105 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Main_Pressed.dds"
+		pixelBox [ 260 , 105 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Main_CursorOver.dds"
+		pixelBox [ 260 , 105 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Main_Normal.dds"
+		pixelBox [ 260 , 105 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Main_Normal.dds"
+		pixelBox [ 260 , 105 , 47 , 33 ]
+brush
+	name "HUDICONLAUNCH_SQUADPSIBOMBER"
+	content "States"
+	Disabled
+		fileName "Buttons_Main_Disabled.dds"
+		pixelBox [ 260 , 142 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Main_Pressed.dds"
+		pixelBox [ 260 , 142 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Main_CursorOver.dds"
+		pixelBox [ 260 , 142 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Main_Normal.dds"
+		pixelBox [ 260 , 142 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Main_Normal.dds"
+		pixelBox [ 260 , 142 , 47 , 33 ]
+brush
+	name "HUDICONLAUNCH_SQUADPSIMINELAYER"
+	content "States"
+	Disabled
+		fileName "Buttons_Main_Disabled.dds"
+		pixelBox [ 362 , 216 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Main_Pressed.dds"
+		pixelBox [ 362 , 216 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Main_CursorOver.dds"
+		pixelBox [ 362 , 216 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Main_Normal.dds"
+		pixelBox [ 362 , 216 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Main_Normal.dds"
+		pixelBox [ 362 , 216 , 47 , 33 ]
+brush
+	name "HUDICONLAUNCH_SQUADPHASECOMBAT"
+	content "States"
+	Disabled
+		fileName "Buttons_Main_Disabled.dds"
+		pixelBox [ 260 , 179 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Main_Pressed.dds"
+		pixelBox [ 260 , 179 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Main_CursorOver.dds"
+		pixelBox [ 260 , 179 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Main_Normal.dds"
+		pixelBox [ 260 , 179 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Main_Normal.dds"
+		pixelBox [ 260 , 179 , 47 , 33 ]
+brush
+	name "HUDICONLAUNCH_SQUADPHASEBOMBER"
+	content "States"
+	Disabled
+		fileName "Buttons_Main_Disabled.dds"
+		pixelBox [ 260 , 216 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Main_Pressed.dds"
+		pixelBox [ 260 , 216 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Main_CursorOver.dds"
+		pixelBox [ 260 , 216 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Main_Normal.dds"
+		pixelBox [ 260 , 216 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Main_Normal.dds"
+		pixelBox [ 260 , 216 , 47 , 33 ]
+brush
+	name "HUDICONDOCK_SQUADTECHCOMBAT"
+	content "States"
+	Disabled
+		fileName "Buttons_Main_Disabled.dds"
+		pixelBox [ 311 , 31 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Main_Pressed.dds"
+		pixelBox [ 311 , 31 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Main_CursorOver.dds"
+		pixelBox [ 311 , 31 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Main_Normal.dds"
+		pixelBox [ 311 , 31 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Main_Normal.dds"
+		pixelBox [ 311 , 31 , 47 , 33 ]
+brush
+	name "HUDICONDOCK_SQUADTECHBOMBER"
+	content "States"
+	Disabled
+		fileName "Buttons_Main_Disabled.dds"
+		pixelBox [ 311 , 68 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Main_Pressed.dds"
+		pixelBox [ 311 , 68 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Main_CursorOver.dds"
+		pixelBox [ 311 , 68 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Main_Normal.dds"
+		pixelBox [ 311 , 68 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Main_Normal.dds"
+		pixelBox [ 311 , 68 , 47 , 33 ]
+brush
+	name "HUDICONDOCK_SQUADPSICOMBAT"
+	content "States"
+	Disabled
+		fileName "Buttons_Main_Disabled.dds"
+		pixelBox [ 311 , 105 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Main_Pressed.dds"
+		pixelBox [ 311 , 105 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Main_CursorOver.dds"
+		pixelBox [ 311 , 105 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Main_Normal.dds"
+		pixelBox [ 311 , 105 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Main_Normal.dds"
+		pixelBox [ 311 , 105 , 47 , 33 ]
+brush
+	name "HUDICONDOCK_SQUADPSIBOMBER"
+	content "States"
+	Disabled
+		fileName "Buttons_Main_Disabled.dds"
+		pixelBox [ 311 , 142 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Main_Pressed.dds"
+		pixelBox [ 311 , 142 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Main_CursorOver.dds"
+		pixelBox [ 311 , 142 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Main_Normal.dds"
+		pixelBox [ 311 , 142 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Main_Normal.dds"
+		pixelBox [ 311 , 142 , 47 , 33 ]
+brush
+	name "HUDICONDOCK_SQUADPSIMINELAYER"
+	content "States"
+	Disabled
+		fileName "Buttons_Main_Disabled.dds"
+		pixelBox [ 413 , 216 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Main_Pressed.dds"
+		pixelBox [ 413 , 216 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Main_CursorOver.dds"
+		pixelBox [ 413 , 216 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Main_Normal.dds"
+		pixelBox [ 413 , 216 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Main_Normal.dds"
+		pixelBox [ 413 , 216 , 47 , 33 ]
+brush
+	name "HUDICONDOCK_SQUADPHASECOMBAT"
+	content "States"
+	Disabled
+		fileName "Buttons_Main_Disabled.dds"
+		pixelBox [ 311 , 179 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Main_Pressed.dds"
+		pixelBox [ 311 , 179 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Main_CursorOver.dds"
+		pixelBox [ 311 , 179 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Main_Normal.dds"
+		pixelBox [ 311 , 179 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Main_Normal.dds"
+		pixelBox [ 311 , 179 , 47 , 33 ]
+brush
+	name "HUDICONDOCK_SQUADPHASEBOMBER"
+	content "States"
+	Disabled
+		fileName "Buttons_Main_Disabled.dds"
+		pixelBox [ 311 , 216 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Main_Pressed.dds"
+		pixelBox [ 311 , 216 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Main_CursorOver.dds"
+		pixelBox [ 311 , 216 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Main_Normal.dds"
+		pixelBox [ 311 , 216 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Main_Normal.dds"
+		pixelBox [ 311 , 216 , 47 , 33 ]
+brush
+	name "HUDICONSMALL_SQUADTECHCOMBAT"
+	content "Simple"
+	fileName "Unit_Main.dds"
+	pixelBox [ 181 , 91 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_SQUADTECHBOMBER"
+	content "Simple"
+	fileName "Unit_Main.dds"
+	pixelBox [ 151 , 91 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_SQUADPSICOMBAT"
+	content "Simple"
+	fileName "Unit_Main.dds"
+	pixelBox [ 181 , 121 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_SQUADPSIBOMBER"
+	content "Simple"
+	fileName "Unit_Main.dds"
+	pixelBox [ 151 , 121 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_SQUADPSIMINELAYER"
+	content "Simple"
+	fileName "Unit_Main.dds"
+	pixelBox [ 451 , 31 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_SQUADPHASECOMBAT"
+	content "Simple"
+	fileName "Unit_Main.dds"
+	pixelBox [ 181 , 151 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_SQUADPHASEBOMBER"
+	content "Simple"
+	fileName "Unit_Main.dds"
+	pixelBox [ 151 , 151 , 28 , 28 ]
+brush
+	name "HUDICON_TRADESHIP_TECH"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled.dds"
+		pixelBox [ 251 , 329 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed.dds"
+		pixelBox [ 251 , 329 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver.dds"
+		pixelBox [ 251 , 329 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 251 , 329 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 251 , 329 , 47 , 33 ]
+brush
+	name "HUDICON_TRADESHIP_PSI"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled.dds"
+		pixelBox [ 251 , 364 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed.dds"
+		pixelBox [ 251 , 364 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver.dds"
+		pixelBox [ 251 , 364 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 251 , 364 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 251 , 364 , 47 , 33 ]
+brush
+	name "HUDICON_TRADESHIP_PHASE"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled.dds"
+		pixelBox [ 251 , 399 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed.dds"
+		pixelBox [ 251 , 399 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver.dds"
+		pixelBox [ 251 , 399 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 251 , 399 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 251 , 399 , 47 , 33 ]
+brush
+	name "HUDICONSMALL_TRADESHIP_TECH"
+	content "Simple"
+	fileName "Unit_Main.dds"
+	pixelBox [ 151 , 181 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_TRADESHIP_PSI"
+	content "Simple"
+	fileName "Unit_Main.dds"
+	pixelBox [ 151 , 211 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_TRADESHIP_PHASE"
+	content "Simple"
+	fileName "Unit_Main.dds"
+	pixelBox [ 151 , 241 , 28 , 28 ]
+brush
+	name "HUDICON_REFINERYSHIP_TECH"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled.dds"
+		pixelBox [ 6 , 14 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed.dds"
+		pixelBox [ 6 , 14 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver.dds"
+		pixelBox [ 6 , 14 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 6 , 14 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 6 , 14 , 47 , 33 ]
+brush
+	name "HUDICON_REFINERYSHIP_PSI"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled.dds"
+		pixelBox [ 6 , 49 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed.dds"
+		pixelBox [ 6 , 49 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver.dds"
+		pixelBox [ 6 , 49 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 6 , 49 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 6 , 49 , 47 , 33 ]
+brush
+	name "HUDICON_REFINERYSHIP_PHASE"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled.dds"
+		pixelBox [ 6 , 84 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed.dds"
+		pixelBox [ 6 , 84 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver.dds"
+		pixelBox [ 6 , 84 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 6 , 84 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal.dds"
+		pixelBox [ 6 , 84 , 47 , 33 ]
+brush
+	name "HUDICONSMALL_REFINERYSHIP_TECH"
+	content "Simple"
+	fileName "Unit_Main.dds"
+	pixelBox [ 301 , 181 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_REFINERYSHIP_PSI"
+	content "Simple"
+	fileName "Unit_Main.dds"
+	pixelBox [ 301 , 211 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_REFINERYSHIP_PHASE"
+	content "Simple"
+	fileName "Unit_Main.dds"
+	pixelBox [ 301 , 241 , 28 , 28 ]
+brush
+	name "HUDICON_CAPITALSHIP_DREADNOUGHT_Tech"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Maelstrom.dds"
+		pixelBox [ 398 , 434 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Maelstrom.dds"
+		pixelBox [ 398 , 434 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Maelstrom.dds"
+		pixelBox [ 398 , 434 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Maelstrom.dds"
+		pixelBox [ 398 , 434 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Maelstrom.dds"
+		pixelBox [ 398 , 434 , 47 , 33 ]
+brush
+	name "HUDICON_CAPITALSHIP_DREADNOUGHT_Psi"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Maelstrom.dds"
+		pixelBox [ 300 , 434 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Maelstrom.dds"
+		pixelBox [ 300 , 434 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Maelstrom.dds"
+		pixelBox [ 300 , 434 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Maelstrom.dds"
+		pixelBox [ 300 , 434 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Maelstrom.dds"
+		pixelBox [ 300 , 434 , 47 , 33 ]
+brush
+	name "HUDICON_CAPITALSHIP_DREADNOUGHT_Phase"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Maelstrom.dds"
+		pixelBox [ 349 , 434 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Maelstrom.dds"
+		pixelBox [ 349 , 434 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Maelstrom.dds"
+		pixelBox [ 349 , 434 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Maelstrom.dds"
+		pixelBox [ 349 , 434 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Maelstrom.dds"
+		pixelBox [ 349 , 434 , 47 , 33 ]
+brush
+	name "HUDICONSMALL_CAPITALSHIP_DREADNOUGHT_Tech"
+	content "Simple"
+	fileName "Unit_Main_Maelstrom.dds"
+	pixelBox [ 301 , 121 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_CAPITALSHIP_DREADNOUGHT_Psi"
+	content "Simple"
+	fileName "Unit_Main_Maelstrom.dds"
+	pixelBox [ 331 , 121 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_CAPITALSHIP_DREADNOUGHT_Phase"
+	content "Simple"
+	fileName "Unit_Main_Maelstrom.dds"
+	pixelBox [ 360 , 121 , 28 , 28 ]
+brush
+	name "HUDICON_FRIGATE_ASTEROID"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Maelstrom.dds"
+		pixelBox [ 104 , 609 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Maelstrom.dds"
+		pixelBox [ 104 , 609 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Maelstrom.dds"
+		pixelBox [ 104 , 609 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Maelstrom.dds"
+		pixelBox [ 104 , 609 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Maelstrom.dds"
+		pixelBox [ 104 , 609 , 47 , 33 ]
+brush
+	name "HUDICONSMALL_FRIGATE_ASTEROID"
+	content "Simple"
+	fileName "Unit_Main_Maelstrom.dds"
+	pixelBox [ 451 , 151 , 28 , 28 ]
+brush
+	name "HUDICON_CAPITALSHIP_PIRATECOLONY"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Pirates.dds"
+		pixelBox [ 202 , 119 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Pirates.dds"
+		pixelBox [ 202 , 119 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Pirates.dds"
+		pixelBox [ 202 , 119 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Pirates.dds"
+		pixelBox [ 202 , 119 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Pirates.dds"
+		pixelBox [ 202 , 119 , 47 , 33 ]
+brush
+	name "HUDICONSMALL_CAPITALSHIP_PIRATECOLONY"
+	content "Simple"
+	fileName "Unit_Main_Pirates.dds"
+	pixelBox [ 151 , 1 , 28 , 28 ]
+brush
+	name "HUDICON_FRIGATE_PIRATECARRIER"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Pirates.dds"
+		pixelBox [ 104 , 49 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Pirates.dds"
+		pixelBox [ 104 , 49 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Pirates.dds"
+		pixelBox [ 104 , 49 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Pirates.dds"
+		pixelBox [ 104 , 49 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Pirates.dds"
+		pixelBox [ 104 , 49 , 47 , 33 ]
+brush
+	name "HUDICONSMALL_FRIGATE_PIRATECARRIER"
+	content "Simple"
+	fileName "Unit_Main_Pirates.dds"
+	pixelBox [ 181 , 31 , 28 , 28 ]
+brush
+	name "HUDICON_FRIGATE_PIRATESHIPCONSTRUCTOR"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Pirates.dds"
+		pixelBox [ 104 , 154 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Pirates.dds"
+		pixelBox [ 104 , 154 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Pirates.dds"
+		pixelBox [ 104 , 154 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Pirates.dds"
+		pixelBox [ 104 , 154 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Pirates.dds"
+		pixelBox [ 104 , 154 , 47 , 33 ]
+brush
+	name "HUDICONSMALL_FRIGATE_PIRATEHIPCONSTRUCTOR"
+	content "Simple"
+	fileName "Unit_Main_Pirates.dds"
+	pixelBox [ 301 , 1 , 28 , 28 ]
+brush
+	name "HUDICON_FRIGATE_PIRATEDEFENSECONSTRUCTOR"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Pirates.dds"
+		pixelBox [ 104 , 154 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Pirates.dds"
+		pixelBox [ 104 , 154 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Pirates.dds"
+		pixelBox [ 104 , 154 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Pirates.dds"
+		pixelBox [ 104 , 154 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Pirates.dds"
+		pixelBox [ 104 , 154 , 47 , 33 ]
+brush
+	name "HUDICONSMALL_FRIGATE_PIRATEDEFENSECONSTRUCTOR"
+	content "Simple"
+	fileName "Unit_Main_Pirates.dds"
+	pixelBox [ 301 , 1 , 28 , 28 ]
+brush
+	name "HUDICON_FRIGATE_PIRATEMODULECONSTRUCTOR"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Pirates.dds"
+		pixelBox [ 104 , 154 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Pirates.dds"
+		pixelBox [ 104 , 154 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Pirates.dds"
+		pixelBox [ 104 , 154 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Pirates.dds"
+		pixelBox [ 104 , 154 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Pirates.dds"
+		pixelBox [ 104 , 154 , 47 , 33 ]
+brush
+	name "HUDICONSMALL_FRIGATE_PIRATEMODULECONSTRUCTOR"
+	content "Simple"
+	fileName "Unit_Main_Pirates.dds"
+	pixelBox [ 301 , 1 , 28 , 28 ]
+brush
+	name "HUDICON_FRIGATE_PIRATESCOUT"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Pirates.dds"
+		pixelBox [ 55 , 84 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Pirates.dds"
+		pixelBox [ 55 , 84 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Pirates.dds"
+		pixelBox [ 55 , 84 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Pirates.dds"
+		pixelBox [ 55 , 84 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Pirates.dds"
+		pixelBox [ 55 , 84 , 47 , 33 ]
+brush
+	name "HUDICONSMALL_FRIGATE_PIRATESCOUT"
+	content "Simple"
+	fileName "Unit_Main_Pirates.dds"
+	pixelBox [ 361 , 31 , 28 , 28 ]
+brush
+	name "HUDICON_SQUADPIRATECOMBAT"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Pirates.dds"
+		pixelBox [ 6 , 189 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Pirates.dds"
+		pixelBox [ 6 , 189 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Pirates.dds"
+		pixelBox [ 6 , 189 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Pirates.dds"
+		pixelBox [ 6 , 189 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Pirates.dds"
+		pixelBox [ 6 , 189 , 47 , 33 ]
+brush
+	name "HUDICON_SQUADPIRATEBOMBER"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Pirates.dds"
+		pixelBox [ 153 , 189 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Pirates.dds"
+		pixelBox [ 153 , 189 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Pirates.dds"
+		pixelBox [ 153 , 189 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Pirates.dds"
+		pixelBox [ 153 , 189 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Pirates.dds"
+		pixelBox [ 153 , 189 , 47 , 33 ]
+brush
+	name "HUDICONSMALL_SQUADPIRATEBOMBER"
+	content "Simple"
+	fileName "Unit_Main_Pirates.dds"
+	pixelBox [ 61 , 31 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_SQUADPIRATECOMBAT"
+	content "Simple"
+	fileName "Unit_Main_Pirates.dds"
+	pixelBox [ 91 , 31 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_PIRATEMEDIUMRAIDER"
+	content "Simple"
+	fileName "Unit_Main_Maelstrom.dds"
+	pixelBox [ 271 , 301 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_PIRATEHEAVYRAIDER"
+	content "Simple"
+	fileName "Unit_Main_Maelstrom.dds"
+	pixelBox [ 181 , 301 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_PIRATEANTIFIGHTERRAIDER"
+	content "Simple"
+	fileName "Unit_Main_Maelstrom.dds"
+	pixelBox [ 241 , 301 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_PIRATESIEGERAIDER"
+	content "Simple"
+	fileName "Unit_Main_Maelstrom.dds"
+	pixelBox [ 211 , 301 , 28 , 28 ]
+brush
+	name "HUDICON_CAPITALSHIP_COLONY_Norlamins"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Norlamins.dds"
+		pixelBox [ 104 , 49 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Norlamins.dds"
+		pixelBox [ 104 , 49 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Norlamins.dds"
+		pixelBox [ 104 , 49 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Norlamins.dds"
+		pixelBox [ 104 , 49 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Norlamins.dds"
+		pixelBox [ 104 , 49 , 47 , 33 ]
+brush
+	name "HUDICON_CAPITALSHIP_CARRIER_Norlamins"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Norlamins.dds"
+		pixelBox [ 55 , 49 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Norlamins.dds"
+		pixelBox [ 55 , 49 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Norlamins.dds"
+		pixelBox [ 55 , 49 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Norlamins.dds"
+		pixelBox [ 55 , 49 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Norlamins.dds"
+		pixelBox [ 55 , 49 , 47 , 33 ]
+brush
+	name "HUDICON_CAPITALSHIP_BATTLESHIP_Norlamins"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Norlamins.dds"
+		pixelBox [ 6 , 49 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Norlamins.dds"
+		pixelBox [ 6 , 49 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Norlamins.dds"
+		pixelBox [ 6 , 49 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Norlamins.dds"
+		pixelBox [ 6 , 49 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Norlamins.dds"
+		pixelBox [ 6 , 49 , 47 , 33 ]
+brush
+	name "HUDICON_CAPITALSHIP_SUPPORT_Norlamins"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Norlamins.dds"
+		pixelBox [ 202 , 49 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Norlamins.dds"
+		pixelBox [ 202 , 49 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Norlamins.dds"
+		pixelBox [ 202 , 49 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Norlamins.dds"
+		pixelBox [ 202 , 49 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Norlamins.dds"
+		pixelBox [ 202 , 49 , 47 , 33 ]
+brush
+	name "HUDICON_CAPITALSHIP_SIEGE_Norlamins"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Norlamins.dds"
+		pixelBox [ 153 , 49 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Norlamins.dds"
+		pixelBox [ 153 , 49 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Norlamins.dds"
+		pixelBox [ 153 , 49 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Norlamins.dds"
+		pixelBox [ 153 , 49 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Norlamins.dds"
+		pixelBox [ 153 , 49 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_ANTIFIGHTER_Norlamins"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Norlamins.dds"
+		pixelBox [ 6 , 84 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Norlamins.dds"
+		pixelBox [ 6 , 84 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Norlamins.dds"
+		pixelBox [ 6 , 84 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Norlamins.dds"
+		pixelBox [ 6 , 84 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Norlamins.dds"
+		pixelBox [ 6 , 84 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_CARRIER_Norlamins"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Norlamins.dds"
+		pixelBox [ 55 , 84 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Norlamins.dds"
+		pixelBox [ 55 , 84 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Norlamins.dds"
+		pixelBox [ 55 , 84 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Norlamins.dds"
+		pixelBox [ 55 , 84 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Norlamins.dds"
+		pixelBox [ 55 , 84 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_COLONY_Norlamins"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Norlamins.dds"
+		pixelBox [ 104 , 84 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Norlamins.dds"
+		pixelBox [ 104 , 84 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Norlamins.dds"
+		pixelBox [ 104 , 84 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Norlamins.dds"
+		pixelBox [ 104 , 84 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Norlamins.dds"
+		pixelBox [ 104 , 84 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_HEAVY_Norlamins"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Norlamins.dds"
+		pixelBox [ 202 , 84 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Norlamins.dds"
+		pixelBox [ 202 , 84 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Norlamins.dds"
+		pixelBox [ 202 , 84 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Norlamins.dds"
+		pixelBox [ 202 , 84 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Norlamins.dds"
+		pixelBox [ 202 , 84 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_LIGHT_Norlamins"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Norlamins.dds"
+		pixelBox [ 251 , 84 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Norlamins.dds"
+		pixelBox [ 251 , 84 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Norlamins.dds"
+		pixelBox [ 251 , 84 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Norlamins.dds"
+		pixelBox [ 251 , 84 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Norlamins.dds"
+		pixelBox [ 251 , 84 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_LONGRANGE_Norlamins"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Norlamins.dds"
+		pixelBox [ 300 , 84 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Norlamins.dds"
+		pixelBox [ 300 , 84 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Norlamins.dds"
+		pixelBox [ 300 , 84 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Norlamins.dds"
+		pixelBox [ 300 , 84 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Norlamins.dds"
+		pixelBox [ 300 , 84 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_SCOUT_Norlamins"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Norlamins.dds"
+		pixelBox [ 349 , 84 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Norlamins.dds"
+		pixelBox [ 349 , 84 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Norlamins.dds"
+		pixelBox [ 349 , 84 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Norlamins.dds"
+		pixelBox [ 349 , 84 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Norlamins.dds"
+		pixelBox [ 349 , 84 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_MINERALEXPLORER_Norlamins"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Norlamins.dds"
+		pixelBox [ 153 , 84 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Norlamins.dds"
+		pixelBox [ 153 , 84 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Norlamins.dds"
+		pixelBox [ 153 , 84 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Norlamins.dds"
+		pixelBox [ 153 , 84 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Norlamins.dds"
+		pixelBox [ 153 , 84 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_UTILITY0_Norlamins"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Norlamins.dds"
+		pixelBox [ 398 , 84 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Norlamins.dds"
+		pixelBox [ 398 , 84 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Norlamins.dds"
+		pixelBox [ 398 , 84 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Norlamins.dds"
+		pixelBox [ 398 , 84 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Norlamins.dds"
+		pixelBox [ 398 , 84 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_UTILITY1_Norlamins"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Norlamins.dds"
+		pixelBox [ 447 , 84 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Norlamins.dds"
+		pixelBox [ 447 , 84 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Norlamins.dds"
+		pixelBox [ 447 , 84 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Norlamins.dds"
+		pixelBox [ 447 , 84 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Norlamins.dds"
+		pixelBox [ 447 , 84 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_MODULECONSTRUCTOR_Norlamins"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Norlamins.dds"
+		pixelBox [ 349 , 49 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Norlamins.dds"
+		pixelBox [ 349 , 49 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Norlamins.dds"
+		pixelBox [ 349 , 49 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Norlamins.dds"
+		pixelBox [ 349 , 49 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Norlamins.dds"
+		pixelBox [ 349 , 49 , 47 , 33 ]
+brush
+	name "HUDICON_SQUADFIGHTER_Norlamins"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Norlamins.dds"
+		pixelBox [ 251 , 49 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Norlamins.dds"
+		pixelBox [ 251 , 49 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Norlamins.dds"
+		pixelBox [ 251 , 49 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Norlamins.dds"
+		pixelBox [ 251 , 49 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Norlamins.dds"
+		pixelBox [ 251 , 49 , 47 , 33 ]
+brush
+	name "HUDICON_SQUADBOMBER_Norlamins"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Norlamins.dds"
+		pixelBox [ 300 , 49 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Norlamins.dds"
+		pixelBox [ 300 , 49 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Norlamins.dds"
+		pixelBox [ 300 , 49 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Norlamins.dds"
+		pixelBox [ 300 , 49 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Norlamins.dds"
+		pixelBox [ 300 , 49 , 47 , 33 ]
+brush
+	name "HUDICONLAUNCH_SQUADFIGHTER_Norlamins"
+	content "States"
+	Disabled
+		fileName "Buttons_Main_Disabled_Maelstrom.dds"
+		pixelBox [ 56 , 179 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Main_Pressed_Maelstrom.dds"
+		pixelBox [ 56 , 179 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Main_CursorOver_Maelstrom.dds"
+		pixelBox [ 56 , 179 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Main_Normal_Maelstrom.dds"
+		pixelBox [ 56 , 179 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Main_Normal_Maelstrom.dds"
+		pixelBox [ 56 , 179 , 47 , 33 ]
+brush
+	name "HUDICONLAUNCH_SQUADBOMBER_Norlamins"
+	content "States"
+	Disabled
+		fileName "Buttons_Main_Disabled_Maelstrom.dds"
+		pixelBox [ 56 , 142 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Main_Pressed_Maelstrom.dds"
+		pixelBox [ 56 , 142 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Main_CursorOver_Maelstrom.dds"
+		pixelBox [ 56 , 142 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Main_Normal_Maelstrom.dds"
+		pixelBox [ 56 , 142 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Main_Normal_Maelstrom.dds"
+		pixelBox [ 56 , 142 , 47 , 33 ]
+brush
+	name "HUDICONDOCK_SQUADFIGHTER_Norlamins"
+	content "States"
+	Disabled
+		fileName "Buttons_Main_Disabled_Maelstrom.dds"
+		pixelBox [ 107 , 179 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Main_Pressed_Maelstrom.dds"
+		pixelBox [ 107 , 179 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Main_CursorOver_Maelstrom.dds"
+		pixelBox [ 107 , 179 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Main_Normal_Maelstrom.dds"
+		pixelBox [ 107 , 179 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Main_Normal_Maelstrom.dds"
+		pixelBox [ 107 , 179 , 47 , 33 ]
+brush
+	name "HUDICONDOCK_SQUADBOMBER_Norlamins"
+	content "States"
+	Disabled
+		fileName "Buttons_Main_Disabled_Maelstrom.dds"
+		pixelBox [ 107 , 142 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Main_Pressed_Maelstrom.dds"
+		pixelBox [ 107 , 142 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Main_CursorOver_Maelstrom.dds"
+		pixelBox [ 107 , 142 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Main_Normal_Maelstrom.dds"
+		pixelBox [ 107 , 142 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Main_Normal_Maelstrom.dds"
+		pixelBox [ 107 , 142 , 47 , 33 ]
+brush
+	name "HUDICONSMALL_SQUADFIGHTER_Norlamins"
+	content "Simple"
+	fileName "Unit_Main_Norlamins.dds"
+	pixelBox [ 151 , 1 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_SQUADBOMBER_Norlamins"
+	content "Simple"
+	fileName "Unit_Main_Norlamins.dds"
+	pixelBox [ 181 , 1 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_MODULECONSTRUCTOR_Norlamins"
+	content "Simple"
+	fileName "Unit_Main_Norlamins.dds"
+	pixelBox [ 301 , 31 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_ANTIFIGHTER_Norlamins"
+	content "Simple"
+	fileName "Unit_Main_Norlamins.dds"
+	pixelBox [ 1 , 31 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_CARRIER_Norlamins"
+	content "Simple"
+	fileName "Unit_Main_Norlamins.dds"
+	pixelBox [ 271 , 31 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_COLONY_Norlamins"
+	content "Simple"
+	fileName "Unit_Main_Norlamins.dds"
+	pixelBox [ 31 , 31 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_HEAVY_Norlamins"
+	content "Simple"
+	fileName "Unit_Main_Norlamins.dds"
+	pixelBox [ 241 , 31 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_LIGHT_Norlamins"
+	content "Simple"
+	fileName "Unit_Main_Norlamins.dds"
+	pixelBox [ 121 , 31 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_LONGRANGE_Norlamins"
+	content "Simple"
+	fileName "Unit_Main_Norlamins.dds"
+	pixelBox [ 61 , 31 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_SCOUT_Norlamins"
+	content "Simple"
+	fileName "Unit_Main_Norlamins.dds"
+	pixelBox [ 91 , 31 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_MINERALEXPLORER_Norlamins"
+	content "Simple"
+	fileName "Unit_Main_Norlamins.dds"
+	pixelBox [ 151 , 31 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_UTILITY0_Norlamins"
+	content "Simple"
+	fileName "Unit_Main_Norlamins.dds"
+	pixelBox [ 211 , 31 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_UTILITY1_Norlamins"
+	content "Simple"
+	fileName "Unit_Main_Norlamins.dds"
+	pixelBox [ 181 , 31 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_CAPITALSHIP_COLONY_Norlamins"
+	content "Simple"
+	fileName "Unit_Main_Norlamins.dds"
+	pixelBox [ 121 , 1 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_CAPITALSHIP_CARRIER_Norlamins"
+	content "Simple"
+	fileName "Unit_Main_Norlamins.dds"
+	pixelBox [ 61 , 1 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_CAPITALSHIP_BATTLESHIP_Norlamins"
+	content "Simple"
+	fileName "Unit_Main_Norlamins.dds"
+	pixelBox [ 1 , 1 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_CAPITALSHIP_SUPPORT_Norlamins"
+	content "Simple"
+	fileName "Unit_Main_Norlamins.dds"
+	pixelBox [ 91 , 1 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_CAPITALSHIP_SIEGE_Norlamins"
+	content "Simple"
+	fileName "Unit_Main_Norlamins.dds"
+	pixelBox [ 31 , 1 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_REMOTEREFINERY_Norlamins"
+	content "Simple"
+	fileName "Unit_Main_Norlamins.dds"
+	pixelBox [ 211 , 1 , 28 , 28 ]
+brush
+	name "HUDICON_FRIGATE_REMOTEREFINERY_Norlamins"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Norlamins.dds"
+		pixelBox [ 447 , 14 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Norlamins.dds"
+		pixelBox [ 447 , 14 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Norlamins.dds"
+		pixelBox [ 447 , 14 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Norlamins.dds"
+		pixelBox [ 447 , 14 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Norlamins.dds"
+		pixelBox [ 447 , 14 , 47 , 33 ]
+brush
+	name "HUDICON_TRADESHIP_Norlamins"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Norlamins.dds"
+		pixelBox [ 447 , 49 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Norlamins.dds"
+		pixelBox [ 447 , 49 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Norlamins.dds"
+		pixelBox [ 447 , 49 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Norlamins.dds"
+		pixelBox [ 447 , 49 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Norlamins.dds"
+		pixelBox [ 447 , 49 , 47 , 33 ]
+brush
+	name "HUDICON_REFINERYSHIP_Norlamins"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Norlamins.dds"
+		pixelBox [ 398 , 49 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Norlamins.dds"
+		pixelBox [ 398 , 49 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Norlamins.dds"
+		pixelBox [ 398 , 49 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Norlamins.dds"
+		pixelBox [ 398 , 49 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Norlamins.dds"
+		pixelBox [ 398 , 49 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_STARBASECONSTRUCTOR_Norlamins"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Norlamins.dds"
+		pixelBox [ 398 , 119 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Norlamins.dds"
+		pixelBox [ 398 , 119 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Norlamins.dds"
+		pixelBox [ 398 , 119 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Norlamins.dds"
+		pixelBox [ 398 , 119 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Norlamins.dds"
+		pixelBox [ 398 , 119 , 47 , 33 ]
+brush
+	name "HUDICONSMALL_FRIGATE_STARBASECONSTRUCTOR_Norlamins"
+	content "Simple"
+	fileName "Unit_Main_Norlamins.dds"
+	pixelBox [ 271 , 1 , 28 , 28 ]
+brush
+	name "HUDICON_SQUADMINELAYER_Norlamins"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Norlamins.dds"
+		pixelBox [ 6 , 154 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Norlamins.dds"
+		pixelBox [ 6 , 154 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Norlamins.dds"
+		pixelBox [ 6 , 154 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Norlamins.dds"
+		pixelBox [ 6 , 154 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Norlamins.dds"
+		pixelBox [ 6 , 154 , 47 , 33 ]
+brush
+	name "HUDICONSMALL_SQUADMINELAYER_Norlamins"
+	content "Simple"
+	fileName "Unit_Main_Norlamins.dds"
+	pixelBox [ 331 , 1 , 28 , 28 ]
+brush
+	name "HUDICONLAUNCH_SQUADMINELAYER_Norlamins"
+	content "States"
+	Disabled
+		fileName "Buttons_Main_Disabled_Maelstrom.dds"
+		pixelBox [ 464 , 327 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Main_Pressed_Maelstrom.dds"
+		pixelBox [ 464 , 327 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Main_CursorOver_Maelstrom.dds"
+		pixelBox [ 464 , 327 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Main_Normal_Maelstrom.dds"
+		pixelBox [ 464 , 327 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Main_Normal_Maelstrom.dds"
+		pixelBox [ 464 , 327 , 47 , 33 ]
+brush
+	name "HUDICONDOCK_SQUADMINELAYER_Norlamins"
+	content "States"
+	Disabled
+		fileName "Buttons_Main_Disabled_Maelstrom.dds"
+		pixelBox [ 464 , 364 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Main_Pressed_Maelstrom.dds"
+		pixelBox [ 464 , 364 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Main_CursorOver_Maelstrom.dds"
+		pixelBox [ 464 , 364 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Main_Normal_Maelstrom.dds"
+		pixelBox [ 464 , 364 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Main_Normal_Maelstrom.dds"
+		pixelBox [ 464 , 364 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_ENVOY_Norlamins"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Norlamins.dds"
+		pixelBox [ 55 , 154 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Norlamins.dds"
+		pixelBox [ 55 , 154 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Norlamins.dds"
+		pixelBox [ 55 , 154 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Norlamins.dds"
+		pixelBox [ 55 , 154 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Norlamins.dds"
+		pixelBox [ 55 , 154 , 47 , 33 ]
+brush
+	name "HUDICONSMALL_FRIGATE_ENVOY_Norlamins"
+	content "Simple"
+	fileName "Unit_Main_Norlamins.dds"
+	pixelBox [ 361 , 1 , 28 , 28 ]
+brush
+	name "HUDICON_CAPITALSHIP_DREADNOUGHT_Norlamins"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Norlamins.dds"
+		pixelBox [ 349 , 119 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Norlamins.dds"
+		pixelBox [ 349 , 119 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Norlamins.dds"
+		pixelBox [ 349 , 119 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Norlamins.dds"
+		pixelBox [ 349 , 119 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Norlamins.dds"
+		pixelBox [ 349 , 119 , 47 , 33 ]
+brush
+	name "HUDICONSMALL_CAPITALSHIP_DREADNOUGHT_Norlamins"
+	content "Simple"
+	fileName "Unit_Main_Norlamins.dds"
+	pixelBox [ 241 , 1 , 28 , 28 ]
+brush
+	name "HUDICON_FRIGATE_ANTIMODULE_Norlamins"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Norlamins.dds"
+		pixelBox [ 104 , 154 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Norlamins.dds"
+		pixelBox [ 104 , 154 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Norlamins.dds"
+		pixelBox [ 104 , 154 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Norlamins.dds"
+		pixelBox [ 104 , 154 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Norlamins.dds"
+		pixelBox [ 104 , 154 , 47 , 33 ]
+brush
+	name "HUDICONSMALL_FRIGATE_ANTIMODULE_Norlamins"
+	content "Simple"
+	fileName "Unit_Main_Norlamins.dds"
+	pixelBox [ 391 , 1 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_REFINERYSHIP_Norlamins"
+	content "Simple"
+	fileName "Unit_Main_Norlamins.dds"
+	pixelBox [ 301 , 181 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_TRADESHIP_Norlamins"
+	content "Simple"
+	fileName "Unit_Main_Norlamins.dds"
+	pixelBox [ 151 , 181 , 28 , 28 ]
+brush
+	name "HUDICON_CORVETTE_LOYALIST_Norlamins"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Norlamins.dds"
+		pixelBox [ 300 , 154 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Norlamins.dds"
+		pixelBox [ 300 , 154 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Norlamins.dds"
+		pixelBox [ 300 , 154 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Norlamins.dds"
+		pixelBox [ 300 , 154 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Norlamins.dds"
+		pixelBox [ 300 , 154 , 47 , 33 ]
+brush
+	name "HUDICON_CORVETTE_REBEL_Norlamins"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Norlamins.dds"
+		pixelBox [ 349 , 154 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Norlamins.dds"
+		pixelBox [ 349 , 154 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Norlamins.dds"
+		pixelBox [ 349 , 154 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Norlamins.dds"
+		pixelBox [ 349 , 154 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Norlamins.dds"
+		pixelBox [ 349 , 154 , 47 , 33 ]
+brush
+	name "HUDICON_CAPITALSHIP_BATTLESHIP2_Norlamins"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Norlamins.dds"
+		pixelBox [ 398 , 154 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Norlamins.dds"
+		pixelBox [ 398 , 154 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Norlamins.dds"
+		pixelBox [ 398 , 154 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Norlamins.dds"
+		pixelBox [ 398 , 154 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Norlamins.dds"
+		pixelBox [ 398 , 154 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_TITAN_LOYALIST_Norlamins"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Norlamins.dds"
+		pixelBox [ 447 , 154 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Norlamins.dds"
+		pixelBox [ 447 , 154 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Norlamins.dds"
+		pixelBox [ 447 , 154 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Norlamins.dds"
+		pixelBox [ 447 , 154 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Norlamins.dds"
+		pixelBox [ 447 , 154 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_TITAN_REBEL_Norlamins"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Norlamins.dds"
+		pixelBox [ 251 , 154 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Norlamins.dds"
+		pixelBox [ 251 , 154 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Norlamins.dds"
+		pixelBox [ 251 , 154 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Norlamins.dds"
+		pixelBox [ 251 , 154 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Norlamins.dds"
+		pixelBox [ 251 , 154 , 47 , 33 ]
+brush
+	name "HUDICONSMALL_TITAN_LOYALIST_Norlamins"
+	content "Simple"
+	fileName "Unit_Main_Norlamins.dds"
+	pixelBox [ 451 , 1 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_TITAN_REBEL_Norlamins"
+	content "Simple"
+	fileName "Unit_Main_Norlamins.dds"
+	pixelBox [ 421 , 1 , 28 , 28 ]
+brush
+	name "HUDICON_FRIGATE_SIEGE_Norlamins"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Norlamins.dds"
+		pixelBox [ 104 , 119 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Norlamins.dds"
+		pixelBox [ 104 , 119 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Norlamins.dds"
+		pixelBox [ 104 , 119 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Norlamins.dds"
+		pixelBox [ 104 , 119 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Norlamins.dds"
+		pixelBox [ 104 , 119 , 47 , 33 ]
+brush
+	name "HUDICONSMALL_FRIGATE_SIEGE_Norlamins"
+	content "Simple"
+	fileName "Unit_Main_Norlamins.dds"
+	pixelBox [ 91 , 91 , 28 , 28 ]
+brush
+	name "HUDICON_CAPITALSHIP_COLONY_TradeAlliance"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_TradeAlliance.dds"
+		pixelBox [ 104 , 49 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_TradeAlliance.dds"
+		pixelBox [ 104 , 49 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_TradeAlliance.dds"
+		pixelBox [ 104 , 49 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_TradeAlliance.dds"
+		pixelBox [ 104 , 49 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_TradeAlliance.dds"
+		pixelBox [ 104 , 49 , 47 , 33 ]
+brush
+	name "HUDICON_CAPITALSHIP_CARRIER_TradeAlliance"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_TradeAlliance.dds"
+		pixelBox [ 55 , 49 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_TradeAlliance.dds"
+		pixelBox [ 55 , 49 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_TradeAlliance.dds"
+		pixelBox [ 55 , 49 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_TradeAlliance.dds"
+		pixelBox [ 55 , 49 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_TradeAlliance.dds"
+		pixelBox [ 55 , 49 , 47 , 33 ]
+brush
+	name "HUDICON_CAPITALSHIP_BATTLESHIP_TradeAlliance"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_TradeAlliance.dds"
+		pixelBox [ 6 , 49 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_TradeAlliance.dds"
+		pixelBox [ 6 , 49 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_TradeAlliance.dds"
+		pixelBox [ 6 , 49 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_TradeAlliance.dds"
+		pixelBox [ 6 , 49 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_TradeAlliance.dds"
+		pixelBox [ 6 , 49 , 47 , 33 ]
+brush
+	name "HUDICON_CAPITALSHIP_SUPPORT_TradeAlliance"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_TradeAlliance.dds"
+		pixelBox [ 202 , 49 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_TradeAlliance.dds"
+		pixelBox [ 202 , 49 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_TradeAlliance.dds"
+		pixelBox [ 202 , 49 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_TradeAlliance.dds"
+		pixelBox [ 202 , 49 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_TradeAlliance.dds"
+		pixelBox [ 202 , 49 , 47 , 33 ]
+brush
+	name "HUDICON_CAPITALSHIP_SIEGE_TradeAlliance"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_TradeAlliance.dds"
+		pixelBox [ 153 , 49 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_TradeAlliance.dds"
+		pixelBox [ 153 , 49 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_TradeAlliance.dds"
+		pixelBox [ 153 , 49 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_TradeAlliance.dds"
+		pixelBox [ 153 , 49 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_TradeAlliance.dds"
+		pixelBox [ 153 , 49 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_ANTIFIGHTER_TradeAlliance"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_TradeAlliance.dds"
+		pixelBox [ 6 , 84 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_TradeAlliance.dds"
+		pixelBox [ 6 , 84 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_TradeAlliance.dds"
+		pixelBox [ 6 , 84 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_TradeAlliance.dds"
+		pixelBox [ 6 , 84 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_TradeAlliance.dds"
+		pixelBox [ 6 , 84 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_CARRIER_TradeAlliance"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_TradeAlliance.dds"
+		pixelBox [ 55 , 84 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_TradeAlliance.dds"
+		pixelBox [ 55 , 84 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_TradeAlliance.dds"
+		pixelBox [ 55 , 84 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_TradeAlliance.dds"
+		pixelBox [ 55 , 84 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_TradeAlliance.dds"
+		pixelBox [ 55 , 84 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_COLONY_TradeAlliance"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_TradeAlliance.dds"
+		pixelBox [ 104 , 84 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_TradeAlliance.dds"
+		pixelBox [ 104 , 84 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_TradeAlliance.dds"
+		pixelBox [ 104 , 84 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_TradeAlliance.dds"
+		pixelBox [ 104 , 84 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_TradeAlliance.dds"
+		pixelBox [ 104 , 84 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_HEAVY_TradeAlliance"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_TradeAlliance.dds"
+		pixelBox [ 202 , 84 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_TradeAlliance.dds"
+		pixelBox [ 202 , 84 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_TradeAlliance.dds"
+		pixelBox [ 202 , 84 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_TradeAlliance.dds"
+		pixelBox [ 202 , 84 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_TradeAlliance.dds"
+		pixelBox [ 202 , 84 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_LIGHT_TradeAlliance"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_TradeAlliance.dds"
+		pixelBox [ 251 , 84 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_TradeAlliance.dds"
+		pixelBox [ 251 , 84 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_TradeAlliance.dds"
+		pixelBox [ 251 , 84 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_TradeAlliance.dds"
+		pixelBox [ 251 , 84 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_TradeAlliance.dds"
+		pixelBox [ 251 , 84 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_LONGRANGE_TradeAlliance"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_TradeAlliance.dds"
+		pixelBox [ 300 , 84 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_TradeAlliance.dds"
+		pixelBox [ 300 , 84 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_TradeAlliance.dds"
+		pixelBox [ 300 , 84 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_TradeAlliance.dds"
+		pixelBox [ 300 , 84 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_TradeAlliance.dds"
+		pixelBox [ 300 , 84 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_SCOUT_TradeAlliance"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_TradeAlliance.dds"
+		pixelBox [ 349 , 84 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_TradeAlliance.dds"
+		pixelBox [ 349 , 84 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_TradeAlliance.dds"
+		pixelBox [ 349 , 84 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_TradeAlliance.dds"
+		pixelBox [ 349 , 84 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_TradeAlliance.dds"
+		pixelBox [ 349 , 84 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_SIEGE_TradeAlliance"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_TradeAlliance.dds"
+		pixelBox [ 153 , 84 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_TradeAlliance.dds"
+		pixelBox [ 153 , 84 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_TradeAlliance.dds"
+		pixelBox [ 153 , 84 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_TradeAlliance.dds"
+		pixelBox [ 153 , 84 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_TradeAlliance.dds"
+		pixelBox [ 153 , 84 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_UTILITY0_TradeAlliance"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_TradeAlliance.dds"
+		pixelBox [ 398 , 84 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_TradeAlliance.dds"
+		pixelBox [ 398 , 84 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_TradeAlliance.dds"
+		pixelBox [ 398 , 84 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_TradeAlliance.dds"
+		pixelBox [ 398 , 84 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_TradeAlliance.dds"
+		pixelBox [ 398 , 84 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_UTILITY1_TradeAlliance"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_TradeAlliance.dds"
+		pixelBox [ 447 , 84 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_TradeAlliance.dds"
+		pixelBox [ 447 , 84 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_TradeAlliance.dds"
+		pixelBox [ 447 , 84 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_TradeAlliance.dds"
+		pixelBox [ 447 , 84 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_TradeAlliance.dds"
+		pixelBox [ 447 , 84 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_MODULECONSTRUCTOR_TradeAlliance"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_TradeAlliance.dds"
+		pixelBox [ 349 , 49 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_TradeAlliance.dds"
+		pixelBox [ 349 , 49 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_TradeAlliance.dds"
+		pixelBox [ 349 , 49 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_TradeAlliance.dds"
+		pixelBox [ 349 , 49 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_TradeAlliance.dds"
+		pixelBox [ 349 , 49 , 47 , 33 ]
+brush
+	name "HUDICON_SQUADFIGHTER_TradeAlliance"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_TradeAlliance.dds"
+		pixelBox [ 251 , 49 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_TradeAlliance.dds"
+		pixelBox [ 251 , 49 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_TradeAlliance.dds"
+		pixelBox [ 251 , 49 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_TradeAlliance.dds"
+		pixelBox [ 251 , 49 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_TradeAlliance.dds"
+		pixelBox [ 251 , 49 , 47 , 33 ]
+brush
+	name "HUDICON_SQUADBOMBER_TradeAlliance"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_TradeAlliance.dds"
+		pixelBox [ 300 , 49 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_TradeAlliance.dds"
+		pixelBox [ 300 , 49 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_TradeAlliance.dds"
+		pixelBox [ 300 , 49 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_TradeAlliance.dds"
+		pixelBox [ 300 , 49 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_TradeAlliance.dds"
+		pixelBox [ 300 , 49 , 47 , 33 ]
+brush
+	name "HUDICONLAUNCH_SQUADFIGHTER_TradeAlliance"
+	content "States"
+	Disabled
+		fileName "Buttons_Main_Disabled_Maelstrom.dds"
+		pixelBox [ 158 , 179 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Main_Pressed_Maelstrom.dds"
+		pixelBox [ 158 , 179 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Main_CursorOver_Maelstrom.dds"
+		pixelBox [ 158 , 179 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Main_Normal_Maelstrom.dds"
+		pixelBox [ 158 , 179 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Main_Normal_Maelstrom.dds"
+		pixelBox [ 158 , 179 , 47 , 33 ]
+brush
+	name "HUDICONLAUNCH_SQUADBOMBER_TradeAlliance"
+	content "States"
+	Disabled
+		fileName "Buttons_Main_Disabled_Maelstrom.dds"
+		pixelBox [ 158 , 142 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Main_Pressed_Maelstrom.dds"
+		pixelBox [ 158 , 142 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Main_CursorOver_Maelstrom.dds"
+		pixelBox [ 158 , 142 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Main_Normal_Maelstrom.dds"
+		pixelBox [ 158 , 142 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Main_Normal_Maelstrom.dds"
+		pixelBox [ 158 , 142 , 47 , 33 ]
+brush
+	name "HUDICONDOCK_SQUADFIGHTER_TradeAlliance"
+	content "States"
+	Disabled
+		fileName "Buttons_Main_Disabled_Maelstrom.dds"
+		pixelBox [ 209 , 179 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Main_Pressed_Maelstrom.dds"
+		pixelBox [ 209 , 179 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Main_CursorOver_Maelstrom.dds"
+		pixelBox [ 209 , 179 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Main_Normal_Maelstrom.dds"
+		pixelBox [ 209 , 179 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Main_Normal_Maelstrom.dds"
+		pixelBox [ 209 , 179 , 47 , 33 ]
+brush
+	name "HUDICONDOCK_SQUADBOMBER_TradeAlliance"
+	content "States"
+	Disabled
+		fileName "Buttons_Main_Disabled_Maelstrom.dds"
+		pixelBox [ 209 , 142 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Main_Pressed_Maelstrom.dds"
+		pixelBox [ 209 , 142 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Main_CursorOver_Maelstrom.dds"
+		pixelBox [ 209 , 142 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Main_Normal_Maelstrom.dds"
+		pixelBox [ 209 , 142 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Main_Normal_Maelstrom.dds"
+		pixelBox [ 209 , 142 , 47 , 33 ]
+brush
+	name "HUDICONSMALL_SQUADFIGHTER_TradeAlliance"
+	content "Simple"
+	fileName "Unit_Main_TradeAlliance.dds"
+	pixelBox [ 151 , 1 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_SQUADBOMBER_TradeAlliance"
+	content "Simple"
+	fileName "Unit_Main_TradeAlliance.dds"
+	pixelBox [ 181 , 1 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_MODULECONSTRUCTOR_TradeAlliance"
+	content "Simple"
+	fileName "Unit_Main_TradeAlliance.dds"
+	pixelBox [ 301 , 31 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_ANTIFIGHTER_TradeAlliance"
+	content "Simple"
+	fileName "Unit_Main_TradeAlliance.dds"
+	pixelBox [ 1 , 31 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_CARRIER_TradeAlliance"
+	content "Simple"
+	fileName "Unit_Main_TradeAlliance.dds"
+	pixelBox [ 271 , 31 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_COLONY_TradeAlliance"
+	content "Simple"
+	fileName "Unit_Main_TradeAlliance.dds"
+	pixelBox [ 31 , 31 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_HEAVY_TradeAlliance"
+	content "Simple"
+	fileName "Unit_Main_TradeAlliance.dds"
+	pixelBox [ 241 , 31 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_LIGHT_TradeAlliance"
+	content "Simple"
+	fileName "Unit_Main_TradeAlliance.dds"
+	pixelBox [ 121 , 31 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_LONGRANGE_TradeAlliance"
+	content "Simple"
+	fileName "Unit_Main_TradeAlliance.dds"
+	pixelBox [ 61 , 31 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_SCOUT_TradeAlliance"
+	content "Simple"
+	fileName "Unit_Main_TradeAlliance.dds"
+	pixelBox [ 91 , 31 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_SIEGE_TradeAlliance"
+	content "Simple"
+	fileName "Unit_Main_TradeAlliance.dds"
+	pixelBox [ 151 , 31 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_UTILITY0_TradeAlliance"
+	content "Simple"
+	fileName "Unit_Main_TradeAlliance.dds"
+	pixelBox [ 211 , 31 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_UTILITY1_TradeAlliance"
+	content "Simple"
+	fileName "Unit_Main_TradeAlliance.dds"
+	pixelBox [ 181 , 31 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_CAPITALSHIP_COLONY_TradeAlliance"
+	content "Simple"
+	fileName "Unit_Main_TradeAlliance.dds"
+	pixelBox [ 121 , 1 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_CAPITALSHIP_CARRIER_TradeAlliance"
+	content "Simple"
+	fileName "Unit_Main_TradeAlliance.dds"
+	pixelBox [ 31 , 1 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_CAPITALSHIP_BATTLESHIP_TradeAlliance"
+	content "Simple"
+	fileName "Unit_Main_TradeAlliance.dds"
+	pixelBox [ 1 , 1 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_CAPITALSHIP_SUPPORT_TradeAlliance"
+	content "Simple"
+	fileName "Unit_Main_TradeAlliance.dds"
+	pixelBox [ 91 , 1 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_CAPITALSHIP_SIEGE_TradeAlliance"
+	content "Simple"
+	fileName "Unit_Main_TradeAlliance.dds"
+	pixelBox [ 61 , 1 , 28 , 28 ]
+brush
+	name "HUDICON_TRADESHIP_TradeAlliance"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_TradeAlliance.dds"
+		pixelBox [ 447 , 49 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_TradeAlliance.dds"
+		pixelBox [ 447 , 49 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_TradeAlliance.dds"
+		pixelBox [ 447 , 49 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_TradeAlliance.dds"
+		pixelBox [ 447 , 49 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_TradeAlliance.dds"
+		pixelBox [ 447 , 49 , 47 , 33 ]
+brush
+	name "HUDICON_REFINERYSHIP_TradeAlliance"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_TradeAlliance.dds"
+		pixelBox [ 398 , 49 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_TradeAlliance.dds"
+		pixelBox [ 398 , 49 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_TradeAlliance.dds"
+		pixelBox [ 398 , 49 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_TradeAlliance.dds"
+		pixelBox [ 398 , 49 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_TradeAlliance.dds"
+		pixelBox [ 398 , 49 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_STARBASECONSTRUCTOR_TradeAlliance"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_TradeAlliance.dds"
+		pixelBox [ 349 , 119 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_TradeAlliance.dds"
+		pixelBox [ 349 , 119 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_TradeAlliance.dds"
+		pixelBox [ 349 , 119 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_TradeAlliance.dds"
+		pixelBox [ 349 , 119 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_TradeAlliance.dds"
+		pixelBox [ 349 , 119 , 47 , 33 ]
+brush
+	name "HUDICONSMALL_FRIGATE_STARBASECONSTRUCTOR_TradeAlliance"
+	content "Simple"
+	fileName "Unit_Main_TradeAlliance.dds"
+	pixelBox [ 271 , 1 , 28 , 28 ]
+brush
+	name "HUDICON_FRIGATE_ANTIMODULE_TradeAlliance"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_TradeAlliance.dds"
+		pixelBox [ 398 , 119 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_TradeAlliance.dds"
+		pixelBox [ 398 , 119 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_TradeAlliance.dds"
+		pixelBox [ 398 , 119 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_TradeAlliance.dds"
+		pixelBox [ 398 , 119 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_TradeAlliance.dds"
+		pixelBox [ 398 , 119 , 47 , 33 ]
+brush
+	name "HUDICONSMALL_FRIGATE_ANTIMODULE_TradeAlliance"
+	content "Simple"
+	fileName "Unit_Main_TradeAlliance.dds"
+	pixelBox [ 241 , 1 , 28 , 28 ]
+brush
+	name "HUDICON_SQUADMINELAYER_TradeAlliance"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_TradeAlliance.dds"
+		pixelBox [ 447 , 14 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_TradeAlliance.dds"
+		pixelBox [ 447 , 14 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_TradeAlliance.dds"
+		pixelBox [ 447 , 14 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_TradeAlliance.dds"
+		pixelBox [ 447 , 14 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_TradeAlliance.dds"
+		pixelBox [ 447 , 14 , 47 , 33 ]
+brush
+	name "HUDICONSMALL_SQUADMINELAYER_TradeAlliance"
+	content "Simple"
+	fileName "Unit_Main_TradeAlliance.dds"
+	pixelBox [ 331 , 1 , 28 , 28 ]
+brush
+	name "HUDICONLAUNCH_SQUADMINELAYER_TradeAlliance"
+	content "States"
+	Disabled
+		fileName "Buttons_Main_Disabled_Maelstrom.dds"
+		pixelBox [ 464 , 179 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Main_Pressed_Maelstrom.dds"
+		pixelBox [ 464 , 179 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Main_CursorOver_Maelstrom.dds"
+		pixelBox [ 464 , 179 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Main_Normal_Maelstrom.dds"
+		pixelBox [ 464 , 179 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Main_Normal_Maelstrom.dds"
+		pixelBox [ 464 , 179 , 47 , 33 ]
+brush
+	name "HUDICONDOCK_SQUADMINELAYER_TradeAlliance"
+	content "States"
+	Disabled
+		fileName "Buttons_Main_Disabled_Maelstrom.dds"
+		pixelBox [ 464 , 216 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Main_Pressed_Maelstrom.dds"
+		pixelBox [ 464 , 216 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Main_CursorOver_Maelstrom.dds"
+		pixelBox [ 464 , 216 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Main_Normal_Maelstrom.dds"
+		pixelBox [ 464 , 216 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Main_Normal_Maelstrom.dds"
+		pixelBox [ 464 , 216 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_ENVOY_TradeAlliance"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_TradeAlliance.dds"
+		pixelBox [ 6 , 154 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_TradeAlliance.dds"
+		pixelBox [ 6 , 154 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_TradeAlliance.dds"
+		pixelBox [ 6 , 154 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_TradeAlliance.dds"
+		pixelBox [ 6 , 154 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_TradeAlliance.dds"
+		pixelBox [ 6 , 154 , 47 , 33 ]
+brush
+	name "HUDICONSMALL_FRIGATE_ENVOY_TradeAlliance"
+	content "Simple"
+	fileName "Unit_Main_TradeAlliance.dds"
+	pixelBox [ 361 , 1 , 28 , 28 ]
+brush
+	name "HUDICON_CAPITALSHIP_DREADNOUGHT_TradeAlliance"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_TradeAlliance.dds"
+		pixelBox [ 300 , 119 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_TradeAlliance.dds"
+		pixelBox [ 300 , 119 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_TradeAlliance.dds"
+		pixelBox [ 300 , 119 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_TradeAlliance.dds"
+		pixelBox [ 300 , 119 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_TradeAlliance.dds"
+		pixelBox [ 300 , 119 , 47 , 33 ]
+brush
+	name "HUDICONSMALL_CAPITALSHIP_DREADNOUGHT_TradeAlliance"
+	content "Simple"
+	fileName "Unit_Main_TradeAlliance.dds"
+	pixelBox [ 211 , 1 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_REFINERYSHIP_TradeAlliance"
+	content "Simple"
+	fileName "Unit_Main_TradeAlliance.dds"
+	pixelBox [ 301 , 181 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_TRADESHIP_TradeAlliance"
+	content "Simple"
+	fileName "Unit_Main_TradeAlliance.dds"
+	pixelBox [ 151 , 181 , 28 , 28 ]
+brush
+	name "HUDICON_FRIGATE_TURRETSIEGE_TradeAlliance"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_TradeAlliance.dds"
+		pixelBox [ 104 , 154 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_TradeAlliance.dds"
+		pixelBox [ 104 , 154 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_TradeAlliance.dds"
+		pixelBox [ 104 , 154 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_TradeAlliance.dds"
+		pixelBox [ 104 , 154 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_TradeAlliance.dds"
+		pixelBox [ 104 , 154 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_TURRETCOMBAT_TradeAlliance"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_TradeAlliance.dds"
+		pixelBox [ 153 , 154 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_TradeAlliance.dds"
+		pixelBox [ 153 , 154 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_TradeAlliance.dds"
+		pixelBox [ 153 , 154 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_TradeAlliance.dds"
+		pixelBox [ 153 , 154 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_TradeAlliance.dds"
+		pixelBox [ 153 , 154 , 47 , 33 ]
+brush
+	name "HUDICONSMALL_FRIGATE_TURRETCOMBAT_TradeAlliance"
+	content "Simple"
+	fileName "Unit_Main_TradeAlliance.dds"
+	pixelBox [ 421 , 31 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_TURRETSIEGE_TradeAlliance"
+	content "Simple"
+	fileName "Unit_Main_TradeAlliance.dds"
+	pixelBox [ 391 , 31 , 28 , 28 ]
+brush
+	name "HUDICON_FRIGATE_SUBVERSIONSHIP_TradeAlliance"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_TradeAlliance.dds"
+		pixelBox [ 300 , 154 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_TradeAlliance.dds"
+		pixelBox [ 300 , 154 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_TradeAlliance.dds"
+		pixelBox [ 300 , 154 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_TradeAlliance.dds"
+		pixelBox [ 300 , 154 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_TradeAlliance.dds"
+		pixelBox [ 300 , 154 , 47 , 33 ]
+brush
+	name "HUDICONSMALL_FRIGATE_SUBVERSIONSHIP_TradeAlliance"
+	content "Simple"
+	fileName "Unit_Main_TradeAlliance.dds"
+	pixelBox [ 481 , 1 , 28 , 28 ]
+brush
+	name "HUDICON_CORVETTE_REBEL_TradeAlliance"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_TradeAlliance.dds"
+		pixelBox [ 349 , 154 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_TradeAlliance.dds"
+		pixelBox [ 349 , 154 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_TradeAlliance.dds"
+		pixelBox [ 349 , 154 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_TradeAlliance.dds"
+		pixelBox [ 349 , 154 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_TradeAlliance.dds"
+		pixelBox [ 349 , 154 , 47 , 33 ]
+brush
+	name "HUDICON_CORVETTE_LOYALIST_TradeAlliance"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_TradeAlliance.dds"
+		pixelBox [ 398 , 154 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_TradeAlliance.dds"
+		pixelBox [ 398 , 154 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_TradeAlliance.dds"
+		pixelBox [ 398 , 154 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_TradeAlliance.dds"
+		pixelBox [ 398 , 154 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_TradeAlliance.dds"
+		pixelBox [ 398 , 154 , 47 , 33 ]
+brush
+	name "HUDICON_CAPITALSHIP_BATTLESHIP2_TradeAlliance"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_TradeAlliance.dds"
+		pixelBox [ 447 , 154 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_TradeAlliance.dds"
+		pixelBox [ 447 , 154 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_TradeAlliance.dds"
+		pixelBox [ 447 , 154 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_TradeAlliance.dds"
+		pixelBox [ 447 , 154 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_TradeAlliance.dds"
+		pixelBox [ 447 , 154 , 47 , 33 ]
+brush
+	name "HUDICONSMALL_CAPITALSHIP_BATTLESHIP2_TradeAlliance"
+	content "Simple"
+	fileName "Unit_Main_TradeAlliance.dds"
+	pixelBox [ 121 , 91 , 28 , 28 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_TITAN_LOYALIST_TradeAlliance"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_TradeAlliance.dds"
+		pixelBox [ 251 , 154 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_TradeAlliance.dds"
+		pixelBox [ 251 , 154 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_TradeAlliance.dds"
+		pixelBox [ 251 , 154 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_TradeAlliance.dds"
+		pixelBox [ 251 , 154 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_TradeAlliance.dds"
+		pixelBox [ 251 , 154 , 47 , 33 ]
+brush
+	name "HUDICONSMALL_TITAN_LOYALIST_TradeAlliance"
+	content "Simple"
+	fileName "Unit_Main_TradeAlliance.dds"
+	pixelBox [ 451 , 31 , 28 , 28 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_TITAN_REBEL_TradeAlliance"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_TradeAlliance.dds"
+		pixelBox [ 251 , 189 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_TradeAlliance.dds"
+		pixelBox [ 251 , 189 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_TradeAlliance.dds"
+		pixelBox [ 251 , 189 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_TradeAlliance.dds"
+		pixelBox [ 251 , 189 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_TradeAlliance.dds"
+		pixelBox [ 251 , 189 , 47 , 33 ]
+brush
+	name "HUDICONSMALL_TITAN_REBEL_TradeAlliance"
+	content "Simple"
+	fileName "Unit_Main_TradeAlliance.dds"
+	pixelBox [ 481 , 31 , 28 , 28 ]
+brush
+	name "HUDICON_CAPITALSHIP_COLONY_Replicators"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Replicators.dds"
+		pixelBox [ 104 , 49 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Replicators.dds"
+		pixelBox [ 104 , 49 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Replicators.dds"
+		pixelBox [ 104 , 49 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Replicators.dds"
+		pixelBox [ 104 , 49 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Replicators.dds"
+		pixelBox [ 104 , 49 , 47 , 33 ]
+brush
+	name "HUDICON_CAPITALSHIP_CARRIER_Replicators"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Replicators.dds"
+		pixelBox [ 55 , 49 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Replicators.dds"
+		pixelBox [ 55 , 49 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Replicators.dds"
+		pixelBox [ 55 , 49 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Replicators.dds"
+		pixelBox [ 55 , 49 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Replicators.dds"
+		pixelBox [ 55 , 49 , 47 , 33 ]
+brush
+	name "HUDICON_CAPITALSHIP_BATTLESHIP_Replicators"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Replicators.dds"
+		pixelBox [ 6 , 49 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Replicators.dds"
+		pixelBox [ 6 , 49 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Replicators.dds"
+		pixelBox [ 6 , 49 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Replicators.dds"
+		pixelBox [ 6 , 49 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Replicators.dds"
+		pixelBox [ 6 , 49 , 47 , 33 ]
+brush
+	name "HUDICON_CAPITALSHIP_SUPPORT_Replicators"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Replicators.dds"
+		pixelBox [ 202 , 49 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Replicators.dds"
+		pixelBox [ 202 , 49 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Replicators.dds"
+		pixelBox [ 202 , 49 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Replicators.dds"
+		pixelBox [ 202 , 49 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Replicators.dds"
+		pixelBox [ 202 , 49 , 47 , 33 ]
+brush
+	name "HUDICON_CAPITALSHIP_SIEGE_Replicators"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Replicators.dds"
+		pixelBox [ 153 , 49 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Replicators.dds"
+		pixelBox [ 153 , 49 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Replicators.dds"
+		pixelBox [ 153 , 49 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Replicators.dds"
+		pixelBox [ 153 , 49 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Replicators.dds"
+		pixelBox [ 153 , 49 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_ANTIFIGHTER_Replicators"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Replicators.dds"
+		pixelBox [ 6 , 84 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Replicators.dds"
+		pixelBox [ 6 , 84 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Replicators.dds"
+		pixelBox [ 6 , 84 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Replicators.dds"
+		pixelBox [ 6 , 84 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Replicators.dds"
+		pixelBox [ 6 , 84 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_CARRIER_Replicators"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Replicators.dds"
+		pixelBox [ 55 , 84 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Replicators.dds"
+		pixelBox [ 55 , 84 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Replicators.dds"
+		pixelBox [ 55 , 84 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Replicators.dds"
+		pixelBox [ 55 , 84 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Replicators.dds"
+		pixelBox [ 55 , 84 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_COLONY_Replicators"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Replicators.dds"
+		pixelBox [ 104 , 84 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Replicators.dds"
+		pixelBox [ 104 , 84 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Replicators.dds"
+		pixelBox [ 104 , 84 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Replicators.dds"
+		pixelBox [ 104 , 84 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Replicators.dds"
+		pixelBox [ 104 , 84 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_HEAVY_Replicators"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Replicators.dds"
+		pixelBox [ 202 , 84 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Replicators.dds"
+		pixelBox [ 202 , 84 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Replicators.dds"
+		pixelBox [ 202 , 84 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Replicators.dds"
+		pixelBox [ 202 , 84 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Replicators.dds"
+		pixelBox [ 202 , 84 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_LIGHT_Replicators"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Replicators.dds"
+		pixelBox [ 251 , 84 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Replicators.dds"
+		pixelBox [ 251 , 84 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Replicators.dds"
+		pixelBox [ 251 , 84 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Replicators.dds"
+		pixelBox [ 251 , 84 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Replicators.dds"
+		pixelBox [ 251 , 84 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_HORD_Replicators"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Replicators.dds"
+		pixelBox [ 6 , 154 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Replicators.dds"
+		pixelBox [ 6 , 154 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Replicators.dds"
+		pixelBox [ 6 , 154 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Replicators.dds"
+		pixelBox [ 6 , 154 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Replicators.dds"
+		pixelBox [ 6 , 154 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_LONGRANGE_Replicators"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Replicators.dds"
+		pixelBox [ 300 , 84 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Replicators.dds"
+		pixelBox [ 300 , 84 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Replicators.dds"
+		pixelBox [ 300 , 84 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Replicators.dds"
+		pixelBox [ 300 , 84 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Replicators.dds"
+		pixelBox [ 300 , 84 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_SIEGE_Replicators"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Replicators.dds"
+		pixelBox [ 153 , 84 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Replicators.dds"
+		pixelBox [ 153 , 84 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Replicators.dds"
+		pixelBox [ 153 , 84 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Replicators.dds"
+		pixelBox [ 153 , 84 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Replicators.dds"
+		pixelBox [ 153 , 84 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_SCOUT_Replicators"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Replicators.dds"
+		pixelBox [ 349 , 84 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Replicators.dds"
+		pixelBox [ 349 , 84 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Replicators.dds"
+		pixelBox [ 349 , 84 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Replicators.dds"
+		pixelBox [ 349 , 84 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Replicators.dds"
+		pixelBox [ 349 , 84 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_UTILITY0_Replicators"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Replicators.dds"
+		pixelBox [ 398 , 84 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Replicators.dds"
+		pixelBox [ 398 , 84 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Replicators.dds"
+		pixelBox [ 398 , 84 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Replicators.dds"
+		pixelBox [ 398 , 84 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Replicators.dds"
+		pixelBox [ 398 , 84 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_UTILITY1_Replicators"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Replicators.dds"
+		pixelBox [ 447 , 84 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Replicators.dds"
+		pixelBox [ 447 , 84 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Replicators.dds"
+		pixelBox [ 447 , 84 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Replicators.dds"
+		pixelBox [ 447 , 84 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Replicators.dds"
+		pixelBox [ 447 , 84 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_MODULECONSTRUCTOR_Replicators"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Replicators.dds"
+		pixelBox [ 349 , 49 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Replicators.dds"
+		pixelBox [ 349 , 49 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Replicators.dds"
+		pixelBox [ 349 , 49 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Replicators.dds"
+		pixelBox [ 349 , 49 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Replicators.dds"
+		pixelBox [ 349 , 49 , 47 , 33 ]
+brush
+	name "HUDICON_SQUADFIGHTER_Replicators"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Replicators.dds"
+		pixelBox [ 251 , 49 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Replicators.dds"
+		pixelBox [ 251 , 49 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Replicators.dds"
+		pixelBox [ 251 , 49 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Replicators.dds"
+		pixelBox [ 251 , 49 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Replicators.dds"
+		pixelBox [ 251 , 49 , 47 , 33 ]
+brush
+	name "HUDICON_SQUADBOMBER_Replicators"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Replicators.dds"
+		pixelBox [ 300 , 49 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Replicators.dds"
+		pixelBox [ 300 , 49 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Replicators.dds"
+		pixelBox [ 300 , 49 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Replicators.dds"
+		pixelBox [ 300 , 49 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Replicators.dds"
+		pixelBox [ 300 , 49 , 47 , 33 ]
+brush
+	name "HUDICONLAUNCH_SQUADFIGHTER_Replicators"
+	content "States"
+	Disabled
+		fileName "Buttons_Main_Disabled_Maelstrom.dds"
+		pixelBox [ 362 , 179 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Main_Pressed_Maelstrom.dds"
+		pixelBox [ 362 , 179 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Main_CursorOver_Maelstrom.dds"
+		pixelBox [ 362 , 179 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Main_Normal_Maelstrom.dds"
+		pixelBox [ 362 , 179 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Main_Normal_Maelstrom.dds"
+		pixelBox [ 362 , 179 , 47 , 33 ]
+brush
+	name "HUDICONLAUNCH_SQUADBOMBER_Replicators"
+	content "States"
+	Disabled
+		fileName "Buttons_Main_Disabled_Maelstrom.dds"
+		pixelBox [ 362 , 142 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Main_Pressed_Maelstrom.dds"
+		pixelBox [ 362 , 142 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Main_CursorOver_Maelstrom.dds"
+		pixelBox [ 362 , 142 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Main_Normal_Maelstrom.dds"
+		pixelBox [ 362 , 142 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Main_Normal_Maelstrom.dds"
+		pixelBox [ 362 , 142 , 47 , 33 ]
+brush
+	name "HUDICONDOCK_SQUADFIGHTER_Replicators"
+	content "States"
+	Disabled
+		fileName "Buttons_Main_Disabled_Maelstrom.dds"
+		pixelBox [ 413 , 179 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Main_Pressed_Maelstrom.dds"
+		pixelBox [ 413 , 179 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Main_CursorOver_Maelstrom.dds"
+		pixelBox [ 413 , 179 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Main_Normal_Maelstrom.dds"
+		pixelBox [ 413 , 179 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Main_Normal_Maelstrom.dds"
+		pixelBox [ 413 , 179 , 47 , 33 ]
+brush
+	name "HUDICONDOCK_SQUADBOMBER_Replicators"
+	content "States"
+	Disabled
+		fileName "Buttons_Main_Disabled_Maelstrom.dds"
+		pixelBox [ 413 , 142 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Main_Pressed_Maelstrom.dds"
+		pixelBox [ 413 , 142 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Main_CursorOver_Maelstrom.dds"
+		pixelBox [ 413 , 142 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Main_Normal_Maelstrom.dds"
+		pixelBox [ 413 , 142 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Main_Normal_Maelstrom.dds"
+		pixelBox [ 413 , 142 , 47 , 33 ]
+brush
+	name "HUDICONSMALL_SQUADFIGHTER_Replicators"
+	content "Simple"
+	fileName "Unit_Main_Replicators.dds"
+	pixelBox [ 151 , 1 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_SQUADBOMBER_Replicators"
+	content "Simple"
+	fileName "Unit_Main_Replicators.dds"
+	pixelBox [ 181 , 1 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_MODULECONSTRUCTOR_Replicators"
+	content "Simple"
+	fileName "Unit_Main_Replicators.dds"
+	pixelBox [ 301 , 31 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_ANTIFIGHTER_Replicators"
+	content "Simple"
+	fileName "Unit_Main_Replicators.dds"
+	pixelBox [ 1 , 31 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_CARRIER_Replicators"
+	content "Simple"
+	fileName "Unit_Main_Replicators.dds"
+	pixelBox [ 271 , 31 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_COLONY_Replicators"
+	content "Simple"
+	fileName "Unit_Main_Replicators.dds"
+	pixelBox [ 31 , 31 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_HEAVY_Replicators"
+	content "Simple"
+	fileName "Unit_Main_Replicators.dds"
+	pixelBox [ 241 , 31 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_LIGHT_Replicators"
+	content "Simple"
+	fileName "Unit_Main_Replicators.dds"
+	pixelBox [ 121 , 31 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_HORD_Replicators"
+	content "Simple"
+	fileName "Unit_Main_Replicators.dds"
+	pixelBox [ 271 , 1 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_LONGRANGE_Replicators"
+	content "Simple"
+	fileName "Unit_Main_Replicators.dds"
+	pixelBox [ 61 , 31 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_SCOUT_Replicators"
+	content "Simple"
+	fileName "Unit_Main_Replicators.dds"
+	pixelBox [ 91 , 31 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_SIEGE_Replicators"
+	content "Simple"
+	fileName "Unit_Main_Replicators.dds"
+	pixelBox [ 151 , 31 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_UTILITY0_Replicators"
+	content "Simple"
+	fileName "Unit_Main_Replicators.dds"
+	pixelBox [ 211 , 31 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_UTILITY1_Replicators"
+	content "Simple"
+	fileName "Unit_Main_Replicators.dds"
+	pixelBox [ 181 , 31 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_CAPITALSHIP_COLONY_Replicators"
+	content "Simple"
+	fileName "Unit_Main_Replicators.dds"
+	pixelBox [ 121 , 1 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_CAPITALSHIP_CARRIER_Replicators"
+	content "Simple"
+	fileName "Unit_Main_Replicators.dds"
+	pixelBox [ 31 , 1 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_CAPITALSHIP_BATTLESHIP_Replicators"
+	content "Simple"
+	fileName "Unit_Main_Replicators.dds"
+	pixelBox [ 1 , 1 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_CAPITALSHIP_SUPPORT_Replicators"
+	content "Simple"
+	fileName "Unit_Main_Replicators.dds"
+	pixelBox [ 91 , 1 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_CAPITALSHIP_SIEGE_Replicators"
+	content "Simple"
+	fileName "Unit_Main_Replicators.dds"
+	pixelBox [ 61 , 1 , 28 , 28 ]
+brush
+	name "HUDICON_FRIGATE_STARBASECONSTRUCTOR_Replicators"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Replicators.dds"
+		pixelBox [ 55 , 119 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Replicators.dds"
+		pixelBox [ 55 , 119 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Replicators.dds"
+		pixelBox [ 55 , 119 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Replicators.dds"
+		pixelBox [ 55 , 119 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Replicators.dds"
+		pixelBox [ 55 , 119 , 47 , 33 ]
+brush
+	name "HUDICONSMALL_FRIGATE_STARBASECONSTRUCTOR_Replicators"
+	content "Simple"
+	fileName "Unit_Main_Replicators.dds"
+	pixelBox [ 301 , 61 , 28 , 28 ]
+brush
+	name "HUDICON_SQUADMINELAYER_Replicators"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Replicators.dds"
+		pixelBox [ 104 , 119 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Replicators.dds"
+		pixelBox [ 104 , 119 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Replicators.dds"
+		pixelBox [ 104 , 119 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Replicators.dds"
+		pixelBox [ 104 , 119 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Replicators.dds"
+		pixelBox [ 104 , 119 , 47 , 33 ]
+brush
+	name "HUDICONSMALL_SQUADMINELAYER_Replicators"
+	content "Simple"
+	fileName "Unit_Main_Replicators.dds"
+	pixelBox [ 331 , 1 , 28 , 28 ]
+brush
+	name "HUDICONLAUNCH_SQUADMINELAYER_Replicators"
+	content "States"
+	Disabled
+		fileName "Buttons_Main_Disabled_Maelstrom.dds"
+		pixelBox [ 464 , 401 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Main_Pressed_Maelstrom.dds"
+		pixelBox [ 464 , 401 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Main_CursorOver_Maelstrom.dds"
+		pixelBox [ 464 , 401 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Main_Normal_Maelstrom.dds"
+		pixelBox [ 464 , 401 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Main_Normal_Maelstrom.dds"
+		pixelBox [ 464 , 401 , 47 , 33 ]
+brush
+	name "HUDICONDOCK_SQUADMINELAYER_Replicators"
+	content "States"
+	Disabled
+		fileName "Buttons_Main_Disabled_Maelstrom.dds"
+		pixelBox [ 464 , 438 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Main_Pressed_Maelstrom.dds"
+		pixelBox [ 464 , 438 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Main_CursorOver_Maelstrom.dds"
+		pixelBox [ 464 , 438 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Main_Normal_Maelstrom.dds"
+		pixelBox [ 464 , 438 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Main_Normal_Maelstrom.dds"
+		pixelBox [ 464 , 438 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_ENVOY_Replicators"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Replicators.dds"
+		pixelBox [ 153 , 119 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Replicators.dds"
+		pixelBox [ 153 , 119 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Replicators.dds"
+		pixelBox [ 153 , 119 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Replicators.dds"
+		pixelBox [ 153 , 119 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Replicators.dds"
+		pixelBox [ 153 , 119 , 47 , 33 ]
+brush
+	name "HUDICONSMALL_FRIGATE_ENVOY_Replicators"
+	content "Simple"
+	fileName "Unit_Main_Replicators.dds"
+	pixelBox [ 331 , 31 , 28 , 28 ]
+brush
+	name "HUDICON_CAPITALSHIP_DREADNOUGHT_Replicators"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Replicators.dds"
+		pixelBox [ 6 , 119 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Replicators.dds"
+		pixelBox [ 6 , 119 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Replicators.dds"
+		pixelBox [ 6 , 119 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Replicators.dds"
+		pixelBox [ 6 , 119 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Replicators.dds"
+		pixelBox [ 6 , 119 , 47 , 33 ]
+brush
+	name "HUDICONSMALL_CAPITALSHIP_DREADNOUGHT_Replicators"
+	content "Simple"
+	fileName "Unit_Main_Replicators.dds"
+	pixelBox [ 301 , 1 , 28 , 28 ]
+brush
+	name "HUDICON_FRIGATE_ANTIMODULE_Replicators"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Replicators.dds"
+		pixelBox [ 251 , 119 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Replicators.dds"
+		pixelBox [ 251 , 119 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Replicators.dds"
+		pixelBox [ 251 , 119 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Replicators.dds"
+		pixelBox [ 251 , 119 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Replicators.dds"
+		pixelBox [ 251 , 119 , 47 , 33 ]
+brush
+	name "HUDICONSMALL_FRIGATE_ANTIMODULE_Replicators"
+	content "Simple"
+	fileName "Unit_Main_Replicators.dds"
+	pixelBox [ 361 , 1 , 28 , 28 ]
+brush
+	name "HUDICON_REFINERYSHIP_Replicators"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Replicators.dds"
+		pixelBox [ 398 , 154 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Replicators.dds"
+		pixelBox [ 398 , 154 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Replicators.dds"
+		pixelBox [ 398 , 154 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Replicators.dds"
+		pixelBox [ 398 , 154 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Replicators.dds"
+		pixelBox [ 398 , 154 , 47 , 33 ]
+brush
+	name "HUDICONSMALL_REFINERYSHIP_Replicators"
+	content "Simple"
+	fileName "Unit_Main_Replicators.dds"
+	pixelBox [ 421 , 31 , 28 , 28 ]
+brush
+	name "HUDICON_TRADESHIP_Replicators"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Replicators.dds"
+		pixelBox [ 447 , 154 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Replicators.dds"
+		pixelBox [ 447 , 154 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Replicators.dds"
+		pixelBox [ 447 , 154 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Replicators.dds"
+		pixelBox [ 447 , 154 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Replicators.dds"
+		pixelBox [ 447 , 154 , 47 , 33 ]
+brush
+	name "HUDICONSMALL_TRADESHIP_Replicators"
+	content "Simple"
+	fileName "Unit_Main_Replicators.dds"
+	pixelBox [ 421 , 31 , 28 , 28 ]
+brush
+	name "HUDICON_CAPITALSHIP_BATTLESHIP2_Replicators"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Replicators.dds"
+		pixelBox [ 300 , 154 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Replicators.dds"
+		pixelBox [ 300 , 154 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Replicators.dds"
+		pixelBox [ 300 , 154 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Replicators.dds"
+		pixelBox [ 300 , 154 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Replicators.dds"
+		pixelBox [ 300 , 154 , 47 , 33 ]
+brush
+	name "MAINVIEWICON_CAPITALSHIP_BATTLESHIP2_Replicators"
+	content "States"
+	Disabled
+		fileName "Unit_Main_Replicators.dds"
+		pixelBox [ 451 , 1 , 28 , 28 ]
+	Pressed
+		fileName "Unit_Main_Replicators.dds"
+		pixelBox [ 451 , 1 , 28 , 28 ]
+	CursorOver
+		fileName "Unit_Main_Replicators.dds"
+		pixelBox [ 451 , 1 , 28 , 28 ]
+	Focused
+		fileName "Unit_Main_Replicators.dds"
+		pixelBox [ 451 , 1 , 28 , 28 ]
+	Normal
+		fileName "Unit_Main_Replicators.dds"
+		pixelBox [ 451 , 1 , 28 , 28 ]
+brush
+	name "HUDICON_CORVETTE_REBEL_Replicators"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Replicators.dds"
+		pixelBox [ 202 , 154 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Replicators.dds"
+		pixelBox [ 202 , 154 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Replicators.dds"
+		pixelBox [ 202 , 154 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Replicators.dds"
+		pixelBox [ 202 , 154 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Replicators.dds"
+		pixelBox [ 202 , 154 , 47 , 33 ]
+brush
+	name "HUDICON_CORVETTE_LOYALIST_Replicators"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Replicators.dds"
+		pixelBox [ 251 , 154 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Replicators.dds"
+		pixelBox [ 251 , 154 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Replicators.dds"
+		pixelBox [ 251 , 154 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Replicators.dds"
+		pixelBox [ 251 , 154 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Replicators.dds"
+		pixelBox [ 251 , 154 , 47 , 33 ]
+brush
+	name "HUDICONSMALL_TITAN_LOYALIST_Replicators"
+	content "Simple"
+	fileName "Unit_Main_Replicators.dds"
+	pixelBox [ 391 , 1 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_TITAN_REBEL_Replicators"
+	content "Simple"
+	fileName "Unit_Main_Replicators.dds"
+	pixelBox [ 421 , 1 , 28 , 28 ]
+brush
+	name "HUDICON_CAPITALSHIP_COLONY_Pirates"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Pirates.dds"
+		pixelBox [ 104 , 49 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Pirates.dds"
+		pixelBox [ 104 , 49 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Pirates.dds"
+		pixelBox [ 104 , 49 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Pirates.dds"
+		pixelBox [ 104 , 49 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Pirates.dds"
+		pixelBox [ 104 , 49 , 47 , 33 ]
+brush
+	name "HUDICON_CAPITALSHIP_CARRIER_Pirates"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Pirates.dds"
+		pixelBox [ 55 , 49 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Pirates.dds"
+		pixelBox [ 55 , 49 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Pirates.dds"
+		pixelBox [ 55 , 49 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Pirates.dds"
+		pixelBox [ 55 , 49 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Pirates.dds"
+		pixelBox [ 55 , 49 , 47 , 33 ]
+brush
+	name "HUDICON_CAPITALSHIP_BATTLESHIP_Pirates"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Pirates.dds"
+		pixelBox [ 6 , 49 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Pirates.dds"
+		pixelBox [ 6 , 49 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Pirates.dds"
+		pixelBox [ 6 , 49 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Pirates.dds"
+		pixelBox [ 6 , 49 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Pirates.dds"
+		pixelBox [ 6 , 49 , 47 , 33 ]
+brush
+	name "HUDICON_CAPITALSHIP_SUPPORT_Pirates"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Pirates.dds"
+		pixelBox [ 202 , 49 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Pirates.dds"
+		pixelBox [ 202 , 49 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Pirates.dds"
+		pixelBox [ 202 , 49 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Pirates.dds"
+		pixelBox [ 202 , 49 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Pirates.dds"
+		pixelBox [ 202 , 49 , 47 , 33 ]
+brush
+	name "HUDICON_CAPITALSHIP_SIEGE_Pirates"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Pirates.dds"
+		pixelBox [ 153 , 49 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Pirates.dds"
+		pixelBox [ 153 , 49 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Pirates.dds"
+		pixelBox [ 153 , 49 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Pirates.dds"
+		pixelBox [ 153 , 49 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Pirates.dds"
+		pixelBox [ 153 , 49 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_ANTIFIGHTER_Pirates"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Pirates.dds"
+		pixelBox [ 6 , 84 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Pirates.dds"
+		pixelBox [ 6 , 84 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Pirates.dds"
+		pixelBox [ 6 , 84 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Pirates.dds"
+		pixelBox [ 6 , 84 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Pirates.dds"
+		pixelBox [ 6 , 84 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_CARRIER_Pirates"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Pirates.dds"
+		pixelBox [ 55 , 84 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Pirates.dds"
+		pixelBox [ 55 , 84 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Pirates.dds"
+		pixelBox [ 55 , 84 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Pirates.dds"
+		pixelBox [ 55 , 84 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Pirates.dds"
+		pixelBox [ 55 , 84 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_COLONY_Pirates"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Pirates.dds"
+		pixelBox [ 104 , 84 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Pirates.dds"
+		pixelBox [ 104 , 84 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Pirates.dds"
+		pixelBox [ 104 , 84 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Pirates.dds"
+		pixelBox [ 104 , 84 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Pirates.dds"
+		pixelBox [ 104 , 84 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_HEAVY_Pirates"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Pirates.dds"
+		pixelBox [ 202 , 84 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Pirates.dds"
+		pixelBox [ 202 , 84 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Pirates.dds"
+		pixelBox [ 202 , 84 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Pirates.dds"
+		pixelBox [ 202 , 84 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Pirates.dds"
+		pixelBox [ 202 , 84 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_LIGHT_Pirates"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Pirates.dds"
+		pixelBox [ 251 , 84 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Pirates.dds"
+		pixelBox [ 251 , 84 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Pirates.dds"
+		pixelBox [ 251 , 84 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Pirates.dds"
+		pixelBox [ 251 , 84 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Pirates.dds"
+		pixelBox [ 251 , 84 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_LONGRANGE_Pirates"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Pirates.dds"
+		pixelBox [ 300 , 84 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Pirates.dds"
+		pixelBox [ 300 , 84 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Pirates.dds"
+		pixelBox [ 300 , 84 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Pirates.dds"
+		pixelBox [ 300 , 84 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Pirates.dds"
+		pixelBox [ 300 , 84 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_SCOUT_Pirates"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Pirates.dds"
+		pixelBox [ 349 , 84 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Pirates.dds"
+		pixelBox [ 349 , 84 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Pirates.dds"
+		pixelBox [ 349 , 84 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Pirates.dds"
+		pixelBox [ 349 , 84 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Pirates.dds"
+		pixelBox [ 349 , 84 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_UTILITY0_Pirates"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Pirates.dds"
+		pixelBox [ 398 , 84 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Pirates.dds"
+		pixelBox [ 398 , 84 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Pirates.dds"
+		pixelBox [ 398 , 84 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Pirates.dds"
+		pixelBox [ 398 , 84 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Pirates.dds"
+		pixelBox [ 398 , 84 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_UTILITY1_Pirates"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Pirates.dds"
+		pixelBox [ 447 , 84 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Pirates.dds"
+		pixelBox [ 447 , 84 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Pirates.dds"
+		pixelBox [ 447 , 84 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Pirates.dds"
+		pixelBox [ 447 , 84 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Pirates.dds"
+		pixelBox [ 447 , 84 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_MODULECONSTRUCTOR_Pirates"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Pirates.dds"
+		pixelBox [ 349 , 49 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Pirates.dds"
+		pixelBox [ 349 , 49 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Pirates.dds"
+		pixelBox [ 349 , 49 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Pirates.dds"
+		pixelBox [ 349 , 49 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Pirates.dds"
+		pixelBox [ 349 , 49 , 47 , 33 ]
+brush
+	name "HUDICON_SQUADFIGHTER_Pirates"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Pirates.dds"
+		pixelBox [ 251 , 49 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Pirates.dds"
+		pixelBox [ 251 , 49 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Pirates.dds"
+		pixelBox [ 251 , 49 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Pirates.dds"
+		pixelBox [ 251 , 49 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Pirates.dds"
+		pixelBox [ 251 , 49 , 47 , 33 ]
+brush
+	name "HUDICON_SQUADBOMBER_Pirates"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Pirates.dds"
+		pixelBox [ 300 , 49 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Pirates.dds"
+		pixelBox [ 300 , 49 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Pirates.dds"
+		pixelBox [ 300 , 49 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Pirates.dds"
+		pixelBox [ 300 , 49 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Pirates.dds"
+		pixelBox [ 300 , 49 , 47 , 33 ]
+brush
+	name "HUDICONLAUNCH_SQUADFIGHTER_Pirates"
+	content "States"
+	Disabled
+		fileName "Buttons_Main_Disabled_Maelstrom.dds"
+		pixelBox [ 107 , 512 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Main_Pressed_Maelstrom.dds"
+		pixelBox [ 107 , 512 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Main_CursorOver_Maelstrom.dds"
+		pixelBox [ 107 , 512 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Main_Normal_Maelstrom.dds"
+		pixelBox [ 107 , 512 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Main_Normal_Maelstrom.dds"
+		pixelBox [ 107 , 512 , 47 , 33 ]
+brush
+	name "HUDICONLAUNCH_SQUADBOMBER_Pirates"
+	content "States"
+	Disabled
+		fileName "Buttons_Main_Disabled_Maelstrom.dds"
+		pixelBox [ 107 , 549 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Main_Pressed_Maelstrom.dds"
+		pixelBox [ 107 , 549 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Main_CursorOver_Maelstrom.dds"
+		pixelBox [ 107 , 549 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Main_Normal_Maelstrom.dds"
+		pixelBox [ 107 , 549 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Main_Normal_Maelstrom.dds"
+		pixelBox [ 107 , 549 , 47 , 33 ]
+brush
+	name "HUDICONDOCK_SQUADFIGHTER_Pirates"
+	content "States"
+	Disabled
+		fileName "Buttons_Main_Disabled_Maelstrom.dds"
+		pixelBox [ 158 , 512 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Main_Pressed_Maelstrom.dds"
+		pixelBox [ 158 , 512 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Main_CursorOver_Maelstrom.dds"
+		pixelBox [ 158 , 512 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Main_Normal_Maelstrom.dds"
+		pixelBox [ 158 , 512 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Main_Normal_Maelstrom.dds"
+		pixelBox [ 158 , 512 , 47 , 33 ]
+brush
+	name "HUDICONDOCK_SQUADBOMBER_Pirates"
+	content "States"
+	Disabled
+		fileName "Buttons_Main_Disabled_Maelstrom.dds"
+		pixelBox [ 158 , 549 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Main_Pressed_Maelstrom.dds"
+		pixelBox [ 158 , 549 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Main_CursorOver_Maelstrom.dds"
+		pixelBox [ 158 , 549 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Main_Normal_Maelstrom.dds"
+		pixelBox [ 158 , 549 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Main_Normal_Maelstrom.dds"
+		pixelBox [ 158 , 549 , 47 , 33 ]
+brush
+	name "HUDICONSMALL_SQUADFIGHTER_Pirates"
+	content "Simple"
+	fileName "Unit_Main_Pirates.dds"
+	pixelBox [ 151 , 1 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_SQUADBOMBER_Pirates"
+	content "Simple"
+	fileName "Unit_Main_Pirates.dds"
+	pixelBox [ 181 , 1 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_MODULECONSTRUCTOR_Pirates"
+	content "Simple"
+	fileName "Unit_Main_Pirates.dds"
+	pixelBox [ 301 , 31 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_ANTIFIGHTER_Pirates"
+	content "Simple"
+	fileName "Unit_Main_Pirates.dds"
+	pixelBox [ 1 , 31 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_CARRIER_Pirates"
+	content "Simple"
+	fileName "Unit_Main_Pirates.dds"
+	pixelBox [ 271 , 31 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_COLONY_Pirates"
+	content "Simple"
+	fileName "Unit_Main_Pirates.dds"
+	pixelBox [ 31 , 31 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_HEAVY_Pirates"
+	content "Simple"
+	fileName "Unit_Main_Pirates.dds"
+	pixelBox [ 241 , 31 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_LIGHT_Pirates"
+	content "Simple"
+	fileName "Unit_Main_Pirates.dds"
+	pixelBox [ 121 , 31 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_LONGRANGE_Pirates"
+	content "Simple"
+	fileName "Unit_Main_Pirates.dds"
+	pixelBox [ 61 , 31 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_SCOUT_Pirates"
+	content "Simple"
+	fileName "Unit_Main_Pirates.dds"
+	pixelBox [ 91 , 31 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_UTILITY0_Pirates"
+	content "Simple"
+	fileName "Unit_Main_Pirates.dds"
+	pixelBox [ 211 , 31 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_UTILITY1_Pirates"
+	content "Simple"
+	fileName "Unit_Main_Pirates.dds"
+	pixelBox [ 181 , 31 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_CAPITALSHIP_COLONY_Pirates"
+	content "Simple"
+	fileName "Unit_Main_Pirates.dds"
+	pixelBox [ 121 , 1 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_CAPITALSHIP_CARRIER_Pirates"
+	content "Simple"
+	fileName "Unit_Main_Pirates.dds"
+	pixelBox [ 61 , 1 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_CAPITALSHIP_BATTLESHIP_Pirates"
+	content "Simple"
+	fileName "Unit_Main_Pirates.dds"
+	pixelBox [ 1 , 1 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_CAPITALSHIP_SUPPORT_Pirates"
+	content "Simple"
+	fileName "Unit_Main_Pirates.dds"
+	pixelBox [ 91 , 1 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_CAPITALSHIP_SIEGE_Pirates"
+	content "Simple"
+	fileName "Unit_Main_Pirates.dds"
+	pixelBox [ 31 , 1 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_REMOTEREFINERY_Pirates"
+	content "Simple"
+	fileName "Unit_Main_Pirates.dds"
+	pixelBox [ 211 , 1 , 28 , 28 ]
+brush
+	name "HUDICON_TRADESHIP_Pirates"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Pirates.dds"
+		pixelBox [ 447 , 49 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Pirates.dds"
+		pixelBox [ 447 , 49 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Pirates.dds"
+		pixelBox [ 447 , 49 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Pirates.dds"
+		pixelBox [ 447 , 49 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Pirates.dds"
+		pixelBox [ 447 , 49 , 47 , 33 ]
+brush
+	name "HUDICON_REFINERYSHIP_Pirates"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Pirates.dds"
+		pixelBox [ 398 , 49 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Pirates.dds"
+		pixelBox [ 398 , 49 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Pirates.dds"
+		pixelBox [ 398 , 49 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Pirates.dds"
+		pixelBox [ 398 , 49 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Pirates.dds"
+		pixelBox [ 398 , 49 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_STARBASECONSTRUCTOR_Pirates"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Pirates.dds"
+		pixelBox [ 398 , 119 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Pirates.dds"
+		pixelBox [ 398 , 119 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Pirates.dds"
+		pixelBox [ 398 , 119 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Pirates.dds"
+		pixelBox [ 398 , 119 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Pirates.dds"
+		pixelBox [ 398 , 119 , 47 , 33 ]
+brush
+	name "HUDICONSMALL_FRIGATE_STARBASECONSTRUCTOR_Pirates"
+	content "Simple"
+	fileName "Unit_Main_Pirates.dds"
+	pixelBox [ 271 , 1 , 28 , 28 ]
+brush
+	name "HUDICON_SQUADMINELAYER_Pirates"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Pirates.dds"
+		pixelBox [ 6 , 154 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Pirates.dds"
+		pixelBox [ 6 , 154 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Pirates.dds"
+		pixelBox [ 6 , 154 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Pirates.dds"
+		pixelBox [ 6 , 154 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Pirates.dds"
+		pixelBox [ 6 , 154 , 47 , 33 ]
+brush
+	name "HUDICONSMALL_SQUADMINELAYER_Pirates"
+	content "Simple"
+	fileName "Unit_Main_Pirates.dds"
+	pixelBox [ 331 , 1 , 28 , 28 ]
+brush
+	name "HUDICONLAUNCH_SQUADMINELAYER_Pirates"
+	content "States"
+	Disabled
+		fileName "Buttons_Main_Disabled_Maelstrom.dds"
+		pixelBox [ 107 , 586 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Main_Pressed_Maelstrom.dds"
+		pixelBox [ 107 , 586 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Main_CursorOver_Maelstrom.dds"
+		pixelBox [ 107 , 586 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Main_Normal_Maelstrom.dds"
+		pixelBox [ 107 , 586 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Main_Normal_Maelstrom.dds"
+		pixelBox [ 107 , 586 , 47 , 33 ]
+brush
+	name "HUDICONDOCK_SQUADMINELAYER_Pirates"
+	content "States"
+	Disabled
+		fileName "Buttons_Main_Disabled_Maelstrom.dds"
+		pixelBox [ 158 , 586 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Main_Pressed_Maelstrom.dds"
+		pixelBox [ 158 , 586 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Main_CursorOver_Maelstrom.dds"
+		pixelBox [ 158 , 586 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Main_Normal_Maelstrom.dds"
+		pixelBox [ 158 , 586 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Main_Normal_Maelstrom.dds"
+		pixelBox [ 158 , 586 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_ENVOY_Pirates"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Pirates.dds"
+		pixelBox [ 55 , 154 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Pirates.dds"
+		pixelBox [ 55 , 154 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Pirates.dds"
+		pixelBox [ 55 , 154 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Pirates.dds"
+		pixelBox [ 55 , 154 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Pirates.dds"
+		pixelBox [ 55 , 154 , 47 , 33 ]
+brush
+	name "HUDICONSMALL_FRIGATE_ENVOY_Pirates"
+	content "Simple"
+	fileName "Unit_Main_Pirates.dds"
+	pixelBox [ 361 , 1 , 28 , 28 ]
+brush
+	name "HUDICON_CAPITALSHIP_DREADNOUGHT_Pirates"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Pirates.dds"
+		pixelBox [ 349 , 119 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Pirates.dds"
+		pixelBox [ 349 , 119 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Pirates.dds"
+		pixelBox [ 349 , 119 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Pirates.dds"
+		pixelBox [ 349 , 119 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Pirates.dds"
+		pixelBox [ 349 , 119 , 47 , 33 ]
+brush
+	name "HUDICONSMALL_CAPITALSHIP_DREADNOUGHT_Pirates"
+	content "Simple"
+	fileName "Unit_Main_Pirates.dds"
+	pixelBox [ 241 , 1 , 28 , 28 ]
+brush
+	name "HUDICON_FRIGATE_ANTIMODULE_Pirates"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Pirates.dds"
+		pixelBox [ 104 , 154 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Pirates.dds"
+		pixelBox [ 104 , 154 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Pirates.dds"
+		pixelBox [ 104 , 154 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Pirates.dds"
+		pixelBox [ 104 , 154 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Pirates.dds"
+		pixelBox [ 104 , 154 , 47 , 33 ]
+brush
+	name "HUDICONSMALL_FRIGATE_ANTIMODULE_Pirates"
+	content "Simple"
+	fileName "Unit_Main_Pirates.dds"
+	pixelBox [ 391 , 1 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_REFINERYSHIP_Pirates"
+	content "Simple"
+	fileName "Unit_Main_Pirates.dds"
+	pixelBox [ 301 , 181 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_TRADESHIP_Pirates"
+	content "Simple"
+	fileName "Unit_Main_Pirates.dds"
+	pixelBox [ 151 , 181 , 28 , 28 ]
+brush
+	name "HUDICON_CORVETTE_LOYALIST_Pirates"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Pirates.dds"
+		pixelBox [ 300 , 154 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Pirates.dds"
+		pixelBox [ 300 , 154 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Pirates.dds"
+		pixelBox [ 300 , 154 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Pirates.dds"
+		pixelBox [ 300 , 154 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Pirates.dds"
+		pixelBox [ 300 , 154 , 47 , 33 ]
+brush
+	name "HUDICON_CORVETTE_REBEL_Pirates"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Pirates.dds"
+		pixelBox [ 349 , 154 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Pirates.dds"
+		pixelBox [ 349 , 154 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Pirates.dds"
+		pixelBox [ 349 , 154 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Pirates.dds"
+		pixelBox [ 349 , 154 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Pirates.dds"
+		pixelBox [ 349 , 154 , 47 , 33 ]
+brush
+	name "HUDICON_CAPITALSHIP_BATTLESHIP2_Pirates"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Pirates.dds"
+		pixelBox [ 398 , 154 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Pirates.dds"
+		pixelBox [ 398 , 154 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Pirates.dds"
+		pixelBox [ 398 , 154 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Pirates.dds"
+		pixelBox [ 398 , 154 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Pirates.dds"
+		pixelBox [ 398 , 154 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_TITAN_LOYALIST_Pirates"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Pirates.dds"
+		pixelBox [ 447 , 154 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Pirates.dds"
+		pixelBox [ 447 , 154 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Pirates.dds"
+		pixelBox [ 447 , 154 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Pirates.dds"
+		pixelBox [ 447 , 154 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Pirates.dds"
+		pixelBox [ 447 , 154 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_TITAN_REBEL_Pirates"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Pirates.dds"
+		pixelBox [ 251 , 154 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Pirates.dds"
+		pixelBox [ 251 , 154 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Pirates.dds"
+		pixelBox [ 251 , 154 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Pirates.dds"
+		pixelBox [ 251 , 154 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Pirates.dds"
+		pixelBox [ 251 , 154 , 47 , 33 ]
+brush
+	name "HUDICONSMALL_TITAN_LOYALIST_Pirates"
+	content "Simple"
+	fileName "Unit_Main_Pirates.dds"
+	pixelBox [ 451 , 1 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_TITAN_REBEL_Pirates"
+	content "Simple"
+	fileName "Unit_Main_Pirates.dds"
+	pixelBox [ 421 , 1 , 28 , 28 ]
+brush
+	name "HUDICON_FRIGATE_SIEGE_Pirates"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled_Pirates.dds"
+		pixelBox [ 104 , 119 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed_Pirates.dds"
+		pixelBox [ 104 , 119 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver_Pirates.dds"
+		pixelBox [ 104 , 119 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal_Pirates.dds"
+		pixelBox [ 104 , 119 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal_Pirates.dds"
+		pixelBox [ 104 , 119 , 47 , 33 ]
+brush
+	name "HUDICONSMALL_FRIGATE_SIEGE_Pirates"
+	content "Simple"
+	fileName "Unit_Main_Pirates.dds"
+	pixelBox [ 91 , 91 , 28 , 28 ]

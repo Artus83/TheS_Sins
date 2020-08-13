@@ -1,0 +1,40 @@
+﻿TXT2
+SinsArchiveVersion 194
+entityType "Ability"
+buffInstantActionType "ApplyBuffToSelf"
+instantActionTriggerType "AlwaysPerform"
+buffType "BuffBeamDefenseRangeSelf_TradeAlliance"
+effectInfo
+	effectAttachInfo
+		attachType "Center"
+	smallEffectName ""
+	mediumEffectName ""
+	largeEffectName ""
+	soundID "EFFECT_PhaseCloak"
+needsToFaceTarget FALSE
+canCollideWithTarget TRUE
+moveThruTarget FALSE
+isUltimateAbility FALSE
+maxNumLevels 1
+levelSourceType "ResearchWithoutBase"
+improveSourceResearchSubject "RESEARCHSUBJECT_ABILITYACCESS_BEAMDEFENSERANGE_TradeAlliance"
+aiUseTime "Invalid"
+aiUseTargetCondition "Invalid"
+isAutoCastAvailable FALSE
+isAutoCastOnByDefault FALSE
+pickRandomPlanetToExploreForAutoCastTarget FALSE
+ignoreNonCombatShipsForAutoCastTarget TRUE
+onlyAutoCastWhenDamageTakenExceedsPerc 0.000000
+useCostType "Passive"
+researchPrerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCHSUBJECT_ABILITYACCESS_BEAMDEFENSERANGE_TradeAlliance"
+		Level 1
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+nameStringID "IDS_ABILITY_BEAMDEFENSERANGE_NAME_TradeAlliance"
+descStringID "IDS_ABILITY_BEAMDEFENSERANGE_DESCRIPTION_TradeAlliance"
+hudIcon "HUDICON_ABILITY_BEAMDEFENSERANGE_TradeAlliance"
+smallHudIcon "HUDICON_ABILITY_BEAMDEFENSERANGE_TradeAlliance"
+infoCardIcon ""

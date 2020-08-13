@@ -1,0 +1,55 @@
+﻿TXT2
+SinsArchiveVersion 194
+entityType "ResearchSubject"
+hudIcon "HUDICON_RESEARCHSUBJECT_TRANSCENDENCE_STARBASE_DEFENSES_Phase"
+smallHudIcon "HUDICON_RESEARCHSUBJECT_TRANSCENDENCE_STARBASE_DEFENSES_Phase"
+infoCardIcon ""
+NameStringID "IDS_RESEARCHSUBJECT_TRANSCENDENCE_STARBASE_DEFENSES_NAME_Phase"
+DescriptionStringID "IDS_RESEARCHSUBJECT_TRANSCENDENCE_STARBASE_DEFENSES_DESCRIPTION_Phase"
+researchWindowLocation
+	block 0
+	pos [ 7 , 1 ]
+ResearchField "Defense"
+Prerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCHSUBJECT_TRANSCENDENCE_STARBASE_AI_Phase"
+		Level 1
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+MinimumArtifactLevel -1
+BaseUpgradeTime 180.000000
+PerLevelUpgradeTime 60.000000
+BaseCost
+	credits 2000.000000
+	metal 400.000000
+	crystal 600.000000
+PerLevelCostIncrease
+	credits 500.000000
+	metal 100.000000
+	crystal 100.000000
+Tier 7
+onlyWorksIfTierLabsExist FALSE
+MaxNumResearchLevels 2
+priority 0.000000
+researchBoolModifiers 0
+researchFloatModifiers 4
+researchModifier
+	modifierType "StarBaseHullPointsMaxAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.20000
+researchModifier
+	modifierType "StarBaseArmorAdjustment"
+	baseValue 0.000000
+	perLevelValue 5.000000
+researchModifier
+	modifierType "StarBaseShieldPointsMaxAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.200000
+researchModifier
+	modifierType "StarBaseShieldPointsRegenAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.200000
+artifactPicture ""
+uniqueOverlayBrush "RebellionResearchOverlay"
+dlcId 204880

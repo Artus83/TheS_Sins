@@ -1,0 +1,60 @@
+﻿TXT2
+SinsArchiveVersion 194
+entityType "Ability"
+buffInstantActionType "CreateFrigate"
+instantActionTriggerType "AlwaysPerform"
+frigateType "Frigate_RemoteRefinery_Norlamins"
+numFrigates
+	Level:0 1.000000
+	Level:1 2.000000
+	Level:2 3.000000
+	Level:3 4.000000
+matchOwnerDamageState FALSE
+impulse 350000.000000
+expiryTime
+	Level:0 180.000000
+	Level:1 220.000000
+	Level:2 260.000000
+	Level:3 280.000000
+spawnFrigateSoundID "PLANETMODULE_ORBITALREFINERY_ONSELECTION_0_Norlamins"
+postSpawnBuff ""
+needsToFaceTarget FALSE
+canCollideWithTarget TRUE
+moveThruTarget FALSE
+isUltimateAbility FALSE
+maxNumLevels 1
+levelSourceType "Intrinsic"
+minExperienceLevelRequired
+	Level:0 0.000000
+	Level:1 0.000000
+	Level:2 0.000000
+	Level:3 0.000000
+aiUseTime "OnlyWhenMovingThresholdDistance"
+thresholdDistance 15000.000000
+aiUseTargetCondition "Any"
+isAutoCastAvailable TRUE
+isAutoCastOnByDefault TRUE
+pickRandomPlanetToExploreForAutoCastTarget FALSE
+ignoreNonCombatShipsForAutoCastTarget TRUE
+onlyAutoCastWhenDamageTakenExceedsPerc 0.000000
+useCostType "AntiMatter"
+antiMatterCost
+	Level:0 50.000000
+	Level:1 0.000000
+	Level:2 0.000000
+	Level:3 0.000000
+cooldownTime
+	Level:0 120.000000
+	Level:1 0.000000
+	Level:2 0.000000
+	Level:3 0.000000
+orderAcknowledgementType "ONGENERALORDERISSUED"
+researchPrerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+nameStringID "IDS_ABILITY_DEPLOYREFINERY_NAME_Norlamins"
+descStringID "IDS_ABILITY_DEPLOYREFINERY_DESCRIPTION_Norlamins"
+hudIcon "HUDICON_ABILITY_DEPLOYREFINERY_Norlamins"
+smallHudIcon "HUDICON_ABILITY_DEPLOYREFINERY_Norlamins"
+infoCardIcon ""

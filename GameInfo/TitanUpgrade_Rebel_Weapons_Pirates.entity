@@ -1,0 +1,81 @@
+﻿TXT2
+SinsArchiveVersion 194
+entityType "TitanUpgrade"
+stageCount 5
+stage
+	nameStringID "IDS_TITANUPGRADE_REBEL_WEAPONS_NAME_Pirates"
+	descStringID "IDS_TITANUPGRADE_REBEL_WEAPONS_DESCRIPTION_Pirates"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	levelRequirement -1
+	hudIcon "HUDIconTitanRebelWeaponUpgrade0_Pirates"
+	smallHudIcon "HUDIconTitanRebelWeaponUpgrade0_Pirates"
+	infoCardIcon ""
+	upgradePropertyCount 0
+	upgradeBoolPropertyCount 0
+stage
+	nameStringID "IDS_TITANUPGRADE_REBEL_WEAPONS_NAME_Pirates"
+	descStringID "IDS_TITANUPGRADE_REBEL_WEAPONS_DESCRIPTION_Pirates"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	levelRequirement 0
+	hudIcon "HUDIconTitanRebelWeaponUpgrade0_Pirates"
+	smallHudIcon "HUDIconTitanRebelWeaponUpgrade0_Pirates"
+	infoCardIcon ""
+	upgradePropertyCount 1
+	upgradeProperty
+		propertyType "WeaponDamage"
+		value 0.150000
+	upgradeBoolPropertyCount 0
+stage
+	nameStringID "IDS_TITANUPGRADE_REBEL_WEAPONS_NAME_Pirates"
+	descStringID "IDS_TITANUPGRADE_REBEL_WEAPONS_DESCRIPTION_Pirates"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	levelRequirement 2
+	hudIcon "HUDIconTitanRebelWeaponUpgrade1_Pirates"
+	smallHudIcon "HUDIconTitanRebelWeaponUpgrade1_Pirates"
+	infoCardIcon ""
+	upgradePropertyCount 1
+	upgradeProperty
+		propertyType "WeaponDamage"
+		value 0.250000
+	upgradeBoolPropertyCount 0
+stage
+	nameStringID "IDS_TITANUPGRADE_REBEL_WEAPONS_NAME_Pirates"
+	descStringID "IDS_TITANUPGRADE_REBEL_WEAPONS_DESCRIPTION_Pirates"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	levelRequirement 4
+	hudIcon "HUDIconTitanRebelWeaponUpgrade2_Pirates"
+	smallHudIcon "HUDIconTitanRebelWeaponUpgrade2_Pirates"
+	infoCardIcon ""
+	upgradePropertyCount 1
+	upgradeProperty
+		propertyType "WeaponDamage"
+		value 0.350000
+	upgradeBoolPropertyCount 0
+stage
+	nameStringID "IDS_TITANUPGRADE_REBEL_WEAPONS_NAME_Pirates"
+	descStringID "IDS_TITANUPGRADE_REBEL_WEAPONS_DESCRIPTION_Pirates"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	levelRequirement 6
+	hudIcon "HUDIconTitanRebelWeaponUpgrade3_Pirates"
+	smallHudIcon "HUDIconTitanRebelWeaponUpgrade3_Pirates"
+	infoCardIcon ""
+	upgradePropertyCount 1
+	upgradeProperty
+		propertyType "WeaponDamage"
+		value 0.450000
+	upgradeBoolPropertyCount 0

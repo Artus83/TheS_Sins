@@ -1,0 +1,67 @@
+﻿TXT2
+SinsArchiveVersion 194
+entityType "Ability"
+buffInstantActionType "ApplyBuffToTarget"
+instantActionTriggerType "AlwaysPerform"
+buffType "BuffDreadnoughtBlackOut"
+targetFilter
+	numOwnerships 1
+	ownership "Enemy"
+	numObjects 2
+	object "CapitalShip"
+	object "Frigate"
+	numSpaces 1
+	space "Normal"
+	numConstraints 0
+range
+	Level:0 5000.000000
+	Level:1 7500.000000
+	Level:2 10000.000000
+	Level:3 12500.000000
+effectInfo
+	effectAttachInfo
+		attachType "Ability"
+		abilityIndex 0
+	smallEffectName "CapitalAbility_BlackOutActivate"
+	mediumEffectName "CapitalAbility_BlackOutActivate"
+	largeEffectName "CapitalAbility_BlackOutActivate"
+	soundID ""
+needsToFaceTarget FALSE
+canCollideWithTarget TRUE
+moveThruTarget FALSE
+isUltimateAbility FALSE
+maxNumLevels 4
+levelSourceType "Intrinsic"
+minExperienceLevelRequired
+	Level:0 0.000000
+	Level:1 2.000000
+	Level:2 4.000000
+	Level:3 6.000000
+aiUseTime "OnlyInCombat"
+aiUseTargetCondition "IsNotWeaponDisabled"
+isAutoCastAvailable TRUE
+isAutoCastOnByDefault TRUE
+pickRandomPlanetToExploreForAutoCastTarget FALSE
+ignoreNonCombatShipsForAutoCastTarget TRUE
+onlyAutoCastWhenDamageTakenExceedsPerc 0.000000
+useCostType "AntiMatter"
+antiMatterCost
+	Level:0 75.000000
+	Level:1 70.000000
+	Level:2 60.000000
+	Level:3 55.000000
+cooldownTime
+	Level:0 15.000000
+	Level:1 15.000000
+	Level:2 15.000000
+	Level:3 15.000000
+orderAcknowledgementType "ONATTACKORDERISSUED"
+researchPrerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+nameStringID "IDS_ABILITY_DREADNOUGHT_BLACKOUT_NAME_Psi"
+descStringID "IDS_ABILITY_DREADNOUGHT_BLACKOUT_DESCRIPTION_Psi"
+hudIcon "HUDICON_ABILITY_DREADNOUGHT_BLACKOUT_Psi"
+smallHudIcon "HUDICON_ABILITY_DREADNOUGHT_BLACKOUT_Psi"
+infoCardIcon ""

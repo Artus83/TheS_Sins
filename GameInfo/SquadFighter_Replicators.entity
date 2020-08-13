@@ -1,0 +1,47 @@
+﻿TXT2
+SinsArchiveVersion 194
+entityType "Squad"
+defaultAutoAttackRange "GravityWell"
+defaultAutoAttackOn TRUE
+prefersToFocusFire TRUE
+usesFighterAttack FALSE
+hudIcon "HUDICON_SQUADFIGHTER_Replicators"
+smallHudIcon "HUDICONSMALL_SQUADFIGHTER_Replicators"
+infoCardIcon "INFOCARDICON_SQUADFIGHTER_Replicators"
+fighterEntityDef "Fighter_Replicators"
+fighterIllusionEntityDef "Fighter_Replicators"
+scuttleTime 8.000000
+fighterConstructionTime 17.600000
+decayWithoutOwnerRate 0.010000
+baseMaxNumFighters 5
+role "Combat"
+statCountType "SquadCombat"
+mainViewIcon "MAINVIEWICON_SQUADFIGHTER_Replicators"
+picture "PICTURE_SQUADFIGHTER_Replicators"
+launchIcon "HUDICONLAUNCH_SQUADFIGHTER_Replicators"
+dockIcon "HUDICONDOCK_SQUADFIGHTER_Replicators"
+nameStringID "IDS_SQUADFIGHTER_NAME_Replicators"
+descriptionStringID "IDS_SQUADFIGHTER_DESCRIPTION_Replicators"
+researchPrerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+NumSoundsFor:ONATTACKORDERISSUED 2
+SoundID "SQUAD_FIGHTER_ONATTACKORDERISSUED_0_Replicators"
+SoundID "SQUAD_FIGHTER_ONATTACKORDERISSUED_1_Replicators"
+NumSoundsFor:ONCREATION 1
+SoundID "Squad_Fighter_OnCreation_Replicators"
+NumSoundsFor:ONGENERALORDERISSUED 2
+SoundID "SQUAD_FIGHTER_ONGENERALORDERISSUED_0_Replicators"
+SoundID "SQUAD_FIGHTER_ONGENERALORDERISSUED_1_Replicators"
+NumSoundsFor:ONSELECTED 2
+SoundID "SQUAD_FIGHTER_ONSELECTED_0_Replicators"
+SoundID "SQUAD_FIGHTER_ONSELECTED_1_Replicators"
+NumSoundsFor:ONSTARTPHASEJUMP 0
+minShadow 0.000000
+maxShadow 0.000000
+ability:0 ""
+ability:1 ""
+ability:2 ""
+ability:3 ""
+ability:4 ""

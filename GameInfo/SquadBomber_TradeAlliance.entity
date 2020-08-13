@@ -1,0 +1,47 @@
+﻿TXT2
+SinsArchiveVersion 194
+entityType "Squad"
+defaultAutoAttackRange "GravityWell"
+defaultAutoAttackOn TRUE
+prefersToFocusFire TRUE
+usesFighterAttack FALSE
+hudIcon "HUDICON_SQUADBOMBER_TradeAlliance"
+smallHudIcon "HUDICONSMALL_SQUADBOMBER_TradeAlliance"
+infoCardIcon "INFOCARDICON_SQUADBOMBER_TradeAlliance"
+fighterEntityDef "Bomber_TradeAlliance"
+fighterIllusionEntityDef "Bomber_TradeAlliance"
+scuttleTime 9.000000
+fighterConstructionTime 10.00000
+decayWithoutOwnerRate 0.040000
+baseMaxNumFighters 5
+role "Bomber"
+statCountType "SquadBomber"
+mainViewIcon "MAINVIEWICON_SQUADBOMBER_TradeAlliance"
+picture "PICTURE_SQUADBOMBER_TradeAlliance"
+launchIcon "HUDICONLAUNCH_SQUADBOMBER_TradeAlliance"
+dockIcon "HUDICONDOCK_SQUADBOMBER_TradeAlliance"
+nameStringID "IDS_SQUADBOMBER_NAME_TradeAlliance"
+descriptionStringID "IDS_SQUADBOMBER_DESCRIPTION_TradeAlliance"
+researchPrerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+NumSoundsFor:ONATTACKORDERISSUED 2
+SoundID "SQUAD_BOMBER_ONATTACKORDERISSUED_0_TradeAlliance"
+SoundID "SQUAD_BOMBER_ONATTACKORDERISSUED_1_TradeAlliance"
+NumSoundsFor:ONCREATION 1
+SoundID "SQUAD_BOMBER_ONCREATION_TradeAlliance"
+NumSoundsFor:ONGENERALORDERISSUED 2
+SoundID "SQUAD_BOMBER_ONGENERALORDERISSUED_0_TradeAlliance"
+SoundID "SQUAD_BOMBER_ONGENERALORDERISSUED_1_TradeAlliance"
+NumSoundsFor:ONSELECTED 2
+SoundID "SQUAD_BOMBER_ONSELECTED_0_TradeAlliance"
+SoundID "SQUAD_BOMBER_ONSELECTED_1_TradeAlliance"
+NumSoundsFor:ONSTARTPHASEJUMP 0
+minShadow 0.000000
+maxShadow 0.000000
+ability:0 ""
+ability:1 ""
+ability:2 ""
+ability:3 ""
+ability:4 ""

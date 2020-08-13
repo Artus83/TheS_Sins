@@ -1,0 +1,94 @@
+﻿TXT2
+SinsArchiveVersion 194
+entityType "StarBaseUpgrade"
+stageCount 4
+stage
+	price
+		credits 0.000000
+		metal 0.000000
+		crystal 0.000000
+	upgradeTime 0.000000
+	nameStringID "IDS_STARBASEUPGRADECULTURE_NAME_Replicators"
+	descStringID "IDS_STARBASEUPGRADECULTURE_DESC_Replicators"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+	hudIcon "HUDIconStarBaseUpgradeCulture0_Replicators"
+	smallHudIcon "HUDIconStarBaseUpgradeCulture0_Replicators"
+	infoCardIcon ""
+	upgradePropertyCount 0
+	upgradeBoolPropertyCount 0
+stage
+	price
+		credits 1800.000000
+		metal 275.000000
+		crystal 150.000000
+	upgradeTime 60.000000
+	nameStringID "IDS_STARBASEUPGRADECULTURE_NAME_Replicators"
+	descStringID "IDS_STARBASEUPGRADECULTURE_DESC_Replicators"
+	researchPrerequisites
+		NumResearchPrerequisites 1
+		ResearchPrerequisite
+			Subject "RESEARCHSUBJECT_STARBASEUPGRADEACCESS_CULTURECENTERS_Replicators"
+			Level 1
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	hudIcon "HUDIconStarBaseUpgradeCulture0_Replicators"
+	smallHudIcon "HUDIconStarBaseUpgradeCulture0_Replicators"
+	infoCardIcon ""
+	upgradePropertyCount 2
+	upgradeProperty
+		propertyType "CultureSpreadRate"
+		value 1.750000
+	upgradeProperty
+		propertyType "EnemyCultureRepelRate"
+		value 0.500000
+	upgradeBoolPropertyCount 0
+stage
+	price
+		credits 1800.000000
+		metal 275.000000
+		crystal 150.000000
+	upgradeTime 60.000000
+	nameStringID "IDS_STARBASEUPGRADECULTURE_NAME_Replicators"
+	descStringID "IDS_STARBASEUPGRADECULTURE_DESC_Replicators"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+	hudIcon "HUDIconStarBaseUpgradeCulture1_Replicators"
+	smallHudIcon "HUDIconStarBaseUpgradeCulture1_Replicators"
+	infoCardIcon ""
+	upgradePropertyCount 2
+	upgradeProperty
+		propertyType "CultureSpreadRate"
+		value 3.500000
+	upgradeProperty
+		propertyType "EnemyCultureRepelRate"
+		value 1.000000
+	upgradeBoolPropertyCount 0
+stage
+	price
+		credits 1800.000000
+		metal 275.000000
+		crystal 150.000000
+	upgradeTime 60.000000
+	nameStringID "IDS_STARBASEUPGRADECULTURE_NAME_Replicators"
+	descStringID "IDS_STARBASEUPGRADECULTURE_DESC_Replicators"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+	hudIcon "HUDIconStarBaseUpgradeCulture2_Replicators"
+	smallHudIcon "HUDIconStarBaseUpgradeCulture2_Replicators"
+	infoCardIcon ""
+	upgradePropertyCount 2
+	upgradeProperty
+		propertyType "CultureSpreadRate"
+		value 5.250000
+	upgradeProperty
+		propertyType "EnemyCultureRepelRate"
+		value 1.500000
+	upgradeBoolPropertyCount 0
+xpModifier 50.000000

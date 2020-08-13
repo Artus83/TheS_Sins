@@ -1,0 +1,47 @@
+﻿TXT2
+SinsArchiveVersion 194
+entityType "Squad"
+defaultAutoAttackRange "GravityWell"
+defaultAutoAttackOn TRUE
+prefersToFocusFire TRUE
+usesFighterAttack FALSE
+hudIcon "HUDICON_SQUADFIGHTER_Norlamins"
+smallHudIcon "HUDICONSMALL_SQUADFIGHTER_Norlamins"
+infoCardIcon "INFOCARDICON_SQUADFIGHTER_Norlamins"
+fighterEntityDef "Fighter_Norlamins"
+fighterIllusionEntityDef "Fighter_Norlamins"
+scuttleTime 8.000000
+fighterConstructionTime 17.600000
+decayWithoutOwnerRate 0.010000
+baseMaxNumFighters 5
+role "Combat"
+statCountType "SquadCombat"
+mainViewIcon "MAINVIEWICON_SQUADFIGHTER_Norlamins"
+picture "PICTURE_SQUADFIGHTER_Norlamins"
+launchIcon "HUDICONLAUNCH_SQUADFIGHTER_Norlamins"
+dockIcon "HUDICONDOCK_SQUADFIGHTER_Norlamins"
+nameStringID "IDS_SQUADFIGHTER_NAME_Norlamins"
+descriptionStringID "IDS_SQUADFIGHTER_DESCRIPTION_Norlamins"
+researchPrerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+NumSoundsFor:ONATTACKORDERISSUED 2
+SoundID "SQUAD_FIGHTER_ONATTACKORDERISSUED_0_Norlamins"
+SoundID "SQUAD_FIGHTER_ONATTACKORDERISSUED_1_Norlamins"
+NumSoundsFor:ONCREATION 1
+SoundID "SQUAD_FIGHTER_ONCREATION_Norlamins"
+NumSoundsFor:ONGENERALORDERISSUED 2
+SoundID "SQUAD_FIGHTER_ONGENERALORDERISSUED_0_Norlamins"
+SoundID "SQUAD_FIGHTER_ONGENERALORDERISSUED_1_Norlamins"
+NumSoundsFor:ONSELECTED 2
+SoundID "SQUAD_FIGHTER_ONSELECTED_0_Norlamins"
+SoundID "SQUAD_FIGHTER_ONSELECTED_1_Norlamins"
+NumSoundsFor:ONSTARTPHASEJUMP 0
+minShadow 0.000000
+maxShadow 0.000000
+ability:0 ""
+ability:1 ""
+ability:2 ""
+ability:3 ""
+ability:4 ""

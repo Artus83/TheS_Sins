@@ -1,0 +1,46 @@
+﻿TXT2
+SinsArchiveVersion 194
+entityType "Ability"
+buffInstantActionType "ApplyBuffToSelf"
+instantActionTriggerType "AlwaysPerform"
+buffType "BuffEnvoyBoostCulture_Norlamins"
+effectInfo
+	effectAttachInfo
+		attachType "Center"
+	smallEffectName "CulturalAssistance"
+	mediumEffectName ""
+	largeEffectName "CulturalAssistance"
+	soundID ""
+needsToFaceTarget FALSE
+canCollideWithTarget TRUE
+moveThruTarget FALSE
+isUltimateAbility FALSE
+maxNumLevels 1
+levelSourceType "ResearchWithoutBase"
+improveSourceResearchSubject "RESEARCHSUBJECT_ABILITYACCESS_ENVOYBOOSTCULTURE_Norlamins"
+aiUseTime "OnlyWhenOrbitingEnemyOrAlliedPlanet"
+aiUseTargetCondition "Any"
+isAutoCastAvailable TRUE
+isAutoCastOnByDefault TRUE
+pickRandomPlanetToExploreForAutoCastTarget FALSE
+ignoreNonCombatShipsForAutoCastTarget TRUE
+onlyAutoCastWhenDamageTakenExceedsPerc 0.000000
+useCostType "None"
+cooldownTime
+	Level:0 180.000000
+	Level:1 180.000000
+	Level:2 180.000000
+	Level:3 180.000000
+orderAcknowledgementType "ONGENERALORDERISSUED"
+researchPrerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCHSUBJECT_ABILITYACCESS_ENVOYBOOSTCULTURE_Norlamins"
+		Level 1
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+nameStringID "IDS_ABILITY_ENVOYBOOSTCULTURE_NAME_Norlamins"
+descStringID "IDS_ABILITY_ENVOYBOOSTCULTURE_DESCRIPTION_Norlamins"
+hudIcon "HUDICON_RESEARCHSUBJECT_ENVOYBOOSTCULTURE_Norlamins"
+smallHudIcon "HUDICON_RESEARCHSUBJECT_ENVOYBOOSTCULTURE_Norlamins"
+infoCardIcon ""

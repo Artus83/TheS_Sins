@@ -1,0 +1,357 @@
+TXT2
+SinsArchiveVersion 194
+onlyLoadOnDemand FALSE
+brushCount 68
+brush
+	name "INFOCARDICON_STAR_YELLOW"
+	content "Simple"
+	fileName "Icons_planets.dds"
+	pixelBox [ 287 , 629 , 46 , 48 ]
+brush
+	name "INFOCARDICON_STAR_BLUE"
+	content "Simple"
+	fileName "Icons_planets.dds"
+	pixelBox [ 471 , 629 , 46 , 48 ]
+brush
+	name "INFOCARDICON_STAR_PULSAR"
+	content "Simple"
+	fileName "Icons_planets.dds"
+	pixelBox [ 590 , 629 , 46 , 48 ]
+brush
+	name "INFOCARDICON_STAR_BLACK_HOLE"
+	content "Simple"
+	fileName "Icons_planets.dds"
+	pixelBox [ 529 , 629 , 46 , 48 ]
+brush
+	name "INFOCARDICON_STAR_NEUTRON"
+	content "Simple"
+	fileName "Icons_planets.dds"
+	pixelBox [ 838 , 1478 , 46 , 48 ]
+brush
+	name "INFOCARDICON_STAR_GREEN"
+	content "Simple"
+	fileName "Icons_planets.dds"
+	pixelBox [ 348 , 629 , 46 , 48 ]
+brush
+	name "INFOCARDICON_STAR_RED"
+	content "Simple"
+	fileName "Icons_planets.dds"
+	pixelBox [ 410 , 629 , 46 , 48 ]
+brush
+	name "InfoCardIconCannonShellTech"
+	content "Simple"
+	fileName "Unit_Infocard.dds"
+	pixelBox [ 369 , 1 , 22 , 22 ]
+brush
+	name "InfoCardIconCannonShellPsi"
+	content "Simple"
+	fileName "Unit_Infocard.dds"
+	pixelBox [ 369 , 24 , 22 , 22 ]
+brush
+	name "InfoCardIconCannonShellPhase"
+	content "Simple"
+	fileName "Unit_Infocard.dds"
+	pixelBox [ 369 , 47 , 22 , 22 ]
+brush
+	name "InfoCardIconNextResearchSubjectLevelValue"
+	content "Simple"
+	fileName "Buttons_Main_Normal.dds"
+	pixelBox [ 468 , 18 , 16 , 11 ]
+brush
+	name "InfoCardIconCredits"
+	content "Simple"
+	fileName "smallicons.dds"
+	pixelBox [ 150 , 121 , 16 , 16 ]
+brush
+	name "InfoCardIconCulture"
+	content "Simple"
+	fileName "smallicons.dds"
+	pixelBox [ 23 , 151 , 15 , 12 ]
+brush
+	name "InfoCardIconPopulation"
+	content "Simple"
+	fileName "smallicons.dds"
+	pixelBox [ 131 , 139 , 16 , 16 ]
+brush
+	name "InfoCardIconMetal"
+	content "Simple"
+	fileName "smallicons.dds"
+	pixelBox [ 113 , 121 , 16 , 16 ]
+brush
+	name "InfoCardIconCrystal"
+	content "Simple"
+	fileName "smallicons.dds"
+	pixelBox [ 130 , 121 , 16 , 16 ]
+brush
+	name "InfoCardIconOrderAbility"
+	content "Simple"
+	fileName "smallicons.dds"
+	pixelBox [ 59 , 121 , 15 , 12 ]
+brush
+	name "InfoCardIconOrderAttack"
+	content "Simple"
+	fileName "smallicons.dds"
+	pixelBox [ 77 , 121 , 15 , 12 ]
+brush
+	name "InfoCardIconOrderMove"
+	content "Simple"
+	fileName "smallicons.dds"
+	pixelBox [ 95 , 121 , 15 , 12 ]
+brush
+	name "InfoCardIconOrderRetreat"
+	content "Simple"
+	fileName "smallicons.dds"
+	pixelBox [ 95 , 121 , 15 , 12 ]
+brush
+	name "InfoCardIconFleetUpkeepTech"
+	content "Simple"
+	fileName "smallicons.dds"
+	pixelBox [ 167 , 121 , 16 , 16 ]
+brush
+	name "InfoCardIconFleetUpkeepPsi"
+	content "Simple"
+	fileName "smallicons.dds"
+	pixelBox [ 185 , 121 , 16 , 16 ]
+brush
+	name "InfoCardIconFleetUpkeepPhase"
+	content "Simple"
+	fileName "smallicons.dds"
+	pixelBox [ 203 , 121 , 16 , 16 ]
+brush
+	name "InfoCardIconAutoCast"
+	content "Simple"
+	fileName "smallicons.dds"
+	pixelBox [ 95 , 31 , 22 , 22 ]
+brush
+	name "InfoCardIconCombinedPlanetIncome"
+	content "Simple"
+	fileName "smallicons.dds"
+	pixelBox [ 215 , 1 , 22 , 22 ]
+brush
+	name "InfoCardIconCombinedStarBaseIncome"
+	content "Simple"
+	fileName "smallicons.dds"
+	pixelBox [ 215 , 1 , 22 , 22 ]
+brush
+	name "InfoCardIconPlanetUnknown"
+	content "Simple"
+	fileName "smallicons.dds"
+	pixelBox [ 5 , 136 , 15 , 12 ]
+brush
+	name "WindowInfoCardDefaultIcon"
+	content "States"
+	Disabled
+		fileName "Buttons_Main_Disabled.dds"
+		pixelBox [ 260 , 475 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Main_Pressed.dds"
+		pixelBox [ 260 , 475 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Main_CursorOver.dds"
+		pixelBox [ 260 , 475 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Main_Normal.dds"
+		pixelBox [ 260 , 475 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Main_Normal.dds"
+		pixelBox [ 260 , 475 , 47 , 33 ]
+brush
+	name "INFOCARDICON_STARBASE_TECH"
+	content "Simple"
+	fileName "Unit_Infocard.dds"
+	pixelBox [ 208 , 70 , 22 , 22 ]
+brush
+	name "INFOCARDICON_STARBASE_PSI"
+	content "Simple"
+	fileName "Unit_Infocard.dds"
+	pixelBox [ 208 , 93 , 22 , 22 ]
+brush
+	name "INFOCARDICON_STARBASE_PHASE"
+	content "Simple"
+	fileName "Unit_Infocard.dds"
+	pixelBox [ 208 , 116 , 22 , 22 ]
+brush
+	name "InfoCardIconSpaceMineTech"
+	content "Simple"
+	fileName "Unit_Infocard.dds"
+	pixelBox [ 231 , 1 , 22 , 22 ]
+brush
+	name "InfoCardIconSpaceMinePsi"
+	content "Simple"
+	fileName "Unit_Infocard.dds"
+	pixelBox [ 231 , 24 , 22 , 22 ]
+brush
+	name "InfoCardIconSpaceMinePhaseExplosive"
+	content "Simple"
+	fileName "Unit_Infocard.dds"
+	pixelBox [ 231 , 47 , 22 , 22 ]
+brush
+	name "InfoCardIconSpaceMinePhaseGravity"
+	content "Simple"
+	fileName "Unit_Infocard.dds"
+	pixelBox [ 346 , 185 , 22 , 22 ]
+brush
+	name "INFOCARDICON_STAR_DARK"
+	content "Simple"
+	fileName "Icons_planets_maelstrom.dds"
+	pixelBox [ 471 , 629 , 46 , 48 ]
+brush
+	name "INFOCARDICON_STAR_WHITE"
+	content "Simple"
+	fileName "Icons_planets_maelstrom.dds"
+	pixelBox [ 410 , 629 , 46 , 48 ]
+brush
+	name "INFOCARDICON_STAR_MAGNETAR"
+	content "Simple"
+	fileName "Icons_planets_maelstrom.dds"
+	pixelBox [ 652 , 629 , 46 , 48 ]
+brush
+	name "INFOCARDICON_STAR_VOLATILE"
+	content "Simple"
+	fileName "Icons_planets_maelstrom.dds"
+	pixelBox [ 591 , 629 , 46 , 48 ]
+brush
+	name "INFOCARDICON_STAR_QUASAR"
+	content "Simple"
+	fileName "Icons_planets_maelstrom.dds"
+	pixelBox [ 1281 , 629 , 46 , 48 ]
+brush
+	name "InfoCardIconCannonShell_Norlamins"
+	content "Simple"
+	fileName "Unit_Infocard.dds"
+	pixelBox [ 369 , 24 , 22 , 22 ]
+brush
+	name "InfoCardIconFleetUpkeep_Norlamins"
+	content "Simple"
+	fileName "smallicons.dds"
+	pixelBox [ 185 , 121 , 16 , 16 ]
+brush
+	name "INFOCARDICON_STARBASE_Norlamins"
+	content "Simple"
+	fileName "Unit_Infocard_Norlamins.dds"
+	pixelBox [ 231 , 1 , 22 , 22 ]
+brush
+	name "InfoCardIconSpaceMine_Norlamins"
+	content "Simple"
+	fileName "Unit_Infocard_Norlamins.dds"
+	pixelBox [ 254 , 1 , 22 , 22 ]
+brush
+	name "InfoCardIconCannonShell_TradeAlliance"
+	content "Simple"
+	fileName "Unit_Infocard.dds"
+	pixelBox [ 369 , 24 , 22 , 22 ]
+brush
+	name "InfoCardIconFleetUpkeep_TradeAlliance"
+	content "Simple"
+	fileName "smallicons.dds"
+	pixelBox [ 185 , 121 , 16 , 16 ]
+brush
+	name "INFOCARDICON_STARBASE_TradeAlliance"
+	content "Simple"
+	fileName "Unit_Infocard_TradeAlliance.dds"
+	pixelBox [ 231 , 1 , 22 , 22 ]
+brush
+	name "InfoCardIconSpaceMine_TradeAlliance"
+	content "Simple"
+	fileName "Unit_Infocard_TradeAlliance.dds"
+	pixelBox [ 254 , 1 , 22 , 22 ]
+brush
+	name "InfoCardIconCannonShell_Replicators"
+	content "Simple"
+	fileName "Unit_Infocard.dds"
+	pixelBox [ 369 , 24 , 22 , 22 ]
+brush
+	name "InfoCardIconFleetUpkeep_Replicators"
+	content "Simple"
+	fileName "smallicons.dds"
+	pixelBox [ 185 , 121 , 16 , 16 ]
+brush
+	name "INFOCARDICON_STARBASE_Replicators"
+	content "Simple"
+	fileName "Unit_Infocard_Replicators.dds"
+	pixelBox [ 277 , 47 , 22 , 22 ]
+brush
+	name "InfoCardIconSpaceMine_Replicators"
+	content "Simple"
+	fileName "Unit_Infocard_Replicators.dds"
+	pixelBox [ 254 , 1 , 22 , 22 ]
+brush
+	name "InfoCardIconCannonShell_Pirates"
+	content "Simple"
+	fileName "Unit_Infocard.dds"
+	pixelBox [ 369 , 24 , 22 , 22 ]
+brush
+	name "InfoCardIconFleetUpkeep_Pirates"
+	content "Simple"
+	fileName "smallicons.dds"
+	pixelBox [ 185 , 121 , 16 , 16 ]
+brush
+	name "INFOCARDICON_STARBASE_Pirates"
+	content "Simple"
+	fileName "Unit_Infocard_Pirates.dds"
+	pixelBox [ 231 , 1 , 22 , 22 ]
+brush
+	name "InfoCardIconSpaceMine_Pirates"
+	content "Simple"
+	fileName "Unit_Infocard_Pirates.dds"
+	pixelBox [ 254 , 1 , 22 , 22 ]
+brush
+	name "INFOCARDICON_STARBASE_COMBAT_Replicators"
+	content "Simple"
+	fileName "Unit_Infocard_Replicators.dds"
+	pixelBox [ 277 , 47 , 22 , 22 ]
+brush
+	name "INFOCARDICON_STARBASE_COMMERCE_Replicators"
+	content "Simple"
+	fileName "Unit_Infocard_Replicators.dds"
+	pixelBox [ 277 , 47 , 22 , 22 ]
+brush
+	name "INFOCARDICON_STARBASE_CULTURE_Replicators"
+	content "Simple"
+	fileName "Unit_Infocard_Replicators.dds"
+	pixelBox [ 277 , 47 , 22 , 22 ]
+brush
+	name "INFOCARDICON_STARBASE_COMBAT_Pirates"
+	content "Simple"
+	fileName "Unit_Infocard_Pirates.dds"
+	pixelBox [ 277 , 47 , 22 , 22 ]
+brush
+	name "INFOCARDICON_STARBASE_COMMERCE_Pirates"
+	content "Simple"
+	fileName "Unit_Infocard_Pirates.dds"
+	pixelBox [ 277 , 47 , 22 , 22 ]
+brush
+	name "INFOCARDICON_STARBASE_CULTURE_Pirates"
+	content "Simple"
+	fileName "Unit_Infocard_Pirates.dds"
+	pixelBox [ 277 , 47 , 22 , 22 ]
+brush
+	name "INFOCARDICON_STARBASE_COMBAT_TradeAlliance"
+	content "Simple"
+	fileName "Unit_Infocard_TradeAlliance.dds"
+	pixelBox [ 277 , 47 , 22 , 22 ]
+brush
+	name "INFOCARDICON_STARBASE_COMMERCE_TradeAlliance"
+	content "Simple"
+	fileName "Unit_Infocard_TradeAlliance.dds"
+	pixelBox [ 277 , 47 , 22 , 22 ]
+brush
+	name "INFOCARDICON_STARBASE_CULTURE_TradeAlliance"
+	content "Simple"
+	fileName "Unit_Infocard_TradeAlliance.dds"
+	pixelBox [ 277 , 47 , 22 , 22 ]
+brush
+	name "INFOCARDICON_STARBASE_COMBAT_Norlamins"
+	content "Simple"
+	fileName "Unit_Infocard_Norlamins.dds"
+	pixelBox [ 277 , 47 , 22 , 22 ]
+brush
+	name "INFOCARDICON_STARBASE_COMMERCE_Norlamins"
+	content "Simple"
+	fileName "Unit_Infocard_Norlamins.dds"
+	pixelBox [ 277 , 47 , 22 , 22 ]
+brush
+	name "INFOCARDICON_STARBASE_CULTURE_Norlamins"
+	content "Simple"
+	fileName "Unit_Infocard_Norlamins.dds"
+	pixelBox [ 277 , 47 , 22 , 22 ]

@@ -1,0 +1,33 @@
+TXT
+characterArea [-0, 0, 441 , 749]
+pictureBackdropArea [180, 90,  803 , 393]
+pictureArea [180, 90,  803 , 393]
+tipBackdropArea [180, 450, 803 , 176]
+tipTextArea [380, 520, 550 , 100]
+barBackdropArea [175, 633, 663, 55]
+barProgressArea [189, 633, 635, 55]
+barBackdrop "LoadScreenBarBackdrop"
+barOverlay "LoadScreenBarOverlay"
+barProgress "LoadScreenBarProgress"
+tipBackdrop "LoadScreenTipBackdrop"
+tipOverlay "LoadScreenTipOverlay"
+pictureBackdrop "LoadScreenPictureBackdrop"
+pictureOverlay "LoadScreenPictureOverlay"
+tipTextFont "Label"
+pictureCount 13
+pictureBrush "LoadScreenPicture0"
+pictureBrush "LoadScreenPicture1"
+pictureBrush "LoadScreenPicture2"
+pictureBrush "LoadScreenPicture3"
+pictureBrush "LoadScreenPicture4"
+pictureBrush "LoadScreenPicture5"
+pictureBrush "LoadScreenPicture6"
+pictureBrush "LoadScreenPicture7"
+pictureBrush "LoadScreenPicture8"
+pictureBrush "LoadScreenPicture9"
+pictureBrush "LoadScreenPicture10"
+pictureBrush "LoadScreenPicture11"
+pictureBrush "LoadScreenPicture12"
+exclusivePictureBrush ""
+tipCount 1
+tip "IDSLoadScreenTip00"

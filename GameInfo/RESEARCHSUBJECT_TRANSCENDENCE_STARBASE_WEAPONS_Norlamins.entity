@@ -1,0 +1,47 @@
+﻿TXT2
+SinsArchiveVersion 194
+entityType "ResearchSubject"
+hudIcon "HUDICON_RESEARCHSUBJECT_TRANSCENDENCE_STARBASE_WEAPONS_Norlamins"
+smallHudIcon "HUDICON_RESEARCHSUBJECT_TRANSCENDENCE_STARBASE_WEAPONS_Norlamins"
+infoCardIcon ""
+NameStringID "IDS_RESEARCHSUBJECT_TRANSCENDENCE_STARBASE_WEAPONS_NAME_Norlamins"
+DescriptionStringID "IDS_RESEARCHSUBJECT_TRANSCENDENCE_STARBASE_WEAPONS_DESCRIPTION_Norlamins"
+researchWindowLocation
+	block 0
+	pos [ 7 , 4 ]
+ResearchField "Defense"
+Prerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCHSUBJECT_TRANSCENDENCE_STARBASE_DEVELOPMENT_Norlamins"
+		Level 1
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+MinimumArtifactLevel -1
+BaseUpgradeTime 180.000000
+PerLevelUpgradeTime 60.000000
+BaseCost
+	credits 2000.000000
+	metal 400.000000
+	crystal 600.000000
+PerLevelCostIncrease
+	credits 500.000000
+	metal 100.000000
+	crystal 100.000000
+Tier 7
+onlyWorksIfTierLabsExist FALSE
+MaxNumResearchLevels 2
+priority 0.000000
+researchBoolModifiers 0
+researchFloatModifiers 2
+researchModifier
+	modifierType "StarBaseWeaponTargetPerBankAdjustment"
+	baseValue 0.000000
+	perLevelValue 2.000000
+researchModifier
+	modifierType "StarBaseWeaponDamageAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.500000
+artifactPicture ""
+uniqueOverlayBrush "RebellionResearchOverlay"
+dlcId 204880

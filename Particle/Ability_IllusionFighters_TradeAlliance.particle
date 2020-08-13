@@ -1,0 +1,120 @@
+﻿TXT2
+SinsArchiveVersion 193
+ParticleSimulation
+	HasInfiniteLifeTime FALSE
+	TotalLifeTime 8.000000
+	NumEmitters 1
+	EmitterType "Sphere"
+	EmitterContents
+		Name "DancingWisps"
+		Enabled TRUE
+		EmitRate 35.000000
+		HasInfiniteEmitCount FALSE
+		MaxEmitCount 80
+		hasEmitIntervals FALSE
+		emitIntervalRunDuration 0.000000
+		emitIntervalWaitDuration 0.000000
+		ParticleLifeTime 3.000000
+		ParticleMinStartLinearSpeed 70.000000
+		ParticleMaxStartLinearSpeed 90.000000
+		ParticleMinStartAngularSpeed 0.000000
+		ParticleMaxStartAngularSpeed 0.000000
+		ParticleMinStartRotation -1.745329
+		ParticleMaxStartRotation 1.745329
+		ParticleStartMass 1.000000
+		ParticleStartColor ff80ffff
+		ParticleWidth 28.000000
+		ParticleHeight 28.000000
+		MeshName ""
+		Position [ 0.000000 -2000.000000 0.000000 ]
+		Orientation
+			 [ 1.000000 0.000000 0.000000 ]
+			 [ 0.000000 -0.000000 -1.000000 ]
+			 [ 0.000000 1.000000 -0.000000 ]
+		RotateAboutForward -90.000000
+		RotateAboutUp 0.000000
+		RotateAboutCross 0.000000
+		StartTime 0.000000
+		HasInfiniteLifeTime TRUE
+		TotalLifeTime 0.000000
+		BillboardAnchor 0
+		ParticleFacing 0
+		PipelineEffectID "Particle_Additive.fx"
+		AreParticlesAttached TRUE
+		numTextures 2
+		textureName "psifriendlyspots.dds"
+		textureName ""
+		textureAnimationName ""
+		textureAnimationSpawnType "RandomFrames"
+		textureAnimationOnParticleFPS 0.000000
+		ParticlesRotate TRUE
+		MeshParticleRotationAxisType 0
+		MeshParticleRotationAxis [ 0.000000 0.100000 0.000000 ]
+		RotationDirectionType 2
+		SphereRadiusXMax 350.000000
+		SphereRadiusXMin 0.000000
+		SphereRadiusYMax 1700.000000
+		SphereRadiusYMin 0.000000
+		SphereRadiusZMax 2000.000000
+		SphereRadiusZMin 2000.000000
+		ParticleMaxStartSpeedAzimuthalTangential 0.000000
+		ParticleMaxStartSpeedPolarTangential 0.000000
+		ScaleStartSpeedsByRadius FALSE
+		SpawnAngleLatitudinalStart 0.087266
+		SpawnAngleLatitudinalStop 0.087266
+		SpawnAngleLongitudinalStart 0.000000
+		SpawnAngleLongitudinalStop 6.283185
+	NumAffectors 3
+	AffectorType "Fade"
+	AffectorContents
+		Name "FadeOut"
+		Enabled TRUE
+		StartTime 0.000000
+		HasInfiniteLifeTime TRUE
+		TotalLifeTime 0.000000
+		UseYoungParticleAffectThreshold FALSE
+		YoungParticleAffectThreshold 0.000000
+		UseOldParticleAffectThreshold FALSE
+		OldParticleAffectThreshold 0.000000
+		AffectAttachedParticles TRUE
+		numAttachedEmitters 1
+		attachedEmitterName "DancingWisps"
+		DoFadeOut TRUE
+		FadeOutTime 2.000000
+		DoFadeIn TRUE
+		FadeInTime 0.000000
+	AffectorType "Jitter"
+	AffectorContents
+		Name "Jitter"
+		Enabled TRUE
+		StartTime 0.000000
+		HasInfiniteLifeTime TRUE
+		TotalLifeTime 0.000000
+		UseYoungParticleAffectThreshold FALSE
+		YoungParticleAffectThreshold 0.000000
+		UseOldParticleAffectThreshold FALSE
+		OldParticleAffectThreshold 0.000000
+		AffectAttachedParticles TRUE
+		numAttachedEmitters 1
+		attachedEmitterName "DancingWisps"
+		JitterForce 500.000000
+		UseCommonForce FALSE
+	AffectorType "Fade"
+	AffectorContents
+		Name "DanceFadeIn"
+		Enabled TRUE
+		StartTime 0.000000
+		HasInfiniteLifeTime TRUE
+		TotalLifeTime 0.000000
+		UseYoungParticleAffectThreshold FALSE
+		YoungParticleAffectThreshold 0.000000
+		UseOldParticleAffectThreshold FALSE
+		OldParticleAffectThreshold 0.000000
+		AffectAttachedParticles TRUE
+		numAttachedEmitters 1
+		attachedEmitterName "DancingWisps"
+		DoFadeOut FALSE
+		FadeOutTime 2.000000
+		DoFadeIn TRUE
+		FadeInTime 0.000000
+	length 0.000000

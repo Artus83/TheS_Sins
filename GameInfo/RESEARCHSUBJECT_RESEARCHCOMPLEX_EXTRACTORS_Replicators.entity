@@ -1,0 +1,59 @@
+﻿TXT2
+SinsArchiveVersion 194
+entityType "ResearchSubject"
+hudIcon "HUDICON_RESEARCHSUBJECT_RESEARCHCOMPLEX_EXTRACTORS_Replicators"
+smallHudIcon "HUDICON_RESEARCHSUBJECT_RESEARCHCOMPLEX_EXTRACTORS_Replicators"
+infoCardIcon ""
+NameStringID "IDS_RESEARCHSUBJECT_RESEARCHCOMPLEX_EXTRACTORS_NAME_Replicators"
+DescriptionStringID "IDS_RESEARCHSUBJECT_RESEARCHCOMPLEX_EXTRACTORS_DESCRIPTION_Replicators"
+researchWindowLocation
+	block 1
+	pos [ 5 , 1 ]
+ResearchField "NonCombat"
+Prerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCHSUBJECT_STRUCTUREWORK_RESOURCEEXTRACT0_Replicators"
+		Level 2
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+MinimumArtifactLevel -1
+BaseUpgradeTime 140.000000
+PerLevelUpgradeTime 30.000000
+BaseCost
+	credits 1600.000000
+	metal 300.000000
+	crystal 475.000000
+PerLevelCostIncrease
+	credits 100.000000
+	metal 25.000000
+	crystal 25.000000
+Tier 5
+onlyWorksIfTierLabsExist FALSE
+MaxNumResearchLevels 1
+priority 1.000000
+researchBoolModifiers 0
+researchFloatModifiers 5
+researchModifier
+	modifierType "ResearchBuildRateAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.100000
+researchModifier
+	modifierType "ResearchCostAdjustment"
+	baseValue 0.000000
+	perLevelValue -0.040000
+researchModifier
+	modifierType "ExtractionRateMetalAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.1000000
+researchModifier
+	modifierType "ExtractionRateCrystalAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.100000
+researchModifier
+	modifierType "SalvageWreckagePercent"
+	baseValue 0.000000
+	perLevelValue 0.050000
+artifactPicture ""
+uniqueOverlayBrush ""
+dlcId 204880

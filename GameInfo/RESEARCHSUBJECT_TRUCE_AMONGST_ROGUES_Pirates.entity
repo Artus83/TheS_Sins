@@ -1,0 +1,38 @@
+﻿TXT2
+SinsArchiveVersion 194
+entityType "ResearchSubject"
+hudIcon "HUDICON_RESEARCHSUBJECT_TRUCEAMONGSTROGUES_Pirates"
+smallHudIcon "HUDICON_RESEARCHSUBJECT_TRUCEAMONGSTROGUES_Pirates"
+infoCardIcon ""
+NameStringID "IDS_RESEARCHSUBJECT_TRUCE_AMONGST_ROGUES_NAME_Pirates"
+DescriptionStringID "IDS_RESEARCHSUBJECT_TRUCE_AMONGST_ROGUES_DESCRIPTION_Pirates"
+researchWindowLocation
+	block 0
+	pos [ 6 , 2 ]
+ResearchField "Diplomacy"
+Prerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+MinimumArtifactLevel -1
+BaseUpgradeTime 60.000000
+PerLevelUpgradeTime 5.000000
+BaseCost
+	credits 2000.000000
+	metal 450.000000
+	crystal 550.000000
+PerLevelCostIncrease
+	credits 100.000000
+	metal 25.000000
+	crystal 25.000000
+Tier 6
+onlyWorksIfTierLabsExist FALSE
+MaxNumResearchLevels 1
+priority 1.000000
+researchBoolModifiers 1
+researchModifier
+	modifierType "FriendlyWithPiratesRebelNeutrals"
+researchFloatModifiers 0
+artifactPicture ""
+uniqueOverlayBrush "RebellionResearchOverlay"
+dlcId 204880

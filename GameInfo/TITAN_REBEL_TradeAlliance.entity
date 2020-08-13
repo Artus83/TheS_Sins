@@ -1,0 +1,328 @@
+﻿TXT2
+SinsArchiveVersion 194
+entityType "Titan"
+ability:0 "AbilityDisruptionMatrix_TradeAlliance"
+ability:1 "AbilityFuriousDefense_TradeAlliance"
+ability:2 "AbilityGroupShield_TradeAlliance"
+ability:3 "AbilityInspireAndImpair_TradeAlliance"
+ability:4 ""
+defaultAutoAttackRange "GravityWell"
+defaultAutoAttackOn TRUE
+prefersToFocusFire TRUE
+usesFighterAttack FALSE
+autoJoinFleetDefault TRUE
+canBomb TRUE
+hasBombingLevels FALSE
+baseDamage 90.000000
+basePopulationKilled 2.000000
+bombingFreqTime 10.000000
+baseRange 3000.000000
+bombTransitTime 12.000000
+bombEffectCount 8
+bombEffectAngleVariance 15.000000
+bombEffectsDef
+	weaponType "Projectile"
+	burstCount 1
+	burstDelay 0.000000
+	fireDelay 0.000000
+	muzzleEffectName "Weapon_CapitalPlanetBombing_Muzzle_TradeAlliance"
+	muzzleSoundMinRespawnTime 0.100000
+	muzzleSounds
+		soundCount 1
+		sound "WEAPON_PLANETBOMB_MUZZLE_TradeAlliance"
+	hitEffectName "Weapon_CapitalPlanetBombing_Hit_TradeAlliance"
+	hitHullEffectSounds
+		soundCount 3
+		sound "EXPLOSION_SUB4"
+		sound "EXPLOSION_SUB4_ALT1"
+		sound "EXPLOSION_SUB4_ALT2"
+	hitShieldsEffectSounds
+		soundCount 3
+		sound "EXPLOSION_SUB4"
+		sound "EXPLOSION_SUB4_ALT1"
+		sound "EXPLOSION_SUB4_ALT2"
+	projectileTravelEffectName "Weapon_CapitalPlanetBombing_Travel_TradeAlliance"
+mainViewIcon "MAINVIEWICON_TITAN_REBEL_TradeAlliance"
+basePrice
+	credits 9500.000000
+	metal 1200.000000
+	crystal 750.000000
+slotCount 150.000000
+BuildTime 450.000000
+MaxHullPoints
+	StartValue 5400.000000
+	ValueIncreasePerLevel 504.000000
+MaxShieldPoints
+	StartValue 2250.000000
+	ValueIncreasePerLevel 567.000000
+HullPointRestoreRate
+	StartValue 3.100000
+	ValueIncreasePerLevel 0.700000
+ShieldPointRestoreRate
+	StartValue 4.500000
+	ValueIncreasePerLevel 0.700000
+ArmorPointsFromExperience
+	StartValue 11.000000
+	ValueIncreasePerLevel 0.918000
+maxMitigation
+	StartValue 0.650000
+	ValueIncreasePerLevel 0.011110
+MaxAntiMatter
+	StartValue 275.000000
+	ValueIncreasePerLevel 45.000000
+AntiMatterRestoreRate
+	StartValue 0.850000
+	ValueIncreasePerLevel 0.120000
+CultureProtectRate
+	StartValue 0.300000
+	ValueIncreasePerLevel 0.050000
+NameStringID "IDS_TITAN_REBEL_NAME_TradeAlliance"
+DescriptionStringID "IDS_TITAN_REBEL_DESCRIPTION_TradeAlliance"
+picture "TITANPICTURE_REBEL_TradeAlliance"
+Prerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCHSUBJECT_TITANACCESS_REBEL_1_TradeAlliance"
+		Level 1
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+statCountType "Titan"
+UpgradeTypeCount 7
+UpgradeType "TitanUpgrade_Rebel_AbilityA_TradeAlliance"
+UpgradeType "TitanUpgrade_Rebel_AbilityB_TradeAlliance"
+UpgradeType "TitanUpgrade_Rebel_AbilityC_TradeAlliance"
+UpgradeType "TitanUpgrade_Rebel_AbilityD_TradeAlliance"
+UpgradeType "TitanUpgrade_Rebel_Durability_TradeAlliance"
+UpgradeType "TitanUpgrade_Rebel_Weapons_TradeAlliance"
+UpgradeType "TitanUpgrade_Rebel_Abilities_TradeAlliance"
+numRandomDebrisLarge 80
+numRandomDebrisSmall 30
+numSpecificDebris 1
+specificDebrisMeshName "DebrisTechLarge"
+armorType "Titan"
+hudIcon "HUDICON_RESEARCHSUBJECT_TITAN_REBEL_TradeAlliance"
+smallHudIcon "HUDICONSMALL_TITAN_REBEL_TradeAlliance"
+infoCardIcon "INFOCARDICON_TITAN_REBEL_TradeAlliance"
+minZoomDistanceMult 1.250000
+NumWeapons 4
+Weapon
+	WeaponType "Missile"
+	damageEnums
+		AttackType "TITAN"
+		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
+		DamageApplyType "BACKLOADED"
+		DamageType "PHYSICAL"
+		WeaponClassType "MISSILE"
+	DamagePerBank:FRONT 0.000000
+	DamagePerBank:BACK 0.000000
+	DamagePerBank:LEFT 150.000000
+	DamagePerBank:RIGHT 150.000000
+	Range 8000.000000
+	PreBuffCooldownTime 10.500000
+	CanFireAtFighter FALSE
+	SynchronizedTargeting FALSE
+	PointStaggerDelay 0.100000
+	TravelSpeed 1000.000000
+	Duration 0.000000
+	fireConstraintType "CanAlwaysFire"
+	WeaponEffects
+		weaponType "Missile"
+		burstCount 3
+		burstDelay 0.600000
+		fireDelay 0.000000
+		muzzleEffectName "Weapon_CapitalMissileHeavy_Muzzle_TradeAlliance"
+		muzzleSoundMinRespawnTime 0.500000
+		muzzleSounds
+			soundCount 1
+			sound "WEAPON_TECHCAPITALMISSILEHEAVY_MUZZLE"
+		hitEffectName "Weapon_CapitalMissileHeavy_Hit_TradeAlliance"
+		hitHullEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_MISSILEHEAVY_HITGENERIC"
+		hitShieldsEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_MISSILEHEAVY_HITGENERIC"
+		missileTravelEffectName "Weapon_CapitalMissileHeavy_Travel_TradeAlliance"
+		missileStartTurningDistance 250.000000
+		missileSlowTurnRate 0.708997
+		missileMaxSlowTurnTime 6.000000
+Weapon
+	WeaponType "Projectile"
+	damageEnums
+		AttackType "TITAN"
+		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
+		DamageApplyType "BACKLOADED"
+		DamageType "PHYSICAL"
+		WeaponClassType "AUTOCANNON"
+	DamagePerBank:FRONT 0.000000
+	DamagePerBank:BACK 0.000000
+	DamagePerBank:LEFT 90.000000
+	DamagePerBank:RIGHT 90.000000
+	Range 10000.000000
+	PreBuffCooldownTime 4.500000
+	CanFireAtFighter FALSE
+	SynchronizedTargeting TRUE
+	PointStaggerDelay 0.300000
+	TravelSpeed 4000.000000
+	Duration 0.000000
+	fireConstraintType "CanAlwaysFire"
+	WeaponEffects
+		weaponType "Projectile"
+		burstCount 8
+		burstDelay 0.100000
+		fireDelay 0.000000
+		muzzleEffectName "Weapon_AutoCannonTitan_Muzzle_TradeAlliance"
+		muzzleSoundMinRespawnTime 10.000000
+		muzzleSounds
+			soundCount 1
+			sound "WEAPON_CAPITALAUTOCANNONHEAVY_MUZZLE_TradeAlliance"
+		hitEffectName "Weapon_AutoCannonTitan_Hit_TradeAlliance"
+		hitHullEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_ENERGYHEAVY_HITHULL_TradeAlliance"
+		hitShieldsEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_GENERICHEAVY_HITSHIELDS_TradeAlliance"
+		projectileTravelEffectName "Weapon_AutoCannonTitan_Travel_TradeAlliance"
+Weapon
+	WeaponType "Projectile"
+	damageEnums
+		AttackType "ANTILIGHT"
+		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
+		DamageApplyType "BACKLOADED"
+		DamageType "PHYSICAL"
+		WeaponClassType "FLAK"
+	DamagePerBank:FRONT 100.000000
+	DamagePerBank:BACK 0.000000
+	DamagePerBank:LEFT 0.000000
+	DamagePerBank:RIGHT 0.000000
+	Range 4500.000000
+	PreBuffCooldownTime 7.000000
+	CanFireAtFighter TRUE
+	SynchronizedTargeting FALSE
+	PointStaggerDelay 0.100000
+	TravelSpeed 3500.000000
+	Duration 0.000000
+	fireConstraintType "CanAlwaysFire"
+	WeaponEffects
+		weaponType "Projectile"
+		burstCount 1
+		burstDelay 0.000000
+		fireDelay 0.000000
+		muzzleEffectName "Weapon_TitanFlakBurst_Muzzle_TradeAlliance"
+		muzzleSoundMinRespawnTime 0.100000
+		muzzleSounds
+			soundCount 1
+			sound "WEAPON_TECHFLAKBURST_MUZZLE"
+		hitEffectName "Weapon_TitanFlakBurst_Hit_TradeAlliance"
+		hitHullEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_ENERGYLIGHT_HITHULL_TradeAlliance"
+		hitShieldsEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_GENERICLIGHT_HITSHIELDS_TradeAlliance"
+		projectileTravelEffectName "Weapon_TitanFlakBurst_Travel_TradeAlliance"
+Weapon
+	WeaponType "Projectile"
+	damageEnums
+		AttackType "TITAN"
+		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
+		DamageApplyType "BACKLOADED"
+		DamageType "ENERGY"
+		WeaponClassType "LASERTECH"
+	DamagePerBank:FRONT 250.000000
+	DamagePerBank:BACK 0.000000
+	DamagePerBank:LEFT 0.000000
+	DamagePerBank:RIGHT 0.000000
+	Range 8000.000000
+	PreBuffCooldownTime 5.500000
+	CanFireAtFighter FALSE
+	SynchronizedTargeting TRUE
+	PointStaggerDelay 0.200000
+	TravelSpeed 4000.000000
+	Duration 0.000000
+	fireConstraintType "CanAlwaysFire"
+	WeaponEffects
+		weaponType "Projectile"
+		burstCount 5
+		burstDelay 0.500000
+		fireDelay 0.000000
+		muzzleEffectName "Weapon_LaserTitan_Muzzle_TradeAlliance"
+		muzzleSoundMinRespawnTime 0.100000
+		muzzleSounds
+			soundCount 1
+			sound "WEAPON_CAPITALLASERHEAVY_MUZZLE_TradeAlliance"
+		hitEffectName "Weapon_CapitalLaserHeavy_Hit_TradeAlliance"
+		hitHullEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_ENERGYHEAVY_HITHULL_TradeAlliance"
+		hitShieldsEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_GENERICHEAVY_HITSHIELDS_TradeAlliance"
+		projectileTravelEffectName "Weapon_CapitalLaserHeavy_Travel_TradeAlliance"
+m_weaponIndexForRange 0
+firingAlignmentType "Default"
+TargetCountPerBank:FRONT 4
+TargetCountPerBank:BACK 0
+TargetCountPerBank:LEFT 4
+TargetCountPerBank:RIGHT 4
+canOnlyTargetStructures FALSE
+mass 100000.000000
+ShieldMeshName "Shield_Titan_Torpedo"
+renderShield TRUE
+maxAccelerationLinear 80.000000
+maxAccelerationStrafe 10.000000
+maxDecelerationLinear 500.000000
+maxAccelerationAngular 0.900000
+maxDecelerationAngular 9.999996
+maxSpeedLinear 450.000000
+maxRollRate 1.650000
+maxRollAngle 20.000000
+useCustomHyperspaceEffects FALSE
+squadTypeEntityDef:0 "SquadFighter_TradeAlliance"
+squadAntiMatterCost:0 0.000000
+squadTypeEntityDef:1 "SquadBomber_TradeAlliance"
+squadAntiMatterCost:1 0.000000
+squadTypeEntityDef:2 ""
+squadAntiMatterCost:2 0.000000
+squadTypeEntityDef:3 ""
+squadAntiMatterCost:3 0.000000
+NumSoundsFor:ONATTACKORDERISSUED 3
+SoundID "TITAN_REBEL_ONATTACKORDERISSUED_0_TradeAlliance"
+SoundID "TITAN_REBEL_ONATTACKORDERISSUED_1_TradeAlliance"
+SoundID "TITAN_REBEL_ONATTACKORDERISSUED_2_TradeAlliance"
+NumSoundsFor:ONCREATION 1
+SoundID "TITAN_REBEL_ONCREATION_TradeAlliance"
+NumSoundsFor:ONGENERALORDERISSUED 3
+SoundID "TITAN_REBEL_ONGENERALORDERISSUED_0_TradeAlliance"
+SoundID "TITAN_REBEL_ONGENERALORDERISSUED_1_TradeAlliance"
+SoundID "TITAN_REBEL_ONGENERALORDERISSUED_2_TradeAlliance"
+NumSoundsFor:ONSELECTED 3
+SoundID "TITAN_REBEL_ONSELECTED_0_TradeAlliance"
+SoundID "TITAN_REBEL_ONSELECTED_1_TradeAlliance"
+SoundID "TITAN_REBEL_ONSELECTED_2_TradeAlliance"
+NumSoundsFor:ONSTARTPHASEJUMP 3
+SoundID "TITAN_ONSTARTPHASEJUMP_0_TradeAlliance"
+SoundID "TITAN_ONSTARTPHASEJUMP_1_TradeAlliance"
+SoundID "TITAN_ONSTARTPHASEJUMP_2_TradeAlliance"
+MeshNameInfoCount 1
+MeshNameInfo
+	meshName "Titan_Rebel_TradeAlliance"
+	criteriaType "None"
+meshNameIncreasedEffectName ""
+meshNameDecreasedEffectName ""
+ExhaustParticleSystemName "Exhaust_TechTitanLoyalist"
+ExplosionName "StarBase1"
+CommandPoints
+	StartValue 2.600000
+	ValueIncreasePerLevel 0.200000
+weaponCooldownDecreasePerc
+	StartValue 0.000000
+	ValueIncreasePerLevel 0.030000
+weaponDamageIncreasePerc
+	StartValue 0.000000
+	ValueIncreasePerLevel 0.050000
+EngineSoundID "ENGINE_TECHCAPITALSHIP"
+formationRank 0
+minShadow 0.000000
+maxShadow 1.000000

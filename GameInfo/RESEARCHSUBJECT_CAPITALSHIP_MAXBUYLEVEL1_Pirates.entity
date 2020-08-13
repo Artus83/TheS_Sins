@@ -1,0 +1,43 @@
+﻿TXT2
+SinsArchiveVersion 194
+entityType "ResearchSubject"
+hudIcon "HUDICON_RESEARCHSUBJECT_CAPITALSHIP_MAXBUYLEVEL1_Pirates"
+smallHudIcon "HUDICON_RESEARCHSUBJECT_CAPITALSHIP_MAXBUYLEVEL1_Pirates"
+infoCardIcon ""
+NameStringID "IDS_RESEARCHSUBJECT_CAPITALSHIP_MAXBUYLEVEL1_NAME_Pirates"
+DescriptionStringID "IDS_RESEARCHSUBJECT_CAPITALSHIP_MAXBUYLEVEL1_DESCRIPTION_Pirates"
+researchWindowLocation
+	block 1
+	pos [ 6 , 0 ]
+ResearchField "Combat"
+Prerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCHSUBJECT_CAPITALSHIP_MAXBUYLEVEL0_Pirates"
+		Level 1
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+MinimumArtifactLevel -1
+BaseUpgradeTime 90.000000
+PerLevelUpgradeTime 30.000000
+BaseCost
+	credits 1600.000000
+	metal 300.000000
+	crystal 475.000000
+PerLevelCostIncrease
+	credits 500.000000
+	metal 250.000000
+	crystal 250.000000
+Tier 6
+onlyWorksIfTierLabsExist FALSE
+MaxNumResearchLevels 3
+priority 1.000000
+researchBoolModifiers 0
+researchFloatModifiers 1
+researchModifier
+	modifierType "CapitalShipMaxTrainableLevel"
+	baseValue 0.000000
+	perLevelValue 1.000000
+artifactPicture ""
+uniqueOverlayBrush ""
+dlcId 204880

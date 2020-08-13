@@ -1,0 +1,105 @@
+﻿TXT2
+SinsArchiveVersion 194
+entityType "StarBaseUpgrade"
+stageCount 5
+stage
+	price
+		credits 0.000000
+		metal 0.000000
+		crystal 0.000000
+	upgradeTime 0.000000
+	nameStringID "IDS_STARBASEUPGRADEHANGAR_NAME_TradeAlliance"
+	descStringID "IDS_STARBASEUPGRADEHANGAR_DESC_TradeAlliance"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+	hudIcon "HUDIconStarBaseUpgradeHangar0_TradeAlliance"
+	smallHudIcon "HUDIconStarBaseUpgradeHangar0_TradeAlliance"
+	infoCardIcon ""
+	upgradePropertyCount 1
+	upgradeProperty
+		propertyType "MaxNumSquads"
+		value 2.000000
+	upgradeBoolPropertyCount 0
+stage
+	price
+		credits 1800.000000
+		metal 275.000000
+		crystal 150.000000
+	upgradeTime 60.000000
+	nameStringID "IDS_STARBASEUPGRADEHANGAR_NAME_TradeAlliance"
+	descStringID "IDS_STARBASEUPGRADEHANGAR_DESC_TradeAlliance"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+	hudIcon "HUDIconStarBaseUpgradeHangar0_TradeAlliance"
+	smallHudIcon "HUDIconStarBaseUpgradeHangar0_TradeAlliance"
+	infoCardIcon ""
+	upgradePropertyCount 1
+	upgradeProperty
+		propertyType "MaxNumSquads"
+		value 6.000000
+	upgradeBoolPropertyCount 0
+stage
+	price
+		credits 1800.000000
+		metal 275.000000
+		crystal 150.000000
+	upgradeTime 60.000000
+	nameStringID "IDS_STARBASEUPGRADEHANGAR_NAME_TradeAlliance"
+	descStringID "IDS_STARBASEUPGRADEHANGAR_DESC_TradeAlliance"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+	hudIcon "HUDIconStarBaseUpgradeHangar1_TradeAlliance"
+	smallHudIcon "HUDIconStarBaseUpgradeHangar1_TradeAlliance"
+	infoCardIcon ""
+	upgradePropertyCount 1
+	upgradeProperty
+		propertyType "MaxNumSquads"
+		value 10.000000
+	upgradeBoolPropertyCount 0
+stage
+	price
+		credits 1800.000000
+		metal 275.000000
+		crystal 150.000000
+	upgradeTime 60.000000
+	nameStringID "IDS_STARBASEUPGRADEHANGAR_NAME_TradeAlliance"
+	descStringID "IDS_STARBASEUPGRADEHANGAR_DESC_TradeAlliance"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+	hudIcon "HUDIconStarBaseUpgradeHangar2_TradeAlliance"
+	smallHudIcon "HUDIconStarBaseUpgradeHangar2_TradeAlliance"
+	infoCardIcon ""
+	upgradePropertyCount 1
+	upgradeProperty
+		propertyType "MaxNumSquads"
+		value 14.000000
+	upgradeBoolPropertyCount 0
+stage
+	price
+		credits 2700.000000
+		metal 425.000000
+		crystal 225.000000
+	upgradeTime 75.000000
+	nameStringID "IDS_STARBASEUPGRADEHANGAR_NAME_TradeAlliance"
+	descStringID "IDS_STARBASEUPGRADEHANGAR_DESC_TradeAlliance"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+	hudIcon "HUDIconStarBaseUpgradeHangar3_TradeAlliance"
+	smallHudIcon "HUDIconStarBaseUpgradeHangar3_TradeAlliance"
+	infoCardIcon ""
+	upgradePropertyCount 1
+	upgradeProperty
+		propertyType "MaxNumSquads"
+		value 20.000000
+	upgradeBoolPropertyCount 0
+xpModifier 50.000000

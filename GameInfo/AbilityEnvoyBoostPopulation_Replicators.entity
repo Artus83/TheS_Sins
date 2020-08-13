@@ -1,0 +1,46 @@
+﻿TXT2
+SinsArchiveVersion 194
+entityType "Ability"
+buffInstantActionType "ApplyBuffToSelf"
+instantActionTriggerType "AlwaysPerform"
+buffType "BuffEnvoyBoostPopulation_Replicators"
+effectInfo
+	effectAttachInfo
+		attachType "Center"
+	smallEffectName "Settlers"
+	mediumEffectName ""
+	largeEffectName "Settlers"
+	soundID ""
+needsToFaceTarget FALSE
+canCollideWithTarget TRUE
+moveThruTarget FALSE
+isUltimateAbility FALSE
+maxNumLevels 1
+levelSourceType "ResearchWithoutBase"
+improveSourceResearchSubject "RESEARCHSUBJECT_ABILITYACCESS_ENVOYBOOSTPOPULATION_Replicators"
+aiUseTime "OnlyWhenOrbitingEnemyOrAlliedPlanet"
+aiUseTargetCondition "Any"
+isAutoCastAvailable TRUE
+isAutoCastOnByDefault TRUE
+pickRandomPlanetToExploreForAutoCastTarget FALSE
+ignoreNonCombatShipsForAutoCastTarget TRUE
+onlyAutoCastWhenDamageTakenExceedsPerc 0.000000
+useCostType "None"
+cooldownTime
+	Level:0 180.000000
+	Level:1 180.000000
+	Level:2 180.000000
+	Level:3 0.000000
+orderAcknowledgementType "ONGENERALORDERISSUED"
+researchPrerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCHSUBJECT_ABILITYACCESS_ENVOYBOOSTPOPULATION_Replicators"
+		Level 1
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+nameStringID "IDS_ABILITY_ENVOYBOOSTPOPULATION_NAME_Replicators"
+descStringID "IDS_ABILITY_ENVOYBOOSTPOPULATION_DESCRIPTION_Replicators"
+hudIcon "HUDICON_RESEARCHSUBJECT_ENVOYBOOSTPOPULATION_Replicators"
+smallHudIcon "HUDICON_RESEARCHSUBJECT_ENVOYBOOSTPOPULATION_Replicators"
+infoCardIcon ""

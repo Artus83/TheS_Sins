@@ -1,0 +1,59 @@
+﻿TXT2
+SinsArchiveVersion 194
+entityType "Ability"
+buffInstantActionType "ApplyTargettedBuffToSelf"
+instantActionTriggerType "AlwaysPerform"
+buffType "BuffEnvoyBoostCredits_TradeAlliance"
+targetFilter
+	numOwnerships 1
+	ownership "AlliedOrEnemy"
+	numObjects 1
+	object "Planet"
+	numSpaces 1
+	space "Normal"
+	numConstraints 0
+range
+	Level:0 5000.000000
+	Level:1 5000.000000
+	Level:2 5000.000000
+	Level:3 0.000000
+effectInfo
+	effectAttachInfo
+		attachType "Center"
+	smallEffectName "WorthyCause"
+	mediumEffectName ""
+	largeEffectName "WOrthyCause"
+	soundID ""
+needsToFaceTarget FALSE
+canCollideWithTarget TRUE
+moveThruTarget FALSE
+isUltimateAbility FALSE
+maxNumLevels 1
+levelSourceType "ResearchWithoutBase"
+improveSourceResearchSubject "RESEARCHSUBJECT_ABILITYACCESS_ENVOYBOOSTCREDITS_TradeAlliance"
+aiUseTime "NotInCombat"
+aiUseTargetCondition "Any"
+isAutoCastAvailable TRUE
+isAutoCastOnByDefault TRUE
+pickRandomPlanetToExploreForAutoCastTarget FALSE
+ignoreNonCombatShipsForAutoCastTarget TRUE
+onlyAutoCastWhenDamageTakenExceedsPerc 0.000000
+useCostType "None"
+cooldownTime
+	Level:0 30.000000
+	Level:1 0.000000
+	Level:2 0.000000
+	Level:3 0.000000
+orderAcknowledgementType "ONGENERALORDERISSUED"
+researchPrerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCHSUBJECT_ABILITYACCESS_ENVOYBOOSTCREDITS_TradeAlliance"
+		Level 1
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+nameStringID "IDS_ABILITY_ENVOYBOOSTCREDITS_NAME_TradeAlliance"
+descStringID "IDS_ABILITY_ENVOYBOOSTCREDITS_DESCRIPTION_TradeAlliance"
+hudIcon "HUDICON_RESEARCHSUBJECT_ENVOYBOOSTCREDITS_TradeAlliance"
+smallHudIcon "HUDICON_RESEARCHSUBJECT_ENVOYBOOSTCREDITS_TradeAlliance"
+infoCardIcon ""

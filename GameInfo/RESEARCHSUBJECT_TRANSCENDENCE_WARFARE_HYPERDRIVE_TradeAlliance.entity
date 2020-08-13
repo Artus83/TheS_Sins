@@ -1,0 +1,55 @@
+﻿TXT2
+SinsArchiveVersion 194
+entityType "ResearchSubject"
+hudIcon "HUDICON_RESEARCHSUBJECT_TRANSCENDENCE_WARFARE_HYPERDRIVE_TradeAlliance"
+smallHudIcon "HUDICON_RESEARCHSUBJECT_TRANSCENDENCE_WARFARE_HYPERDRIVE_TradeAlliance"
+infoCardIcon ""
+NameStringID "IDS_RESEARCHSUBJECT_TRANSCENDENCE_WARFARE_HYPERDRIVE_NAME_TradeAlliance"
+DescriptionStringID "IDS_RESEARCHSUBJECT_TRANSCENDENCE_WARFARE_HYPERDRIVE_DESCRIPTION_TradeAlliance"
+researchWindowLocation
+	block 2
+	pos [ 7 , 1 ]
+ResearchField "Combat"
+Prerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCHSUBJECT_TRANSCENDENCE_WARFARE_CAPSLOTS_TradeAlliance"
+		Level 1
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+MinimumArtifactLevel -1
+BaseUpgradeTime 180.000000
+PerLevelUpgradeTime 60.000000
+BaseCost
+	credits 2000.000000
+	metal 400.000000
+	crystal 600.000000
+PerLevelCostIncrease
+	credits 500.000000
+	metal 100.000000
+	crystal 100.000000
+Tier 7
+onlyWorksIfTierLabsExist FALSE
+MaxNumResearchLevels 2
+priority 0.000000
+researchBoolModifiers 0
+researchFloatModifiers 4
+researchModifier
+	modifierType "HyperspaceBetweenSystemSpeedAdjustment"
+	baseValue 0.000000
+	perLevelValue 2.000000
+researchModifier
+	modifierType "HyperspaceInSystemSpeedAdjustment"
+	baseValue 0.000000
+	perLevelValue 2.000000
+researchModifier
+	modifierType "HyperspaceChargeUpRateAdjustment"
+	baseValue 0.000000
+	perLevelValue 2.000000
+researchModifier
+	modifierType "HyperspaceExitDistanceAdjustment"
+	baseValue 0.000000
+	perLevelValue -0.100000
+artifactPicture ""
+uniqueOverlayBrush "RebellionResearchOverlay"
+dlcId 204880

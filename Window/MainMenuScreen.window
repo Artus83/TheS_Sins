@@ -1,0 +1,122 @@
+TXT
+backdrop "MainMenuScreenBackdrop"
+logoIconRefArea [298, 495, 414 , 187]
+logoIcon "MainMenuScreenLogo"
+titleRefArea [402, 118,  220, 46 ]
+titleStringId "IDSMainMenuScreenTitle"
+titleFont "TabbedScreenTitle"
+titleOverlayRefArea [304, 84,  414 , 90 ]
+titleOverlay "MainMenuScreenTitleOverlay"
+singlePlayerButton
+	area [402, 195,  220, 46 ]
+	fontId "ButtonLabel"
+	iconOffsetFromLeft 32
+	textOffsetFromLeft 60
+	underlay "ScreenButtonUnderlayLarge"
+	overlay "ScreenButtonOverlayLarge"			
+	icon "MainMenuScreenSinglePlayerButton"
+	text "IDSMainMenuScreenSinglePlayerButton"
+multiPlayerButton
+	area [402, 311,  220, 46 ]
+	fontId "ButtonLabel"
+	iconOffsetFromLeft 32
+	textOffsetFromLeft 60
+	underlay "ScreenButtonUnderlayLarge"
+	overlay "ScreenButtonOverlayLarge"		
+	icon "MainMenuScreenMultiPlayerButton"
+	text "IDSMainMenuScreenMultiPlayerButton"	
+icoButton
+	area [402, 253,  220, 46 ]
+	fontId "ButtonLabel"
+	iconOffsetFromLeft 32
+	textOffsetFromLeft 60
+	underlay "ScreenButtonUnderlayLarge"
+	overlay "ScreenButtonOverlayLarge"		
+	icon "MainMenuScreenIcoButton"
+	text "IDSMainMenuScreenIcoButton"	
+optionsButton
+	area [402, 369,  220, 46 ]
+	fontId "ButtonLabel"
+	iconOffsetFromLeft 32
+	textOffsetFromLeft 60
+	underlay "ScreenButtonUnderlayLarge"
+	overlay "ScreenButtonOverlayLarge"		
+	icon "MainMenuScreenOptionsButton"
+	text "IDSMainMenuScreenOptionsButton"
+privacyPolicyButton
+	area [402, 427,  220, 46 ]
+	fontId "ButtonLabel"
+	iconOffsetFromLeft 32
+	textOffsetFromLeft 60
+	underlay "ScreenButtonUnderlayLarge"
+	overlay "ScreenButtonOverlayLarge"		
+	icon "MainMenuScreenPrivacyPolicyButton"
+	text "IDSMainMenuScreenPrivacyPolicyButton"
+quitButton
+	area [402, 485,  220, 46 ]
+	fontId "ButtonLabel"
+	iconOffsetFromLeft 32
+	textOffsetFromLeft 60
+	underlay "ScreenButtonUnderlayLarge"
+	overlay "ScreenButtonOverlayLarge"			
+	icon "MainMenuScreenQuitButton"
+	text "IDSMainMenuScreenQuitButton"
+dlcForbiddenWorldsBack "DLCButtonBackgroundForbiddenWorlds"
+dlcStellarPhenomenaBack "DLCButtonBackgroundStellarPhenomena"
+dlcOutlawSectorsBack "DLCButtonBackgroundOutlawSectors"
+privacyPolicyCommandLine "privacypolicy.bat"
+gdprDialog
+	backdropDimPercentage 0.8
+	backdropBrush "PlayerInfoScreenBackdrop"
+	titleOverlayBrush "PlayerInfoScreenTitleOverlay"
+	size [693 , 645]
+	contentRefArea [93, 100, 508, 435]
+	titleRefArea [90, 40, 508, 30]
+	titleOverlayRefArea [0, 0, 693, 90]
+	cancelButton
+		area [264, 550, 170, 46]
+		fontId "ButtonLabel"
+		iconOffsetFromLeft 30
+		textOffsetFromLeft 60
+		underlay "TabButtonUnderlayActive"
+		overlay "TabButtonOverlayActive"	
+		icon "DialogScreenCloseButton"
+		text "IDS_GDPRDIALOG_CANCELBUTTON"
+	acceptButton
+		area [441, 550, 170, 46]
+		fontId "ButtonLabel"
+		iconOffsetFromLeft 30
+		textOffsetFromLeft 60
+		underlay "TabButtonUnderlayActive"
+		overlay "TabButtonOverlayActive"		
+		icon "DialogScreenAcceptButton"
+		text "IDS_DIALOGWINDOW_ACCEPTBUTTON"	
+	titleTextId "IDS_GDPRDialogTitle"
+	privacyPolicyButton
+		area [86, 550, 170, 46]
+		fontId "ButtonLabel"
+		iconOffsetFromLeft 32
+		textOffsetFromLeft 60
+		underlay "TabButtonUnderlayActive"
+		overlay "TabButtonOverlayActive"		
+		icon "MainMenuScreenPrivacyPolicyButton"
+		text "IDSMainMenuScreenPrivacyPolicyButton"
+	privacyPolicyCommandLine "privacyPolicy.bat"
+	paragraphs 13
+	paragraph "IDS_GDPRParagraph0"
+	paragraph "IDS_GDPRParagraph1"
+	paragraph "IDS_GDPRParagraph2"
+	paragraph "IDS_GDPRParagraph3"
+	paragraph "IDS_GDPRParagraph4"
+	paragraph "IDS_GDPRParagraph5"
+	paragraph "IDS_GDPRParagraph6"
+	paragraph "IDS_GDPRParagraph7"
+	paragraph "IDS_GDPRParagraph8"
+	paragraph "IDS_GDPRParagraph9"
+	paragraph "IDS_GDPRParagraph10"
+	paragraph "IDS_GDPRParagraph11"
+	paragraph "IDS_GDPRParagraph12"
+textEntryDef
+	labelFontId "Label"
+	textEntryFontId "TextEntry"
+

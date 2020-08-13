@@ -1,0 +1,163 @@
+﻿TXT2
+SinsArchiveVersion 194
+entityType "Frigate"
+defaultAutoAttackRange "GravityWell"
+defaultAutoAttackOn TRUE
+prefersToFocusFire TRUE
+usesFighterAttack TRUE
+autoJoinFleetDefault FALSE
+canBomb FALSE
+typeCount 1
+frigateRoleType "AntiModule"
+statCountType "FrigateAntiModule"
+mainViewIcon "MAINVIEWICON_FRIGATE_ANTIMODULE_Pirates"
+picture "PICTURE_FRIGATE_ANTIMODULE_Pirates"
+NameStringID "IDS_FRIGATE_ANTIMODULE_NAME_Pirates"
+DescriptionStringID "IDS_FRIGATE_ANTIMODULE_DESCRIPTION_Pirates"
+counterDescriptionStringID "IDS_COUNTERDESC_FRIGATE_ANTIMODULE"
+basePrice
+	credits 1050.000000
+	metal 175.000000
+	crystal 140.000000
+slotCount 18.000000
+BuildTime 65.000000
+hasLevels FALSE
+ExperiencePointsForDestroying 60.000000
+MaxHullPoints 980.000000
+MaxShieldPoints 560.000000
+HullPointRestoreRate 1.000000
+ShieldPointRestoreRate 1.000000
+BaseArmorPoints 1.000000
+maxMitigation 0.600000
+relationshipChangeRate 0.000000
+Prerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCHSUBJECT_FRIGATEACCESS_ANTIMODULE_Pirates"
+		Level 1
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+numRandomDebrisLarge 1
+numRandomDebrisSmall 9
+numSpecificDebris 0
+armorType "Light"
+hudIcon "HUDICON_FRIGATE_ANTIMODULE_Pirates"
+smallHudIcon "HUDICONSMALL_FRIGATE_ANTIMODULE_Pirates"
+infoCardIcon "INFOCARDICON_FRIGATE_ANTIMODULE_Pirates"
+minZoomDistanceMult 4.500000
+NumWeapons 1
+Weapon
+	WeaponType "Projectile"
+	damageEnums
+		AttackType "ANTIMODULE"
+		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
+		DamageApplyType "BACKLOADED"
+		DamageType "PHYSICAL"
+		WeaponClassType "MISSILE"
+	DamagePerBank:FRONT 450.000000
+	DamagePerBank:BACK 0.000000
+	DamagePerBank:LEFT 0.000000
+	DamagePerBank:RIGHT 0.000000
+	Range 12000.000000
+	PreBuffCooldownTime 20.000000
+	CanFireAtFighter FALSE
+	SynchronizedTargeting FALSE
+	PointStaggerDelay 0.900000
+	TravelSpeed 1100.000000
+	Duration 0.000000
+	fireConstraintType "CanAlwaysFire"
+	WeaponEffects
+		weaponType "Projectile"
+		burstCount 1
+		burstDelay 0.000000
+		fireDelay 0.000000
+		muzzleEffectName "Ability_AntiModuleTorpedoesMuzzle"
+		muzzleSoundMinRespawnTime 0.100000
+		muzzleSounds
+			soundCount 1
+			sound "EFFECT_NEUTRONTORPEDO_MUZZLE"
+		hitEffectName "Ability_AntiModuleTorpedoesImpact"
+		hitHullEffectSounds
+			soundCount 6
+			sound "EXPLOSION_SUB0"
+			sound "EXPLOSION_SUB1"
+			sound "EXPLOSION_SUB2"
+			sound "EXPLOSION_SUB3"
+			sound "EXPLOSION_SUB4"
+			sound "EXPLOSION_SUB5"
+		hitShieldsEffectSounds
+			soundCount 6
+			sound "EXPLOSION_SUB0"
+			sound "EXPLOSION_SUB1"
+			sound "EXPLOSION_SUB2"
+			sound "EXPLOSION_SUB3"
+			sound "EXPLOSION_SUB4"
+			sound "EXPLOSION_SUB5"
+		projectileTravelEffectName "Ability_AntiModuleTorpedoesTravel"
+m_weaponIndexForRange 0
+firingAlignmentType "TiltForward"
+firingTiltAngle 30.000000
+TargetCountPerBank:FRONT 1
+TargetCountPerBank:BACK 1
+TargetCountPerBank:LEFT 1
+TargetCountPerBank:RIGHT 1
+canOnlyTargetStructures TRUE
+hasWeaponLevels FALSE
+mass 2000.000000
+ShieldMeshName "Shield_Cruiser_Torpedo"
+renderShield TRUE
+maxAccelerationLinear 100.000000
+maxAccelerationStrafe 50.000000
+maxDecelerationLinear 500.000000
+maxAccelerationAngular 20.000000
+maxDecelerationAngular 50.000000
+maxSpeedLinear 500.000000
+maxRollRate 2.000000
+maxRollAngle 35.000000
+useCustomHyperspaceEffects FALSE
+squadTypeEntityDef:0 ""
+squadAntiMatterCost:0 0.000000
+squadTypeEntityDef:1 ""
+squadAntiMatterCost:1 0.000000
+squadTypeEntityDef:2 ""
+squadAntiMatterCost:2 0.000000
+squadTypeEntityDef:3 ""
+squadAntiMatterCost:3 0.000000
+maxNumCommandPoints 0
+NumSoundsFor:ONATTACKORDERISSUED 2
+SoundID "FRIGATE_ANTIMODULE_ONATTACKORDERISSUED_0_Pirates"
+SoundID "FRIGATE_ANTIMODULE_ONATTACKORDERISSUED_1_Pirates"
+NumSoundsFor:ONCREATION 1
+SoundID "FRIGATE_ANTIMODULE_ONCREATION_Pirates"
+NumSoundsFor:ONGENERALORDERISSUED 2
+SoundID "FRIGATE_ANTIMODULE_ONGENERALORDERISSUED_0_Pirates"
+SoundID "FRIGATE_ANTIMODULE_ONGENERALORDERISSUED_1_Pirates"
+NumSoundsFor:ONSELECTED 2
+SoundID "FRIGATE_ANTIMODULE_ONSELECTED_0_Pirates"
+SoundID "FRIGATE_ANTIMODULE_ONSELECTED_1_Pirates"
+NumSoundsFor:ONSTARTPHASEJUMP 3
+SoundID "CRUISER_ONSTARTPHASEJUMP_0_PIRATES"
+SoundID "CRUISER_ONSTARTPHASEJUMP_1_PIRATES"
+SoundID "CRUISER_ONSTARTPHASEJUMP_2_PIRATES"
+MeshNameInfoCount 1
+MeshNameInfo
+	meshName "Frigate_AntiModule_Pirates"
+	criteriaType "None"
+meshNameIncreasedEffectName ""
+meshNameDecreasedEffectName ""
+ExhaustParticleSystemName "Exhaust_Cruiser"
+ExplosionName "Frigate3"
+EngineSoundID "ENGINE_CAPITALSHIP_Pirates"
+ability:0 "AbilityFrigateRam_Pirates"
+ability:1 "AbilityStealResources_Pirates"
+ability:2 ""
+ability:3 ""
+ability:4 ""
+MaxAntiMatter 200.000000
+AntiMatterRestoreRate 0.500000
+cargoType "Invalid"
+maxCargoCapacity 0.000000
+formationRank 2
+minShadow 0.000000
+maxShadow 0.400000
+allegianceDecreasePerRoundtrip 0.000000

@@ -1,0 +1,43 @@
+﻿TXT2
+SinsArchiveVersion 194
+entityType "ResearchSubject"
+hudIcon "HUDICON_RESEARCHSUBJECT_STRUCTUREWORK_METALEXTRACT1_Norlamins"
+smallHudIcon "HUDICON_RESEARCHSUBJECT_STRUCTUREWORK_METALEXTRACT1_Norlamins"
+infoCardIcon ""
+NameStringID "IDS_RESEARCHSUBJECT_STRUCTUREWORK_METALEXTRACT1_NAME_Norlamins"
+DescriptionStringID "IDS_RESEARCHSUBJECT_STRUCTUREWORK_METALEXTRACT1_DESCRIPTION_Norlamins"
+researchWindowLocation
+	block 1
+	pos [ 4 , 0 ]
+ResearchField "NonCombat"
+Prerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCHSUBJECT_PLANETMODULEACCESS_REFINERY_Norlamins"
+		Level 1
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+MinimumArtifactLevel -1
+BaseUpgradeTime 80.000000
+PerLevelUpgradeTime 10.000000
+BaseCost
+	credits 1200.000000
+	metal 200.000000
+	crystal 325.000000
+PerLevelCostIncrease
+	credits 100.000000
+	metal 25.000000
+	crystal 25.000000
+Tier 4
+onlyWorksIfTierLabsExist FALSE
+MaxNumResearchLevels 2
+priority 1.000000
+researchBoolModifiers 0
+researchFloatModifiers 1
+researchModifier
+	modifierType "ExtractionRateMetalAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.100000
+artifactPicture ""
+uniqueOverlayBrush ""
+dlcId 204880

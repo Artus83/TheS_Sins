@@ -1,0 +1,26 @@
+﻿TXT2
+SinsArchiveVersion 194
+entityType "CannonShell"
+acceleration 400.000000
+startingSpeed 400.000000
+maxSpeed 10000.000000
+buffToApplyOnImpact "BuffCannonShellPhaseSpawn_Replicators"
+planetImpactEffectName "Ability_OrbitalCannonSurfaceImpact_Replicators"
+planetImpactSounds
+	soundCount 1
+	sound "EXPLOSION_CANNONSHELLTECH"
+planetImpactCameraShakeMaxSize 38000.000000
+planetImpactCameraShakeStrength 1.000000
+planetImpactCameraShakeDuration 0.000000
+meshName "CannonShell_Replicators"
+mainViewIcon "MainViewIconCannonShell_Replicators"
+picture "PictureCannonShell_Replicators"
+nameStringID "IDS_CANNONSHELL_NAME_Replicators"
+descStringID "IDS_CANNONSHELL_DESC_Replicators"
+renderMesh TRUE
+minZoomDistanceMult 4.500000
+hudIcon "HUDIconCannonShell_Replicators"
+smallHudIcon "HUDIconSmallCannonShell_Replicators"
+infoCardIcon "InfoCardIconCannonShell_Replicators"
+minShadow 0.000000
+maxShadow 0.500000

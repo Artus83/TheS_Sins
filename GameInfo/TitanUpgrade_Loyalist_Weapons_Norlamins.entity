@@ -1,0 +1,81 @@
+﻿TXT2
+SinsArchiveVersion 194
+entityType "TitanUpgrade"
+stageCount 5
+stage
+	nameStringID "IDS_TITANUPGRADE_LOYALIST_WEAPONS_NAME_Norlamins"
+	descStringID "IDS_TITANUPGRADE_LOYALIST_WEAPONS_DESCRIPTION_Norlamins"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	levelRequirement -1
+	hudIcon "HUDIconTitanLoyalistWeaponUpgrade0_Norlamins"
+	smallHudIcon "HUDIconTitanLoyalistWeaponUpgrade0_Norlamins"
+	infoCardIcon ""
+	upgradePropertyCount 0
+	upgradeBoolPropertyCount 0
+stage
+	nameStringID "IDS_TITANUPGRADE_LOYALIST_WEAPONS_NAME_Norlamins"
+	descStringID "IDS_TITANUPGRADE_LOYALIST_WEAPONS_DESCRIPTION_Norlamins"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	levelRequirement 0
+	hudIcon "HUDIconTitanLoyalistWeaponUpgrade0_Norlamins"
+	smallHudIcon "HUDIconTitanLoyalistWeaponUpgrade0_Norlamins"
+	infoCardIcon ""
+	upgradePropertyCount 1
+	upgradeProperty
+		propertyType "WeaponDamage"
+		value 0.150000
+	upgradeBoolPropertyCount 0
+stage
+	nameStringID "IDS_TITANUPGRADE_LOYALIST_WEAPONS_NAME_Norlamins"
+	descStringID "IDS_TITANUPGRADE_LOYALIST_WEAPONS_DESCRIPTION_Norlamins"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	levelRequirement 2
+	hudIcon "HUDIconTitanLoyalistWeaponUpgrade1_Norlamins"
+	smallHudIcon "HUDIconTitanLoyalistWeaponUpgrade1_Norlamins"
+	infoCardIcon ""
+	upgradePropertyCount 1
+	upgradeProperty
+		propertyType "WeaponDamage"
+		value 0.250000
+	upgradeBoolPropertyCount 0
+stage
+	nameStringID "IDS_TITANUPGRADE_LOYALIST_WEAPONS_NAME_Norlamins"
+	descStringID "IDS_TITANUPGRADE_LOYALIST_WEAPONS_DESCRIPTION_Norlamins"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	levelRequirement 4
+	hudIcon "HUDIconTitanLoyalistWeaponUpgrade2_Norlamins"
+	smallHudIcon "HUDIconTitanLoyalistWeaponUpgrade2_Norlamins"
+	infoCardIcon ""
+	upgradePropertyCount 1
+	upgradeProperty
+		propertyType "WeaponDamage"
+		value 0.350000
+	upgradeBoolPropertyCount 0
+stage
+	nameStringID "IDS_TITANUPGRADE_LOYALIST_WEAPONS_NAME_Norlamins"
+	descStringID "IDS_TITANUPGRADE_LOYALIST_WEAPONS_DESCRIPTION_Norlamins"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	levelRequirement 6
+	hudIcon "HUDIconTitanLoyalistWeaponUpgrade3_Norlamins"
+	smallHudIcon "HUDIconTitanLoyalistWeaponUpgrade3_Norlamins"
+	infoCardIcon ""
+	upgradePropertyCount 1
+	upgradeProperty
+		propertyType "WeaponDamage"
+		value 0.450000
+	upgradeBoolPropertyCount 0

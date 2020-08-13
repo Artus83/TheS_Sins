@@ -1,0 +1,41 @@
+﻿TXT2
+SinsArchiveVersion 194
+entityType "Ability"
+buffInstantActionType "ApplyBuffToSelf"
+instantActionTriggerType "AlwaysPerform"
+buffType "BuffPlanetShieldOnSpawner_TradeAlliance"
+effectInfo
+	effectAttachInfo
+		attachType "Invalid"
+	smallEffectName ""
+	mediumEffectName ""
+	largeEffectName ""
+	soundID ""
+needsToFaceTarget FALSE
+canCollideWithTarget TRUE
+moveThruTarget FALSE
+isUltimateAbility FALSE
+maxNumLevels 3
+levelSourceType "ResearchWithBase"
+baseSourceResearchSubject "RESEARCHSUBJECT_PLANETMODULEACCESS_SHIELDGENERATOR_TradeAlliance"
+improveSourceResearchSubject "RESEARCHSUBJECT_PLANETMODULEIMPROVEMENT_SHIELDGENERATOR_TradeAlliance"
+aiUseTime "Invalid"
+aiUseTargetCondition "Invalid"
+isAutoCastAvailable FALSE
+isAutoCastOnByDefault FALSE
+pickRandomPlanetToExploreForAutoCastTarget FALSE
+ignoreNonCombatShipsForAutoCastTarget TRUE
+onlyAutoCastWhenDamageTakenExceedsPerc 0.000000
+useCostType "Passive"
+researchPrerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCHSUBJECT_PLANETMODULEACCESS_SHIELDGENERATOR_TradeAlliance"
+		Level 1
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+nameStringID "IDS_ABILITY_PLANETSHIELD_NAME_TradeAlliance"
+descStringID "IDS_ABILITY_PLANETSHIELD_DESCRIPTION_TradeAlliance"
+hudIcon "HUDICON_SUPPORTABILITY_PLANETSHIELD_TradeAlliance"
+smallHudIcon "HUDICON_SUPPORTABILITY_PLANETSHIELD_TradeAlliance"
+infoCardIcon ""

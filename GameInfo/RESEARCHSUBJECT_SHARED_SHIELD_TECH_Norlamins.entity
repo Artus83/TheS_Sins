@@ -1,0 +1,51 @@
+﻿TXT2
+SinsArchiveVersion 194
+entityType "ResearchSubject"
+hudIcon "HUDICON_RESEARCHSUBJECT_SHAREDSHIELDTECH_Norlamins"
+smallHudIcon "HUDICON_RESEARCHSUBJECT_SHAREDSHIELDTECH_Norlamins"
+infoCardIcon ""
+NameStringID "IDS_RESEARCHSUBJECT_SHARED_SHIELD_TECH_NAME_Norlamins"
+DescriptionStringID "IDS_RESEARCHSUBJECT_SHARED_SHIELD_TECH_DESCRIPTION_Norlamins"
+researchWindowLocation
+	block 2
+	pos [ 6 , 2 ]
+ResearchField "Combat"
+Prerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCHSUBJECT_SHIELDS2_Norlamins"
+		Level 1
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+MinimumArtifactLevel -1
+BaseUpgradeTime 90.000000
+PerLevelUpgradeTime 10.000000
+BaseCost
+	credits 1600.000000
+	metal 350.000000
+	crystal 450.000000
+PerLevelCostIncrease
+	credits 100.000000
+	metal 25.000000
+	crystal 25.000000
+Tier 6
+onlyWorksIfTierLabsExist FALSE
+MaxNumResearchLevels 1
+priority 1.000000
+researchBoolModifiers 0
+researchFloatModifiers 3
+researchModifier
+	modifierType "ShieldPointsMaxAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.150000
+researchModifier
+	modifierType "ShieldPointsRegenAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.150000
+researchModifier
+	modifierType "ShieldMaxMitigationAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.020000
+artifactPicture ""
+uniqueOverlayBrush "RebellionResearchOverlay"
+dlcId 204880

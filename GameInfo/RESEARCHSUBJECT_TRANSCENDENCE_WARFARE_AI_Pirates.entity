@@ -1,0 +1,44 @@
+﻿TXT2
+SinsArchiveVersion 194
+entityType "ResearchSubject"
+hudIcon "HUDICON_RESEARCHSUBJECT_TRANSCENDENCE_WARFARE_AI_Pirates"
+smallHudIcon "HUDICON_RESEARCHSUBJECT_TRANSCENDENCE_WARFARE_AI_Pirates"
+infoCardIcon ""
+NameStringID "IDS_RESEARCHSUBJECT_TRANSCENDENCE_WARFARE_AI_NAME_Pirates"
+DescriptionStringID "IDS_RESEARCHSUBJECT_TRANSCENDENCE_WARFARE_AI_DESCRIPTION_Pirates"
+researchWindowLocation
+	block 1
+	pos [ 4 , 2 ]
+ResearchField "Combat"
+Prerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+MinimumArtifactLevel -1
+BaseUpgradeTime 240.000000
+PerLevelUpgradeTime 60.000000
+BaseCost
+	credits 10000.000000
+	metal 2000.000000
+	crystal 3000.000000
+PerLevelCostIncrease
+	credits 1000.000000
+	metal 500.000000
+	crystal 500.000000
+Tier 4
+onlyWorksIfTierLabsExist FALSE
+MaxNumResearchLevels 1
+priority 0.000000
+researchBoolModifiers 0
+researchFloatModifiers 2
+researchModifier
+	modifierType "ResearchCostAdjustment"
+	baseValue 0.000000
+	perLevelValue -0.10000
+researchModifier
+	modifierType "ResearchBuildRateAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.50000
+artifactPicture ""
+uniqueOverlayBrush "RebellionResearchOverlay"
+dlcId 204880

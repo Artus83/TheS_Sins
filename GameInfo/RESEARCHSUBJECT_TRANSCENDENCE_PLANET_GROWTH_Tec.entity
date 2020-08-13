@@ -1,0 +1,56 @@
+﻿TXT2
+SinsArchiveVersion 194
+entityType "ResearchSubject"
+hudIcon "HUDICON_RESEARCHSUBJECT_TRANSCENDENCE_PLANET_GROWTH_Tec"
+smallHudIcon "HUDICON_RESEARCHSUBJECT_TRANSCENDENCE_PLANET_GROWTH_Tec"
+infoCardIcon ""
+NameStringID "IDS_RESEARCHSUBJECT_TRANSCENDENCE_PLANET_GROWTH_NAME_Tec"
+DescriptionStringID "IDS_RESEARCHSUBJECT_TRANSCENDENCE_PLANET_GROWTH_DESCRIPTION_Tec"
+researchWindowLocation
+	block 1
+	pos [ 6 , 3 ]
+ResearchField "NonCombat"
+Prerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCHSUBJECT_TRANSCENDENCE_PLANET_AI_Tec"
+		Level 1
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+MinimumArtifactLevel -1
+BaseUpgradeTime 180.000000
+PerLevelUpgradeTime 60.000000
+BaseCost
+	credits 2000.000000
+	metal 400.000000
+	crystal 600.000000
+PerLevelCostIncrease
+	credits 500.000000
+	metal 100.000000
+	crystal 100.000000
+Tier 6
+onlyWorksIfTierLabsExist FALSE
+MaxNumResearchLevels 2
+priority 0.000000
+researchBoolModifiers 0
+researchFloatModifiers 4
+researchModifier
+	modifierType "PlanetPopulationCapAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.50000
+	linkedPlanetType "Invalid"
+researchModifier
+	modifierType "PopulationGrowthRateAdjustment"
+	baseValue 0.000000
+	perLevelValue 1.000000
+researchModifier
+	modifierType "PopulationTaxRateAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.50000
+researchModifier
+	modifierType "PlanetHealthRegenRateAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.5000
+artifactPicture ""
+uniqueOverlayBrush "RebellionResearchOverlay"
+dlcId 204880

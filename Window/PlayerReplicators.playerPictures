@@ -1,0 +1,42 @@
+TXT
+pictureCount 6
+LargeScreenPicture
+	textureName "Player_Portrait_Large_Maelstrom.dds"
+	startTopLeft [0,0]
+	width 195
+	height 219
+	rowItemCount 6
+	horizontalStride 198
+	verticalStride 222
+SmallScreenPicture
+	textureName "Player_Portrait_Small_Maelstrom.dds"
+	startTopLeft [5,5]
+	width 56
+	height 67
+	rowItemCount 6
+	horizontalStride 61
+	verticalStride 72
+BottomBarPicture
+	textureName "Player_Portrait_Window_Maelstrom.dds"
+	startTopLeft [1,1]
+	width 169
+	height 77
+	rowItemCount 6
+	horizontalStride 170
+	verticalStride 78
+ButtonIcon
+	textureName "Player_Portrait_Button_Maelstrom.dds"
+	startTopLeft [3,1]
+	width 24
+	height 29
+	rowItemCount 6
+	horizontalStride 27
+	verticalStride 32
+MediumScreenPicture
+	textureName "Player_Portrait_Medium_Maelstrom.dds"
+	startTopLeft [0,0]
+	width 96
+	height 109
+	rowItemCount 6
+	horizontalStride 99
+	verticalStride 108

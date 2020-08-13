@@ -1,0 +1,39 @@
+﻿TXT2
+SinsArchiveVersion 194
+entityType "ResearchSubject"
+hudIcon "HUDICON_RESEARCHSUBJECT_ABILITYACCESS_TractorField_Replicators"
+smallHudIcon "HUDICON_RESEARCHSUBJECT_ABILITYACCESS_TractorField_Replicators"
+infoCardIcon ""
+NameStringID "IDS_RESEARCHSUBJECT_ABILITYACCESS_TractorField_NAME_Replicators"
+DescriptionStringID "IDS_RESEARCHSUBJECT_ABILITYACCESS_TractorField_DESCRIPTION_Replicators"
+researchWindowLocation
+	block 0
+	pos [ 4 , 4 ]
+ResearchField "Defense"
+Prerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCHSUBJECT_ABILITYACCESS_TRACTORRANGE_Replicators"
+		Level 1
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+MinimumArtifactLevel -1
+BaseUpgradeTime 120.000000
+PerLevelUpgradeTime 30.000000
+BaseCost
+	credits 1000.000000
+	metal 150.000000
+	crystal 250.000000
+PerLevelCostIncrease
+	credits 100.000000
+	metal 25.000000
+	crystal 25.000000
+Tier 4
+onlyWorksIfTierLabsExist FALSE
+MaxNumResearchLevels 1
+priority 1.000000
+researchBoolModifiers 0
+researchFloatModifiers 0
+artifactPicture ""
+uniqueOverlayBrush ""
+dlcId 204880

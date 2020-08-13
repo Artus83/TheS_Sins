@@ -1,0 +1,51 @@
+﻿TXT2
+SinsArchiveVersion 194
+entityType "ResearchSubject"
+hudIcon "HUDICON_RESEARCHSUBJECT_RESEARCHCOMPLEX_ANTIMATTER_Replicators"
+smallHudIcon "HUDICON_RESEARCHSUBJECT_RESEARCHCOMPLEX_ANTIMATTER_Replicators"
+infoCardIcon ""
+NameStringID "IDS_RESEARCHSUBJECT_RESEARCHCOMPLEX_ANTIMATTER_NAME_Replicators"
+DescriptionStringID "IDS_RESEARCHSUBJECT_RESEARCHCOMPLEX_ANTIMATTER_DESCRIPTION_Replicators"
+researchWindowLocation
+	block 0
+	pos [ 4 , 2 ]
+ResearchField "NonCombat"
+Prerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCHSUBJECT_HYPERSPACE_ANTIMATTERCOSTDECREASE0_Replicators"
+		Level 2
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+MinimumArtifactLevel -1
+BaseUpgradeTime 120.000000
+PerLevelUpgradeTime 30.000000
+BaseCost
+	credits 1400.000000
+	metal 250.000000
+	crystal 400.000000
+PerLevelCostIncrease
+	credits 100.000000
+	metal 25.000000
+	crystal 25.000000
+Tier 4
+onlyWorksIfTierLabsExist FALSE
+MaxNumResearchLevels 1
+priority 1.000000
+researchBoolModifiers 0
+researchFloatModifiers 3
+researchModifier
+	modifierType "ResearchBuildRateAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.100000
+researchModifier
+	modifierType "ResearchCostAdjustment"
+	baseValue 0.000000
+	perLevelValue -0.040000
+researchModifier
+	modifierType "AntimatterRegenAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.100000
+artifactPicture ""
+uniqueOverlayBrush ""
+dlcId 204880

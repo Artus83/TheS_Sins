@@ -1,0 +1,43 @@
+﻿TXT2
+SinsArchiveVersion 194
+entityType "ResearchSubject"
+hudIcon "HUDICON_RESEARCHSUBJECT_TRANSCENDENCE_WARFARE_CAPSLOTS_Replicators"
+smallHudIcon "HUDICON_RESEARCHSUBJECT_TRANSCENDENCE_WARFARE_CAPSLOTS_Replicators"
+infoCardIcon ""
+NameStringID "IDS_RESEARCHSUBJECT_TRANSCENDENCE_WARFARE_CAPSLOTS_NAME_Replicators"
+DescriptionStringID "IDS_RESEARCHSUBJECT_TRANSCENDENCE_WARFARE_CAPSLOTS_DESCRIPTION_Replicators"
+researchWindowLocation
+	block 1
+	pos [ 7 , 2 ]
+ResearchField "Combat"
+Prerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCHSUBJECT_TRANSCENDENCE_WARFARE_FLEETLOGISTICS_Replicators"
+		Level 2
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+MinimumArtifactLevel -1
+BaseUpgradeTime 180.000000
+PerLevelUpgradeTime 60.000000
+BaseCost
+	credits 3000.000000
+	metal 500.000000
+	crystal 600.000000
+PerLevelCostIncrease
+	credits 500.000000
+	metal 100.000000
+	crystal 100.000000
+Tier 7
+onlyWorksIfTierLabsExist FALSE
+MaxNumResearchLevels 4
+priority 0.000000
+researchBoolModifiers 0
+researchFloatModifiers 1
+researchModifier
+	modifierType "CapitalShipMaxSlots"
+	baseValue 1.000000
+	perLevelValue 4.000000
+artifactPicture ""
+uniqueOverlayBrush "RebellionResearchOverlay"
+dlcId 204880

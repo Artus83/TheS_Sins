@@ -1,0 +1,112 @@
+﻿TXT2
+SinsArchiveVersion 194
+entityType "StarBaseUpgrade"
+stageCount 4
+stage
+	price
+		credits 0.000000
+		metal 0.000000
+		crystal 0.000000
+	upgradeTime 0.000000
+	nameStringID "IDS_STARBASEUPGRADEHULL_NAME_Replicators"
+	descStringID "IDS_STARBASEUPGRADEHULL_DESC_Replicators"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+	hudIcon "HUDIconStarBaseUpgradehull0_Replicators"
+	smallHudIcon "HUDIconStarBaseUpgradehull0_Replicators"
+	infoCardIcon ""
+	upgradePropertyCount 3
+	upgradeProperty
+		propertyType "MaxHullPoints"
+		value 3000.000000
+	upgradeProperty
+		propertyType "HullPointRestoreRate"
+		value 1.500000
+	upgradeProperty
+		propertyType "BaseArmorPoints"
+		value 6.000000
+	upgradeBoolPropertyCount 0
+stage
+	price
+		credits 1800.000000
+		metal 275.000000
+		crystal 150.000000
+	upgradeTime 60.000000
+	nameStringID "IDS_STARBASEUPGRADEHULL_NAME_Replicators"
+	descStringID "IDS_STARBASEUPGRADEHULL_DESC_Replicators"
+	researchPrerequisites
+		NumResearchPrerequisites 1
+		ResearchPrerequisite
+			Subject "RESEARCHSUBJECT_STARBASEUPGRADEACCESS_ADVANCEDDEFENSES_Replicators"
+			Level 1
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+	hudIcon "HUDIconStarBaseUpgradehull0_Replicators"
+	smallHudIcon "HUDIconStarBaseUpgradehull0_Replicators"
+	infoCardIcon ""
+	upgradePropertyCount 3
+	upgradeProperty
+		propertyType "MaxHullPoints"
+		value 6000.000000
+	upgradeProperty
+		propertyType "HullPointRestoreRate"
+		value 3.000000
+	upgradeProperty
+		propertyType "BaseArmorPoints"
+		value 9.000000
+	upgradeBoolPropertyCount 0
+stage
+	price
+		credits 1800.000000
+		metal 275.000000
+		crystal 150.000000
+	upgradeTime 60.000000
+	nameStringID "IDS_STARBASEUPGRADEHULL_NAME_Replicators"
+	descStringID "IDS_STARBASEUPGRADEHULL_DESC_Replicators"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+	hudIcon "HUDIconStarBaseUpgradehull1_Replicators"
+	smallHudIcon "HUDIconStarBaseUpgradehull1_Replicators"
+	infoCardIcon ""
+	upgradePropertyCount 3
+	upgradeProperty
+		propertyType "MaxHullPoints"
+		value 9000.000000
+	upgradeProperty
+		propertyType "HullPointRestoreRate"
+		value 4.500000
+	upgradeProperty
+		propertyType "BaseArmorPoints"
+		value 12.000000
+	upgradeBoolPropertyCount 0
+stage
+	price
+		credits 2700.000000
+		metal 425.000000
+		crystal 225.000000
+	upgradeTime 75.000000
+	nameStringID "IDS_STARBASEUPGRADEHULL_NAME_Replicators"
+	descStringID "IDS_STARBASEUPGRADEHULL_DESC_Replicators"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+	hudIcon "HUDIconStarBaseUpgradehull2_Replicators"
+	smallHudIcon "HUDIconStarBaseUpgradehull2_Replicators"
+	infoCardIcon ""
+	upgradePropertyCount 3
+	upgradeProperty
+		propertyType "MaxHullPoints"
+		value 13500.000000
+	upgradeProperty
+		propertyType "HullPointRestoreRate"
+		value 6.750000
+	upgradeProperty
+		propertyType "BaseArmorPoints"
+		value 16.500000
+	upgradeBoolPropertyCount 0
+xpModifier 50.000000

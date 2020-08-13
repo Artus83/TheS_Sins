@@ -1,0 +1,129 @@
+﻿TXT2
+SinsArchiveVersion 194
+entityType "TitanUpgrade"
+stageCount 5
+stage
+	nameStringID "IDS_TITANUPGRADE_REBEL_DURABILITY_NAME_Replicators"
+	descStringID "IDS_TITANUPGRADE_REBEL_DURABILITY_DESCRIPTION_Replicators"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	levelRequirement -1
+	hudIcon "HUDIconTitanRebelDurabilityUpgrade0_Replicators"
+	smallHudIcon "HUDIconTitanRebelDurabilityUpgrade0_Replicators"
+	infoCardIcon ""
+	upgradePropertyCount 0
+	upgradeBoolPropertyCount 0
+stage
+	nameStringID "IDS_TITANUPGRADE_REBEL_DURABILITY_NAME_Replicators"
+	descStringID "IDS_TITANUPGRADE_REBEL_DURABILITY_DESCRIPTION_Replicators"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	levelRequirement 0
+	hudIcon "HUDIconTitanRebelDurabilityUpgrade0_Replicators"
+	smallHudIcon "HUDIconTitanRebelDurabilityUpgrade0_Replicators"
+	infoCardIcon ""
+	upgradePropertyCount 5
+	upgradeProperty
+		propertyType "MaxHullPoints"
+		value 712.799988
+	upgradeProperty
+		propertyType "HullPointRestoreRate"
+		value 0.540000
+	upgradeProperty
+		propertyType "MaxShieldPoints"
+		value 567.000000
+	upgradeProperty
+		propertyType "ShieldPointRestoreRate"
+		value 1.080000
+	upgradeProperty
+		propertyType "BaseArmorPoints"
+		value 2.160000
+	upgradeBoolPropertyCount 0
+stage
+	nameStringID "IDS_TITANUPGRADE_REBEL_DURABILITY_NAME_Replicators"
+	descStringID "IDS_TITANUPGRADE_REBEL_DURABILITY_DESCRIPTION_Replicators"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	levelRequirement 2
+	hudIcon "HUDIconTitanRebelDurabilityUpgrade1_Replicators"
+	smallHudIcon "HUDIconTitanRebelDurabilityUpgrade1_Replicators"
+	infoCardIcon ""
+	upgradePropertyCount 5
+	upgradeProperty
+		propertyType "MaxHullPoints"
+		value 1425.599976
+	upgradeProperty
+		propertyType "HullPointRestoreRate"
+		value 1.080000
+	upgradeProperty
+		propertyType "MaxShieldPoints"
+		value 1134.000000
+	upgradeProperty
+		propertyType "ShieldPointRestoreRate"
+		value 2.160000
+	upgradeProperty
+		propertyType "BaseArmorPoints"
+		value 4.320000
+	upgradeBoolPropertyCount 0
+stage
+	nameStringID "IDS_TITANUPGRADE_REBEL_DURABILITY_NAME_Replicators"
+	descStringID "IDS_TITANUPGRADE_REBEL_DURABILITY_DESCRIPTION_Replicators"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	levelRequirement 4
+	hudIcon "HUDIconTitanRebelDurabilityUpgrade2_Replicators"
+	smallHudIcon "HUDIconTitanRebelDurabilityUpgrade2_Replicators"
+	infoCardIcon ""
+	upgradePropertyCount 5
+	upgradeProperty
+		propertyType "MaxHullPoints"
+		value 2138.399902
+	upgradeProperty
+		propertyType "HullPointRestoreRate"
+		value 1.620000
+	upgradeProperty
+		propertyType "MaxShieldPoints"
+		value 1701.000000
+	upgradeProperty
+		propertyType "ShieldPointRestoreRate"
+		value 3.240000
+	upgradeProperty
+		propertyType "BaseArmorPoints"
+		value 6.480000
+	upgradeBoolPropertyCount 0
+stage
+	nameStringID "IDS_TITANUPGRADE_REBEL_DURABILITY_NAME_Replicators"
+	descStringID "IDS_TITANUPGRADE_REBEL_DURABILITY_DESCRIPTION_Replicators"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	levelRequirement 6
+	hudIcon "HUDIconTitanRebelDurabilityUpgrade3_Replicators"
+	smallHudIcon "HUDIconTitanRebelDurabilityUpgrade3_Replicators"
+	infoCardIcon ""
+	upgradePropertyCount 5
+	upgradeProperty
+		propertyType "MaxHullPoints"
+		value 2851.199951
+	upgradeProperty
+		propertyType "HullPointRestoreRate"
+		value 2.160000
+	upgradeProperty
+		propertyType "MaxShieldPoints"
+		value 2268.000000
+	upgradeProperty
+		propertyType "ShieldPointRestoreRate"
+		value 4.320000
+	upgradeProperty
+		propertyType "BaseArmorPoints"
+		value 8.640000
+	upgradeBoolPropertyCount 0

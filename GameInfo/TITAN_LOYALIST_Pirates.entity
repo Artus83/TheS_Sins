@@ -1,0 +1,292 @@
+﻿TXT2
+SinsArchiveVersion 194
+entityType "Titan"
+ability:0 "AbilitySubjugatingAssault_Pirates"
+ability:1 "AbilitySuppressionAura_Pirates"
+ability:2 "AbilityUnityMass_Pirates"
+ability:3 "AbilityRepossession_Pirates"
+ability:4 ""
+defaultAutoAttackRange "GravityWell"
+defaultAutoAttackOn TRUE
+prefersToFocusFire TRUE
+usesFighterAttack FALSE
+autoJoinFleetDefault TRUE
+canBomb TRUE
+hasBombingLevels FALSE
+baseDamage 43.000000
+basePopulationKilled 1.700000
+bombingFreqTime 10.000000
+baseRange 3000.000000
+bombTransitTime 12.000000
+bombEffectCount 3
+bombEffectAngleVariance 15.000000
+bombEffectsDef
+	weaponType "Projectile"
+	burstCount 1
+	burstDelay 0.000000
+	fireDelay 0.000000
+	muzzleEffectName "Weapon_CapitalPlanetBombing_Muzzle_Pirates"
+	muzzleSoundMinRespawnTime 0.100000
+	muzzleSounds
+		soundCount 1
+		sound "WEAPON_PLANETBOMB_MUZZLE_Pirates"
+	hitEffectName "Weapon_CapitalPlanetBombing_Hit_Pirates"
+	hitHullEffectSounds
+		soundCount 3
+		sound "EXPLOSION_SUB4"
+		sound "EXPLOSION_SUB4_ALT1"
+		sound "EXPLOSION_SUB4_ALT2"
+	hitShieldsEffectSounds
+		soundCount 3
+		sound "EXPLOSION_SUB4"
+		sound "EXPLOSION_SUB4_ALT1"
+		sound "EXPLOSION_SUB4_ALT2"
+	projectileTravelEffectName "Weapon_CapitalPlanetBombing_Travel_Pirates"
+mainViewIcon "MAINVIEWICON_TITAN_LOYALIST_Pirates"
+basePrice
+	credits 9500.000000
+	metal 1200.000000
+	crystal 750.000000
+slotCount 150.000000
+BuildTime 450.000000
+MaxHullPoints
+	StartValue 3622.000000
+	ValueIncreasePerLevel 322.000000
+MaxShieldPoints
+	StartValue 2805.000000
+	ValueIncreasePerLevel 684.250000
+HullPointRestoreRate
+	StartValue 2.700000
+	ValueIncreasePerLevel 0.450000
+ShieldPointRestoreRate
+	StartValue 5.400000
+	ValueIncreasePerLevel 0.850000
+ArmorPointsFromExperience
+	StartValue 8.000000
+	ValueIncreasePerLevel 0.544000
+maxMitigation
+	StartValue 0.650000
+	ValueIncreasePerLevel 0.011110
+MaxAntiMatter
+	StartValue 320.000000
+	ValueIncreasePerLevel 40.000000
+AntiMatterRestoreRate
+	StartValue 0.900000
+	ValueIncreasePerLevel 0.160000
+CultureProtectRate
+	StartValue 0.300000
+	ValueIncreasePerLevel 0.050000
+NameStringID "IDS_TITAN_LOYALIST_NAME_Pirates"
+DescriptionStringID "IDS_TITAN_LOYALIST_DESCRIPTION_Pirates"
+picture "TITANPICTURE_LOYALIST_Pirates"
+Prerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCHSUBJECT_TITANACCESS_LOYALIST_1_Pirates"
+		Level 1
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+statCountType "Titan"
+UpgradeTypeCount 7
+UpgradeType "TitanUpgrade_Loyalist_AbilityA_Pirates"
+UpgradeType "TitanUpgrade_Loyalist_AbilityB_Pirates"
+UpgradeType "TitanUpgrade_Loyalist_AbilityC_Pirates"
+UpgradeType "TitanUpgrade_Loyalist_AbilityD_Pirates"
+UpgradeType "TitanUpgrade_Loyalist_Durability_Pirates"
+UpgradeType "TitanUpgrade_Loyalist_Weapons_Pirates"
+UpgradeType "TitanUpgrade_Loyalist_Abilities_Pirates"
+numRandomDebrisLarge 80
+numRandomDebrisSmall 30
+numSpecificDebris 1
+specificDebrisMeshName "DebrisAdventLarge"
+armorType "Titan"
+hudIcon "HUDICON_RESEARCHSUBJECT_TITAN_LOYALIST_Pirates"
+smallHudIcon "HUDICONSMALL_TITAN_LOYALIST_Pirates"
+infoCardIcon "INFOCARDICON_TITAN_LOYALIST_Pirates"
+minZoomDistanceMult 1.030000
+NumWeapons 3
+Weapon
+	WeaponType "Missile"
+	damageEnums
+		AttackType "TITAN"
+		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
+		DamageApplyType "BACKLOADED"
+		DamageType "PHYSICAL"
+		WeaponClassType "MISSILE"
+	DamagePerBank:FRONT 0.000000
+	DamagePerBank:BACK 0.000000
+	DamagePerBank:LEFT 150.000000
+	DamagePerBank:RIGHT 150.000000
+	Range 10000.000000
+	PreBuffCooldownTime 10.500000
+	CanFireAtFighter FALSE
+	SynchronizedTargeting FALSE
+	PointStaggerDelay 0.150000
+	TravelSpeed 700.000000
+	Duration 0.000000
+	fireConstraintType "CanAlwaysFire"
+	WeaponEffects
+		weaponType "Missile"
+		burstCount 4
+		burstDelay 0.600000
+		fireDelay 0.000000
+		muzzleEffectName "Weapon_Tech_MissileCapShip_Muzzle"
+		muzzleSoundMinRespawnTime 0.500000
+		muzzleSounds
+			soundCount 3
+			sound "WEAPON_TECHCAPITALMISSILEHEAVY_MUZZLE"
+			sound "WEAPON_TECHCAPITALMISSILEHEAVY_MUZZLE_ALT1"
+			sound "WEAPON_TECHCAPITALMISSILEHEAVY_MUZZLE_ALT2"
+		hitEffectName "Weapon_Tech_MissileCapShip_Hit"
+		hitHullEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_MISSILEHEAVY_HITGENERIC"
+		hitShieldsEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_MISSILEHEAVY_HITGENERIC"
+		missileTravelEffectName "Weapon_Tech_MissileCapShip_Travel"
+		missileStartTurningDistance 250.000000
+		missileSlowTurnRate 0.708997
+		missileMaxSlowTurnTime 6.000000
+Weapon
+	WeaponType "Projectile"
+	damageEnums
+		AttackType "TITAN"
+		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
+		DamageApplyType "BACKLOADED"
+		DamageType "PHYSICAL"
+		WeaponClassType "GAUSS"
+	DamagePerBank:FRONT 250.000000
+	DamagePerBank:BACK 0.000000
+	DamagePerBank:LEFT 0.000000
+	DamagePerBank:RIGHT 0.000000
+	Range 10000.000000
+	PreBuffCooldownTime 6.500000
+	CanFireAtFighter FALSE
+	SynchronizedTargeting TRUE
+	PointStaggerDelay 0.700000
+	TravelSpeed 3000.000000
+	Duration 0.000000
+	fireConstraintType "CanAlwaysFire"
+	WeaponEffects
+		weaponType "Projectile"
+		burstCount 1
+		burstDelay 0.200000
+		fireDelay 0.200000
+		muzzleEffectName "Weapon_Tech_TitanGaussCannon_Muzzle"
+		muzzleSoundMinRespawnTime 0.100000
+		muzzleSounds
+			soundCount 1
+			sound "WEAPON_TECH_GAUSSCANNON_MUZZLE"
+		hitEffectName "Weapon_Tech_TitanGaussCannon_Hit"
+		hitHullEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_PHYSICALHEAVY_HITHULL"
+		hitShieldsEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_GENERICHEAVY_HITSHIELDS"
+		projectileTravelEffectName "Weapon_Tech_TitanGaussCannon_Travel"
+Weapon
+	WeaponType "Projectile"
+	damageEnums
+		AttackType "TITAN"
+		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
+		DamageApplyType "BACKLOADED"
+		DamageType "PHYSICAL"
+		WeaponClassType "RAILGUN"
+	DamagePerBank:FRONT 1000.000000
+	DamagePerBank:BACK 0.000000
+	DamagePerBank:LEFT 0.000000
+	DamagePerBank:RIGHT 0.000000
+	Range 10000.000000
+	PreBuffCooldownTime 10.000000
+	CanFireAtFighter FALSE
+	SynchronizedTargeting FALSE
+	PointStaggerDelay 0.000000
+	TravelSpeed 7000.000000
+	Duration 0.000000
+	fireConstraintType "CanAlwaysFire"
+	WeaponEffects
+		weaponType "Projectile"
+		burstCount 1
+		burstDelay 0.000000
+		fireDelay 0.600000
+		muzzleEffectName "Weapon_TechRebel_TitanRailgun_Muzzle"
+		muzzleSoundMinRespawnTime 0.050000
+		muzzleSounds
+			soundCount 1
+			sound "WEAPON_TECHTITANRAILGUN_MUZZLE"
+		hitEffectName "Weapon_TechRebel_TitanRailgun_Hit"
+		hitHullEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_PHYSICALHEAVY_HITHULL"
+		hitShieldsEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_GENERICHEAVY_HITSHIELDS"
+		projectileTravelEffectName "Weapon_TechRebel_TitanRailgun_Travel"
+m_weaponIndexForRange 0
+firingAlignmentType "Default"
+TargetCountPerBank:FRONT 2
+TargetCountPerBank:BACK 0
+TargetCountPerBank:LEFT 1
+TargetCountPerBank:RIGHT 1
+canOnlyTargetStructures FALSE
+mass 100000.000000
+ShieldMeshName "Shield_Titan_Torpedo"
+renderShield TRUE
+maxAccelerationLinear 100.000000
+maxAccelerationStrafe 10.000000
+maxDecelerationLinear 500.000000
+maxAccelerationAngular 1.000000
+maxDecelerationAngular 9.999996
+maxSpeedLinear 450.000000
+maxRollRate 1.650000
+maxRollAngle 1.000000
+useCustomHyperspaceEffects FALSE
+squadTypeEntityDef:0 "SquadFighter_Pirates"
+squadAntiMatterCost:0 0.000000
+squadTypeEntityDef:1 "SquadBomber_Pirates"
+squadAntiMatterCost:1 0.000000
+squadTypeEntityDef:2 ""
+squadAntiMatterCost:2 0.000000
+squadTypeEntityDef:3 ""
+squadAntiMatterCost:3 0.000000
+NumSoundsFor:ONATTACKORDERISSUED 3
+SoundID "TITAN_LOYALIST_ONATTACKORDERISSUED_0_Pirates"
+SoundID "TITAN_LOYALIST_ONATTACKORDERISSUED_1_Pirates"
+SoundID "TITAN_LOYALIST_ONATTACKORDERISSUED_2_Pirates"
+NumSoundsFor:ONCREATION 1
+SoundID "TITAN_LOYALIST_ONCREATION_Pirates"
+NumSoundsFor:ONGENERALORDERISSUED 3
+SoundID "TITAN_LOYALIST_ONGENERALORDERISSUED_0_Pirates"
+SoundID "TITAN_LOYALIST_ONGENERALORDERISSUED_1_Pirates"
+SoundID "TITAN_LOYALIST_ONGENERALORDERISSUED_2_Pirates"
+NumSoundsFor:ONSELECTED 3
+SoundID "TITAN_LOYALIST_ONSELECTED_0_Pirates"
+SoundID "TITAN_LOYALIST_ONSELECTED_1_Pirates"
+SoundID "TITAN_LOYALIST_ONSELECTED_2_Pirates"
+NumSoundsFor:ONSTARTPHASEJUMP 3
+SoundID "TITAN_ONSTARTPHASEJUMP_0_Pirates"
+SoundID "TITAN_ONSTARTPHASEJUMP_1_Pirates"
+SoundID "TITAN_ONSTARTPHASEJUMP_2_Pirates"
+MeshNameInfoCount 1
+MeshNameInfo
+	meshName "Titan_Loyalist_Pirates"
+	criteriaType "None"
+meshNameIncreasedEffectName ""
+meshNameDecreasedEffectName ""
+ExhaustParticleSystemName "Exhaust_PsiLoyalistTitan"
+ExplosionName "StarBase1"
+CommandPoints
+	StartValue 3.250000
+	ValueIncreasePerLevel 0.500000
+weaponCooldownDecreasePerc
+	StartValue 0.000000
+	ValueIncreasePerLevel 0.030000
+weaponDamageIncreasePerc
+	StartValue 0.000000
+	ValueIncreasePerLevel 0.050000
+EngineSoundID "ENGINE_TECHCAPITALSHIP"
+formationRank 0
+minShadow 0.000000
+maxShadow 1.000000

@@ -1,0 +1,44 @@
+﻿TXT2
+SinsArchiveVersion 194
+entityType "Squad"
+defaultAutoAttackRange "GravityWell"
+defaultAutoAttackOn TRUE
+prefersToFocusFire TRUE
+usesFighterAttack FALSE
+hudIcon "HUDICON_SQUADMINELAYER_Pirates"
+smallHudIcon "HUDICONSMALL_SQUADMINELAYER_Pirates"
+infoCardIcon "INFOCARDICON_SQUADMINELAYER_Pirates"
+fighterEntityDef "FighterMineLayer_Pirates"
+fighterIllusionEntityDef "FighterMineLayer_Pirates"
+scuttleTime 8.000000
+fighterConstructionTime 5.000000
+decayWithoutOwnerRate 0.010000
+baseMaxNumFighters 5
+role "MineLayer"
+statCountType "SquadMineLayer"
+mainViewIcon "MAINVIEWICON_SQUADMINELAYER_Pirates"
+picture "PICTURE_SQUADMINELAYER_Pirates"
+launchIcon "HUDICONLAUNCH_SQUADMINELAYER_Pirates"
+dockIcon "HUDICONDOCK_SQUADMINELAYER_Pirates"
+nameStringID "IDS_SQUADMINELAYER_NAME_Pirates"
+descriptionStringID "IDS_SQUADMINELAYER_DESC_Pirates"
+researchPrerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCHSUBJECT_SQUADACCESS_MINELAYER_Pirates"
+		Level 1
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+NumSoundsFor:ONATTACKORDERISSUED 0
+NumSoundsFor:ONCREATION 0
+NumSoundsFor:ONGENERALORDERISSUED 0
+NumSoundsFor:ONSELECTED 1
+SoundID "MINE_ONSELECTED_Pirates"
+NumSoundsFor:ONSTARTPHASEJUMP 0
+minShadow 0.000000
+maxShadow 0.000000
+ability:0 "AbilityConvertFightersToMines_Pirates"
+ability:1 ""
+ability:2 ""
+ability:3 ""
+ability:4 ""

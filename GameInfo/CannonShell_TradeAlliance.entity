@@ -1,0 +1,26 @@
+﻿TXT2
+SinsArchiveVersion 194
+entityType "CannonShell"
+acceleration 300.000000
+startingSpeed 500.000000
+maxSpeed 10000.000000
+buffToApplyOnImpact "BuffCannonShellPhaseSpawn_TradeAlliance"
+planetImpactEffectName "Ability_OrbitalCannonSurfaceImpact_TradeAlliance"
+planetImpactSounds
+	soundCount 1
+	sound "EXPLOSION_CANNONSHELLTECH"
+planetImpactCameraShakeMaxSize 980000.000000
+planetImpactCameraShakeStrength 1.500000
+planetImpactCameraShakeDuration 0.000000
+meshName "CannonShell_TradeAlliance"
+mainViewIcon "MainViewIconCannonShell_TradeAlliance"
+picture "PictureCannonShell_TradeAlliance"
+nameStringID "IDS_CANNONSHELL_NAME_TradeAlliance"
+descStringID "IDS_CANNONSHELL_DESC_TradeAlliance"
+renderMesh FALSE
+minZoomDistanceMult 4.500000
+hudIcon "HUDIconCannonShell_TradeAlliance"
+smallHudIcon "HUDIconSmallCannonShell_TradeAlliance"
+infoCardIcon "InfoCardIconCannonShell_TradeAlliance"
+minShadow 0.000000
+maxShadow 0.500000

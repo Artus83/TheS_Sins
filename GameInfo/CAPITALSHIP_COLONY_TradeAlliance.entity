@@ -1,0 +1,284 @@
+﻿TXT2
+SinsArchiveVersion 194
+entityType "CapitalShip"
+ability:0 "AbilityCapitalShipColonize_TradeAlliance"
+ability:1 "AbilityEmbargo_TradeAlliance"
+ability:2 "AbilityAdaptiveShield_TradeAlliance"
+ability:3 "AbilityGaussBlast_TradeAlliance"
+ability:4 ""
+defaultAutoAttackRange "GravityWell" 
+defaultAutoAttackOn TRUE
+prefersToFocusFire TRUE
+usesFighterAttack FALSE
+autoJoinFleetDefault TRUE
+canBomb TRUE
+hasBombingLevels FALSE
+baseDamage 40.000000
+basePopulationKilled 1.550000
+bombingFreqTime 10.000000
+baseRange 3000.000000
+bombTransitTime 12.000000
+bombEffectCount 3
+bombEffectAngleVariance 15.000000
+bombEffectsDef
+	weaponType "Projectile"
+	burstCount 1
+	burstDelay 0.000000
+	fireDelay 0.000000
+	muzzleEffectName "Weapon_CapitalPlanetBombing_Muzzle_TradeAlliance"
+	muzzleSoundMinRespawnTime 0.100000
+	muzzleSounds
+		soundCount 1
+		sound "WEAPON_PLANETBOMB_MUZZLE_TradeAlliance"
+	hitEffectName "Weapon_CapitalPlanetBombing_Hit_TradeAlliance"
+	hitHullEffectSounds
+		soundCount 3
+		sound "EXPLOSION_SUB4"
+		sound "EXPLOSION_SUB4_ALT1"
+		sound "EXPLOSION_SUB4_ALT2"
+	hitShieldsEffectSounds
+		soundCount 3
+		sound "EXPLOSION_SUB4"
+		sound "EXPLOSION_SUB4_ALT1"
+		sound "EXPLOSION_SUB4_ALT2"
+	projectileTravelEffectName "Weapon_CapitalPlanetBombing_Travel_TradeAlliance"
+mainViewIcon "MAINVIEWICON_CAPITALSHIP_COLONY_TradeAlliance"
+basePrice
+	credits 3000.000000
+	metal 400.000000
+	crystal 250.000000
+slotCount 50.000000
+BuildTime 75.000000
+MaxHullPoints
+	StartValue 2500.000000
+	ValueIncreasePerLevel 100.000000
+MaxShieldPoints
+	StartValue 1250.000000
+	ValueIncreasePerLevel 135.000000
+HullPointRestoreRate
+	StartValue 1.500000
+	ValueIncreasePerLevel 0.100000
+ShieldPointRestoreRate
+	StartValue 3.000000
+	ValueIncreasePerLevel 0.300000
+ArmorPointsFromExperience
+	StartValue 3.000000
+	ValueIncreasePerLevel 0.375000
+maxMitigation
+	StartValue 0.650000
+	ValueIncreasePerLevel 0.011110
+MaxAntiMatter
+	StartValue 225.000000
+	ValueIncreasePerLevel 20.000000
+AntiMatterRestoreRate
+	StartValue 0.750000
+	ValueIncreasePerLevel 0.080000
+CultureProtectRate
+	StartValue 0.500000
+	ValueIncreasePerLevel 0.100000
+NameStringID "IDS_CAPITALSHIP_COLONY_NAME_TradeAlliance"
+DescriptionStringID "IDS_CAPITALSHIP_COLONY_DESCRIPTION_TradeAlliance"
+picture "CAPITALSHIPPICTURE_COLONY_TradeAlliance"
+Prerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+roleType "COLONY"
+statCountType "CapitalShipUtility0"
+numRandomDebrisLarge 4
+numRandomDebrisSmall 18
+numSpecificDebris 0
+armorType "CapitalShip"
+hudIcon "HUDICON_CAPITALSHIP_COLONY_TradeAlliance"
+smallHudIcon "HUDICONSMALL_CAPITALSHIP_COLONY_TradeAlliance"
+infoCardIcon "INFOCARDICON_CAPITALSHIP_COLONY_TradeAlliance"
+minZoomDistanceMult 1.250000
+NumWeapons 3
+Weapon
+	WeaponType "Projectile"
+	damageEnums
+		AttackType "CAPITALSHIP"
+		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
+		DamageApplyType "BACKLOADED"
+		DamageType "ENERGY"
+		WeaponClassType "LASERPSI"
+	DamagePerBank:FRONT 125.000000
+	DamagePerBank:BACK 0.000000
+	DamagePerBank:LEFT 0.000000
+	DamagePerBank:RIGHT 0.000000
+	Range 5000.000000
+	PreBuffCooldownTime 6.000000
+	CanFireAtFighter FALSE
+	SynchronizedTargeting FALSE
+	PointStaggerDelay 0.350000
+	TravelSpeed 4000.000000
+	Duration 0.000000
+	fireConstraintType "CanAlwaysFire"
+	WeaponEffects
+		weaponType "Projectile"
+		burstCount 2
+		burstDelay 0.500000
+		fireDelay 0.000000
+		muzzleEffectName "Weapon_CapitalLaserHeavy_Muzzle_TradeAlliance"
+		muzzleSoundMinRespawnTime 0.100000
+		muzzleSounds
+			soundCount 1
+			sound "WEAPON_CAPITALLASERHEAVY_MUZZLE_TradeAlliance"
+		hitEffectName "Weapon_CapitalLaserHeavy_Hit_TradeAlliance"
+		hitHullEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_ENERGYHEAVY_HITHULL_TradeAlliance"
+		hitShieldsEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_GENERICHEAVY_HITSHIELDS_TradeAlliance"
+		projectileTravelEffectName "Weapon_CapitalLaserHeavy_Travel_TradeAlliance"
+Weapon
+	WeaponType "Beam"
+	damageEnums
+		AttackType "CAPITALSHIP"
+		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
+		DamageApplyType "OVERTIME"
+		DamageType "ENERGY"
+		WeaponClassType "BEAM"
+	DamagePerBank:FRONT 125.000000
+	DamagePerBank:BACK 0.000000
+	DamagePerBank:LEFT 0.000000
+	DamagePerBank:RIGHT 0.000000
+	Range 4800.000000
+	PreBuffCooldownTime 7.000000
+	CanFireAtFighter FALSE
+	SynchronizedTargeting FALSE
+	PointStaggerDelay 0.500000
+	TravelSpeed 0.000000
+	Duration 4.000000		 
+	fireConstraintType "CanAlwaysFire"
+	WeaponEffects
+		weaponType "Beam"
+		burstCount 1
+		burstDelay 0.000000
+		fireDelay 0.000000
+		muzzleEffectName "Weapon_CapitalBeamHeavy_Muzzle_TradeAlliance"
+		muzzleSoundMinRespawnTime 0.100000
+		muzzleSounds
+			soundCount 1
+			sound ""
+		hitEffectName "Weapon_CapitalBeamHeavy_Hit_TradeAlliance"
+		hitHullEffectSounds
+			soundCount 1
+			sound ""
+		hitShieldsEffectSounds
+			soundCount 1
+			sound ""
+		beamEffectSounds
+			soundCount 1
+			sound "WEAPON_CAPITALBEAMHEAVY_TRAVEL_TradeAlliance"
+		beamGlowTextureName "CapitalBeam_Glow_TradeAlliance"
+		beamCoreTextureName "CapitalBeam_Core_TradeAlliance"
+		beamWidth 30.000000
+		beamGlowColor ffffffff
+		beamCoreColor ffffffff
+		beamTilingRate 3.000000
+Weapon
+	WeaponType "Projectile"
+	damageEnums
+		AttackType "CAPITALSHIP"
+		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
+		DamageApplyType "BACKLOADED"
+		DamageType "PHYSICAL"
+		WeaponClassType "AUTOCANNON"
+	DamagePerBank:FRONT 0.000000
+	DamagePerBank:BACK 0.00000
+	DamagePerBank:LEFT 50.00000
+	DamagePerBank:RIGHT 50.000000
+	Range 5000.000000
+	PreBuffCooldownTime 4.500000
+	CanFireAtFighter FALSE
+	SynchronizedTargeting FALSE
+	PointStaggerDelay 1.000000
+	TravelSpeed 4000.000000
+	Duration 0.000000
+	fireConstraintType "CanAlwaysFire"
+	WeaponEffects
+		weaponType "Projectile"
+		burstCount 15
+		burstDelay 0.060000
+		fireDelay 0.000000
+		muzzleEffectName "WEAPON_CAPITALAUTOCANNONHEAVY_MUZZLE_TradeAlliance"
+		muzzleSoundMinRespawnTime 0.770000
+		muzzleSounds
+			soundCount 1
+			sound "WEAPON_CAPITALAUTOCANNONHEAVY_MUZZLE_TradeAlliance"
+		hitEffectName "Weapon_CapitalAutoCannonHeavy_Hit_TradeAlliance"
+		hitHullEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_ENERGYHEAVY_HITHULL_TradeAlliance"
+		hitShieldsEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_GENERICHEAVY_HITSHIELDS_TradeAlliance"
+		projectileTravelEffectName "Weapon_CapitalAutoCannonHeavy_Travel_TradeAlliance"
+m_weaponIndexForRange 0
+firingAlignmentType "Default"
+TargetCountPerBank:FRONT 1
+TargetCountPerBank:BACK 0
+TargetCountPerBank:LEFT 1
+TargetCountPerBank:RIGHT 1
+canOnlyTargetStructures FALSE
+mass 10000.000000
+ShieldMeshName "Shield_Capital_Torpedo"
+renderShield TRUE
+maxAccelerationLinear 100.000000
+maxAccelerationStrafe 10.000000
+maxDecelerationLinear 500.000000
+maxAccelerationAngular 1.000000
+maxDecelerationAngular 9.999996
+maxSpeedLinear 450.000000
+maxRollRate 2.000000
+maxRollAngle 35.000000
+useCustomHyperspaceEffects FALSE
+squadTypeEntityDef:0 "SquadFighter_TradeAlliance"
+squadAntiMatterCost:0 0.000000
+squadTypeEntityDef:1 "SquadBomber_TradeAlliance"
+squadAntiMatterCost:1 0.000000
+squadTypeEntityDef:2 ""
+squadAntiMatterCost:2 0.000000
+squadTypeEntityDef:3 ""
+squadAntiMatterCost:3 0.000000
+NumSoundsFor:ONATTACKORDERISSUED 3
+SoundID "CAPITALSHIP_COLONY_ONATTACKORDERISSUED_0_TradeAlliance"
+SoundID "CAPITALSHIP_COLONY_ONATTACKORDERISSUED_1_TradeAlliance"
+SoundID "CAPITALSHIP_COLONY_ONATTACKORDERISSUED_2_TradeAlliance"
+NumSoundsFor:ONCREATION 1
+SoundID "CAPITALSHIP_COLONY_ONCREATION_TradeAlliance"
+NumSoundsFor:ONGENERALORDERISSUED 3
+SoundID "CAPITALSHIP_COLONY_ONGENERALORDERISSUED_0_TradeAlliance"
+SoundID "CAPITALSHIP_COLONY_ONGENERALORDERISSUED_1_TradeAlliance"
+SoundID "CAPITALSHIP_COLONY_ONGENERALORDERISSUED_2_TradeAlliance"
+NumSoundsFor:ONSELECTED 3
+SoundID "CAPITALSHIP_COLONY_ONSELECTED_0_TradeAlliance"
+SoundID "CAPITALSHIP_COLONY_ONSELECTED_1_TradeAlliance"
+SoundID "CAPITALSHIP_COLONY_ONSELECTED_2_TradeAlliance"
+NumSoundsFor:ONSTARTPHASEJUMP 3
+SoundID "CAPITALSHIP_ONSTARTPHASEJUMP_0_TradeAlliance"
+SoundID "CAPITALSHIP_ONSTARTPHASEJUMP_1_TradeAlliance"
+SoundID "CAPITALSHIP_ONSTARTPHASEJUMP_2_TradeAlliance"
+MeshNameInfoCount 1
+MeshNameInfo
+	meshName "CapitalShip_Colony_TradeAlliance"
+	criteriaType "None"
+meshNameIncreasedEffectName ""
+meshNameDecreasedEffectName ""
+ExhaustParticleSystemName "Exhaust_Capitalship"
+ExplosionName "CapitalShip1"
+CommandPoints
+	StartValue 2.000000
+	ValueIncreasePerLevel 0.500000
+weaponCooldownDecreasePerc
+	StartValue 0.000000
+	ValueIncreasePerLevel 0.030000
+weaponDamageIncreasePerc
+	StartValue 0.000000
+	ValueIncreasePerLevel 0.050000
+EngineSoundID "ENGINE_CAPITALSHIP_TradeAlliance"
+formationRank 2
+minShadow 0.000000
+maxShadow 0.400000

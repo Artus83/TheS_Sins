@@ -1,0 +1,124 @@
+TXT2
+SinsArchiveVersion 194
+onlyLoadOnDemand TRUE
+brushCount 24
+brush
+	name "GameOverDialogPictureOverlay"
+	content "Simple"
+	fileName "GameOver.dds"
+	pixelBox [ 0 , 0 , 1068 , 808 ]
+brush
+	name "GameOverDialogTextBackdrop"
+	content "Simple"
+	fileName "GameOver.dds"
+	pixelBox [ 0 , 0 , 0 , 0 ]
+brush
+	name "GameOverDialogTextOverlay"
+	content "Simple"
+	fileName "GameOver.dds"
+	pixelBox [ 0 , 0 , 0 , 0 ]
+brush
+	name "GameOverDialogHasWonPictureTech"
+	content "Simple"
+	fileName "GameOverTechWin.dds"
+	pixelBox [ 0 , 0 , 1024 , 768 ]
+brush
+	name "GameOverDialogHasLostPictureTech"
+	content "Simple"
+	fileName "GameOverTechLoss.dds"
+	pixelBox [ 0 , 0 , 1024 , 768 ]
+brush
+	name "GameOverDialogPlayerThemeBackdropTech"
+	content "Simple"
+	fileName "GameOver.dds"
+	pixelBox [ 0 , 0 , 0 , 0 ]
+brush
+	name "GameOverDialogHasWonPicturePsi"
+	content "Simple"
+	fileName "GameOverPsiWin.dds"
+	pixelBox [ 0 , 0 , 1024 , 768 ]
+brush
+	name "GameOverDialogHasLostPicturePsi"
+	content "Simple"
+	fileName "GameOverPsiLoss.dds"
+	pixelBox [ 0 , 0 , 1024 , 768 ]
+brush
+	name "GameOverDialogPlayerThemeBackdropPsi"
+	content "Simple"
+	fileName "GameOver.dds"
+	pixelBox [ 0 , 0 , 0 , 0 ]
+brush
+	name "GameOverDialogHasWonPicturePhase"
+	content "Simple"
+	fileName "GameOverPhaseWin.dds"
+	pixelBox [ 0 , 0 , 1024 , 768 ]
+brush
+	name "GameOverDialogHasLostPicturePhase"
+	content "Simple"
+	fileName "GameOverPhaseLoss.dds"
+	pixelBox [ 0 , 0 , 1024 , 768 ]
+brush
+	name "GameOverDialogPlayerThemeBackdropPhase"
+	content "Simple"
+	fileName "GameOver.dds"
+	pixelBox [ 0 , 0 , 0 , 0 ]
+brush
+	name "GameOverDialogHasWonPicture_Norlamins"
+	content "Simple"
+	fileName "GameOverWin_Norlamins.dds"
+	pixelBox [ 0 , 0 , 1024 , 768 ]
+brush
+	name "GameOverDialogHasLostPicture_Norlamins"
+	content "Simple"
+	fileName "GameOverLoss_Norlamins.dds"
+	pixelBox [ 0 , 0 , 1024 , 768 ]
+brush
+	name "GameOverDialogPlayerThemeBackdrop_Norlamins"
+	content "Simple"
+	fileName "GameOver.dds"
+	pixelBox [ 0 , 0 , 0 , 0 ]
+brush
+	name "GameOverDialogHasWonPicture_Replicators"
+	content "Simple"
+	fileName "GameOverWin_Replicators.dds"
+	pixelBox [ 0 , 0 , 1024 , 768 ]
+brush
+	name "GameOverDialogHasLostPicture_Replicators"
+	content "Simple"
+	fileName "GameOverLoss_Replicators.dds"
+	pixelBox [ 0 , 0 , 1024 , 768 ]
+brush
+	name "GameOverDialogPlayerThemeBackdrop_Replicators"
+	content "Simple"
+	fileName "GameOver.dds"
+	pixelBox [ 0 , 0 , 0 , 0 ]
+brush
+	name "GameOverDialogHasWonPicture_TradeAlliance"
+	content "Simple"
+	fileName "GameOverWin_TradeAlliance.dds"
+	pixelBox [ 0 , 0 , 1024 , 768 ]
+brush
+	name "GameOverDialogHasLostPicture_TradeAlliance"
+	content "Simple"
+	fileName "GameOverLoss_TradeAlliance.dds"
+	pixelBox [ 0 , 0 , 1024 , 768 ]
+brush
+	name "GameOverDialogPlayerThemeBackdrop_TradeAlliance"
+	content "Simple"
+	fileName "GameOver.dds"
+	pixelBox [ 0 , 0 , 0 , 0 ]
+brush
+	name "GameOverDialogHasWonPicture_Pirates"
+	content "Simple"
+	fileName "GameOverWin_Pirates.dds"
+	pixelBox [ 0 , 0 , 1024 , 768 ]
+brush
+	name "GameOverDialogHasLostPicture_Pirates"
+	content "Simple"
+	fileName "GameOverLoss_Pirates.dds"
+	pixelBox [ 0 , 0 , 1024 , 768 ]
+brush
+	name "GameOverDialogPlayerThemeBackdrop_Pirates"
+	content "Simple"
+	fileName "GameOver.dds"
+	pixelBox [ 0 , 0 , 0 , 0 ]

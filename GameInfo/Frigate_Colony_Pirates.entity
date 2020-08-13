@@ -1,0 +1,151 @@
+﻿TXT2
+SinsArchiveVersion 194
+entityType "Frigate"
+defaultAutoAttackRange "GravityWell"
+defaultAutoAttackOn FALSE
+prefersToFocusFire TRUE
+usesFighterAttack FALSE
+autoJoinFleetDefault FALSE
+canBomb FALSE
+typeCount 2
+frigateRoleType "Colony"
+frigateRoleType "ResourceCapturer"
+statCountType "FrigateColony"
+mainViewIcon "MAINVIEWICON_FRIGATE_COLONY_Pirates"
+picture "PICTURE_FRIGATE_COLONY_Pirates"
+NameStringID "IDS_FRIGATE_COLONY_NAME_Pirates"
+DescriptionStringID "IDS_FRIGATE_COLONY_DESCRIPTION_Pirates"
+counterDescriptionStringID "IDS_COUNTERDESC_FRIGATE_NONCOMBAT"
+basePrice
+	credits 400.000000
+	metal 125.000000
+	crystal 50.000000
+slotCount 7.000000
+BuildTime 40.000000
+hasLevels FALSE
+ExperiencePointsForDestroying 20.000000
+MaxHullPoints 925.000000
+MaxShieldPoints 250.000000
+HullPointRestoreRate 1.000000
+ShieldPointRestoreRate 0.500000
+BaseArmorPoints 0.000000
+maxMitigation 0.600000
+relationshipChangeRate 0.000000
+Prerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+numRandomDebrisLarge 1
+numRandomDebrisSmall 8
+numSpecificDebris 0
+armorType "Light"
+hudIcon "HUDICON_FRIGATE_COLONY_Pirates"
+smallHudIcon "HUDICONSMALL_FRIGATE_COLONY_Pirates"
+infoCardIcon "INFOCARDICON_FRIGATE_COLONY_Pirates"
+minZoomDistanceMult 4.500000
+NumWeapons 1
+Weapon
+	WeaponType "Projectile"
+	damageEnums
+		AttackType "ANTILIGHT"
+		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
+		DamageApplyType "BACKLOADED"
+		DamageType "PHYSICAL"
+		WeaponClassType "AUTOCANNON"
+	DamagePerBank:FRONT 28.000000
+	DamagePerBank:BACK 0.000000
+	DamagePerBank:LEFT 0.000000
+	DamagePerBank:RIGHT 0.000000
+	Range 2500.000000
+	PreBuffCooldownTime 7.000000
+	CanFireAtFighter FALSE
+	SynchronizedTargeting FALSE
+	PointStaggerDelay 0.400000
+	TravelSpeed 4000.000000
+	Duration 0.000000
+	fireConstraintType "CanAlwaysFire"
+	WeaponEffects
+		weaponType "Projectile"
+		burstCount 6
+		burstDelay 0.100000
+		fireDelay 0.000000
+		muzzleEffectName "Weapon_Tech_AutoCannonFrigate_Muzzle"
+		muzzleSoundMinRespawnTime 10.000000
+		muzzleSounds
+			soundCount 3
+			sound "WEAPON_TECHCAPITALAUTOCANNONLIGHT_MUZZLE"
+			sound "WEAPON_TECHCAPITALAUTOCANNONLIGHT_MUZZLE_ALT1"
+			sound "WEAPON_TECHCAPITALAUTOCANNONLIGHT_MUZZLE_ALT2"
+		hitEffectName "Weapon_Tech_AutoCannonFrigate_Hit"
+		hitHullEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_PHYSICALLIGHT_HITHULL"
+		hitShieldsEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_GENERICLIGHT_HITSHIELDS"
+		projectileTravelEffectName "Weapon_Tech_AutoCannonFrigate_Muzzle"
+m_weaponIndexForRange 0
+firingAlignmentType "Default"
+TargetCountPerBank:FRONT 1
+TargetCountPerBank:BACK 0
+TargetCountPerBank:LEFT 0
+TargetCountPerBank:RIGHT 0
+canOnlyTargetStructures FALSE
+hasWeaponLevels FALSE
+mass 2000.000000
+ShieldMeshName "Shield_Frigate_Torpedo"
+renderShield TRUE
+maxAccelerationLinear 100.000000
+maxAccelerationStrafe 10.000000
+maxDecelerationLinear 500.000000
+maxAccelerationAngular 1.650000
+maxDecelerationAngular 9.999996
+maxSpeedLinear 500.000000
+maxRollRate 2.000000
+maxRollAngle 35.000000
+useCustomHyperspaceEffects FALSE
+squadTypeEntityDef:0 ""
+squadAntiMatterCost:0 0.000000
+squadTypeEntityDef:1 ""
+squadAntiMatterCost:1 0.000000
+squadTypeEntityDef:2 ""
+squadAntiMatterCost:2 0.000000
+squadTypeEntityDef:3 ""
+squadAntiMatterCost:3 0.000000
+maxNumCommandPoints 0
+NumSoundsFor:ONATTACKORDERISSUED 2
+SoundID "FRIGATE_COLONY_ONATTACKORDERISSUED_0_Pirates"
+SoundID "FRIGATE_COLONY_ONATTACKORDERISSUED_1_Pirates"
+NumSoundsFor:ONCREATION 1
+SoundID "FRIGATE_COLONY_ONCREATION_Pirates"
+NumSoundsFor:ONGENERALORDERISSUED 1
+SoundID "FRIGATE_COLONY_ONGENERALORDERISSUED_0_Pirates"
+NumSoundsFor:ONSELECTED 2
+SoundID "FRIGATE_COLONY_ONSELECTED_0_Pirates"
+SoundID "FRIGATE_COLONY_ONSELECTED_1_Pirates"
+NumSoundsFor:ONSTARTPHASEJUMP 3
+SoundID "FRIGATE_ONSTARTPHASEJUMP_0_Pirates"
+SoundID "FRIGATE_ONSTARTPHASEJUMP_1_Pirates"
+SoundID "FRIGATE_ONSTARTPHASEJUMP_2_Pirates"
+MeshNameInfoCount 1
+MeshNameInfo
+	meshName "Frigate_Colony_Pirates"
+	criteriaType "None"
+meshNameIncreasedEffectName ""
+meshNameDecreasedEffectName ""
+ExhaustParticleSystemName "Exhaust_Frigate"
+ExplosionName "Frigate3"
+EngineSoundID "ENGINE_CAPITALSHIP_Pirates"
+ability:0 "AbilityPsiFrigateColonize"
+ability:1 "AbilityCaptureNeutralEntity"
+ability:2 ""
+ability:3 ""
+ability:4 ""
+MaxAntiMatter 225.000000
+AntiMatterRestoreRate 0.50000
+cargoType "Invalid"
+maxCargoCapacity 0.000000
+formationRank 2
+minShadow 0.000000
+maxShadow 0.300000
+allegianceDecreasePerRoundtrip 0.000000

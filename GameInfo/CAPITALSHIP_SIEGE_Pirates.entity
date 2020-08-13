@@ -1,0 +1,238 @@
+﻿TXT2
+SinsArchiveVersion 194
+entityType "CapitalShip"
+ability:0 "AbilitySubversion_Pirates"
+ability:1 "AbilityDeploySiegeTurretCapital_Pirates"
+ability:2 "AbilityRazePlanet_Pirates"
+ability:3 "AbilityRepossessionCapital_Pirates"
+ability:4 ""
+defaultAutoAttackRange "GravityWell" 
+defaultAutoAttackOn TRUE
+prefersToFocusFire TRUE
+usesFighterAttack FALSE
+autoJoinFleetDefault TRUE
+canBomb TRUE
+hasBombingLevels FALSE
+baseDamage 75.000000
+basePopulationKilled 2.950000
+bombingFreqTime 10.000000
+baseRange 5000.000000
+bombTransitTime 12.000000
+bombEffectCount 3
+bombEffectAngleVariance 15.000000
+bombEffectsDef
+	weaponType "Projectile"
+	burstCount 1
+	burstDelay 0.000000
+	fireDelay 0.000000
+	muzzleEffectName "Weapon_CapitalPlanetBombing_Muzzle_Pirates"
+	muzzleSoundMinRespawnTime 0.100000
+	muzzleSounds
+		soundCount 1
+		sound "WEAPON_PLANETBOMB_MUZZLE_Pirates"
+	hitEffectName "Weapon_CapitalPlanetBombing_Hit_Pirates"
+	hitHullEffectSounds
+		soundCount 3
+		sound "EXPLOSION_SUB4"
+		sound "EXPLOSION_SUB4_ALT1"
+		sound "EXPLOSION_SUB4_ALT2"
+	hitShieldsEffectSounds
+		soundCount 3
+		sound "EXPLOSION_SUB4"
+		sound "EXPLOSION_SUB4_ALT1"
+		sound "EXPLOSION_SUB4_ALT2"
+	projectileTravelEffectName "Weapon_CapitalPlanetBombing_Travel_Pirates"
+mainViewIcon "MAINVIEWICON_CAPITALSHIP_SIEGE_Pirates"
+basePrice
+	credits 3000.000000
+	metal 400.000000
+	crystal 250.000000
+slotCount 50.000000
+BuildTime 75.000000
+MaxHullPoints
+	StartValue 2075.000000
+	ValueIncreasePerLevel 85.000000
+MaxShieldPoints
+	StartValue 1500.000000
+	ValueIncreasePerLevel 175.000000
+HullPointRestoreRate
+	StartValue 2.000000
+	ValueIncreasePerLevel 0.100000
+ShieldPointRestoreRate
+	StartValue 3.000000
+	ValueIncreasePerLevel 0.200000
+ArmorPointsFromExperience
+	StartValue 4.000000
+	ValueIncreasePerLevel 0.320000
+maxMitigation
+	StartValue 0.650000
+	ValueIncreasePerLevel 0.011110
+MaxAntiMatter
+	StartValue 235.000000
+	ValueIncreasePerLevel 25.000000
+AntiMatterRestoreRate
+	StartValue 0.900000
+	ValueIncreasePerLevel 0.100000
+CultureProtectRate
+	StartValue 0.300000
+	ValueIncreasePerLevel 0.050000
+NameStringID "IDS_CAPITALSHIP_SIEGE_NAME_Pirates"
+DescriptionStringID "IDS_CAPITALSHIP_SIEGE_DESCRIPTION_Pirates"
+picture "CAPITALSHIPPICTURE_SIEGE_Pirates"
+Prerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+roleType "Invalid"
+statCountType "CapitalShipUtility2"
+numRandomDebrisLarge 3
+numRandomDebrisSmall 15
+numSpecificDebris 0
+armorType "CapitalShip"
+hudIcon "HUDICON_CAPITALSHIP_SIEGE_Pirates"
+smallHudIcon "HUDICONSMALL_CAPITALSHIP_SIEGE_Pirates"
+infoCardIcon "INFOCARDICON_CAPITALSHIP_SIEGE_Pirates"
+minZoomDistanceMult 2.250000
+NumWeapons 2
+Weapon
+	WeaponType "Projectile"
+	damageEnums
+		AttackType "CAPITALSHIP"
+		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
+		DamageApplyType "BACKLOADED"
+		DamageType "PHYSICAL"
+		WeaponClassType "GAUSS"
+	DamagePerBank:FRONT 100.000000
+	DamagePerBank:BACK 0.000000
+	DamagePerBank:LEFT 0.000000
+	DamagePerBank:RIGHT 0.000000
+	Range 10000.000000
+	PreBuffCooldownTime 6.500000
+	CanFireAtFighter FALSE
+	SynchronizedTargeting TRUE
+	PointStaggerDelay 0.700000
+	TravelSpeed 3000.000000
+	Duration 0.000000
+	fireConstraintType "CanAlwaysFire"
+	WeaponEffects
+		weaponType "Projectile"
+		burstCount 1
+		burstDelay 0.200000
+		fireDelay 0.200000
+		muzzleEffectName "Weapon_Tech_TitanGaussCannon_Muzzle"
+		muzzleSoundMinRespawnTime 0.100000
+		muzzleSounds
+			soundCount 1
+			sound "WEAPON_TECH_GAUSSCANNON_MUZZLE"
+		hitEffectName "Weapon_Tech_TitanGaussCannon_Hit"
+		hitHullEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_PHYSICALHEAVY_HITHULL"
+		hitShieldsEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_GENERICHEAVY_HITSHIELDS"
+		projectileTravelEffectName "Weapon_Tech_TitanGaussCannon_Travel"
+Weapon
+	WeaponType "Projectile"
+	damageEnums
+		AttackType "CAPITALSHIP"
+		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
+		DamageApplyType "BACKLOADED"
+		DamageType "ENERGY"
+		WeaponClassType "LASERPSI"
+	DamagePerBank:FRONT 0.000000
+	DamagePerBank:BACK 0.000000
+	DamagePerBank:LEFT 100.000000
+	DamagePerBank:RIGHT 100.000000
+	Range 5000.000000
+	PreBuffCooldownTime 5.000000
+	CanFireAtFighter FALSE
+	SynchronizedTargeting FALSE
+	PointStaggerDelay 0.500000
+	TravelSpeed 4000.000000
+	Duration 0.000000
+	fireConstraintType "CanAlwaysFire"
+	WeaponEffects
+		weaponType "Projectile"
+		burstCount 6
+		burstDelay 0.200000
+		fireDelay 0.000000
+		muzzleEffectName "Weapon_CapitalLaserLight_Muzzle_Pirates"
+		muzzleSoundMinRespawnTime 0.100000
+		muzzleSounds
+			soundCount 1
+			sound "WEAPON_CAPITALLASERLIGHT_MUZZLE_Pirates"
+		hitEffectName "Weapon_CapitalLaserLight_Hit_Pirates"
+		hitHullEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_ENERGYHEAVY_HITHULL_Pirates"
+		hitShieldsEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_GENERICHEAVY_HITSHIELDS_Pirates"
+		projectileTravelEffectName "Weapon_CapitalLaserLight_Travel_Pirates"
+m_weaponIndexForRange 0
+firingAlignmentType "Default"
+TargetCountPerBank:FRONT 1
+TargetCountPerBank:BACK 0
+TargetCountPerBank:LEFT 1
+TargetCountPerBank:RIGHT 1
+canOnlyTargetStructures FALSE
+mass 10000.000000
+ShieldMeshName "Shield_Capital_Torpedo"
+renderShield TRUE
+maxAccelerationLinear 100.000000
+maxAccelerationStrafe 50.000000
+maxDecelerationLinear 500.000000
+maxAccelerationAngular 10.000000
+maxDecelerationAngular 50.000000
+maxSpeedLinear 525.000000
+maxRollRate 2.000000
+maxRollAngle 35.000000
+useCustomHyperspaceEffects FALSE
+squadTypeEntityDef:0 "SquadFighter_Pirates"
+squadAntiMatterCost:0 0.000000
+squadTypeEntityDef:1 "SquadBomber_Pirates"
+squadAntiMatterCost:1 0.000000
+squadTypeEntityDef:2 ""
+squadAntiMatterCost:2 0.000000
+squadTypeEntityDef:3 ""
+squadAntiMatterCost:3 0.000000
+NumSoundsFor:ONATTACKORDERISSUED 3
+SoundID "CAPITALSHIP_SIEGE_ONATTACKORDERISSUED_0_Pirates"
+SoundID "CAPITALSHIP_SIEGE_ONATTACKORDERISSUED_1_Pirates"
+SoundID "CAPITALSHIP_SIEGE_ONATTACKORDERISSUED_2_Pirates"
+NumSoundsFor:ONCREATION 1
+SoundID "CAPITALSHIP_SIEGE_ONCREATION_Pirates"
+NumSoundsFor:ONGENERALORDERISSUED 3
+SoundID "CAPITALSHIP_SIEGE_ONGENERALORDERISSUED_0_Pirates"
+SoundID "CAPITALSHIP_SIEGE_ONGENERALORDERISSUED_1_Pirates"
+SoundID "CAPITALSHIP_SIEGE_ONGENERALORDERISSUED_2_Pirates"
+NumSoundsFor:ONSELECTED 3
+SoundID "CAPITALSHIP_SIEGE_ONSELECTED_0_Pirates"
+SoundID "CAPITALSHIP_SIEGE_ONSELECTED_1_Pirates"
+SoundID "CAPITALSHIP_SIEGE_ONSELECTED_2_Pirates"
+NumSoundsFor:ONSTARTPHASEJUMP 3
+SoundID "CAPITALSHIP_ONSTARTPHASEJUMP_0_Pirates"
+SoundID "CAPITALSHIP_ONSTARTPHASEJUMP_1_Pirates"
+SoundID "CAPITALSHIP_ONSTARTPHASEJUMP_2_Pirates"
+MeshNameInfoCount 1
+MeshNameInfo
+	meshName "CapitalShip_Siege_Pirates"
+	criteriaType "None"
+meshNameIncreasedEffectName ""
+meshNameDecreasedEffectName ""
+ExhaustParticleSystemName "Exhaust_Capitalship"
+ExplosionName "CapitalShip1"
+CommandPoints
+	StartValue 1.000000
+	ValueIncreasePerLevel 0.250000
+weaponCooldownDecreasePerc
+	StartValue 0.000000
+	ValueIncreasePerLevel 0.020000
+weaponDamageIncreasePerc
+	StartValue 0.000000
+	ValueIncreasePerLevel 0.060000
+EngineSoundID "ENGINE_CAPITALSHIP_Pirates"
+formationRank 2
+minShadow 0.000000
+maxShadow 0.500000
