@@ -13,15 +13,47 @@ instantAction
 	buffInstantActionType "SpawnShipsAtPlanet"
 	instantActionTriggerType "OnDelay"
 	delayTime 0.000000
-	spawnShipsLevelCount 1
+	spawnShipsLevelCount 6
 	spawnShips
-		minFleetPoints 1000.000000
-		maxFleetPoints 1000.000000
-		requiredShipCount 1
+		minFleetPoints 2000.000000
+		maxFleetPoints 2000.000000
+		requiredShipCount 30
 		requiredShip
 			type "TITAN_PHASELOYALIST"
-			minCount 1
-			maxCount 1
+			minCount 2
+			maxCount 2
+		requiredShip
+			type "CAPITALSHIP_PHASEBATTLESHIP"
+			minCount 8
+			maxCount 8
+		requiredShip
+			type "CAPITALSHIP_PHASECARRIER"
+			minCount 4
+			maxCount 4
+		requiredShip
+			type "CAPITALSHIP_PHASECOLONY"
+			minCount 2
+			maxCount 2
+		requiredShip
+			type "CAPITALSHIP_PHASESCOUT"
+			minCount 2
+			maxCount 2
+		requiredShip
+			type "CAPITALSHIP_PHASESIEGE"
+			minCount 2
+			maxCount 2
+		requiredShip
+			type "CAPITALSHIP_PHASEBATTLESHIP2"
+			minCount 2
+			maxCount 2
+		requiredShip
+			type "CAPITALSHIP_DREADNOUGHT_Loyalist_Phase"
+			minCount 4
+			maxCount 4
+		requiredShip
+			type "CAPITALSHIP_DREADNOUGHT_Rebel_Phase"
+			minCount 4
+			maxCount 4
 		randomShipCount 0
 	spawnShipsArrivalDelayTime 7.000000
 	spawnShipsHyperspaceSpawnType "FleetBeacon"

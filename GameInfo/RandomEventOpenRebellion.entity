@@ -17,52 +17,52 @@ instantAction
 	buffInstantActionType "SpawnShipsAtPlanet"
 	instantActionTriggerType "OnDelay"
 	delayTime 0.000000
-	spawnShipsLevelCount 1
+	spawnShipsLevelCount 6
 	spawnShips
-		minFleetPoints 100.000000
-		maxFleetPoints 250.000000
-		requiredShipCount 7
+		minFleetPoints 1000.000000
+		maxFleetPoints 2500.000000
+		requiredShipCount 56
 		requiredShip
 			type "FrigateTechAntiFighter"
-			minCount 3
-			maxCount 4
-		requiredShip
-			type "FrigateTechCarrier"
-			minCount 1
-			maxCount 2
-		requiredShip
-			type "CorvetteTechRebel"
-			minCount 8
-			maxCount 10
-		requiredShip
-			type "FrigateTechHeavy"
-			minCount 3
-			maxCount 7
-		requiredShip
-			type "FrigateTechLight"
 			minCount 6
-			maxCount 10
-		requiredShip
-			type "FrigateTechLongRange"
-			minCount 4
 			maxCount 8
 		requiredShip
-			type "FrigateTechSiege"
+			type "FrigateTechCarrier"
 			minCount 2
-			maxCount 2
-		randomShipCount 4
+			maxCount 4
+		requiredShip
+			type "CorvetteTechRebel"
+			minCount 16
+			maxCount 20
+		requiredShip
+			type "FrigateTechHeavy"
+			minCount 6
+			maxCount 14
+		requiredShip
+			type "FrigateTechLight"
+			minCount 12
+			maxCount 20
+		requiredShip
+			type "FrigateTechLongRange"
+			minCount 8
+			maxCount 16
+		requiredShip
+			type "FrigateTechSiege"
+			minCount 4
+			maxCount 4
+		randomShipCount 8
 		randomShip
 			type "CAPITALSHIP_TECHBATTLESHIP"
-			weight 1
+			weight 2
 		randomShip
 			type "CAPITALSHIP_TECHSUPPORT"
-			weight 1
+			weight 2
 		randomShip
 			type "CAPITALSHIP_TECHSUPPORT"
-			weight 1
+			weight 2
 		randomShip
 			type "CAPITALSHIP_TECHTRANSPORT"
-			weight 1
+			weight 2
 	spawnShipsArrivalDelayTime 7.000000
 	spawnShipsHyperspaceSpawnType "FleetBeacon"
 	shouldAdoptFirstSpawnersMinorFactionState TRUE

@@ -1,5 +1,5 @@
 TXT
-NumStrings 11404
+NumStrings 11410
 StringInfo
 	ID "IDSPlayerAINameTech0"
 	Value "Nitheim Rebels"
@@ -21950,7 +21950,7 @@ StringInfo
 	Value "Eta Sector Remnants"
 StringInfo
 	ID "IDSScenarioPlayerNameMadVasari"
-	Value "Mad Dark Fleet Remnants"
+	Value "Mad Viktors Dark Fleet"
 StringInfo
 	ID "IDSScenarioPlayerNameMilitia0"
 	Value "Aluxian Refugees"
@@ -23521,23 +23521,41 @@ StringInfo
 	ID "IDS_RESEARCHSUBJECT_PLANETACCESS_GIANTMOONS_DESCRIPTION_Tec"
 	Value "Allows colonization of planet moons including the moons of Giant Planets."
 StringInfo
-	ID "IDS_CAPITALSHIP_DREADNOUGHT_NAME_Tech"
-	Value "Octinev Dreadnought"
+	ID "IDS_CAPITALSHIP_DREADNOUGHT_NAME_Tech_Loyalist"
+	Value "Octinev Dreadnought L"
 StringInfo
-	ID "IDS_CAPITALSHIP_DREADNOUGHT_DESCRIPTION_Tech"
-	Value "The Octinev Dreadnought class warship is a huge heavily armed and armored fortress that has immense combat abilities."
+	ID "IDS_CAPITALSHIP_DREADNOUGHT_DESCRIPTION_Tech_Loyalist"
+	Value "The Octinev Dreadnought L class warship is a huge heavily armed and armored fortress that has immense combat abilities."
 StringInfo
-	ID "IDS_CAPITALSHIP_DREADNOUGHT_NAME_Psi"
-	Value "Ashlaria Dreadnought"
+	ID "IDS_CAPITALSHIP_DREADNOUGHT_NAME_Tech_Rebel"
+	Value "Octinev Dreadnought R"
 StringInfo
-	ID "IDS_CAPITALSHIP_DREADNOUGHT_DESCRIPTION_Psi"
+	ID "IDS_CAPITALSHIP_DREADNOUGHT_DESCRIPTION_Tech_Rebel"
+	Value "The Octinev Dreadnought R class warship is a huge heavily armed and armored fortress that has immense combat abilities."
+StringInfo
+	ID "IDS_CAPITALSHIP_DREADNOUGHT_NAME_Psi_Loyalist"
+	Value "Ashlaria Dreadnought L"
+StringInfo
+	ID "IDS_CAPITALSHIP_DREADNOUGHT_DESCRIPTION_Psi_Loyalist"
 	Value "A mighty warship that embodies the Advent's thirst for revenge, it is heavily armed with energy weapons."
 StringInfo
-	ID "IDS_CAPITALSHIP_DREADNOUGHT_NAME_Phase"
-	Value "Oraumilus Dreadnought"
+	ID "IDS_CAPITALSHIP_DREADNOUGHT_NAME_Psi_Rebel"
+	Value "Ashlaria Dreadnought R"
 StringInfo
-	ID "IDS_CAPITALSHIP_DREADNOUGHT_DESCRIPTION_Phase"
-	Value "The Oraumilus Dreadnought drives the Vasari armada into battle, it goes where others would not normally follow."
+	ID "IDS_CAPITALSHIP_DREADNOUGHT_DESCRIPTION_Psi_Rebel"
+	Value "A mighty warship that embodies the Advent's thirst for revenge, it is heavily armed with energy weapons."
+StringInfo
+	ID "IDS_CAPITALSHIP_DREADNOUGHT_NAME_Phase_Loyalist"
+	Value "Oraumilus Dreadnought L"
+StringInfo
+	ID "IDS_CAPITALSHIP_DREADNOUGHT_DESCRIPTION_Phase_Loyalist"
+	Value "The Oraumilus Dreadnought L drives the Vasari armada into battle, it goes where others would not normally follow."
+StringInfo
+	ID "IDS_CAPITALSHIP_DREADNOUGHT_NAME_Phase_Rebel"
+	Value "Oraumilus Dreadnought R"
+StringInfo
+	ID "IDS_CAPITALSHIP_DREADNOUGHT_DESCRIPTION_Phase_Rebel"
+	Value "The Oraumilus Dreadnought R drives the Vasari armada into battle, it goes where others would not normally follow."
 StringInfo
 	ID "IDS_ABILITY_DREADNOUGHTIMMACULATEDEFENSE_NAME_Psi"
 	Value "Immaculate Defense"

@@ -45,7 +45,7 @@ bombEffectsDef
 mainViewIcon "MAINVIEWICON_CAPITALSHIP_DREADNOUGHT_Tech"
 basePrice
 	credits 6000.000000
-	metal 1600.000000
+	metal 800.000000
 	crystal 500.000000
 slotCount 100.000000
 BuildTime 180.000000
@@ -76,8 +76,8 @@ AntiMatterRestoreRate
 CultureProtectRate
 	StartValue 3.000000
 	ValueIncreasePerLevel 1.000000
-NameStringID "IDS_CAPITALSHIP_DREADNOUGHT_NAME_Tech"
-DescriptionStringID "IDS_CAPITALSHIP_DREADNOUGHT_DESCRIPTION_Tech"
+NameStringID "IDS_CAPITALSHIP_DREADNOUGHT_NAME_Tech_Loyalist"
+DescriptionStringID "IDS_CAPITALSHIP_DREADNOUGHT_DESCRIPTION_Tech_Loyalist"
 picture "PICTURE_CAPITALSHIP_DREADNOUGHT_Tech"
 Prerequisites
 	NumResearchPrerequisites 0
