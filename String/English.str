@@ -22076,19 +22076,19 @@ StringInfo
 	Value "Flaming Noobs 24/7."
 StringInfo
 	ID "IDSLoadScreenTip01"
-	Value "Tip: Pirate raiders and local militia favor colony ships as targets, so be careful when bringing one into a contested system."
+	Value "Flaming Noobs since 2010."
 StringInfo
 	ID "IDSLoadScreenTip02"
-	Value "Tip: Your first capital ship will be built for free, every one afterwards will be full price."
+	Value "Stay hydrated!"
 StringInfo
 	ID "IDSLoadScreenTip03"
-	Value "Tip: Capital ships stationed around friendly planets will slow the spread of enemy culture towards it."
+	Value "Never surrender forge!"
 StringInfo
 	ID "IDSLoadScreenTip04"
-	Value "Tip: Bomber strike craft are very effective at attacking structures."
+	Value "Run-up and hammer in the face!"
 StringInfo
 	ID "IDSLoadScreenTip05"
-	Value "Tip: You can configure your capital ships and titans to automatically upgrade their abilities when they level up by right-clicking the Ability Management menu."
+	Value "<Sindragosa>"
 StringInfo
 	ID "IDSLoadScreenTip06"
 	Value "Tip: To issue queued orders, hold down 'Shift' while issuing them. Movement, attack and ability orders can all be queued."
@@ -23342,22 +23342,22 @@ StringInfo
 	Value "Random"
 StringInfo
 	ID "IDS_RACESELECTDIALOG_SELECTTECREBEL"
-	Value "Select TEC Rebel"
+	Value "Select TEC"
 StringInfo
 	ID "IDS_RACESELECTDIALOG_SELECTTECLOYALIST"
-	Value "Select TEC Loyalist"
+	Value "Select TEC"
 StringInfo
 	ID "IDS_RACESELECTDIALOG_SELECTPSIREBEL"
-	Value "Select Advent Rebel"
+	Value "Select Advent"
 StringInfo
 	ID "IDS_RACESELECTDIALOG_SELECTPSILOYALIST"
-	Value "Select Advent Loyalist"
+	Value "Select Advent"
 StringInfo
 	ID "IDS_RACESELECTDIALOG_SELECTPHASEREBEL"
-	Value "Select Vasari Rebel"
+	Value "Select Vasari"
 StringInfo
 	ID "IDS_RACESELECTDIALOG_SELECTPHASELOYALIST"
-	Value "Select Vasari Loyalist"
+	Value "Select Vasari"
 StringInfo
 	ID "IDS_PLAYERSETUPSLOTSTATUS_AVAILABLE_DESCRIPTION"
 	Value "Any player can join this slot."

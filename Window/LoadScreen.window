@@ -29,5 +29,10 @@ pictureBrush "LoadScreenPicture10"
 pictureBrush "LoadScreenPicture11"
 pictureBrush "LoadScreenPicture12"
 exclusivePictureBrush ""
-tipCount 1
+tipCount 6
 tip "IDSLoadScreenTip00"
+tip "IDSLoadScreenTip01"
+tip "IDSLoadScreenTip02"
+tip "IDSLoadScreenTip03"
+tip "IDSLoadScreenTip04"
+tip "IDSLoadScreenTip05"
