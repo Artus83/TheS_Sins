@@ -5,7 +5,7 @@ ability:0 "AbilityDisruptionMatrix"
 ability:1 "AbilityFuriousDefense"
 ability:2 "AbilityGroupShield"
 ability:3 "AbilityInspireAndImpair"
-ability:4 ""
+ability:4 "AbilityPhaseGateModule"
 defaultAutoAttackRange "GravityWell"
 defaultAutoAttackOn TRUE
 prefersToFocusFire TRUE

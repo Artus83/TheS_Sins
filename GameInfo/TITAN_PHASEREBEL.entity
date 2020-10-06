@@ -5,7 +5,7 @@ ability:0 "AbilityNanoLeech"
 ability:1 "AbilityNanoRemit"
 ability:2 "AbilityGravityPulse"
 ability:3 "AbilityDissever"
-ability:4 ""
+ability:4 "AbilityPhaseGateModule"
 defaultAutoAttackRange "GravityWell"
 defaultAutoAttackOn TRUE
 prefersToFocusFire TRUE
