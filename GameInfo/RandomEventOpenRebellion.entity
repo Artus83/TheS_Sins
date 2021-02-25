@@ -20,8 +20,8 @@ instantAction
 	spawnShipsLevelCount 6
 	spawnShips
 		minFleetPoints 1000.000000
-		maxFleetPoints 2500.000000
-		requiredShipCount 56
+		maxFleetPoints 5000.000000
+		requiredShipCount 54
 		requiredShip
 			type "FrigateTechAntiFighter"
 			minCount 6
@@ -50,19 +50,19 @@ instantAction
 			type "FrigateTechSiege"
 			minCount 4
 			maxCount 4
-		randomShipCount 8
+		randomShipCount 4
 		randomShip
 			type "CAPITALSHIP_TECHBATTLESHIP"
-			weight 2
+			weight 1
 		randomShip
 			type "CAPITALSHIP_TECHSUPPORT"
-			weight 2
+			weight 1
 		randomShip
 			type "CAPITALSHIP_TECHSUPPORT"
-			weight 2
+			weight 1
 		randomShip
 			type "CAPITALSHIP_TECHTRANSPORT"
-			weight 2
+			weight 1
 	spawnShipsArrivalDelayTime 7.000000
 	spawnShipsHyperspaceSpawnType "FleetBeacon"
 	shouldAdoptFirstSpawnersMinorFactionState TRUE

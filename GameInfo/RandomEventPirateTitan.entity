@@ -15,8 +15,8 @@ instantAction
 	delayTime 0.000000
 	spawnShipsLevelCount 6
 	spawnShips
-		minFleetPoints 2000.000000
-		maxFleetPoints 2000.000000
+		minFleetPoints 1000.000000
+		maxFleetPoints 10000.000000
 		requiredShipCount 30
 		requiredShip
 			type "TITAN_PHASELOYALIST"
