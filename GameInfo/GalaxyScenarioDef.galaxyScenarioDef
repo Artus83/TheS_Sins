@@ -4504,9 +4504,9 @@ player
 	inGameName "IDSScenarioPlayerNameMadVasari"
 	overrideRaceName "PhaseLoyalist"
 	teamIndex -1
-	startingCredits 40000
-	startingMetal 20000
-	startingCrystal 10000
+	startingCredits 0
+	startingMetal 0
+	startingCrystal 0
 	playerType "NPCMadVasari"
 	themeGroup "PlayerPhase"
 	themeIndex 15
