@@ -2209,7 +2209,8 @@ planetItemsTemplate
 				param "TechLoyalist"
 			owner "PlanetOwner"
 			colonizeChance 1
-			items 4
+			items 5
+				item "Tech:StarBase"
 				item "Tech:Module:FrigateFactory"
 				item "Tech:Module:FrigateFactory"
 				item "Tech:Frigate:Constructor"
@@ -2231,7 +2232,8 @@ planetItemsTemplate
 				param "PsiLoyalist"
 			owner "PlanetOwner"
 			colonizeChance 1
-			items 4
+			items 5
+				item "Psi:StarBase"
 				item "Psi:Module:FrigateFactory"
 				item "Psi:Module:FrigateFactory"
 				item "Psi:Frigate:Constructor"
@@ -2253,7 +2255,8 @@ planetItemsTemplate
 				param "PhaseLoyalist"
 			owner "PlanetOwner"
 			colonizeChance 1
-			items 4
+			items 5
+				item "Phase:StarBase"
 				item "Phase:Module:FrigateFactory"
 				item "Phase:Module:FrigateFactory"
 				item "Phase:Frigate:Constructor"
@@ -2276,7 +2279,7 @@ planetItemsTemplate
 			owner "PlanetOwner"
 			colonizeChance 1
 			items 11
-				item "Tech:Module:DreadnoughtFactory_Loyalist"
+				item "Tech:StarBase"
 				item "Tech:Module:FrigateFactory"
 				item "Tech:Module:FrigateFactory"
 				item "Tech:Module:CapitalShipFactory"
@@ -2294,7 +2297,7 @@ planetItemsTemplate
 			owner "PlanetOwner"
 			colonizeChance 1
 			items 11
-				item "Psi:Module:DreadnoughtFactory_Loyalist"	
+				item "Psi:StarBase"
 				item "Psi:Module:FrigateFactory"
 				item "Psi:Module:FrigateFactory"
 				item "Psi:Module:CapitalShipFactory"
@@ -2312,7 +2315,7 @@ planetItemsTemplate
 			owner "PlanetOwner"
 			colonizeChance 1
 			items 11
-				item "Phase:Module:DreadnoughtFactory_Loyalist"	
+				item "Phase:StarBase"
 				item "Phase:Module:FrigateFactory"
 				item "Phase:Module:FrigateFactory"
 				item "Phase:Module:CapitalShipFactory"
@@ -2329,8 +2332,7 @@ planetItemsTemplate
 				param "TechRebel"
 			owner "PlanetOwner"
 			colonizeChance 1
-			items 11
-				item "Tech:Module:DreadnoughtFactory_Rebel"
+			items 10
 				item "Tech:Module:FrigateFactory"
 				item "Tech:Module:FrigateFactory"
 				item "Tech:Module:CapitalShipFactory"
@@ -2347,8 +2349,7 @@ planetItemsTemplate
 				param "PsiRebel"
 			owner "PlanetOwner"
 			colonizeChance 1
-			items 11
-				item "Psi:Module:DreadnoughtFactory_Rebel"	
+			items 10
 				item "Psi:Module:FrigateFactory"
 				item "Psi:Module:FrigateFactory"
 				item "Psi:Module:CapitalShipFactory"
@@ -2365,8 +2366,7 @@ planetItemsTemplate
 				param "PhaseRebel"
 			owner "PlanetOwner"
 			colonizeChance 1
-			items 11
-				item "Phase:Module:DreadnoughtFactory_Rebel"	
+			items 10
 				item "Phase:Module:FrigateFactory"
 				item "Phase:Module:FrigateFactory"
 				item "Phase:Module:CapitalShipFactory"
