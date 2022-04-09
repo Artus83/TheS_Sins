@@ -4,8 +4,8 @@ entityType "Player"
 raceNameStringID "IDS_PLAYERRACENAME_PSIREBEL"
 canColonize TRUE
 playerRaceType "Psi"
-isSelectable FALSE
-selectablePriorty 1
+isSelectable TRUE
+selectablePriorty 4
 randomCapitalShipNamePrefix "IDS_CAPITALSHIPNAME_PSI"
 randomStarBaseNamePrefix "IDS_STARBASENAME_PSI"
 entities
@@ -28,29 +28,33 @@ entities
 			entityDefName "PLANETMODULE_PSIORBITALJUMPBLOCKER"
 			entityDefName "PLANETMODULE_PSIORBITALANTIMATTERRECHARGER"
 			entityDefName "PLANETMODULE_PSIORBITALCANNON"
-			entityDefName "PLANETMODULE_PSIREBELORBITALTITANFACTORY"
+			entityDefName "PLANETMODULE_PSILOYALISTORBITALTITANFACTORY"
 	titanInfo
 		Page:0
-			count 1
+			count 2
+			entityDefName "TITAN_PSILOYALIST"
 			entityDefName "TITAN_PSIREBEL"
 	capitalShipInfo
 		Page:0
-			count 6
+			count 8
 			entityDefName "CAPITALSHIP_PSIBATTLESHIP"
 			entityDefName "CAPITALSHIP_PSIPLANETPSIONIC"
 			entityDefName "CAPITALSHIP_PSICOLONY"
 			entityDefName "CAPITALSHIP_PSICARRIER"
 			entityDefName "CAPITALSHIP_PSIBATTLEPSIONIC"
 			entityDefName "CAPITALSHIP_PSIBATTLESHIP2"
+			entityDefName "CAPITALSHIP_DREADNOUGHT_LOYALIST_PSI"
+			entityDefName "CAPITALSHIP_DREADNOUGHT_REBEL_PSI"
 	frigateInfo
 		Page:0
-			count 7
+			count 8
 			entityDefName "FrigatePsiScout"
 			entityDefName "FrigatePsiLight"
 			entityDefName "FrigatePsiLongRange"
 			entityDefName "FrigatePsiSiege"
 			entityDefName "FrigatePsiAntiFighter"
 			entityDefName "FrigatePsiColony"
+			entityDefName "CorvettePsiLoyalist"
 			entityDefName "CorvettePsiRebel"
 		Page:1
 			count 7
@@ -67,7 +71,7 @@ entities
 			entityDefName "FrigatePsiTradeShip"
 			entityDefName "FrigatePsiRefineryShip"
 	researchInfo
-		count 167
+		count 181
 		entityDefName "RESEARCHSUBJECT_TRUTH_AND_RECONCILIATION"
 		entityDefName "RESEARCHSUBJECT_INSPIRED_WRAITH"
 		entityDefName "RESEARCHSUBJECT_ABILITYACCESS_HARMONY"
@@ -94,6 +98,7 @@ entities
 		entityDefName "RESEARCHSUBJECT_ARMORPSI0"
 		entityDefName "RESEARCHSUBJECT_ARMORPSI1"
 		entityDefName "RESEARCHSUBJECT_CAPITALSHIP_MAXBUYLEVELPSI0"
+		entityDefName "RESEARCHSUBJECT_CORVETTEACCESS_PSILOYALIST"
 		entityDefName "RESEARCHSUBJECT_CORVETTEACCESS_PSIREBEL"
 		entityDefName "RESEARCHSUBJECT_CONSTANTEXPERIENCE"
 		entityDefName "RESEARCHSUBJECT_FRIGATEACCESS_ANTIFIGHTERPSI"
@@ -197,22 +202,35 @@ entities
 		entityDefName "RESEARCHSUBJECT_PACTUNLOCK_MASS_REDUCTION"
 		entityDefName "RESEARCHSUBJECT_PACTUNLOCK_BEAM"
 		entityDefName "RESEARCHSUBJECT_PACTUNLOCK_SHIELD"
-		entityDefName "RESEARCHSUBJECT_RESEARCHVICTORY_PSI"
 		entityDefName "RESEARCHSUBJECT_EMISSARY_DONATIONS"
+		entityDefName "RESEARCHSUBJECT_RESEARCHVICTORY_PSI"
 		entityDefName "RESEARCHSUBJECT_VOICE_OF_THE_UNITY"
 		entityDefName "RESEARCHSUBJECT_IMPROVED_VOICE_OF_THE_UNITY"
 		entityDefName "RESEARCHSUBJECT_ADVANCED_VOICE_OF_THE_UNITY"
+		entityDefName "RESEARCHSUBJECT_ACCLIMATIZATION_OF_WILL"
+		entityDefName "RESEARCHSUBJECT_ANCIENT_RETRIBUTION"
 		entityDefName "RESEARCHSUBJECT_ABILITYACCESS_RECHARGESHIELDS"
+		entityDefName "RESEARCHSUBJECT_ASSIMILATED_POPULACE"
 		entityDefName "RESEARCHSUBJECT_CLEANSE_AND_RENEW"
+		entityDefName "RESEARCHSUBJECT_CONFLUENCE_OF_THE_UNITY"
 		entityDefName "RESEARCHSUBJECT_MASS_COMMUNION"
+		entityDefName "RESEARCHSUBJECT_COWARDS_SUBMISSION"
 		entityDefName "RESEARCHSUBJECT_PROTECTION_OF_THE_UNITY"
+		entityDefName "RESEARCHSUBJECT_FURY_OF_THE_UNITY"
 		entityDefName "RESEARCHSUBJECT_REANIMATION"
+		entityDefName "RESEARCHSUBJECT_GLOBAL_UNITY"
 		entityDefName "RESEARCHSUBJECT_RETURN_OF_THE_FALLEN"
+		entityDefName "RESEARCHSUBJECT_MINE_CONTROL"
 		entityDefName "RESEARCHSUBJECT_WAIL_OF_THE_SACRIFICED"
+		entityDefName "RESEARCHSUBJECT_PLANET_FOR_A_PLANET"
 		entityDefName "RESEARCHSUBJECT_EXPULSION"
+		entityDefName "RESEARCHSUBJECT_TITANACCESS_PSILOYALIST_1"
 		entityDefName "RESEARCHSUBJECT_TITANACCESS_PSIREBEL_1"
+		entityDefName "RESEARCHSUBJECT_TITANACCESS_PSILOYALIST_2"
 		entityDefName "RESEARCHSUBJECT_TITANACCESS_PSIREBEL_2"
+		entityDefName "RESEARCHSUBJECT_TITANACCESS_PSILOYALIST_3"
 		entityDefName "RESEARCHSUBJECT_TITANACCESS_PSIREBEL_3"
+		entityDefName "RESEARCHSUBJECT_TITANACCESS_PSILOYALIST_4"
 		entityDefName "RESEARCHSUBJECT_TITANACCESS_PSIREBEL_4"
 		entityDefName "RESEARCHSUBJECT_POPULATIONCAPBARRENPSI0"
 		entityDefName "RESEARCHSUBJECT_POPULATIONCAPBARRENPSI1"
@@ -313,10 +331,10 @@ gameEventData
 	GameEventSound:AllyBackUpArrived "EVENTPSI_ALLYBACKUPARRIVED"
 	GameEventSound:AllyBackUpEnRoute "EVENTPSI_ALLYBACKUPENROUTE"
 	GameEventSound:AllyTitanQueued ""
-	GameEventSound:AllyTitanCompleted "EVENTPSI_REBEL_ALLYONTITANCREATION_0"
-	GameEventSound:EnemyTitanQueued "EVENTPSI_REBEL_ENEMYTITANCONSTRUCTIONDETECTED_0"
-	GameEventSound:EnemyTitanCompleted "EVENTPSI_REBEL_ENEMYONTITANCREATION_0"
-	GameEventSound:AllyTitanLost "EVENTPSI_REBEL_ALLYTITANLOST_0"
+	GameEventSound:AllyTitanCompleted "EVENTPSI_LOYALIST_ALLYONTITANCREATION_0"
+	GameEventSound:EnemyTitanQueued "EVENTPSI_LOYALIST_ENEMYTITANCONSTRUCTIONDETECTED_0"
+	GameEventSound:EnemyTitanCompleted "EVENTPSI_LOYALIST_ENEMYTITANCONSTRUCTIONDETECTED_0"
+	GameEventSound:AllyTitanLost "EVENTPSI_LOYALIST_ALLYTITANLOST_0"
 	GameEventSound:AllyCapitalShipLost "EVENTPSI_ALLYCAPITALSHIPLOST"
 	GameEventSound:AllyFleetArrived "EVENTPSI_ALLYFLEETARRIVED"
 	GameEventSound:AllyPlanetLost "EVENTPSI_ALLYPLANETLOST"
@@ -372,7 +390,7 @@ gameEventData
 	GameEventSound:LaunchSquadsDisabledByDebuff ""
 	GameEventSound:PlayerBackUpArrived "EVENTPSI_PLAYERBACKUPARRIVED"
 	GameEventSound:PlayerTitanCreated ""
-	GameEventSound:PlayerTitanLost "EVENTPSI_REBEL_PLAYERTITANLOST_0"
+	GameEventSound:PlayerTitanLost "EVENTPSI_LOYALIST_PLAYERTITANLOST_0"
 	GameEventSound:PlayerCapitalShipCreated ""
 	GameEventSound:PlayerCapitalShipLost "EVENTPSI_PLAYERCAPITALSHIPLOST"
 	GameEventSound:PlayerStarbaseLost ""
@@ -397,8 +415,8 @@ gameEventData
 	GameEventSound:PlayerFlagshipDestroyed "EVENTPSI_PLAYERFLAGSHIPDESTROYED"
 	GameEventSound:AllyFlagshipDestroyed "EVENTPSI_ONALLYFLAGSHIPLOST"
 	GameEventSound:EnemyFlagshipDestroyed "EVENTPSI_ENEMYFLAGSHIPDESTROYED"
-	GameEventSound:PlayerTitanShieldsDown "EVENTPSI_REBEL_PLAYERTITANSHIELDSDOWN_0"
-	GameEventSound:PlayerTitanHullSeverelyDamaged "EVENTPSI_REBEL_TITANHULLSEVERELYDAMAGED_0"
+	GameEventSound:PlayerTitanShieldsDown "EVENTPSI_LOYALIST_PLAYERTITANSHIELDSDOWN_0"
+	GameEventSound:PlayerTitanHullSeverelyDamaged "EVENTPSI_LOYALIST_TITANHULLSEVERELYDAMAGED_0"
 	GameEventSound:PlayerCapitalShipShieldsDown "EVENTPSI_PLAYERCAPITALSHIPSHIELDSDOWN"
 	GameEventSound:PlayerCapitalShipHullSeverelyDamaged "EVENTPSI_PLAYERCAPITALSHIPHULLSEVERELYDAMAGED"
 	GameEventSound:AchievementCompleted ""
@@ -541,10 +559,10 @@ planetElevatorData
 	elevatorMeshName:ProductionCenter "PlanetElevator-Psi-ProductionCenter"
 musicThemeData
 	startupMusicThemeCount 3
-	musicTheme "MUSIC_ADVENT_REBEL_1"
-	musicTheme "MUSIC_ADVENT_REBEL_2"
-	musicTheme "MUSIC_ADVENT_REBEL_3"
-	neutralMusicThemeCount 14
+	musicTheme "MUSIC_ADVENT_LOYALIST_1"
+	musicTheme "MUSIC_ADVENT_LOYALIST_2"
+	musicTheme "MUSIC_ADVENT_LOYALIST_3"
+	neutralMusicThemeCount 16
 	musicTheme "MUSIC_ADVENT_THEME_1"
 	musicTheme "MUSIC_ADVENT_BATTLE_2"
 	musicTheme "MUSIC_ADVENT_QUIET_1"
@@ -555,15 +573,16 @@ musicThemeData
 	musicTheme "MUSIC_ADVENT_MISC_3"
 	musicTheme "MUSIC_ADVENT_MISC_4"
 	musicTheme "MUSIC_ADVENT_MISC_5"
+	musicTheme "MUSIC_ADVENT_BATTLE_1"
+	musicTheme "MUSIC_TROUBLE_3"
 	musicTheme "MUSIC_ADVENT_MISC_6"
-	musicTheme "MUSIC_ADVENT_REBEL_1"
-	musicTheme "MUSIC_ADVENT_REBEL_2"
-	musicTheme "MUSIC_ADVENT_REBEL_3"
-	scareThemeCount 8
+	musicTheme "MUSIC_ADVENT_LOYALIST_1"
+	musicTheme "MUSIC_ADVENT_LOYALIST_2"
+	musicTheme "MUSIC_ADVENT_LOYALIST_3"
+	scareThemeCount 7
 	musicTheme "MUSIC_ADVENT_BATTLE_1"
 	musicTheme "MUSIC_ADVENT_BATTLE_2"
-	musicTheme "MUSIC_TROUBLE_1"
-	musicTheme "MUSIC_TROUBLE_9"
+	musicTheme "MUSIC_TROUBLE_3"
 	musicTheme "MUSIC_ADVENT_MISC_6"
 	musicTheme "MUSIC_NEWBATTLE_1"
 	musicTheme "MUSIC_NEWBATTLE_2"
@@ -723,7 +742,7 @@ hudSkinData
 	UserActionIconOpenModulePage1 "ACTIONICON_PLANET_OPENPLANETMODULEMANAGEMENT_ORBIT1"
 	UserActionIconCloseModulePage0 "ACTIONICON_PLANET_CLOSEPLANETMODULEMANAGEMENT_ORBIT0"
 	UserActionIconCloseModulePage1 "ACTIONICON_PLANET_CLOSEPLANETMODULEMANAGEMENT_ORBIT1"
-	UserActionIconOpenPlanetTitanManagement "ACTIONICON_PLANET_OPENTITANMANAGEMENT_PSIREBEL"
+	UserActionIconOpenPlanetTitanManagement "ACTIONICON_PLANET_OPENTITANMANAGEMENT_PSILOYALIST"
 	UserActionIconClosePlanetTitanManagement "ACTIONICON_PLANET_CLOSECAPITALSHIPMANAGEMENT"
 	UserActionIconOpenPlanetCapitalShipManagement "ACTIONICON_PLANET_OPENCAPITALSHIPMANAGEMENTPSI"
 	UserActionIconClosePlanetCapitalShipManagement "ACTIONICON_PLANET_CLOSECAPITALSHIPMANAGEMENT"
@@ -774,19 +793,19 @@ researchScreenData
 	Combat
 		blockCount 3
 		block
-			area [ 50 , 69 , 690 , 235 ]
+			area [ 50 , 45 , 690 , 235 ]
 			backdrop "ResearchScreenBlockBackdropCombat0Psi"
 			tierIndicatorBackdrop "ResearchScreenBlockTierIndicatorCombat0Psi"
 			title "IDSResearchScreenBlockTitleCombat0Psi"
 			picture "ResearchScreenBlockPictureCombat0Psi"
 		block
-			area [ 50 , 314 , 690 , 240 ]
+			area [ 50 , 290 , 690 , 288 ]
 			backdrop "ResearchScreenBlockBackdropCombat1Psi"
 			tierIndicatorBackdrop "ResearchScreenBlockTierIndicatorCombat1Psi"
 			title "IDSResearchScreenBlockTitleCombat1Psi"
 			picture "ResearchScreenBlockPictureCombat1Psi"
 		block
-			area [ 50 , 565 , 690 , 100 ]
+			area [ 50 , 589 , 690 , 100 ]
 			backdrop "ResearchScreenBlockBackdropCombat2Psi"
 			tierIndicatorBackdrop "ResearchScreenBlockTierIndicatorCombat2Psi"
 			title "IDSResearchScreenBlockTitleCombat2Psi"
@@ -802,13 +821,13 @@ researchScreenData
 	NonCombat
 		blockCount 3
 		block
-			area [ 50 , 93 , 690 , 192 ]
+			area [ 50 , 45 , 690 , 192 ]
 			backdrop "ResearchScreenBlockBackdropNonCombat0Psi"
 			tierIndicatorBackdrop "ResearchScreenBlockTierIndicatorNonCombat0Psi"
 			title "IDSResearchScreenBlockTitleNonCombat0Psi"
 			picture "ResearchScreenBlockPictureNonCombat0Psi"
 		block
-			area [ 50 , 295 , 690 , 144 ]
+			area [ 50 , 247 , 690 , 192 ]
 			backdrop "ResearchScreenBlockBackdropNonCombat1Psi"
 			tierIndicatorBackdrop "ResearchScreenBlockTierIndicatorNonCombat1Psi"
 			title "IDSResearchScreenBlockTitleNonCombat1Psi"
@@ -925,47 +944,47 @@ raceRelationsModifier
 	modifierMax -2.000000
 	factionRelationsModCount 1
 	factionRelationsModifier
-		factionNameID "IDS_PLAYERFACTIONNAME_REBEL"
+		factionNameID "IDS_PLAYERFACTIONNAME_LOYALIST"
 		otherFactionNameID "IDS_PLAYERFACTIONNAME_REBEL"
-		modifierMin -1.000000
-		modifierMax -0.500000
+		modifierMin -10.000000
+		modifierMax -10.000000
 raceRelationsModifier
 	raceNameID "IDS_PLAYERRACENAME_TECHLOYALIST"
 	modifierMin -2.250000
 	modifierMax -2.000000
 	factionRelationsModCount 1
 	factionRelationsModifier
-		factionNameID "IDS_PLAYERFACTIONNAME_REBEL"
+		factionNameID "IDS_PLAYERFACTIONNAME_LOYALIST"
 		otherFactionNameID "IDS_PLAYERFACTIONNAME_LOYALIST"
-		modifierMin -0.250000
-		modifierMax 0.000000
+		modifierMin -8.000000
+		modifierMax -5.000000
 raceRelationsModifier
 	raceNameID "IDS_PLAYERRACENAME_PSIREBEL"
 	modifierMin 0.100000
 	modifierMax 1.000000
 	factionRelationsModCount 1
 	factionRelationsModifier
-		factionNameID "IDS_PLAYERFACTIONNAME_REBEL"
+		factionNameID "IDS_PLAYERFACTIONNAME_LOYALIST"
 		otherFactionNameID "IDS_PLAYERFACTIONNAME_REBEL"
-		modifierMin 0.500000
-		modifierMax 1.000000
+		modifierMin -5.000000
+		modifierMax -5.000000
 raceRelationsModifier
 	raceNameID "IDS_PLAYERRACENAME_PSILOYALIST"
 	modifierMin 0.100000
 	modifierMax 1.000000
 	factionRelationsModCount 1
 	factionRelationsModifier
-		factionNameID "IDS_PLAYERFACTIONNAME_REBEL"
+		factionNameID "IDS_PLAYERFACTIONNAME_LOYALIST"
 		otherFactionNameID "IDS_PLAYERFACTIONNAME_LOYALIST"
-		modifierMin -5.000000
-		modifierMax -5.000000
+		modifierMin 0.500000
+		modifierMax 1.000000
 raceRelationsModifier
 	raceNameID "IDS_PLAYERRACENAME_PHASEREBEL"
 	modifierMin -1.000000
 	modifierMax -0.500000
 	factionRelationsModCount 1
 	factionRelationsModifier
-		factionNameID "IDS_PLAYERFACTIONNAME_REBEL"
+		factionNameID "IDS_PLAYERFACTIONNAME_LOYALIST"
 		otherFactionNameID "IDS_PLAYERFACTIONNAME_REBEL"
 		modifierMin 0.000000
 		modifierMax 0.250000
@@ -975,30 +994,30 @@ raceRelationsModifier
 	modifierMax -0.500000
 	factionRelationsModCount 1
 	factionRelationsModifier
-		factionNameID "IDS_PLAYERFACTIONNAME_REBEL"
+		factionNameID "IDS_PLAYERFACTIONNAME_LOYALIST"
 		otherFactionNameID "IDS_PLAYERFACTIONNAME_LOYALIST"
 		modifierMin -0.500000
 		modifierMax -0.250000
 raceRelationsModifier
 	raceNameID "IDS_PLAYERRACENAME_REBEL_Norlamins"
-	modifierMin -2.00000
-	modifierMax -1.000000
-	factionRelationsModCount 1
-	factionRelationsModifier
-		factionNameID "IDS_PLAYERFACTIONNAME_LOYALIST"
-		otherFactionNameID "IDS_PLAYERFACTIONNAME_REBEL"
-		modifierMin -5.000000
-		modifierMax -5.000000
-raceRelationsModifier
-	raceNameID "IDS_PLAYERRACENAME_LOYALIST_Norlamins"
 	modifierMin -2.000000
 	modifierMax 0.000000
 	factionRelationsModCount 1
 	factionRelationsModifier
 		factionNameID "IDS_PLAYERFACTIONNAME_LOYALIST"
+		otherFactionNameID "IDS_PLAYERFACTIONNAME_REBEL"
+		modifierMin -5.000000
+		modifierMax 1.000000
+raceRelationsModifier
+	raceNameID "IDS_PLAYERRACENAME_LOYALIST_Norlamins"
+	modifierMin -1.250000
+	modifierMax -1.000000
+	factionRelationsModCount 1
+	factionRelationsModifier
+		factionNameID "IDS_PLAYERFACTIONNAME_LOYALIST"
 		otherFactionNameID "IDS_PLAYERFACTIONNAME_LOYALIST"
 		modifierMin -5.000000
-		modifierMax -5.000000
+		modifierMax -1.000000
 raceRelationsModifier
 	raceNameID "IDS_PLAYERRACENAME_REBEL_Replicators"
 	modifierMin -2.000000
@@ -1021,24 +1040,24 @@ raceRelationsModifier
 		modifierMax 1.000000
 raceRelationsModifier
 	raceNameID "IDS_PLAYERRACENAME_REBEL_TradeAlliance"
-	modifierMin 0.000000
+	modifierMin -0.500000
 	modifierMax 0.500000
 	factionRelationsModCount 1
 	factionRelationsModifier
 		factionNameID "IDS_PLAYERFACTIONNAME_LOYALIST"
 		otherFactionNameID "IDS_PLAYERFACTIONNAME_REBEL"
-		modifierMin 1.000000
+		modifierMin 0.000000
 		modifierMax 1.000000
 raceRelationsModifier
 	raceNameID "IDS_PLAYERRACENAME_LOYALIST_TradeAlliance"
 	modifierMin 0.000000
-	modifierMax 0.500000
+	modifierMax 1.500000
 	factionRelationsModCount 1
 	factionRelationsModifier
 		factionNameID "IDS_PLAYERFACTIONNAME_LOYALIST"
 		otherFactionNameID "IDS_PLAYERFACTIONNAME_LOYALIST"
-		modifierMin -2.000000
-		modifierMax -2.000000
+		modifierMin -1.000000
+		modifierMax -1.000000
 raceRelationsModifier
 	raceNameID "IDS_PLAYERRACENAME_REBEL_Pirates"
 	modifierMin -2.250000
@@ -1059,4 +1078,4 @@ raceRelationsModifier
 		otherFactionNameID "IDS_PLAYERFACTIONNAME_LOYALIST"
 		modifierMin -10.000000
 		modifierMax -10.000000
-defaultFactionNameID "IDS_PLAYERFACTIONNAME_REBEL"
+defaultFactionNameID "IDS_PLAYERFACTIONNAME_LOYALIST"

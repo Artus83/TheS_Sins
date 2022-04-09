@@ -1357,7 +1357,7 @@ orbitBodyType
 	typeName "TerranGiantHabitable"
 	entityDefName "PlanetTerranGiantHabitable"
 	defaultTemplateName "Template:DefaultStart_Terran"
-planetItemTypeCount 263
+planetItemTypeCount 269
 planetItemType
 	designName "Phase:Module:MineExplosive"
 	entityDefName "SpaceMinePhaseExplosive"
@@ -2221,7 +2221,10 @@ planetItemsTemplate
 				param "TechRebel"
 			owner "PlanetOwner"
 			colonizeChance 1
-			items 4
+			items 7
+				item "Tech:StarBase"
+				item "Tech:Titan:Loyalist"
+				item "Tech:Titan:Rebel"
 				item "Tech:Module:FrigateFactory"
 				item "Tech:Module:FrigateFactory"
 				item "Tech:Frigate:Constructor"
@@ -2244,7 +2247,10 @@ planetItemsTemplate
 				param "PsiRebel"
 			owner "PlanetOwner"
 			colonizeChance 1
-			items 4
+			items 7
+				item "Psi:StarBase"
+				item "Psi:Titan:Loyalist"
+				item "Psi:Titan:Rebel"
 				item "Psi:Module:FrigateFactory"
 				item "Psi:Module:FrigateFactory"
 				item "Psi:Frigate:Constructor"
@@ -2267,7 +2273,10 @@ planetItemsTemplate
 				param "PhaseRebel"
 			owner "PlanetOwner"
 			colonizeChance 1
-			items 4
+			items 7
+				item "Phase:StarBase"
+				item "Phase:Titan:Loyalist"
+				item "Phase:Titan:Rebel"
 				item "Phase:Module:FrigateFactory"
 				item "Phase:Module:FrigateFactory"
 				item "Phase:Frigate:Constructor"
@@ -2332,7 +2341,10 @@ planetItemsTemplate
 				param "TechRebel"
 			owner "PlanetOwner"
 			colonizeChance 1
-			items 10
+			items 13
+				item "Tech:StarBase"
+				item "Tech:Titan:Loyalist"
+				item "Tech:Titan:Rebel"
 				item "Tech:Module:FrigateFactory"
 				item "Tech:Module:FrigateFactory"
 				item "Tech:Module:CapitalShipFactory"
@@ -2349,7 +2361,10 @@ planetItemsTemplate
 				param "PsiRebel"
 			owner "PlanetOwner"
 			colonizeChance 1
-			items 10
+			items 13
+				item "Psi:StarBase"
+				item "Psi:Titan:Loyalist"
+				item "Psi:Titan:Rebel"
 				item "Psi:Module:FrigateFactory"
 				item "Psi:Module:FrigateFactory"
 				item "Psi:Module:CapitalShipFactory"
@@ -2366,7 +2381,10 @@ planetItemsTemplate
 				param "PhaseRebel"
 			owner "PlanetOwner"
 			colonizeChance 1
-			items 10
+			items 13
+				item "Phase:StarBase"
+				item "Phase:Titan:Loyalist"
+				item "Phase:Titan:Rebel"
 				item "Phase:Module:FrigateFactory"
 				item "Phase:Module:FrigateFactory"
 				item "Phase:Module:CapitalShipFactory"

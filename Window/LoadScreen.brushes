@@ -138,36 +138,6 @@ brush
 	fileName "Startup_LoadscreenEntrenchment.dds"
 	pixelBox [ 0 , 1404 , 747 , 350 ]
 brush
-	name "LoadScreenPicture13"
-	content "Simple"
-	fileName "Startup_Loadscreen_Maelstrom.dds"
-	pixelBox [ 0 , 994 , 747 , 350 ]
-brush
-	name "LoadScreenPicture14"
-	content "Simple"
-	fileName "Startup_Loadscreen_Maelstrom.dds"
-	pixelBox [ 0 , 1347 , 747 , 350 ]
-brush
-	name "LoadScreenPicture15"
-	content "Simple"
-	fileName "Startup_Loadscreen_Maelstrom.dds"
-	pixelBox [ 0 , 1700 , 747 , 350 ]
-brush
-	name "LoadScreenPicture16"
-	content "Simple"
-	fileName "Startup_Loadscreen_Maelstrom.dds"
-	pixelBox [ 748 , 994 , 747 , 350 ]
-brush
-	name "LoadScreenPicture17"
-	content "Simple"
-	fileName "Startup_Loadscreen_Maelstrom.dds"
-	pixelBox [ 748 , 1347 , 747 , 350 ]
-brush
-	name "LoadScreenPicture18"
-	content "Simple"
-	fileName "Startup_Loadscreen_Maelstrom.dds"
-	pixelBox [ 748 , 1700 , 747 , 350 ]
-brush
 	name "DiplomacyLogo"
 	content "Simple"
 	fileName "GameLogo_Opening.dds"
@@ -177,23 +147,3 @@ brush
 	content "Simple"
 	fileName "Loadingbackdrop_diplomacy_beta.dds"
 	pixelBox [ 0 , 0 , 1027 , 768 ]
-brush
-	name "LoadScreenCharacterNorlamins"
-	content "Simple"
-	fileName "Startup_Loadscreen_Maelstrom.dds"
-	pixelBox [ 442 , 0 , 441 , 749 ]
-brush
-	name "LoadScreenCharacterTradeAlliance"
-	content "Simple"
-	fileName "Startup_Loadscreen_Maelstrom.dds"
-	pixelBox [ 0 , 0 , 441 , 749 ]
-brush
-	name "LoadScreenCharacterReplicators"
-	content "Simple"
-	fileName "Startup_Loadscreen_Maelstrom.dds"
-	pixelBox [ 884 , 0 , 441 , 749 ]
-brush
-	name "LoadScreenCharacterPirates"
-	content "Simple"
-	fileName "Startup_Loadscreen_Maelstrom.dds"
-	pixelBox [ 1346 , 0 , 441 , 749 ]

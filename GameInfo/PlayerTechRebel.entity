@@ -4,8 +4,8 @@ entityType "Player"
 raceNameStringID "IDS_PLAYERRACENAME_TECHREBEL"
 canColonize TRUE
 playerRaceType "Tech"
-isSelectable FALSE
-selectablePriorty 2
+isSelectable TRUE
+selectablePriorty 5
 randomCapitalShipNamePrefix "IDS_CAPITALSHIPNAME_TECH"
 randomStarBaseNamePrefix "IDS_STARBASENAME_TECH"
 entities
@@ -28,31 +28,35 @@ entities
 			entityDefName "PLANETMODULE_TECHORBITALREPAIRPLATFORM"
 			entityDefName "PLANETMODULE_TECHORBITALJUMPBLOCKER"
 			entityDefName "PLANETMODULE_TECHORBITALSHIELDGENERATOR"
-			entityDefName "PLANETMODULE_TECHORBITALCANNON"
+			entityDefName "PLANETMODULE_TECHORBITALCANNON_LOYALIST"
 			entityDefName "PLANETMODULE_TECHDEEPSPACEMINE"
-			entityDefName "PLANETMODULE_TECHREBELORBITALTITANFACTORY"
+			entityDefName "PLANETMODULE_TECHLOYALISTORBITALTITANFACTORY"
 	titanInfo
 		Page:0
-			count 1
+			count 2
+			entityDefName "TITAN_TECHLOYALIST"
 			entityDefName "TITAN_TECHREBEL"
 	capitalShipInfo
 		Page:0
-			count 6
+			count 8
 			entityDefName "CAPITALSHIP_TECHBATTLESHIP"
 			entityDefName "CAPITALSHIP_TECHCARRIER"
 			entityDefName "CAPITALSHIP_TECHCOLONY"
 			entityDefName "CAPITALSHIP_TECHSUPPORT"
 			entityDefName "CAPITALSHIP_TECHSIEGE"
 			entityDefName "CAPITALSHIP_TECHTRANSPORT"
+			entityDefName "CAPITALSHIP_DREADNOUGHT_LOYALIST_TECH"
+			entityDefName "CAPITALSHIP_DREADNOUGHT_REBEL_TECH"
 	frigateInfo
 		Page:0
-			count 7
+			count 8
 			entityDefName "FrigateTechScout"
 			entityDefName "FrigateTechLight"
 			entityDefName "FrigateTechLongRange"
 			entityDefName "FrigateTechSiege"
 			entityDefName "FrigateTechAntiFighter"
 			entityDefName "FrigateTechColony"
+			entityDefName "CorvetteTechLoyalist"
 			entityDefName "CorvetteTechRebel"
 		Page:1
 			count 7
@@ -69,7 +73,8 @@ entities
 			entityDefName "FrigateTechTradeShip"
 			entityDefName "FrigateTechRefineryShip"
 	researchInfo
-		count 171
+		count 186
+		entityDefName "RESEARCHSUBJECT_PUBLIC_FORGIVENESS"
 		entityDefName "RESEARCHSUBJECT_BACKROOM_DEALS"
 		entityDefName "RESEARCHSUBJECT_ABILITYACCESS_ARBITRATETARIFF"
 		entityDefName "RESEARCHSUBJECT_ABILITYACCESS_WORTHYCAUSE"
@@ -93,6 +98,7 @@ entities
 		entityDefName "RESEARCHSUBJECT_CAPITALSHIP_MANEUVERINGTHRUSTERS"
 		entityDefName "RESEARCHSUBJECT_CAPITALSHIP_MAXBUYLEVELTECH0"
 		entityDefName "RESEARCHSUBJECT_CORVETTEACCESS_TECHREBEL"
+		entityDefName "RESEARCHSUBJECT_CORVETTEACCESS_TECHLOYALIST"
 		entityDefName "RESEARCHSUBJECT_FOREIGNSABOTAGE"
 		entityDefName "RESEARCHSUBJECT_FRIGATEACCESS_ANTIFIGHTERTECH"
 		entityDefName "RESEARCHSUBJECT_FRIGATEACCESS_ANTIMODULETECH"
@@ -107,7 +113,7 @@ entities
 		entityDefName "RESEARCHSUBJECT_HULLTECH1"
 		entityDefName "RESEARCHSUBJECT_HULLTECH2"
 		entityDefName "RESEARCHSUBJECT_PLANETBOMBING_DAMAGE"
-		entityDefName "RESEARCHSUBJECT_PLANETMODULEACCESS_CANNONTECH"
+		entityDefName "RESEARCHSUBJECT_PLANETMODULEACCESS_CANNONTECH_LOYALIST"
 		entityDefName "RESEARCHSUBJECT_PLANETMODULEIMPROVEMENT_TECHREPAIRPLATFORM"
 		entityDefName "RESEARCHSUBJECT_REBELLION"
 		entityDefName "RESEARCHSUBJECT_SHIELDSTECH0"
@@ -207,19 +213,32 @@ entities
 		entityDefName "RESEARCHSUBJECT_ADVANCED_CULTURAL_RELATIONS"
 		entityDefName "RESEARCHSUBJECT_POLITICAL_KICKBACKS"
 		entityDefName "RESEARCHSUBJECT_EXTREME_XENOPHOBIA"
+		entityDefName "RESEARCHSUBJECT_COUNTER_DEPLOYMENT"
 		entityDefName "RESEARCHSUBJECT_HIGH_ORDER_EXPLOSIVES"
+		entityDefName "RESEARCHSUBJECT_WAR_MEASURES_ACT"
 		entityDefName "RESEARCHSUBJECT_LIBERATED_RESISTANCE"
+		entityDefName "RESEARCHSUBJECT_MILITIA_ARMOR"
 		entityDefName "RESEARCHSUBJECT_PILLAGED_WAR_CHEST"
+		entityDefName "RESEARCHSUBJECT_MILITIA_WEAPONRY"
 		entityDefName "RESEARCHSUBJECT_PIRATE_MERCENARIES"
+		entityDefName "RESEARCHSUBJECT_BATTLEFIELD_PROMOTIONS"
 		entityDefName "RESEARCHSUBJECT_REFINED_EMITTERS"
+		entityDefName "RESEARCHSUBJECT_HARDENED_DEFENSES"
 		entityDefName "RESEARCHSUBJECT_SAVAGE_THRILL"
+		entityDefName "RESEARCHSUBJECT_NOVALITH_DEREGULATION"
 		entityDefName "RESEARCHSUBJECT_TRUCE_AMONGST_ROGUES"
+		entityDefName "RESEARCHSUBJECT_TWIN_FORTRESSES"
 		entityDefName "RESEARCHSUBJECT_WARHEAD_SPLINTERING"
+		entityDefName "RESEARCHSUBJECT_FORTRESS_COMPARTMENTALIZATION"
 		entityDefName "RESEARCHSUBJECT_RESEARCHVICTORY_TECH"
 		entityDefName "RESEARCHSUBJECT_TITANACCESS_TECHREBEL_1"
+		entityDefName "RESEARCHSUBJECT_TITANACCESS_TECHLOYALIST_1"
 		entityDefName "RESEARCHSUBJECT_TITANACCESS_TECHREBEL_2"
+		entityDefName "RESEARCHSUBJECT_TITANACCESS_TECHLOYALIST_2"
 		entityDefName "RESEARCHSUBJECT_TITANACCESS_TECHREBEL_3"
+		entityDefName "RESEARCHSUBJECT_TITANACCESS_TECHLOYALIST_3"
 		entityDefName "RESEARCHSUBJECT_TITANACCESS_TECHREBEL_4"
+		entityDefName "RESEARCHSUBJECT_TITANACCESS_TECHLOYALIST_4"
 		entityDefName "RESEARCHSUBJECT_PLANETACCESS_GREENHOUSETECH"
 		entityDefName "RESEARCHSUBJECT_PLANETACCESS_IRONTECH"
 		entityDefName "RESEARCHSUBJECT_PLANETACCESS_OCEANICTECH"
@@ -314,10 +333,10 @@ gameEventData
 	GameEventSound:AllyBackUpArrived "EVENTTECH_ALLYBACKUPARRIVED"
 	GameEventSound:AllyBackUpEnRoute "EVENTTECH_ALLYBACKUPENROUTE"
 	GameEventSound:AllyTitanQueued ""
-	GameEventSound:AllyTitanCompleted "EVENTTECH_REBEL_ALLYONTITANCREATION_0"
-	GameEventSound:EnemyTitanQueued "EVENTTECH_REBEL_ENEMYONTITANCREATION_0"
-	GameEventSound:EnemyTitanCompleted "EVENTTECH_REBEL_ENEMYTITANCONSTRUCTIONDETECTED_0"
-	GameEventSound:AllyTitanLost "EVENTTECH_REBEL_ALLYTITANLOST_0"
+	GameEventSound:AllyTitanCompleted "EVENTTECH_LOYALIST_ALLYONTITANCREATION_0"
+	GameEventSound:EnemyTitanQueued "EVENTTECH_LOYALIST_ENEMYTITANCONSTRUCTIONDETECTED_0"
+	GameEventSound:EnemyTitanCompleted "EVENTTECH_LOYALIST_ENEMYONTITANCREATION_0"
+	GameEventSound:AllyTitanLost "EVENTTECH_LOYALIST_ALLYTITANLOST_0"
 	GameEventSound:AllyCapitalShipLost "EVENTTECH_ALLYCAPITALSHIPLOST"
 	GameEventSound:AllyFleetArrived "EVENTTECH_ALLYFLEETARRIVED"
 	GameEventSound:AllyPlanetLost "EVENTTECH_ALLYPLANETLOST"
@@ -373,7 +392,7 @@ gameEventData
 	GameEventSound:LaunchSquadsDisabledByDebuff ""
 	GameEventSound:PlayerBackUpArrived "EVENTTECH_PLAYERBACKUPARRIVED"
 	GameEventSound:PlayerTitanCreated ""
-	GameEventSound:PlayerTitanLost "EVENTTECH_REBEL_PLAYERTITANLOST_0"
+	GameEventSound:PlayerTitanLost "EVENTTECH_LOYALIST_PLAYERTITANLOST_0"
 	GameEventSound:PlayerCapitalShipCreated ""
 	GameEventSound:PlayerCapitalShipLost "EVENTTECH_PLAYERCAPITALSHIPLOST"
 	GameEventSound:PlayerStarbaseLost ""
@@ -398,8 +417,8 @@ gameEventData
 	GameEventSound:PlayerFlagshipDestroyed "EVENTTECH_PLAYERFLAGSHIPDESTROYED"
 	GameEventSound:AllyFlagshipDestroyed "EVENTTECH_ALLYFLAGSHIPDESTROYED"
 	GameEventSound:EnemyFlagshipDestroyed "EVENTTECH_ENEMYFLAGSHIPDESTROYED"
-	GameEventSound:PlayerTitanShieldsDown "EVENTTECH_REBEL_PLAYERTITANSHIELDSDOWN_0"
-	GameEventSound:PlayerTitanHullSeverelyDamaged "EVENTTECH_REBEL_TITANHULLSERVERDAMAGED_0"
+	GameEventSound:PlayerTitanShieldsDown "EVENTTECH_LOYALIST_PLAYERTITANSHIELDSDOWN_0"
+	GameEventSound:PlayerTitanHullSeverelyDamaged "EVENTTECH_LOYALIST_TITANHULLSEVERELYDAMAGED_0"
 	GameEventSound:PlayerCapitalShipShieldsDown "EVENTTECH_PLAYERCAPITALSHIPSHIELDSDOWN"
 	GameEventSound:PlayerCapitalShipHullSeverelyDamaged "EVENTTECH_PLAYERCAPITALSHIPHULLSEVERELYDAMAGED"
 	GameEventSound:AchievementCompleted ""
@@ -411,31 +430,31 @@ gameEventData
 	GameEventSound:PlayerQuestAdded ""
 	GameEventSound:PlayerQuestCompleted ""
 	GameEventSound:PlayerQuestFailed ""
-	GameEventSound:DiplomaticVictoryHalfway ""
-	GameEventSound:DiplomaticVictoryComplete ""
-	GameEventSound:AllyDiplomaticVictoryHalfway ""
-	GameEventSound:AllyDiplomaticVictoryComplete ""
-	GameEventSound:EnemyDiplomaticVictoryHalfway ""
-	GameEventSound:EnemyDiplomaticVictoryComplete ""
-	GameEventSound:OccupationVictoryStarted ""
-	GameEventSound:OccupationVictoryHalfway ""
-	GameEventSound:OccupationVictoryComplete ""
-	GameEventSound:AllyOccupationVictoryStarted ""
-	GameEventSound:AllyOccupationVictoryHalfway ""
-	GameEventSound:AllyOccupationVictoryComplete ""
-	GameEventSound:EnemyOccupationVictoryStarted ""
-	GameEventSound:EnemyOccupationVictoryHalfway ""
-	GameEventSound:EnemyOccupationVictoryComplete ""
+	GameEventSound:DiplomaticVictoryHalfway "EVENTTECH_DIPLOMATICVICTORYHALFWAY"
+	GameEventSound:DiplomaticVictoryComplete "EVENTTECH_DIPLOMATICVICTORYCOMPLETE"
+	GameEventSound:AllyDiplomaticVictoryHalfway "EVENTTECH_ALLYDIPLOMATICVICTORYHALFWAY"
+	GameEventSound:AllyDiplomaticVictoryComplete "EVENTTECH_ALLYDIPLOMATICVICTORYCOMPLETE"
+	GameEventSound:EnemyDiplomaticVictoryHalfway "EVENTTECH_ENEMYDIPLOMATICVICTORYHALFWAY"
+	GameEventSound:EnemyDiplomaticVictoryComplete "EVENTTECH_ENEMYDIPLOMATICVICTORYCOMPLETE"
+	GameEventSound:OccupationVictoryStarted "EVENTTECH_OCCUPATIONVICTORYSTARTED"
+	GameEventSound:OccupationVictoryHalfway "EVENTTECH_OCCUPATIONVICTORYHALFWAY"
+	GameEventSound:OccupationVictoryComplete "EVENTTECH_OCCUPATIONVICTORYCOMPLETE"
+	GameEventSound:AllyOccupationVictoryStarted "EVENTTECH_ALLYOCCUPATIONVICTORYSTARTED"
+	GameEventSound:AllyOccupationVictoryHalfway "EVENTTECH_ALLYOCCUPATIONVICTORYHALFWAY"
+	GameEventSound:AllyOccupationVictoryComplete "EVENTTECH_ALLYOCCUPATIONVICTORYCOMPLETE"
+	GameEventSound:EnemyOccupationVictoryStarted "EVENTTECH_ENEMYOCCUPATIONVICTORYSTARTED"
+	GameEventSound:EnemyOccupationVictoryHalfway "EVENTTECH_ENEMYOCCUPATIONVICTORYHALFWAY"
+	GameEventSound:EnemyOccupationVictoryComplete "EVENTTECH_ENEMYOCCUPATIONVICTORYCOMPLETE"
 	GameEventSound:ResearchVictoryStarted ""
-	GameEventSound:ResearchVictoryHalfway ""
-	GameEventSound:ResearchVictoryComplete ""
+	GameEventSound:ResearchVictoryHalfway "EVENTTECH_RESEARCHVICTORYHALFWAY"
+	GameEventSound:ResearchVictoryComplete "EVENTTECH_RESEARCHVICTORYCOMPLETE"
 	GameEventSound:ResearchComplete "EVENTTECH_RESEARCHCOMPLETE"
-	GameEventSound:AllyResearchVictoryStarted ""
-	GameEventSound:AllyResearchVictoryHalfway ""
-	GameEventSound:AllyResearchVictoryComplete ""
-	GameEventSound:EnemyResearchVictoryStarted ""
-	GameEventSound:EnemyResearchVictoryHalfway ""
-	GameEventSound:EnemyResearchVictoryComplete ""
+	GameEventSound:AllyResearchVictoryStarted "EVENTTECH_ALLYRESEARCHVICTORYSTARTED"
+	GameEventSound:AllyResearchVictoryHalfway "EVENTTECH_ALLYRESEARCHVICTORYHALFWAY"
+	GameEventSound:AllyResearchVictoryComplete "EVENTTECH_ALLYRESEARCHVICTORYCOMPLETE"
+	GameEventSound:EnemyResearchVictoryStarted "EVENTTECH_ENEMYRESEARCHVICTORYSTARTED"
+	GameEventSound:EnemyResearchVictoryHalfway "EVENTTECH_ENEMYRESEARCHVICTORYHALFWAY"
+	GameEventSound:EnemyResearchVictoryComplete "EVENTTECH_ENEMYRESEARCHVICTORYCOMPLETE"
 	GameEventSound:ResearchAlreadyMaxLevel "UI_COMMON_DEFAULTERROR"
 	GameEventSound:ResearchMaxLevelQueued "UI_COMMON_DEFAULTERROR"
 	GameEventSound:ResearchNotEnoughPointsInTier "UI_COMMON_DEFAULTERROR"
@@ -542,9 +561,9 @@ planetElevatorData
 	elevatorMeshName:ProductionCenter "PlanetElevator-Tech-ProductionCenter"
 musicThemeData
 	startupMusicThemeCount 3
-	musicTheme "MUSIC_TEC_REBEL_1"
-	musicTheme "MUSIC_TEC_REBEL_2"
-	musicTheme "MUSIC_TEC_REBEL_3"
+	musicTheme "MUSIC_TEC_LOYALIST_1"
+	musicTheme "MUSIC_TEC_LOYALIST_2"
+	musicTheme "MUSIC_TEC_LOYALIST_3"
 	neutralMusicThemeCount 12
 	musicTheme "MUSIC_TEC_THEME_1"
 	musicTheme "MUSIC_TEC_QUIET_1"
@@ -555,19 +574,15 @@ musicThemeData
 	musicTheme "MUSIC_TROUBLE_4"
 	musicTheme "MUSIC_TEC_MISC_4"
 	musicTheme "MUSIC_TEC_OPENING"
-	musicTheme "MUSIC_TEC_REBEL_1"
-	musicTheme "MUSIC_TEC_REBEL_2"
-	musicTheme "MUSIC_TEC_REBEL_3"
-	scareThemeCount 9
+	musicTheme "MUSIC_TEC_LOYALIST_1"
+	musicTheme "MUSIC_TEC_LOYALIST_2"
+	musicTheme "MUSIC_TEC_LOYALIST_3"
+	scareThemeCount 5
 	musicTheme "MUSIC_BATTLE_7"
-	musicTheme "MUSIC_BATTLE_8"
 	musicTheme "MUSIC_BATTLE_13"
-	musicTheme "MUSIC_BATTLE_12"
-	musicTheme "MUSIC_BATTLE_10"
 	musicTheme "MUSIC_NEWBATTLE_1"
 	musicTheme "MUSIC_NEWBATTLE_2"
 	musicTheme "MUSIC_NEWBATTLE_3"
-	musicTheme "MUSIC_BATTLE_9"
 	announcementCount 1
 	musicTheme "MUSIC_TEC_ANNOUNCEMENT"
 hudSkinData
@@ -723,7 +738,7 @@ hudSkinData
 	UserActionIconOpenModulePage1 "ACTIONICON_PLANET_OPENPLANETMODULEMANAGEMENT_ORBIT1"
 	UserActionIconCloseModulePage0 "ACTIONICON_PLANET_CLOSEPLANETMODULEMANAGEMENT_ORBIT0"
 	UserActionIconCloseModulePage1 "ACTIONICON_PLANET_CLOSEPLANETMODULEMANAGEMENT_ORBIT1"
-	UserActionIconOpenPlanetTitanManagement "ACTIONICON_PLANET_OPENTITANMANAGEMENT_TECHREBEL"
+	UserActionIconOpenPlanetTitanManagement "ACTIONICON_PLANET_OPENTITANMANAGEMENT_TECHLOYALIST"
 	UserActionIconClosePlanetTitanManagement "ACTIONICON_PLANET_CLOSECAPITALSHIPMANAGEMENT"
 	UserActionIconOpenPlanetCapitalShipManagement "ACTIONICON_PLANET_OPENCAPITALSHIPMANAGEMENT"
 	UserActionIconClosePlanetCapitalShipManagement "ACTIONICON_PLANET_CLOSECAPITALSHIPMANAGEMENT"
@@ -774,19 +789,19 @@ researchScreenData
 	Combat
 		blockCount 3
 		block
-			area [ 50 , 69 , 690 , 192 ]
+			area [ 50 , 45 , 690 , 192 ]
 			backdrop "ResearchScreenBlockBackdropCombat0Tech"
 			tierIndicatorBackdrop "ResearchScreenBlockTierIndicatorCombat0Tech"
 			title "IDSResearchScreenBlockTitleCombat0Tech"
 			picture "ResearchScreenBlockPictureCombat0Tech"
 		block
-			area [ 50 , 271 , 690 , 144 ]
+			area [ 50 , 247 , 690 , 144 ]
 			backdrop "ResearchScreenBlockBackdropCombat1Tech"
 			tierIndicatorBackdrop "ResearchScreenBlockTierIndicatorCombat1Tech"
 			title "IDSResearchScreenBlockTitleCombat1Tech"
 			picture "ResearchScreenBlockPictureCombat1Tech"
 		block
-			area [ 50 , 425 , 690 , 240 ]
+			area [ 50 , 401 , 690 , 288 ]
 			backdrop "ResearchScreenBlockBackdropCombat2Tech"
 			tierIndicatorBackdrop "ResearchScreenBlockTierIndicatorCombat2Tech"
 			title "IDSResearchScreenBlockTitleCombat2Tech"
@@ -925,60 +940,60 @@ raceRelationsModifier
 	modifierMax 1.000000
 	factionRelationsModCount 1
 	factionRelationsModifier
-		factionNameID "IDS_PLAYERFACTIONNAME_REBEL"
+		factionNameID "IDS_PLAYERFACTIONNAME_LOYALIST"
 		otherFactionNameID "IDS_PLAYERFACTIONNAME_REBEL"
-		modifierMin 0.250000
-		modifierMax 0.500000
+		modifierMin -5.000000
+		modifierMax -5.000000
 raceRelationsModifier
 	raceNameID "IDS_PLAYERRACENAME_TECHLOYALIST"
 	modifierMin 0.100000
 	modifierMax 1.000000
 	factionRelationsModCount 1
 	factionRelationsModifier
-		factionNameID "IDS_PLAYERFACTIONNAME_REBEL"
+		factionNameID "IDS_PLAYERFACTIONNAME_LOYALIST"
 		otherFactionNameID "IDS_PLAYERFACTIONNAME_LOYALIST"
-		modifierMin -5.000000
-		modifierMax -5.000000
+		modifierMin 0.250000
+		modifierMax 0.500000
 raceRelationsModifier
 	raceNameID "IDS_PLAYERRACENAME_PSIREBEL"
 	modifierMin -1.500000
 	modifierMax -1.000000
 	factionRelationsModCount 1
 	factionRelationsModifier
-		factionNameID "IDS_PLAYERFACTIONNAME_REBEL"
+		factionNameID "IDS_PLAYERFACTIONNAME_LOYALIST"
 		otherFactionNameID "IDS_PLAYERFACTIONNAME_REBEL"
-		modifierMin -10.000000
-		modifierMax -10.000000
+		modifierMin -0.500000
+		modifierMax 0.000000
 raceRelationsModifier
 	raceNameID "IDS_PLAYERRACENAME_PSILOYALIST"
 	modifierMin -1.500000
 	modifierMax -1.000000
 	factionRelationsModCount 1
 	factionRelationsModifier
-		factionNameID "IDS_PLAYERFACTIONNAME_REBEL"
+		factionNameID "IDS_PLAYERFACTIONNAME_LOYALIST"
 		otherFactionNameID "IDS_PLAYERFACTIONNAME_LOYALIST"
-		modifierMin -10.000000
-		modifierMax -10.000000
+		modifierMin -5.000000
+		modifierMax -5.000000
 raceRelationsModifier
 	raceNameID "IDS_PLAYERRACENAME_PHASEREBEL"
 	modifierMin -2.250000
 	modifierMax -2.000000
 	factionRelationsModCount 1
 	factionRelationsModifier
-		factionNameID "IDS_PLAYERFACTIONNAME_REBEL"
+		factionNameID "IDS_PLAYERFACTIONNAME_LOYALIST"
 		otherFactionNameID "IDS_PLAYERFACTIONNAME_REBEL"
-		modifierMin -10.000000
-		modifierMax -10.000000
+		modifierMin -0.250000
+		modifierMax 0.000000
 raceRelationsModifier
 	raceNameID "IDS_PLAYERRACENAME_PHASELOYALIST"
 	modifierMin -2.250000
 	modifierMax -2.000000
 	factionRelationsModCount 1
 	factionRelationsModifier
-		factionNameID "IDS_PLAYERFACTIONNAME_REBEL"
+		factionNameID "IDS_PLAYERFACTIONNAME_LOYALIST"
 		otherFactionNameID "IDS_PLAYERFACTIONNAME_LOYALIST"
-		modifierMin -10.000000
-		modifierMax -10.000000
+		modifierMin -1.000000
+		modifierMax -0.500000
 raceRelationsModifier
 	raceNameID "IDS_PLAYERRACENAME_REBEL_Norlamins"
 	modifierMin -1.000000
@@ -1059,4 +1074,4 @@ raceRelationsModifier
 		otherFactionNameID "IDS_PLAYERFACTIONNAME_LOYALIST"
 		modifierMin -10.000000
 		modifierMax -10.000000
-defaultFactionNameID "IDS_PLAYERFACTIONNAME_REBEL"
+defaultFactionNameID "IDS_PLAYERFACTIONNAME_LOYALIST"

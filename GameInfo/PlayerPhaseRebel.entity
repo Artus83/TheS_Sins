@@ -4,8 +4,8 @@ entityType "Player"
 raceNameStringID "IDS_PLAYERRACENAME_PHASEREBEL"
 canColonize TRUE
 playerRaceType "Phase"
-isSelectable FALSE
-selectablePriorty 0
+isSelectable TRUE
+selectablePriorty 3
 randomCapitalShipNamePrefix "IDS_CAPITALSHIPNAME_PHASE"
 randomStarBaseNamePrefix "IDS_STARBASENAME_PHASE"
 entities
@@ -30,29 +30,33 @@ entities
 			entityDefName "PLANETMODULE_PHASEORBITALNANOWEAPONJAMMER"
 			entityDefName "PLANETMODULE_PHASEORBITALPHASEGATE"
 			entityDefName "PLANETMODULE_PHASEORBITALCANNON"
-			entityDefName "PLANETMODULE_PHASEREBELORBITALTITANFACTORY"
+			entityDefName "PLANETMODULE_PHASELOYALISTORBITALTITANFACTORY"
 	titanInfo
 		Page:0
-			count 1
+			count 2
+			entityDefName "TITAN_PHASELOYALIST"
 			entityDefName "TITAN_PHASEREBEL"
 	capitalShipInfo
 		Page:0
-			count 6
+			count 8
 			entityDefName "CAPITALSHIP_PHASEBATTLESHIP"
 			entityDefName "CAPITALSHIP_PHASECARRIER"
 			entityDefName "CAPITALSHIP_PHASECOLONY"
 			entityDefName "CAPITALSHIP_PHASESCOUT"
 			entityDefName "CAPITALSHIP_PHASESIEGE"
 			entityDefName "CAPITALSHIP_PHASEBATTLESHIP2"
+			entityDefName "CAPITALSHIP_DREADNOUGHT_Loyalist_Phase"
+			entityDefName "CAPITALSHIP_DREADNOUGHT_Rebel_Phase"
 	frigateInfo
 		Page:0
-			count 7
+			count 8
 			entityDefName "FrigatePhaseScout"
 			entityDefName "FrigatePhaseLight"
 			entityDefName "FrigatePhaseLongRange"
 			entityDefName "FrigatePhaseSiege"
 			entityDefName "FrigatePhaseAntiFighter"
 			entityDefName "FrigatePhaseColony"
+			entityDefName "CorvettePhaseLoyalist"
 			entityDefName "CorvettePhaseRebel"
 		Page:1
 			count 6
@@ -72,7 +76,8 @@ entities
 			entityDefName "FrigatePhaseAssaultNaniteSwarm"
 			entityDefName "FrigatePhaseGreaterNaniteSwarm"
 	researchInfo
-		count 168
+		count 185
+		entityDefName "RESEARCHSUBJECT_ABILITYACCESS_DARKFLEET"
 		entityDefName "RESEARCHSUBJECT_ENEMY_RELATIONS"
 		entityDefName "RESEARCHSUBJECT_RAIDER_RELATIONS"
 		entityDefName "RESEARCHSUBJECT_ABILITYACCESS_XENODEFENSE"
@@ -99,6 +104,7 @@ entities
 		entityDefName "RESEARCHSUBJECT_ARMORPHASE1"
 		entityDefName "RESEARCHSUBJECT_CAPITALSHIP_CULTUREPROTECTION"
 		entityDefName "RESEARCHSUBJECT_CAPITALSHIP_MAXBUYLEVELPHASE0"
+		entityDefName "RESEARCHSUBJECT_CORVETTEACCESS_PHASELOYALIST"
 		entityDefName "RESEARCHSUBJECT_CORVETTEACCESS_PHASEREBEL"
 		entityDefName "RESEARCHSUBJECT_FRIGATEACCESS_ANTIFIGHTERPHASE"
 		entityDefName "RESEARCHSUBJECT_FRIGATEACCESS_CARRIERPHASE"
@@ -151,6 +157,7 @@ entities
 		entityDefName "RESEARCHSUBJECT_WEAPONIGNORESHIELDS_PHASEMISSILE2"
 		entityDefName "RESEARCHSUBJECT_ABILITYACCESS_PHASECLOAK"
 		entityDefName "RESEARCHSUBJECT_BOUNTYMULTIPLIERCOLLECT"
+		entityDefName "RESEARCHSUBJECT_COSTDECREASECREDITS"
 		entityDefName "RESEARCHSUBJECT_COSTDECREASERESOURCES"
 		entityDefName "RESEARCHSUBJECT_CULTURERATEPHASE0"
 		entityDefName "RESEARCHSUBJECT_CULTURERATEPHASE1"
@@ -207,26 +214,40 @@ entities
 		entityDefName "RESEARCHSUBJECT_ADVANCED_INTER_SPECIES_RELATIONS"
 		entityDefName "RESEARCHSUBJECT_EXPERT_BRIBERY"
 		entityDefName "RESEARCHSUBJECT_ADVANCED_NME_WARHEADS"
+		entityDefName "RESEARCHSUBJECT_ACCELERATED_WAVE_CANNONS"
 		entityDefName "RESEARCHSUBJECT_ALL_FOR_ONE"
+		entityDefName "RESEARCHSUBJECT_CIVILIAN_EVACUATION"
 		entityDefName "RESEARCHSUBJECT_ARMOR_RESTORATION"
+		entityDefName "RESEARCHSUBJECT_ENERGETIC_PULSE_CHARGING"
 		entityDefName "RESEARCHSUBJECT_BIDIRECTIONAL_JAMMING"
+		entityDefName "RESEARCHSUBJECT_JUMP_STABILIZATION"
 		entityDefName "RESEARCHSUBJECT_FRIENDLY_JUMP_TELEMETRY"
+		entityDefName "RESEARCHSUBJECT_MOBILE_RULERSHIP"
 		entityDefName "RESEARCHSUBJECT_PHASIC_STRIKE"
+		entityDefName "RESEARCHSUBJECT_REGENERATIVE_HULLS"
 		entityDefName "RESEARCHSUBJECT_SHARED_NETWORK"
+		entityDefName "RESEARCHSUBJECT_SHIPBOARD_LABS"
 		entityDefName "RESEARCHSUBJECT_SHARED_SHIELD_TECH"
+		entityDefName "RESEARCHSUBJECT_SHIPBOARD_LABS_2"
 		entityDefName "RESEARCHSUBJECT_STARBASE_MOBILIZATION"
-		entityDefName "RESEARCHSUBJECT_RESEARCHVICTORY_PHASE"
+		entityDefName "RESEARCHSUBJECT_SOLITARY_PATH"
+		entityDefName "RESEARCHSUBJECT_STRIPPED_TO_THE_CORE"
 		entityDefName "RESEARCHSUBJECT_TITANACCESS_PHASEREBEL_1"
+		entityDefName "RESEARCHSUBJECT_RESEARCHVICTORY_PHASE"
 		entityDefName "RESEARCHSUBJECT_TITANACCESS_PHASEREBEL_2"
+		entityDefName "RESEARCHSUBJECT_TITANACCESS_PHASELOYALIST_1"
 		entityDefName "RESEARCHSUBJECT_TITANACCESS_PHASEREBEL_3"
+		entityDefName "RESEARCHSUBJECT_TITANACCESS_PHASELOYALIST_2"
 		entityDefName "RESEARCHSUBJECT_TITANACCESS_PHASEREBEL_4"
+		entityDefName "RESEARCHSUBJECT_TITANACCESS_PHASELOYALIST_3"
+		entityDefName "RESEARCHSUBJECT_TITANACCESS_PHASELOYALIST_4"
 		entityDefName "RESEARCHSUBJECT_PLANETACCESS_GREENHOUSEPHASE"
 		entityDefName "RESEARCHSUBJECT_PLANETACCESS_IRONPHASE"
 		entityDefName "RESEARCHSUBJECT_PLANETACCESS_OCEANICPHASE"
 		entityDefName "RESEARCHSUBJECT_POPULATIONCAPIRONPHASE0"
 		entityDefName "RESEARCHSUBJECT_POPULATIONCAPIRONPHASE1"
 		entityDefName "RESEARCHSUBJECT_MINORFACTIONABILITYLEVELPHASE0"
-		entityDefName "RESEARCHSUBJECT_MINORFACTIONABILITYLEVELPHASE1"		
+		entityDefName "RESEARCHSUBJECT_MINORFACTIONABILITYLEVELPHASE1"
 		entityDefName "RESEARCHSUBJECT_PLANETACCESS_GIANT_Phase"
 		entityDefName "RESEARCHSUBJECT_PLANETACCESS_GIANTMOONS_Phase"
 		entityDefName "RESEARCHSUBJECT_PLANETACCESS_TECH_Phase"
@@ -317,10 +338,10 @@ gameEventData
 	GameEventSound:AllyBackUpArrived "EVENTPHASE_ALLYBACKUPARRIVED"
 	GameEventSound:AllyBackUpEnRoute "EVENTPHASE_ALLYBACKUPENROUTE"
 	GameEventSound:AllyTitanQueued ""
-	GameEventSound:AllyTitanCompleted "EVENTPHASE_REBEL_ALLYONTITANCREATION_0"
-	GameEventSound:EnemyTitanQueued "EVENTPHASE_REBEL_ENEMYTITANCONSTRUCTIONDETECTED_0"
-	GameEventSound:EnemyTitanCompleted "EVENTPHASE_REBEL_ENEMYONTITANCREATION_0"
-	GameEventSound:AllyTitanLost "EVENTPHASE_REBEL_ALLYTITANLOST_0"
+	GameEventSound:AllyTitanCompleted "EVENTPHASE_LOYALIST_ALLYONTITANCREATION_0"
+	GameEventSound:EnemyTitanQueued "EVENTPHASE_LOYALIST_ENEMYTITANCONSTRUCTIONDETECTED_0"
+	GameEventSound:EnemyTitanCompleted "EVENTPHASE_LOYALIST_ENEMYONTITANCREATION_0"
+	GameEventSound:AllyTitanLost "EVENTPHASE_LOYALIST_ALLYTITANLOST_0"
 	GameEventSound:AllyCapitalShipLost "EVENTPHASE_ALLYCAPITALSHIPLOST"
 	GameEventSound:AllyFleetArrived "EVENTPHASE_ALLYFLEETARRIVED"
 	GameEventSound:AllyPlanetLost "EVENTPHASE_ALLYPLANETLOST"
@@ -376,7 +397,7 @@ gameEventData
 	GameEventSound:LaunchSquadsDisabledByDebuff ""
 	GameEventSound:PlayerBackUpArrived "EVENTPHASE_PLAYERBACKUPARRIVED"
 	GameEventSound:PlayerTitanCreated ""
-	GameEventSound:PlayerTitanLost "EVENTPHASE_REBEL_PLAYERTITANLOST_0"
+	GameEventSound:PlayerTitanLost "EVENTPHASE_LOYALIST_PLAYERTITANLOST_0"
 	GameEventSound:PlayerCapitalShipCreated ""
 	GameEventSound:PlayerCapitalShipLost "EVENTPHASE_PLAYERCAPITALSHIPLOST"
 	GameEventSound:PlayerStarbaseLost ""
@@ -401,8 +422,8 @@ gameEventData
 	GameEventSound:PlayerFlagshipDestroyed "EVENTPHASE_PLAYERFLAGSHIPDESTROYED"
 	GameEventSound:AllyFlagshipDestroyed "EVENTPHASE_ONALLYFLAGSHIPLOST"
 	GameEventSound:EnemyFlagshipDestroyed "EVENTPHASE_ENEMYFLAGSHIPDESTROYED"
-	GameEventSound:PlayerTitanShieldsDown "EVENTPHASE_REBEL_PLAYERTITANSHIELDSDOWN_0"
-	GameEventSound:PlayerTitanHullSeverelyDamaged "EVENTPHASE_REBEL_TITANHULLSEVERELYDAMAGED_0"
+	GameEventSound:PlayerTitanShieldsDown "EVENTPHASE_LOYALIST_PLAYERTITANSHIELDSDOWN_0"
+	GameEventSound:PlayerTitanHullSeverelyDamaged "EVENTPHASE_LOYALIST_TITANHULLSEVERELYDAMAGED_0"
 	GameEventSound:PlayerCapitalShipShieldsDown "EVENTPHASE_PLAYERCAPITALSHIPSHIELDSDOWN"
 	GameEventSound:PlayerCapitalShipHullSeverelyDamaged "EVENTPHASE_PLAYERCAPITALSHIPHULLSEVERELYDAMAGED"
 	GameEventSound:AchievementCompleted ""
@@ -545,9 +566,9 @@ planetElevatorData
 	elevatorMeshName:ProductionCenter "PlanetElevator-Phase-ProductionCenter"
 musicThemeData
 	startupMusicThemeCount 3
-	musicTheme "MUSIC_VASARI_REBEL_1"
-	musicTheme "MUSIC_VASARI_REBEL_2"
-	musicTheme "MUSIC_VASARI_REBEL_3"
+	musicTheme "MUSIC_VASARI_LOYALIST_1"
+	musicTheme "MUSIC_VASARI_LOYALIST_2"
+	musicTheme "MUSIC_VASARI_LOYALIST_3"
 	neutralMusicThemeCount 14
 	musicTheme "MUSIC_VASARI_THEME_1"
 	musicTheme "MUSIC_VASARI_TROUBLE_1"
@@ -560,10 +581,10 @@ musicThemeData
 	musicTheme "MUSIC_VASARI_MISC_6"
 	musicTheme "MUSIC_VASARI_BATTLE_1"
 	musicTheme "MUSIC_TROUBLE_4"
-	musicTheme "MUSIC_VASARI_REBEL_1"
-	musicTheme "MUSIC_VASARI_REBEL_2"
-	musicTheme "MUSIC_VASARI_REBEL_3"
-	scareThemeCount 9
+	musicTheme "MUSIC_VASARI_LOYALIST_1"
+	musicTheme "MUSIC_VASARI_LOYALIST_2"
+	musicTheme "MUSIC_VASARI_LOYALIST_3"
+	scareThemeCount 7
 	musicTheme "MUSIC_VASARI_BATTLE_1"
 	musicTheme "MUSIC_VASARI_TROUBLE_1"
 	musicTheme "MUSIC_VASARI_MISC_3"
@@ -571,8 +592,6 @@ musicThemeData
 	musicTheme "MUSIC_NEWBATTLE_1"
 	musicTheme "MUSIC_NEWBATTLE_2"
 	musicTheme "MUSIC_NEWBATTLE_3"
-	musicTheme "MUSIC_TROUBLE_6"
-	musicTheme "MUSIC_TROUBLE_5"
 	announcementCount 1
 	musicTheme "MUSIC_VASARI_ANNOUNCEMENT"
 hudSkinData
@@ -728,7 +747,7 @@ hudSkinData
 	UserActionIconOpenModulePage1 "ACTIONICON_PLANET_OPENPLANETMODULEMANAGEMENT_ORBIT1"
 	UserActionIconCloseModulePage0 "ACTIONICON_PLANET_CLOSEPLANETMODULEMANAGEMENT_ORBIT0"
 	UserActionIconCloseModulePage1 "ACTIONICON_PLANET_CLOSEPLANETMODULEMANAGEMENT_ORBIT1"
-	UserActionIconOpenPlanetTitanManagement "ACTIONICON_PLANET_OPENTITANMANAGEMENT_PHASEREBEL"
+	UserActionIconOpenPlanetTitanManagement "ACTIONICON_PLANET_OPENTITANMANAGEMENT_PHASELOYALIST"
 	UserActionIconClosePlanetTitanManagement "ACTIONICON_PLANET_CLOSECAPITALSHIPMANAGEMENT"
 	UserActionIconOpenPlanetCapitalShipManagement "ACTIONICON_PLANET_OPENCAPITALSHIPMANAGEMENTPHASE"
 	UserActionIconClosePlanetCapitalShipManagement "ACTIONICON_PLANET_CLOSECAPITALSHIPMANAGEMENT"
@@ -779,19 +798,19 @@ researchScreenData
 	Combat
 		blockCount 3
 		block
-			area [ 50 , 69 , 690 , 240 ]
+			area [ 50 , 45 , 690 , 288 ]
 			backdrop "ResearchScreenBlockBackdropCombat0Phase"
 			tierIndicatorBackdrop "ResearchScreenBlockTierIndicatorCombat0Phase"
 			title "IDSResearchScreenBlockTitleCombat0Phase"
 			picture "ResearchScreenBlockPictureCombat0Phase"
 		block
-			area [ 50 , 319 , 690 , 144 ]
+			area [ 50 , 343 , 690 , 144 ]
 			backdrop "ResearchScreenBlockBackdropCombat1Phase"
 			tierIndicatorBackdrop "ResearchScreenBlockTierIndicatorCombat1Phase"
 			title "IDSResearchScreenBlockTitleCombat1Phase"
 			picture "ResearchScreenBlockPictureCombat1Phase"
 		block
-			area [ 50 , 473 , 690 , 192 ]
+			area [ 50 , 497 , 690 , 192 ]
 			backdrop "ResearchScreenBlockBackdropCombat2Phase"
 			tierIndicatorBackdrop "ResearchScreenBlockTierIndicatorCombat2Phase"
 			title "IDSResearchScreenBlockTitleCombat2Phase"
@@ -930,70 +949,70 @@ raceRelationsModifier
 	modifierMax -1.000000
 	factionRelationsModCount 1
 	factionRelationsModifier
-		factionNameID "IDS_PLAYERFACTIONNAME_REBEL"
+		factionNameID "IDS_PLAYERFACTIONNAME_LOYALIST"
 		otherFactionNameID "IDS_PLAYERFACTIONNAME_REBEL"
-		modifierMin -0.500000
-		modifierMax 0.000000
+		modifierMin -5.000000
+		modifierMax -5.000000
 raceRelationsModifier
 	raceNameID "IDS_PLAYERRACENAME_TECHLOYALIST"
 	modifierMin -1.500000
 	modifierMax -1.000000
 	factionRelationsModCount 1
 	factionRelationsModifier
-		factionNameID "IDS_PLAYERFACTIONNAME_REBEL"
+		factionNameID "IDS_PLAYERFACTIONNAME_LOYALIST"
 		otherFactionNameID "IDS_PLAYERFACTIONNAME_LOYALIST"
-		modifierMin 0.250000
-		modifierMax 0.500000
+		modifierMin -0.750000
+		modifierMax -0.500000
 raceRelationsModifier
 	raceNameID "IDS_PLAYERRACENAME_PSIREBEL"
 	modifierMin -1.000000
 	modifierMax -0.500000
 	factionRelationsModCount 1
 	factionRelationsModifier
-		factionNameID "IDS_PLAYERFACTIONNAME_REBEL"
+		factionNameID "IDS_PLAYERFACTIONNAME_LOYALIST"
 		otherFactionNameID "IDS_PLAYERFACTIONNAME_REBEL"
-		modifierMin 0.000000
-		modifierMax 0.250000
+		modifierMin -0.500000
+		modifierMax -0.100000
 raceRelationsModifier
 	raceNameID "IDS_PLAYERRACENAME_PSILOYALIST"
 	modifierMin -1.000000
 	modifierMax -0.500000
 	factionRelationsModCount 1
 	factionRelationsModifier
-		factionNameID "IDS_PLAYERFACTIONNAME_REBEL"
+		factionNameID "IDS_PLAYERFACTIONNAME_LOYALIST"
 		otherFactionNameID "IDS_PLAYERFACTIONNAME_LOYALIST"
-		modifierMin 0.000000
-		modifierMax 0.250000
+		modifierMin -3.000000
+		modifierMax -2.000000
 raceRelationsModifier
 	raceNameID "IDS_PLAYERRACENAME_PHASEREBEL"
 	modifierMin 0.100000
 	modifierMax 1.000000
 	factionRelationsModCount 1
 	factionRelationsModifier
-		factionNameID "IDS_PLAYERFACTIONNAME_REBEL"
+		factionNameID "IDS_PLAYERFACTIONNAME_LOYALIST"
 		otherFactionNameID "IDS_PLAYERFACTIONNAME_REBEL"
-		modifierMin 0.500000
-		modifierMax 1.000000
+		modifierMin -5.000000
+		modifierMax -5.000000
 raceRelationsModifier
 	raceNameID "IDS_PLAYERRACENAME_PHASELOYALIST"
 	modifierMin 0.100000
 	modifierMax 1.000000
 	factionRelationsModCount 1
 	factionRelationsModifier
-		factionNameID "IDS_PLAYERFACTIONNAME_REBEL"
+		factionNameID "IDS_PLAYERFACTIONNAME_LOYALIST"
 		otherFactionNameID "IDS_PLAYERFACTIONNAME_LOYALIST"
-		modifierMin -5.000000
-		modifierMax -5.000000
+		modifierMin 0.500000
+		modifierMax 1.000000
 raceRelationsModifier
 	raceNameID "IDS_PLAYERRACENAME_REBEL_Norlamins"
 	modifierMin -1.250000
-	modifierMax -1.000000
+	modifierMax 1.000000
 	factionRelationsModCount 1
 	factionRelationsModifier
 		factionNameID "IDS_PLAYERFACTIONNAME_LOYALIST"
 		otherFactionNameID "IDS_PLAYERFACTIONNAME_REBEL"
 		modifierMin -5.000000
-		modifierMax -5.000000
+		modifierMax -2.000000
 raceRelationsModifier
 	raceNameID "IDS_PLAYERRACENAME_LOYALIST_Norlamins"
 	modifierMin -2.250000
@@ -1042,8 +1061,8 @@ raceRelationsModifier
 	factionRelationsModifier
 		factionNameID "IDS_PLAYERFACTIONNAME_LOYALIST"
 		otherFactionNameID "IDS_PLAYERFACTIONNAME_LOYALIST"
-		modifierMin -5.500000
-		modifierMax -5.250000
+		modifierMin -2.500000
+		modifierMax -2.250000
 raceRelationsModifier
 	raceNameID "IDS_PLAYERRACENAME_REBEL_Pirates"
 	modifierMin -2.250000
@@ -1064,4 +1083,4 @@ raceRelationsModifier
 		otherFactionNameID "IDS_PLAYERFACTIONNAME_LOYALIST"
 		modifierMin -8.000000
 		modifierMax -5.000000
-defaultFactionNameID "IDS_PLAYERFACTIONNAME_REBEL"
+defaultFactionNameID "IDS_PLAYERFACTIONNAME_LOYALIST"
