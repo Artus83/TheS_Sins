@@ -1357,7 +1357,7 @@ orbitBodyType
 	typeName "TerranGiantHabitable"
 	entityDefName "PlanetTerranGiantHabitable"
 	defaultTemplateName "Template:DefaultStart_Terran"
-planetItemTypeCount 269
+planetItemTypeCount 263
 planetItemType
 	designName "Phase:Module:MineExplosive"
 	entityDefName "SpaceMinePhaseExplosive"
