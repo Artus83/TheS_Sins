@@ -2338,10 +2338,9 @@ planetItemsTemplate
 				param "TechRebel"
 			owner "PlanetOwner"
 			colonizeChance 1
-			items 13
+			items 12
 				item "Tech:StarBase"
 				item "Tech:Titan:Loyalist"
-				item "Tech:Titan:Rebel"
 				item "Tech:Module:FrigateFactory"
 				item "Tech:Module:FrigateFactory"
 				item "Tech:Module:CapitalShipFactory"
@@ -2358,10 +2357,9 @@ planetItemsTemplate
 				param "PsiRebel"
 			owner "PlanetOwner"
 			colonizeChance 1
-			items 13
+			items 12
 				item "Psi:StarBase"
 				item "Psi:Titan:Loyalist"
-				item "Psi:Titan:Rebel"
 				item "Psi:Module:FrigateFactory"
 				item "Psi:Module:FrigateFactory"
 				item "Psi:Module:CapitalShipFactory"
@@ -2378,10 +2376,9 @@ planetItemsTemplate
 				param "PhaseRebel"
 			owner "PlanetOwner"
 			colonizeChance 1
-			items 13
+			items 12
 				item "Phase:StarBase"
 				item "Phase:Titan:Loyalist"
-				item "Phase:Titan:Rebel"
 				item "Phase:Module:FrigateFactory"
 				item "Phase:Module:FrigateFactory"
 				item "Phase:Module:CapitalShipFactory"
